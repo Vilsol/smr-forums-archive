@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Trying to decide whether to give up or not</title>
+    <link>https://forums.ficsit.app/t/trying-to-decide-whether-to-give-up-or-not/1215</link>
+    <description>So I only got into modding my Satisfactory game in the last few months. I used a bunch of mods but the two mods that make up the vast majority of my factory are Daisy Chain Power Cables and Floor Hole and Ceiling Logistics. Almost every machine on my factory was a Daisy Chain machine.
+
+Then came Update 4 and now the vast majority of my factory is no longer there. At first I thought it might be because the mods were not updated for Update 4 but that is no longer the case. Both of those mods have been updated and yet my factory is still now an empty shell. Is there any way to fix this or do I have to start over from scratch? I really hope not because it took me a couple weeks of planning and building to create my factory and now it is gone.</description>
+    
+    <lastBuildDate>Mon, 10 May 2021 17:07:15 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/trying-to-decide-whether-to-give-up-or-not/1215.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Trying to decide whether to give up or not</title>
+        <dc:creator><![CDATA[@11110 Влад Ден]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/11110">@11110</a> wrote:</p>
+          <blockquote>
+              <p>Same problem ware solved by deleting all mods and reinstalling them except those that are marked red.<br>
+<img src="https://forums.ficsit.app/uploads/default/original/1X/42822ec6b6561f13595c620c53d4a1f114e66f4d.png" alt="image" data-base62-sha1="9umqy9AWCIioaQmnxPcwz2RLpY9" width="492" height="100"></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/trying-to-decide-whether-to-give-up-or-not/1215/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/trying-to-decide-whether-to-give-up-or-not/1215/5</link>
+        <pubDate>Mon, 10 May 2021 17:07:15 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1215-5</guid>
+        <source url="https://forums.ficsit.app/t/trying-to-decide-whether-to-give-up-or-not/1215.rss">Trying to decide whether to give up or not</source>
+      </item>
+      <item>
+        <title>Trying to decide whether to give up or not</title>
+        <dc:creator><![CDATA[@LostManAbroad Lost Man Abroad]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/lostmanabroad">@LostManAbroad</a> wrote:</p>
+          <blockquote>
+              <p>Sadly no. Every save game I have using my current factory has been destroyed by update 4. I HATE games that waste my time. This has made my mind up. Time to delete this waste of time off my machine. Once you have tried some of the mods, you no longer want to play the vanilla game without them but mods are pointless if they are going to destroy your game every time they update the game. I’m going to wait until release before I try this again. It just isn’t worth my time.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/trying-to-decide-whether-to-give-up-or-not/1215/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/trying-to-decide-whether-to-give-up-or-not/1215/4</link>
+        <pubDate>Sat, 24 Apr 2021 13:29:04 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1215-4</guid>
+        <source url="https://forums.ficsit.app/t/trying-to-decide-whether-to-give-up-or-not/1215.rss">Trying to decide whether to give up or not</source>
+      </item>
+      <item>
+        <title>Trying to decide whether to give up or not</title>
+        <dc:creator><![CDATA[@IWons_Snowy I Wons Snowy]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/iwons_snowy">@IWons_Snowy</a> wrote:</p>
+          <blockquote>
+              <p>I had the same issue after updates because I first launched the game without updating mods then updated them. So after updating mods you should loaded exactly the old save game where everything was in place.</p>
+<p>Hope, this is your case and it will help</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/trying-to-decide-whether-to-give-up-or-not/1215/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/trying-to-decide-whether-to-give-up-or-not/1215/3</link>
+        <pubDate>Sat, 24 Apr 2021 10:55:53 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1215-3</guid>
+        <source url="https://forums.ficsit.app/t/trying-to-decide-whether-to-give-up-or-not/1215.rss">Trying to decide whether to give up or not</source>
+      </item>
+      <item>
+        <title>Trying to decide whether to give up or not</title>
+        <dc:creator><![CDATA[@Tugge_Thurgren Tugge Thurgren]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/tugge_thurgren">@Tugge_Thurgren</a> wrote:</p>
+          <blockquote>
+              <p>This can be the problem for you:<br>
+Start the SMM (Satisfactory Mod Manager) And uninstall ALL the mod you’ve installed.<br>
+Then restart the SMM. If your mod isn’t red it COULD be fine…BUT!!! Go now to this page: <a href="https://ficsit.app/" rel="nofollow noopener">https://ficsit.app/</a> and search for your mods. Because on SMM some of the mods are showing false that they are updated when it’s not.</p>
+<p>If you have ONE mod that isn’t working (isn’t updated…) then the rest of the mods won’t work either…<br>
+So…take a look at the <a href="https://ficsit.app/" rel="nofollow noopener">https://ficsit.app/</a> site and see first.</p>
+<p>One more thing. When you have installed the mod/mods take a look at which version of SML you got (it should be 3.0.0)</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/trying-to-decide-whether-to-give-up-or-not/1215/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/trying-to-decide-whether-to-give-up-or-not/1215/2</link>
+        <pubDate>Sat, 24 Apr 2021 10:52:56 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1215-2</guid>
+        <source url="https://forums.ficsit.app/t/trying-to-decide-whether-to-give-up-or-not/1215.rss">Trying to decide whether to give up or not</source>
+      </item>
+      <item>
+        <title>Trying to decide whether to give up or not</title>
+        <dc:creator><![CDATA[@LostManAbroad Lost Man Abroad]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/lostmanabroad">@LostManAbroad</a> wrote:</p>
+          <blockquote>
+              <p>So I only got into modding my Satisfactory game in the last few months. I used a bunch of mods but the two mods that make up the vast majority of my factory are Daisy Chain Power Cables and Floor Hole and Ceiling Logistics. Almost every machine on my factory was a Daisy Chain machine.</p>
+<p>Then came Update 4 and now the vast majority of my factory is no longer there. At first I thought it might be because the mods were not updated for Update 4 but that is no longer the case. Both of those mods have been updated and yet my factory is still now an empty shell. Is there any way to fix this or do I have to start over from scratch? I really hope not because it took me a couple weeks of planning and building to create my factory and now it is gone.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/trying-to-decide-whether-to-give-up-or-not/1215/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/trying-to-decide-whether-to-give-up-or-not/1215/1</link>
+        <pubDate>Sat, 24 Apr 2021 09:09:17 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1215-1</guid>
+        <source url="https://forums.ficsit.app/t/trying-to-decide-whether-to-give-up-or-not/1215.rss">Trying to decide whether to give up or not</source>
+      </item>
+  </channel>
+</rss>

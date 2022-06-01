@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Game doesn&#39;t seem to load new mod</title>
+    <link>https://forums.ficsit.app/t/game-doesnt-seem-to-load-new-mod/449</link>
+    <description>I just set it up last night. I have been watching the video on this and what a pain. anyway. I see the PAK and SIG files being made. It&#39;s just when I go in-game. That the mod doesn&#39;t show in-game in the milestone. anyone have an idea what would cause this and a fix for it.</description>
+    
+    <lastBuildDate>Fri, 08 May 2020 16:24:09 +0000</lastBuildDate>
+    <category>Pak Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/game-doesnt-seem-to-load-new-mod/449.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Game doesn&#39;t seem to load new mod</title>
+        <dc:creator><![CDATA[@iceman11a Iceman11a *]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/iceman11a">@iceman11a</a> wrote:</p>
+          <blockquote>
+              <p>Earl, It’s been fixed. Thanks</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/game-doesnt-seem-to-load-new-mod/449/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/game-doesnt-seem-to-load-new-mod/449/5</link>
+        <pubDate>Fri, 08 May 2020 16:24:09 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-449-5</guid>
+        <source url="https://forums.ficsit.app/t/game-doesnt-seem-to-load-new-mod/449.rss">Game doesn&#39;t seem to load new mod</source>
+      </item>
+      <item>
+        <title>Game doesn&#39;t seem to load new mod</title>
+        <dc:creator><![CDATA[@EarlWare Earl Ware]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/earlware">@EarlWare</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-post="1" data-topic="449">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.ficsit.app/letter_avatar_proxy/v4/letter/i/b9bd4f/40.png" class="avatar"> iceman11a:</div>
+<blockquote>
+<p>ve been watching the video on this and what a pain. anyway. I see the PAK and SIG files being made. It’s just when I go in-game. That the mod doesn’t show in-game in the milestone. anyone have an idea what would cause this and a fix for it.</p>
+</blockquote>
+</aside>
+<p>Did you make sure to include InitMod, which inherits from SMLInitMod, and add your schematic to the MSchematics array?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/game-doesnt-seem-to-load-new-mod/449/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/game-doesnt-seem-to-load-new-mod/449/4</link>
+        <pubDate>Fri, 08 May 2020 12:13:12 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-449-4</guid>
+        <source url="https://forums.ficsit.app/t/game-doesnt-seem-to-load-new-mod/449.rss">Game doesn&#39;t seem to load new mod</source>
+      </item>
+      <item>
+        <title>Game doesn&#39;t seem to load new mod</title>
+        <dc:creator><![CDATA[@iceman11a Iceman11a *]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/iceman11a">@iceman11a</a> wrote:</p>
+          <blockquote>
+              <p>Thank you for a reply. i figure it out and I got some  help at last. and it’s up and running again. This is my mod called Minecarts 2.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/game-doesnt-seem-to-load-new-mod/449/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/game-doesnt-seem-to-load-new-mod/449/3</link>
+        <pubDate>Mon, 27 Apr 2020 19:49:19 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-449-3</guid>
+        <source url="https://forums.ficsit.app/t/game-doesnt-seem-to-load-new-mod/449.rss">Game doesn&#39;t seem to load new mod</source>
+      </item>
+      <item>
+        <title>Game doesn&#39;t seem to load new mod</title>
+        <dc:creator><![CDATA[@isochronous Isochronous]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/isochronous">@isochronous</a> wrote:</p>
+          <blockquote>
+              <p>Uh… what mod are you talking about?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/game-doesnt-seem-to-load-new-mod/449/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/game-doesnt-seem-to-load-new-mod/449/2</link>
+        <pubDate>Mon, 27 Apr 2020 19:10:22 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-449-2</guid>
+        <source url="https://forums.ficsit.app/t/game-doesnt-seem-to-load-new-mod/449.rss">Game doesn&#39;t seem to load new mod</source>
+      </item>
+      <item>
+        <title>Game doesn&#39;t seem to load new mod</title>
+        <dc:creator><![CDATA[@iceman11a Iceman11a *]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/iceman11a">@iceman11a</a> wrote:</p>
+          <blockquote>
+              <p>I just set it up last night. I have been watching the video on this and what a pain. anyway. I see the PAK and SIG files being made. It’s just when I go in-game. That the mod doesn’t show in-game in the milestone. anyone have an idea what would cause this and a fix for it.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/game-doesnt-seem-to-load-new-mod/449/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/game-doesnt-seem-to-load-new-mod/449/1</link>
+        <pubDate>Fri, 24 Apr 2020 18:44:52 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-449-1</guid>
+        <source url="https://forums.ficsit.app/t/game-doesnt-seem-to-load-new-mod/449.rss">Game doesn&#39;t seem to load new mod</source>
+      </item>
+  </channel>
+</rss>

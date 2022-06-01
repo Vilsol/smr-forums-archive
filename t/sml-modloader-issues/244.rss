@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>SML Modloader Issues</title>
+    <link>https://forums.ficsit.app/t/sml-modloader-issues/244</link>
+    <description>Hi all,
+Is there any way to manually install mods?
+To cut a long story short I modified the Satisfactory install to a different hard drive (that in itself took ages to work out) 
+So now my Satisfactory game resides on a SSD drive D: and runs perfectly without mods.
+
+It would seem that the new modloader cannot find my new game path or that is what I think is happening and therefore fails.
+I don&#39;t mind manually copying and pasting, creating paths or editing ini files to get the new modloader working. In fact in the past this is how I installed mods.
+Please consider providing a manaual solution for users like myself who have issues with the new system. Its not like I am running an illegal version of Satisfactory, everything is legit.
+Any help appreciated.</description>
+    
+    <lastBuildDate>Wed, 18 Mar 2020 11:03:02 +0000</lastBuildDate>
+    <category>SML</category>
+    <atom:link href="https://forums.ficsit.app/t/sml-modloader-issues/244.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>SML Modloader Issues</title>
+        <dc:creator><![CDATA[@Feralfing Feralfing]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/feralfing">@Feralfing</a> wrote:</p>
+          <blockquote>
+              <p>Hi all,<br>
+Is there any way to manually install mods?<br>
+To cut a long story short I modified the Satisfactory install to a different hard drive (that in itself took ages to work out)<br>
+So now my Satisfactory game resides on a SSD drive D: and runs perfectly without mods.</p>
+<p>It would seem that the new modloader cannot find my new game path or that is what I think is happening and therefore fails.<br>
+I don’t mind manually copying and pasting, creating paths or editing ini files to get the new modloader working. In fact in the past this is how I installed mods.<br>
+Please consider providing a manaual solution for users like myself who have issues with the new system. Its not like I am running an illegal version of Satisfactory, everything is legit.<br>
+Any help appreciated.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/sml-modloader-issues/244/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/sml-modloader-issues/244/1</link>
+        <pubDate>Wed, 18 Mar 2020 11:03:02 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-244-1</guid>
+        <source url="https://forums.ficsit.app/t/sml-modloader-issues/244.rss">SML Modloader Issues</source>
+      </item>
+  </channel>
+</rss>

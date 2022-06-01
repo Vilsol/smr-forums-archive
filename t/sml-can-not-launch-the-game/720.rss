@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>SML can not launch the game</title>
+    <link>https://forums.ficsit.app/t/sml-can-not-launch-the-game/720</link>
+    <description>Hey, 
+
+i got an error on starting the game with SML; without SML ist normal working. 
+
+![Unbenannt|404x176](upload://4X0PD9yizbGBoQM9QQu00ogGhaY.png) 
+
+Testing Satisfactory of datafiles has no effect; SML reinstallation has also no effect on the Problem. 
+The Problem is since updating five mods, deinstallation of the mods doesn&#39;t solve the problem with starting the game via SML.
+
+Pleas help and thank you in advance! :slight_smile:</description>
+    
+    <lastBuildDate>Tue, 07 Jul 2020 15:29:45 +0000</lastBuildDate>
+    <category>SML</category>
+    <atom:link href="https://forums.ficsit.app/t/sml-can-not-launch-the-game/720.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>SML can not launch the game</title>
+        <dc:creator><![CDATA[@Judge_Stadalnikas Judge Stadalnikas]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/judge_stadalnikas">@Judge_Stadalnikas</a> wrote:</p>
+          <blockquote>
+              <p>I’ve been getting this same issue after the new mod update, and just reverted back 2 updates, and the game loaded up fine, but only leaves you with the basic one door elevator. It’s a quick temporary fix.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/sml-can-not-launch-the-game/720/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/sml-can-not-launch-the-game/720/3</link>
+        <pubDate>Tue, 07 Jul 2020 15:22:12 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-720-3</guid>
+        <source url="https://forums.ficsit.app/t/sml-can-not-launch-the-game/720.rss">SML can not launch the game</source>
+      </item>
+      <item>
+        <title>SML can not launch the game</title>
+        <dc:creator><![CDATA[@LadyKathleen Lady Kathleen]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/ladykathleen">@LadyKathleen</a> wrote:</p>
+          <blockquote>
+              <p>I reported this also</p>
+<p>The only help I can give is uninstall programmable elevators until the person fixes it.</p>
+<p>At least I can still play</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/sml-can-not-launch-the-game/720/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/sml-can-not-launch-the-game/720/2</link>
+        <pubDate>Tue, 07 Jul 2020 13:35:33 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-720-2</guid>
+        <source url="https://forums.ficsit.app/t/sml-can-not-launch-the-game/720.rss">SML can not launch the game</source>
+      </item>
+      <item>
+        <title>SML can not launch the game</title>
+        <dc:creator><![CDATA[@Angelo_Canu CeloJore]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/angelo_canu">@Angelo_Canu</a> wrote:</p>
+          <blockquote>
+              <p>Hey,</p>
+<p>i got an error on starting the game with SML; without SML ist normal working.</p>
+<p><img src="https://forums.ficsit.app/uploads/default/original/1X/22b47194161059d8ac8f373c5c7c7467dd315a9c.png" alt="Unbenannt" data-base62-sha1="4X0PD9yizbGBoQM9QQu00ogGhaY" width="404" height="176"></p>
+<p>Testing Satisfactory of datafiles has no effect; SML reinstallation has also no effect on the Problem.<br>
+The Problem is since updating five mods, deinstallation of the mods doesn’t solve the problem with starting the game via SML.</p>
+<p>Pleas help and thank you in advance! <img src="https://forums.ficsit.app/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/sml-can-not-launch-the-game/720/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/sml-can-not-launch-the-game/720/1</link>
+        <pubDate>Mon, 06 Jul 2020 20:20:56 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-720-1</guid>
+        <source url="https://forums.ficsit.app/t/sml-can-not-launch-the-game/720.rss">SML can not launch the game</source>
+      </item>
+  </channel>
+</rss>

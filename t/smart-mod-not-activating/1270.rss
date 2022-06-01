@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Smart Mod not activating</title>
+    <link>https://forums.ficsit.app/t/smart-mod-not-activating/1270</link>
+    <description>Hi Folks, 
+
+I&#39;ve installed the Smart Mod with SMM ,and it confirms it is installed with a green check mark. However, once I load up my save, I cannot use the mod. The M key doesn&#39;t work, and I don&#39;t see the arrows above what I am building.
+
+Any ideas?</description>
+    
+    <lastBuildDate>Fri, 07 May 2021 16:16:19 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/smart-mod-not-activating/1270.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Smart Mod not activating</title>
+        <dc:creator><![CDATA[@ievermore Ievermore]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/ievermore">@ievermore</a> wrote:</p>
+          <blockquote>
+              <p>Hi Folks,</p>
+<p>I’ve installed the Smart Mod with SMM ,and it confirms it is installed with a green check mark. However, once I load up my save, I cannot use the mod. The M key doesn’t work, and I don’t see the arrows above what I am building.</p>
+<p>Any ideas?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/smart-mod-not-activating/1270/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/smart-mod-not-activating/1270/1</link>
+        <pubDate>Fri, 07 May 2021 16:16:19 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1270-1</guid>
+        <source url="https://forums.ficsit.app/t/smart-mod-not-activating/1270.rss">Smart Mod not activating</source>
+      </item>
+  </channel>
+</rss>

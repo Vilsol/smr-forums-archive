@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Wwise Lancher Fails to download</title>
+    <link>https://forums.ficsit.app/t/wwise-lancher-fails-to-download/1328</link>
+    <description>Hi all, new modder here. I cant seem to download wwise from https://www.audiokinetic.com/download/
+as the secure connection seems to fail. This to me indicates its the ssl at their end not mine but regardless is anyone else having this issue and is it a nessessary step? I am following along the guide to get started.
+
+Cheers</description>
+    
+    <lastBuildDate>Sat, 12 Jun 2021 00:18:55 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/wwise-lancher-fails-to-download/1328.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Wwise Lancher Fails to download</title>
+        <dc:creator><![CDATA[@OS17279 Os17279]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/os17279">@OS17279</a> wrote:</p>
+          <blockquote>
+              <p>Hi all, new modder here. I cant seem to download wwise from <a href="https://www.audiokinetic.com/download/" rel="nofollow noopener">https://www.audiokinetic.com/download/</a><br>
+as the secure connection seems to fail. This to me indicates its the ssl at their end not mine but regardless is anyone else having this issue and is it a nessessary step? I am following along the guide to get started.</p>
+<p>Cheers</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/wwise-lancher-fails-to-download/1328/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/wwise-lancher-fails-to-download/1328/1</link>
+        <pubDate>Sat, 12 Jun 2021 00:18:55 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1328-1</guid>
+        <source url="https://forums.ficsit.app/t/wwise-lancher-fails-to-download/1328.rss">Wwise Lancher Fails to download</source>
+      </item>
+  </channel>
+</rss>

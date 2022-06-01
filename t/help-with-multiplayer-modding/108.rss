@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Help with multiplayer modding</title>
+    <link>https://forums.ficsit.app/t/help-with-multiplayer-modding/108</link>
+    <description>So i understand there is next to no multiplayer support for multiplayer with mods, however I read a lot of people don&#39;t have problems. I am hosting a modded server and it runs fine until a friend joins then i crash. Is there a mod list of the ones that work in multiplayer better than others so i know which mods to start pulling or keeping?</description>
+    
+    <lastBuildDate>Wed, 11 Dec 2019 03:23:45 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forums.ficsit.app/t/help-with-multiplayer-modding/108.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Help with multiplayer modding</title>
+        <dc:creator><![CDATA[@iceman11a Iceman11a *]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/iceman11a">@iceman11a</a> wrote:</p>
+          <blockquote>
+              <p>Adding mods for MP is a trial and Error even, Try one mod at a time. then add them until the game crashes. Yes I lot said they got it to work and many others said it didn’t work at all. I know I tried this. it’s the only thing you can do. For some unknown reason it did work for some gamers. Just not everyone wanting there friend to join their world, It just don’t work for everyone.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/help-with-multiplayer-modding/108/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/help-with-multiplayer-modding/108/2</link>
+        <pubDate>Wed, 11 Dec 2019 03:23:45 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-108-2</guid>
+        <source url="https://forums.ficsit.app/t/help-with-multiplayer-modding/108.rss">Help with multiplayer modding</source>
+      </item>
+      <item>
+        <title>Help with multiplayer modding</title>
+        <dc:creator><![CDATA[@Justin_Maas TonsOfFun]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/justin_maas">@Justin_Maas</a> wrote:</p>
+          <blockquote>
+              <p>So i understand there is next to no multiplayer support for multiplayer with mods, however I read a lot of people don’t have problems. I am hosting a modded server and it runs fine until a friend joins then i crash. Is there a mod list of the ones that work in multiplayer better than others so i know which mods to start pulling or keeping?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/help-with-multiplayer-modding/108/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/help-with-multiplayer-modding/108/1</link>
+        <pubDate>Wed, 11 Dec 2019 01:53:00 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-108-1</guid>
+        <source url="https://forums.ficsit.app/t/help-with-multiplayer-modding/108.rss">Help with multiplayer modding</source>
+      </item>
+  </channel>
+</rss>

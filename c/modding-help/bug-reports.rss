@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:discourse="http://www.discourse.org/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Bug Reports - SMR Forums</title>
+    <link>https://forums.ficsit.app/c/modding-help/bug-reports</link>
+    <description>Topics in the &#39;Bug Reports&#39; category A mod has a bug? Report it here.</description>
+    
+      <lastBuildDate>Wed, 29 Dec 2021 22:00:16 +0000</lastBuildDate>
+      <atom:link href="https://forums.ficsit.app/c/modding-help/bug-reports.rss" rel="self" type="application/rss+xml" />
+        <item>
+          <title>SMART Mod doesn&#39;t work with truck stations</title>
+          <dc:creator><![CDATA[@Christopher_R Christopher R]]></dc:creator>
+          <category>Bug Reports</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/christopher_r">@Christopher_R</a> wrote:</p>
+            <blockquote>
+              <p>Was attempting to lay out a row of stations and it wasn’t responsive to the smart mod key commands.  I changed to building smelters just to verify if the mod was working right, and that worked correctly, but stations not so much.</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.ficsit.app/t/smart-mod-doesnt-work-with-truck-stations/1525">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/smart-mod-doesnt-work-with-truck-stations/1525</link>
+          <pubDate>Wed, 29 Dec 2021 22:00:16 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1525</guid>
+          <source url="https://forums.ficsit.app/t/smart-mod-doesnt-work-with-truck-stations/1525.rss">SMART Mod doesn&#39;t work with truck stations</source>
+        </item>
+        <item>
+          <title>Fluid AWESOME Sink - Game crash</title>
+          <dc:creator><![CDATA[@ZviHantsis Zvi Hantsis]]></dc:creator>
+          <category>Bug Reports</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/zvihantsis">@ZviHantsis</a> wrote:</p>
+            <blockquote>
+              <p>Hi!</p>
+<p>So lately I had issues with Fluid AWESOME Sink mod crashing the game on startup (after splash, not getting to main menu). I have eliminated all other options and it is only due to the Fluid AWESOME Sink mod.<br>
+It doesn’t seem to be related to some other mod (inter-mod compatibility), but just problematic on it’s own.</p>
+<p>I’ve got a crash report but couldn’t attach it here.</p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.ficsit.app/t/fluid-awesome-sink-game-crash/1508">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/fluid-awesome-sink-game-crash/1508</link>
+          <pubDate>Sun, 12 Dec 2021 20:21:47 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1508</guid>
+          <source url="https://forums.ficsit.app/t/fluid-awesome-sink-game-crash/1508.rss">Fluid AWESOME Sink - Game crash</source>
+        </item>
+        <item>
+          <title>Smart Mod wall placing bug - Update 5</title>
+          <dc:creator><![CDATA[@suppokettu Suppokettu]]></dc:creator>
+          <category>Bug Reports</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/suppokettu">@suppokettu</a> wrote:</p>
+            <blockquote>
+              <p>Hi</p>
+<p>Not sure if I’m only one having this, but there seems to be issue with placing walls after update 5.</p>
+<p>If I place for example 5 walls vertically one by one and next to that place 5 walls vertically using Smart Mod (scrolling mouse wheel), there is small cap/height difference of these 5 walls. It looks like spacing is little off, when using Smart Mod. Same happens also placing walls horizontally.</p>
+<p>Added screenshot that probably explains issue better.<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/3fc8f7a7415a276de525b67870e891c6fb59c95a.jpeg" data-download-href="https://forums.ficsit.app/uploads/default/3fc8f7a7415a276de525b67870e891c6fb59c95a" title="20211202175337_1"><img src="https://forums.ficsit.app/uploads/default/optimized/1X/3fc8f7a7415a276de525b67870e891c6fb59c95a_2_690x288.jpeg" alt="20211202175337_1" data-base62-sha1="96gEnAAotC1OSNcgvetYuySDvqG" width="690" height="288" srcset="https://forums.ficsit.app/uploads/default/optimized/1X/3fc8f7a7415a276de525b67870e891c6fb59c95a_2_690x288.jpeg, https://forums.ficsit.app/uploads/default/optimized/1X/3fc8f7a7415a276de525b67870e891c6fb59c95a_2_1035x432.jpeg 1.5x, https://forums.ficsit.app/uploads/default/optimized/1X/3fc8f7a7415a276de525b67870e891c6fb59c95a_2_1380x576.jpeg 2x" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/3fc8f7a7415a276de525b67870e891c6fb59c95a_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">20211202175337_1</span><span class="informations">3440×1440 806 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+            </blockquote>
+            <p>Posts: 4</p>
+            <p>Participants: 3</p>
+            <p><a href="https://forums.ficsit.app/t/smart-mod-wall-placing-bug-update-5/1490">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/smart-mod-wall-placing-bug-update-5/1490</link>
+          <pubDate>Thu, 02 Dec 2021 16:21:12 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1490</guid>
+          <source url="https://forums.ficsit.app/t/smart-mod-wall-placing-bug-update-5/1490.rss">Smart Mod wall placing bug - Update 5</source>
+        </item>
+        <item>
+          <title>Smart Mod Crash Error</title>
+          <dc:creator><![CDATA[@Adem_Furkan Adem Furkan]]></dc:creator>
+          <category>Bug Reports</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/adem_furkan">@Adem_Furkan</a> wrote:</p>
+            <blockquote>
+              <p>When I want to make a mk2 converter, I get a crash error. This problem goes away when the mod is deleted. How can I solve this problem?</p>
+            </blockquote>
+            <p>Posts: 6</p>
+            <p>Participants: 5</p>
+            <p><a href="https://forums.ficsit.app/t/smart-mod-crash-error/1486">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/smart-mod-crash-error/1486</link>
+          <pubDate>Wed, 01 Dec 2021 21:27:19 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1486</guid>
+          <source url="https://forums.ficsit.app/t/smart-mod-crash-error/1486.rss">Smart Mod Crash Error</source>
+        </item>
+        <item>
+          <title>Conveyor wall holes has a bug</title>
+          <dc:creator><![CDATA[@HEIDI_KOECHEL Heidi Koechel]]></dc:creator>
+          <category>Bug Reports</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/heidi_koechel">@HEIDI_KOECHEL</a> wrote:</p>
+            <blockquote>
+              <p>When i have this enabled the Ficsit foundations, walls &amp; roof in the customizer are missing. When I disable it they are back in the customizer.</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.ficsit.app/t/conveyor-wall-holes-has-a-bug/1456">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/conveyor-wall-holes-has-a-bug/1456</link>
+          <pubDate>Wed, 24 Nov 2021 10:39:20 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1456</guid>
+          <source url="https://forums.ficsit.app/t/conveyor-wall-holes-has-a-bug/1456.rss">Conveyor wall holes has a bug</source>
+        </item>
+        <item>
+          <title>Game crash with mod manager</title>
+          <dc:creator><![CDATA[@Marek_Wejksznia Marek]]></dc:creator>
+          <category>Bug Reports</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/marek_wejksznia">@Marek_Wejksznia</a> wrote:</p>
+            <blockquote>
+              <p>Hello everyone. I have problem with game. After update 5 my game stoped working with installed mods. Any sugestions what can i do? <div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/fe22888311ec94aa2b4de447b344d6dd30cf8ec5.png" data-download-href="https://forums.ficsit.app/uploads/default/fe22888311ec94aa2b4de447b344d6dd30cf8ec5" title="Bez%C2%A0tytu%C5%82u"><img src="https://forums.ficsit.app/uploads/default/optimized/1X/fe22888311ec94aa2b4de447b344d6dd30cf8ec5_2_687x500.png" alt="Bez%C2%A0tytu%C5%82u" data-base62-sha1="AgbgphkM9sTYFMf1mgHXDb5Xvgh" width="687" height="500" srcset="https://forums.ficsit.app/uploads/default/optimized/1X/fe22888311ec94aa2b4de447b344d6dd30cf8ec5_2_687x500.png, https://forums.ficsit.app/uploads/default/optimized/1X/fe22888311ec94aa2b4de447b344d6dd30cf8ec5_2_1030x750.png 1.5x, https://forums.ficsit.app/uploads/default/optimized/1X/fe22888311ec94aa2b4de447b344d6dd30cf8ec5_2_1374x1000.png 2x" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/fe22888311ec94aa2b4de447b344d6dd30cf8ec5_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">Bez%C2%A0tytu%C5%82u</span><span class="informations">1403×1020 109 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+            </blockquote>
+            <p>Posts: 4</p>
+            <p>Participants: 4</p>
+            <p><a href="https://forums.ficsit.app/t/game-crash-with-mod-manager/1399">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/game-crash-with-mod-manager/1399</link>
+          <pubDate>Thu, 23 Sep 2021 12:31:26 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1399</guid>
+          <source url="https://forums.ficsit.app/t/game-crash-with-mod-manager/1399.rss">Game crash with mod manager</source>
+        </item>
+        <item>
+          <title>Game crash on startup</title>
+          <dc:creator><![CDATA[@i_like_it_cut_g I Like It Cut G]]></dc:creator>
+          <category>Bug Reports</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/i_like_it_cut_g">@i_like_it_cut_g</a> wrote:</p>
+            <blockquote>
+              <p>when i try to start the game it instantly comes up with a error this is what the crash report says<br>
+Fatal error!</p>
+<p>Unhandled Exception: EXCEPTION_ACCESS_VIOLATION writing address 0x62613e68</p>
+<p>0x00007ffc622b2d00 FactoryGame-Core-Win64-Shipping.dll!TBaseFunctorDelegateInstance&lt;TTypeWrapper __cdecl(void),&lt;lambda_5aef1f7c17e382ac4c3c191be03776d5&gt; &gt;::`scalar deleting destructor’() []<br>
+0x00007ffc622c079e FactoryGame-Core-Win64-Shipping.dll!FGenericCrashContext::Initialize() [d:\ws\sb-lowprio\ue4\engine\source\runtime\core\private\genericplatform\genericplatformcrashcontext.cpp:231]<br>
+0x00007ffc6249ac41 FactoryGame-Core-Win64-Shipping.dll!FWindowsPlatformMisc::PlatformPreInit() [d:\ws\sb-lowprio\ue4\engine\source\runtime\core\private\windows\windowsplatformmisc.cpp:560]<br>
+0x00007ff6563d4f6a FactoryGame-Win64-Shipping.exe!FEngineLoop::AppInit() [d:\ws\sb-lowprio\ue4\engine\source\runtime\launch\private\launchengineloop.cpp:5363]<br>
+0x00007ff6563df67d FactoryGame-Win64-Shipping.exe!FEngineLoop::PreInitPreStartupScreen() [d:\ws\sb-lowprio\ue4\engine\source\runtime\launch\private\launchengineloop.cpp:2264]<br>
+0x00007ff6563d8a56 FactoryGame-Win64-Shipping.exe!GuardedMain() [d:\ws\sb-lowprio\ue4\engine\source\runtime\launch\private\launch.cpp:127]<br>
+0x00007ff6563d8c7a FactoryGame-Win64-Shipping.exe!GuardedMainWrapper() [d:\ws\sb-lowprio\ue4\engine\source\runtime\launch\private\windows\launchwindows.cpp:137]<br>
+0x00007ff6563e3a27 FactoryGame-Win64-Shipping.exe!WinMain() [d:\ws\sb-lowprio\ue4\engine\source\runtime\launch\private\windows\launchwindows.cpp:268]<br>
+0x00007ff6563e45ce FactoryGame-Win64-Shipping.exe!__scrt_common_main_seh() [d:\agent_work\2\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]<br>
+0x00007ffccdc87034 KERNEL32.DLL!UnknownFunction []<br>
+0x00007ffccea42651 ntdll.dll!UnknownFunction []<br>
+does anyone know how to fix it?<br>
+im using the mods: speedometer, efficiency checker, spysat, ficsit farming, chapter 1 slug principles, smart and save on quit.</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.ficsit.app/t/game-crash-on-startup/1394">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/game-crash-on-startup/1394</link>
+          <pubDate>Fri, 10 Sep 2021 19:42:54 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1394</guid>
+          <source url="https://forums.ficsit.app/t/game-crash-on-startup/1394.rss">Game crash on startup</source>
+        </item>
+        <item>
+          <title>Problème Refined Power</title>
+          <dc:creator><![CDATA[@duanra_hack Duanra Hack]]></dc:creator>
+          <category>Bug Reports</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/duanra_hack">@duanra_hack</a> wrote:</p>
+            <blockquote>
+              <p>bonjour, j’ai un probleme avec refined power je n’est aucune haute pression qui arrive dans la turbine mais j’en ai qui sorte du Boiler idem pour le steam cooling tower et CO2 chimney merci</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.ficsit.app/t/probleme-refined-power/1353">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/probleme-refined-power/1353</link>
+          <pubDate>Sun, 27 Jun 2021 11:16:36 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1353</guid>
+          <source url="https://forums.ficsit.app/t/probleme-refined-power/1353.rss">Problème Refined Power</source>
+        </item>
+        <item>
+          <title>Refined power steam+turbine bug</title>
+          <dc:creator><![CDATA[@zhang111zt Zhang111zt]]></dc:creator>
+          <category>Bug Reports</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/zhang111zt">@zhang111zt</a> wrote:</p>
+            <blockquote>
+              <p>High pressure steam can not get in to the Turbine machine</p>
+            </blockquote>
+            <p>Posts: 4</p>
+            <p>Participants: 3</p>
+            <p><a href="https://forums.ficsit.app/t/refined-power-steam-turbine-bug/1338">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/refined-power-steam-turbine-bug/1338</link>
+          <pubDate>Sun, 20 Jun 2021 09:22:22 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1338</guid>
+          <source url="https://forums.ficsit.app/t/refined-power-steam-turbine-bug/1338.rss">Refined power steam+turbine bug</source>
+        </item>
+        <item>
+          <title>Structural Solutions &amp; Smart! - AutoDoor issue</title>
+          <dc:creator><![CDATA[@M74132 M74132]]></dc:creator>
+          <category>Bug Reports</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/m74132">@M74132</a> wrote:</p>
+            <blockquote>
+              <p>Hi,</p>
+<p>I recently installed Structural Solutions (hereafter SS), while already using Smart! for a while.<br>
+I was testing a bit with new objects from SS and all was going fine till I select the ‘AutoDoor Modular’, then the game goes back to the Main menu and then crashes.</p>
+<p>SF installed via Steam, non-beta, SML updated to 3.1.1, all mods updated.<br>
+crash report is in the link below.<br>
+<a href="https://pastebin.com/1SUA2nuF" rel="nofollow noopener">UE4 - crash report</a></p>
+<p>Can this be solved? <img src="https://forums.ficsit.app/images/emoji/twitter/blush.png?v=9" title=":blush:" class="emoji" alt=":blush:"></p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.ficsit.app/t/structural-solutions-smart-autodoor-issue/1331">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/structural-solutions-smart-autodoor-issue/1331</link>
+          <pubDate>Sun, 13 Jun 2021 18:29:31 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1331</guid>
+          <source url="https://forums.ficsit.app/t/structural-solutions-smart-autodoor-issue/1331.rss">Structural Solutions &amp; Smart! - AutoDoor issue</source>
+        </item>
+        <item>
+          <title>Installing Satisfactory Mod Manager gives Javascript error</title>
+          <dc:creator><![CDATA[@Tommy_Tytgat Tommy]]></dc:creator>
+          <category>Bug Reports</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/tommy_tytgat">@Tommy_Tytgat</a> wrote:</p>
+            <blockquote>
+              <p>Hi there. I have recently started playing Satisfactory and I was trying to install the Satisfactory Mod Manager off the home page of ficsit.app and ran into a little problem… This is the very first time that I am trying to install mods and or mod managers onto Satisfactory and after an hour or so of googling and youtube-ing I still haven’t found any forum or video related to my issue.</p>
+<p>This is the error that I get, without the Mod Manager actually opening. I just installed it (for the 5 billionth time) again and this is what I get when I click finish when the ‘launch Satisfactory Mod Manager’ checkbox is checked:<br>
+<img src="https://forums.ficsit.app/uploads/default/original/1X/fc2912ee6b7955fd47b859cbf8a459970aa88e37.png" alt="Schermafbeelding%202021-06-03%20182452" data-base62-sha1="zYIk1WuXWrvyoeFMvUPmVg2UkKz" width="558" height="354"></p>
+<p>I hope someone can help…</p>
+<p>These were the steps I took after downloading the latest Mod Manager from the homepage link:</p>
+<ul>
+<li>List item Opened Mod Manager ‘.exe’ file as admin</li>
+<li>List item Selected ‘anyone who uses this computer’ option</li>
+<li>List item Left folder as it was (same disk as Steam directory for Satisfactory)</li>
+<li>List item Hit ‘Install’</li>
+<li>List item Hit ‘Finish’ with checkbox ‘Run Satisfactory Mod Manager’ checked</li>
+</ul>
+<p>After this the error shows up, same for any version of the manager I try to install.</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.ficsit.app/t/installing-satisfactory-mod-manager-gives-javascript-error/1321">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/installing-satisfactory-mod-manager-gives-javascript-error/1321</link>
+          <pubDate>Thu, 03 Jun 2021 16:29:15 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1321</guid>
+          <source url="https://forums.ficsit.app/t/installing-satisfactory-mod-manager-gives-javascript-error/1321.rss">Installing Satisfactory Mod Manager gives Javascript error</source>
+        </item>
+        <item>
+          <title>AntiRadiation Box for Transport Bug Report - Rainbow Color</title>
+          <dc:creator><![CDATA[@Frank_Br Frank Br ]]></dc:creator>
+          <category>Bug Reports</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/frank_br">@Frank_Br</a> wrote:</p>
+            <blockquote>
+              <p>Hi,</p>
+<p>today i tryed the “AntiRadiation Box for Transport” Mod, it works so far, but the boxes @ the belt got a weird rainbow color. Tested Ver. 2.0.1 &amp; 2.0.0 = same result.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/cbc8e0ad4d2e72a1e0ada77c03749b31e4db8d58.jpeg" data-download-href="https://forums.ficsit.app/uploads/default/cbc8e0ad4d2e72a1e0ada77c03749b31e4db8d58" title="Rainbow"><img src="https://forums.ficsit.app/uploads/default/optimized/1X/cbc8e0ad4d2e72a1e0ada77c03749b31e4db8d58_2_690x301.jpeg" alt="Rainbow" data-base62-sha1="t4LiTUTMzhiXwGiG51kYjRUASFi" width="690" height="301" srcset="https://forums.ficsit.app/uploads/default/optimized/1X/cbc8e0ad4d2e72a1e0ada77c03749b31e4db8d58_2_690x301.jpeg, https://forums.ficsit.app/uploads/default/original/1X/cbc8e0ad4d2e72a1e0ada77c03749b31e4db8d58.jpeg 1.5x, https://forums.ficsit.app/uploads/default/original/1X/cbc8e0ad4d2e72a1e0ada77c03749b31e4db8d58.jpeg 2x" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/cbc8e0ad4d2e72a1e0ada77c03749b31e4db8d58_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">Rainbow</span><span class="informations">959×419 118 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>Thank you</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.ficsit.app/t/antiradiation-box-for-transport-bug-report-rainbow-color/1313">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/antiradiation-box-for-transport-bug-report-rainbow-color/1313</link>
+          <pubDate>Thu, 27 May 2021 08:56:31 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1313</guid>
+          <source url="https://forums.ficsit.app/t/antiradiation-box-for-transport-bug-report-rainbow-color/1313.rss">AntiRadiation Box for Transport Bug Report - Rainbow Color</source>
+        </item>
+        <item>
+          <title>Smart Mod Problem</title>
+          <dc:creator><![CDATA[@Laser_DIABOLUS Laser Diabolus]]></dc:creator>
+          <category>Bug Reports</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/laser_diabolus">@Laser_DIABOLUS</a> wrote:</p>
+            <blockquote>
+              <p>Hello, I hope someone can help me here. Since the Update 4, i have the problem that Satisfactoy does not start with the SMART Mod. I have all updates installed. At startup it always shows me these error messages…</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/e5ccab0521484905e29d2435d873f8dc84eb300e.png" data-download-href="https://forums.ficsit.app/uploads/default/e5ccab0521484905e29d2435d873f8dc84eb300e" title="2021-05-01"><img src="https://forums.ficsit.app/uploads/default/optimized/1X/e5ccab0521484905e29d2435d873f8dc84eb300e_2_379x500.png" alt="2021-05-01" data-base62-sha1="wMTQ4XOKSr9bKxfKXpOkhTsMRzw" width="379" height="500" srcset="https://forums.ficsit.app/uploads/default/optimized/1X/e5ccab0521484905e29d2435d873f8dc84eb300e_2_379x500.png, https://forums.ficsit.app/uploads/default/original/1X/e5ccab0521484905e29d2435d873f8dc84eb300e.png 1.5x, https://forums.ficsit.app/uploads/default/original/1X/e5ccab0521484905e29d2435d873f8dc84eb300e.png 2x" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/e5ccab0521484905e29d2435d873f8dc84eb300e_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">2021-05-01</span><span class="informations">413×544 44.1 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>…What have I done wrong.<br>
+Thank you for interest.</p>
+            </blockquote>
+            <p>Posts: 6</p>
+            <p>Participants: 5</p>
+            <p><a href="https://forums.ficsit.app/t/smart-mod-problem/1237">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/smart-mod-problem/1237</link>
+          <pubDate>Sat, 01 May 2021 21:56:05 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1237</guid>
+          <source url="https://forums.ficsit.app/t/smart-mod-problem/1237.rss">Smart Mod Problem</source>
+        </item>
+        <item>
+          <title>Feedback for Smart Mod</title>
+          <dc:creator><![CDATA[@What_About_me What About Me]]></dc:creator>
+          <category>Bug Reports</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/what_about_me">@What_About_me</a> wrote:</p>
+            <blockquote>
+              <p>Hello,</p>
+<p>Just started using the Smart Mod. Find it to be a real time saver. But two things I have found and given I am new to using this mod it may just be something I am doing wrong, but here’s what I have found, When Creating Splitters in a row joined by some Conveyer Belt I found it worked well on the flat surface but when placing on top of an existing run of splitters it would Indicate it was encroaching others clearance. the other one was with the solar panels it seems to overlap the edges which is certainly nice for the extra power the extra row would give on a long run but when placing the manually it is not possible to overlap the edge it also did not run the power to them at all.</p>
+<p>Otherwise if you are starting a new factory it works like a dream.</p>
+<p>As I indicated in the topic header this is only feedback. But I hope to see this mod grow more and more</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.ficsit.app/t/feedback-for-smart-mod/1170">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/feedback-for-smart-mod/1170</link>
+          <pubDate>Tue, 06 Apr 2021 12:08:52 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1170</guid>
+          <source url="https://forums.ficsit.app/t/feedback-for-smart-mod/1170.rss">Feedback for Smart Mod</source>
+        </item>
+        <item>
+          <title>Inserters for Satisfactory - arm + belt problem</title>
+          <dc:creator><![CDATA[@Robert_Nec Robert]]></dc:creator>
+          <category>Bug Reports</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/robert_nec">@Robert_Nec</a> wrote:</p>
+            <blockquote>
+              <p>I had break from Satisfactory and now is problem with inserters - they recognize storages any types - vanila or modded -  grabing item from transmition belts - arm can’t grab any item ! Animation is on max arm lenght and nothing. Anyone have same problem?</p>
+<p>INSERTERS ver. 0.1.2<br>
+Satisfactory EA and Experimental, all other mods updated to newest version</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.ficsit.app/t/inserters-for-satisfactory-arm-belt-problem/1129">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/inserters-for-satisfactory-arm-belt-problem/1129</link>
+          <pubDate>Thu, 04 Mar 2021 19:49:16 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1129</guid>
+          <source url="https://forums.ficsit.app/t/inserters-for-satisfactory-arm-belt-problem/1129.rss">Inserters for Satisfactory - arm + belt problem</source>
+        </item>
+        <item>
+          <title>Infinity Dynamic Inventory Slot - Rss disappearing</title>
+          <dc:creator><![CDATA[@Nick_Simmons Nick Simmons]]></dc:creator>
+          <category>Bug Reports</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/nick_simmons">@Nick_Simmons</a> wrote:</p>
+            <blockquote>
+              <p>Good Evening,</p>
+<p>My partner is using the above mod along with a number of other mods (80+, crazy I know), and every time that she dies, reloads, or opens the game up again, the items that were in the new slots created by this mod have completely disappeared. I can imagine that the new slots do not stay and have to be respawned each time that you load the game but I was wondering if anyone else had the same issue and if the Dev was aware of the issue?</p>
+<p>Happy building</p>
+            </blockquote>
+            <p>Posts: 5</p>
+            <p>Participants: 3</p>
+            <p><a href="https://forums.ficsit.app/t/infinity-dynamic-inventory-slot-rss-disappearing/1127">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/infinity-dynamic-inventory-slot-rss-disappearing/1127</link>
+          <pubDate>Sat, 27 Feb 2021 23:11:28 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1127</guid>
+          <source url="https://forums.ficsit.app/t/infinity-dynamic-inventory-slot-rss-disappearing/1127.rss">Infinity Dynamic Inventory Slot - Rss disappearing</source>
+        </item>
+        <item>
+          <title>Structural Solutions - Issue</title>
+          <dc:creator><![CDATA[@Frank_Coon Frank Coon]]></dc:creator>
+          <category>Bug Reports</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/frank_coon">@Frank_Coon</a> wrote:</p>
+            <blockquote>
+              <p>Mike Skinner / D4rkL0rd -<br>
+Great mod, looks very nice.  There is an issue with your objects overlapping. When using the 8x8x1 block if you are targeting an existing block the game/nod will allow you to place another block over the existing one. This creates and issue when spam placing blocks where you end up with 2+ block in every space depending on where the targeting is when you are clicking as you run. Looks like the collision is not set up right to keep the objects from occupying the same space the way official foundations work.</p>
+<p>Thanks!</p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.ficsit.app/t/structural-solutions-issue/1076">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/structural-solutions-issue/1076</link>
+          <pubDate>Sat, 09 Jan 2021 04:19:19 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1076</guid>
+          <source url="https://forums.ficsit.app/t/structural-solutions-issue/1076.rss">Structural Solutions - Issue</source>
+        </item>
+        <item>
+          <title>Teleport freezes game, then instant respawns</title>
+          <dc:creator><![CDATA[@Samuel_Grey Samuel Grey]]></dc:creator>
+          <category>Bug Reports</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/samuel_grey">@Samuel_Grey</a> wrote:</p>
+            <blockquote>
+              <p>Set up multiple teleports in Multiplayer mode. When I go to teleport to a different station, it will freeze then when I try to click out of it, I respawn and have to go collect my inventory from the station I was trying to teleport to.</p>
+<p>Maybe I have an incompatible mod creating issues?</p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.ficsit.app/t/teleport-freezes-game-then-instant-respawns/1070">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/teleport-freezes-game-then-instant-respawns/1070</link>
+          <pubDate>Thu, 07 Jan 2021 03:14:18 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1070</guid>
+          <source url="https://forums.ficsit.app/t/teleport-freezes-game-then-instant-respawns/1070.rss">Teleport freezes game, then instant respawns</source>
+        </item>
+        <item>
+          <title>PowerSuit seems to be missing</title>
+          <dc:creator><![CDATA[@Thibaut_Remond Thibaut Remond]]></dc:creator>
+          <category>Bug Reports</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/thibaut_remond">@Thibaut_Remond</a> wrote:</p>
+            <blockquote>
+              <p>Hello everyone</p>
+<p>I tried to download the PowerSuit mod, ans the Powersuit Modules mods, throug the Satisfacory Mod Manager, but I can’t find anything in my game.</p>
+<p>Thnaks in advance</p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.ficsit.app/t/powersuit-seems-to-be-missing/1055">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/powersuit-seems-to-be-missing/1055</link>
+          <pubDate>Wed, 30 Dec 2020 20:58:26 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1055</guid>
+          <source url="https://forums.ficsit.app/t/powersuit-seems-to-be-missing/1055.rss">PowerSuit seems to be missing</source>
+        </item>
+        <item>
+          <title>Refined Power bug: nuclear waste duplication</title>
+          <dc:creator><![CDATA[@maudib2222 Maudib2222]]></dc:creator>
+          <category>Bug Reports</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/maudib2222">@maudib2222</a> wrote:</p>
+            <blockquote>
+              <p>(maybe a bug?)<br>
+running latest version on experimental</p>
+<p>The nuclear heaters accept nuclear waste as an input, and return to you 10x what was put in.<br>
+Just for giggles I put in 10 nuclear waste barrels, and immediately the machine spat out 100 barrels of waste, with no effect. Nudge for purex? <img src="https://forums.ficsit.app/images/emoji/twitter/wink.png?v=9" title=":wink:" class="emoji" alt=":wink:"></p>
+<p>just curious: is it normal that the heaters produce 10 barrels of waste (at full heat) per nuclear fuel rod consumed?</p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.ficsit.app/t/refined-power-bug-nuclear-waste-duplication/1053">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/refined-power-bug-nuclear-waste-duplication/1053</link>
+          <pubDate>Wed, 30 Dec 2020 20:34:35 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1053</guid>
+          <source url="https://forums.ficsit.app/t/refined-power-bug-nuclear-waste-duplication/1053.rss">Refined Power bug: nuclear waste duplication</source>
+        </item>
+        <item>
+          <title>Powersuit Modules missing item</title>
+          <dc:creator><![CDATA[@Aoini Aoini]]></dc:creator>
+          <category>Bug Reports</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/aoini">@Aoini</a> wrote:</p>
+            <blockquote>
+              <p>I have version 2.0.1 and have completed the biofuel suit milestone. The suit and the modules appear in the equipment bench, but need a Base Module Component, which I cannot find anywhere - it is not in my recipe book. Am I missing something obvious, or has it gone missing?</p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.ficsit.app/t/powersuit-modules-missing-item/1030">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/powersuit-modules-missing-item/1030</link>
+          <pubDate>Sun, 13 Dec 2020 16:15:39 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1030</guid>
+          <source url="https://forums.ficsit.app/t/powersuit-modules-missing-item/1030.rss">Powersuit Modules missing item</source>
+        </item>
+        <item>
+          <title>Powersuit Crash</title>
+          <dc:creator><![CDATA[@Degeneracy Degeneracy]]></dc:creator>
+          <category>Bug Reports</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/degeneracy">@Degeneracy</a> wrote:</p>
+            <blockquote>
+              <p>Satisfactory Version:  Experimental CL#127909<br>
+Mod Version: 0.3.2<br>
+Repeatable:  Yes</p>
+<p>Equipping the powersuit V1 my game imediately freezes and ctd’s.  I get no crash log on any crash with this crash.  Going to try for version 2 but unable to atm.</p>
+            </blockquote>
+            <p>Posts: 3</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.ficsit.app/t/powersuit-crash/1016">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/powersuit-crash/1016</link>
+          <pubDate>Tue, 01 Dec 2020 16:15:41 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1016</guid>
+          <source url="https://forums.ficsit.app/t/powersuit-crash/1016.rss">Powersuit Crash</source>
+        </item>
+        <item>
+          <title>Farming Mod bug</title>
+          <dc:creator><![CDATA[@Ahmed_Ezzat Ahmed Ezzat]]></dc:creator>
+          <category>Bug Reports</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/ahmed_ezzat">@Ahmed_Ezzat</a> wrote:</p>
+            <blockquote>
+              <p>Hi There,</p>
+<p>I happened to use 2 days ago the farming mod and found a bug (I think) on the composter.<br>
+I could not get any fluid coming out of it. It appear to me there is a problem with the exit pipe. It looks like designed for entry not exit.</p>
+<p>Please help<br>
+Thanks</p>
+            </blockquote>
+            <p>Posts: 3</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.ficsit.app/t/farming-mod-bug/1014">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/farming-mod-bug/1014</link>
+          <pubDate>Mon, 30 Nov 2020 14:44:08 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1014</guid>
+          <source url="https://forums.ficsit.app/t/farming-mod-bug/1014.rss">Farming Mod bug</source>
+        </item>
+        <item>
+          <title>Refined Power bug</title>
+          <dc:creator><![CDATA[@Ano_Kius Ano Kius]]></dc:creator>
+          <category>Bug Reports</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/ano_kius">@Ano_Kius</a> wrote:</p>
+            <blockquote>
+              <p>When I use this mod, my nuclear power plants don’t working correctly. They don’t consume water nor nuclear fuel rods and don’t produce nuclear waste.</p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.ficsit.app/t/refined-power-bug/1011">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/refined-power-bug/1011</link>
+          <pubDate>Sat, 28 Nov 2020 19:20:01 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1011</guid>
+          <source url="https://forums.ficsit.app/t/refined-power-bug/1011.rss">Refined Power bug</source>
+        </item>
+        <item>
+          <title>More Fences - Main Branch</title>
+          <dc:creator><![CDATA[@N0lla N0lla]]></dc:creator>
+          <category>Bug Reports</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/n0lla">@N0lla</a> wrote:</p>
+            <blockquote>
+              <p>This mod isnt working properly and causes a crash to desktop, when you try to put a fence down. No models are showing up when you try to play them either.</p>
+            </blockquote>
+            <p>Posts: 4</p>
+            <p>Participants: 4</p>
+            <p><a href="https://forums.ficsit.app/t/more-fences-main-branch/1007">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/more-fences-main-branch/1007</link>
+          <pubDate>Thu, 26 Nov 2020 13:49:42 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1007</guid>
+          <source url="https://forums.ficsit.app/t/more-fences-main-branch/1007.rss">More Fences - Main Branch</source>
+        </item>
+  </channel>
+</rss>

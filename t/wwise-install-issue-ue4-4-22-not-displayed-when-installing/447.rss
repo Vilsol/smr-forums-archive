@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Wwise install issue. UE4 4.22 not displayed when installing</title>
+    <link>https://forums.ficsit.app/t/wwise-install-issue-ue4-4-22-not-displayed-when-installing/447</link>
+    <description>I updated my old mod before  I starting having issues with Wwise that I needed to start a new project again with my mod files in the starter project. It&#39;s just that the Wwise only see EU4 4.24 and not 4.22. Next to the title name in Wwise is says 4.22. The button for me to edit my mod says. 4.24. I can&#39;t seem to change it. It&#39;s stuck there..  I followed the video tutorial again and again following his steps. I have the same issue. All so when I completed intergrading my project to Wwise. It didn&#39;t give me an option to add the satisfatory sml 2.0 to the project. So I&#39;m completely confused. Can someone help me get this working again. I&#39;m on discord just add iceman11a#8747. 
+
+Ice</description>
+    
+    <lastBuildDate>Thu, 23 Apr 2020 23:08:25 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/wwise-install-issue-ue4-4-22-not-displayed-when-installing/447.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Wwise install issue. UE4 4.22 not displayed when installing</title>
+        <dc:creator><![CDATA[@iceman11a Iceman11a *]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/iceman11a">@iceman11a</a> wrote:</p>
+          <blockquote>
+              <p>I updated my old mod before  I starting having issues with Wwise that I needed to start a new project again with my mod files in the starter project. It’s just that the Wwise only see EU4 4.24 and not 4.22. Next to the title name in Wwise is says 4.22. The button for me to edit my mod says. 4.24. I can’t seem to change it. It’s stuck there…  I followed the video tutorial again and again following his steps. I have the same issue. All so when I completed intergrading my project to Wwise. It didn’t give me an option to add the satisfatory sml 2.0 to the project. So I’m completely confused. Can someone help me get this working again. I’m on discord just add iceman11a#8747.</p>
+<p>Ice</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/wwise-install-issue-ue4-4-22-not-displayed-when-installing/447/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/wwise-install-issue-ue4-4-22-not-displayed-when-installing/447/1</link>
+        <pubDate>Thu, 23 Apr 2020 23:08:25 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-447-1</guid>
+        <source url="https://forums.ficsit.app/t/wwise-install-issue-ue4-4-22-not-displayed-when-installing/447.rss">Wwise install issue. UE4 4.22 not displayed when installing</source>
+      </item>
+  </channel>
+</rss>

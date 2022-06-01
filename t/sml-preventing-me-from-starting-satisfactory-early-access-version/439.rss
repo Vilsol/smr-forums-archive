@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>SML preventing me from starting Satisfactory Early Access version</title>
+    <link>https://forums.ficsit.app/t/sml-preventing-me-from-starting-satisfactory-early-access-version/439</link>
+    <description>I haven&#39;t played Satisfactory in a few weeks and when I tried to play recently, the SML UI suddenly popped up this error: 
+
+![image|666x500](upload://dQ64rXXuvId7YjM2t6isbKPoplR.png) 
+
+I checked the version and 118201 is apparently the latest EA version available, so why would it be &quot;outdated&quot;?
+
+If I try to load the Experimental version, everything works fine.  Only the Early Access version seems bugged.</description>
+    
+    <lastBuildDate>Thu, 23 Apr 2020 23:45:45 +0000</lastBuildDate>
+    <category>SML</category>
+    <atom:link href="https://forums.ficsit.app/t/sml-preventing-me-from-starting-satisfactory-early-access-version/439.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>SML preventing me from starting Satisfactory Early Access version</title>
+        <dc:creator><![CDATA[@JamieRCHI Jamie]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jamierchi">@JamieRCHI</a> wrote:</p>
+          <blockquote>
+              <p>I think 1.0.9 is the latest. When I select Early Access on the left, I get ‘SML: 2.0.0’ on the right.<br>
+When I select Experimental it shows SML: 2.1.0.<br>
+Sorry. Wish I could help.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/sml-preventing-me-from-starting-satisfactory-early-access-version/439/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/sml-preventing-me-from-starting-satisfactory-early-access-version/439/6</link>
+        <pubDate>Thu, 23 Apr 2020 23:45:45 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-439-6</guid>
+        <source url="https://forums.ficsit.app/t/sml-preventing-me-from-starting-satisfactory-early-access-version/439.rss">SML preventing me from starting Satisfactory Early Access version</source>
+      </item>
+      <item>
+        <title>SML preventing me from starting Satisfactory Early Access version</title>
+        <dc:creator><![CDATA[@Jonathan_Dupuis Jonathan Dupuis]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jonathan_dupuis">@Jonathan_Dupuis</a> wrote:</p>
+          <blockquote>
+              <p>OMG!!!  After so many twist and turns I finally found how to fix the problem, but it’s SO convoluted!</p>
+<p>Turns out, I had to update SML to 2.0.0 on EVERY config type individually.</p>
+<ol>
+<li>
+<p>Select config type from the config drop-list under the satisfactory version drop-list (development, modded, vanilla)</p>
+</li>
+<li>
+<p>Once config type is selected, verify that SML update button for version 2.0.0 appears next to the satisfactory type drop-list</p>
+</li>
+<li>
+<p>Repeat steps 1 and 2 for each config type</p>
+</li>
+</ol>
+<p>I discovered that the “development” config type wasn’t updated to SML 2.0.0 when I was just blinding going around the UI in desperation.  Modded was already updated since that’S the one I always use and vanilla didn’t seem to need it either (or it had already been updated.</p>
+<p>Long story short, after updating “development” copnfig type, I was finally able to update mods and enter Satisfactory once again!</p>
+<p>Is it possible to mark a post with a tag [Solved] in this forum?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/sml-preventing-me-from-starting-satisfactory-early-access-version/439/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/sml-preventing-me-from-starting-satisfactory-early-access-version/439/5</link>
+        <pubDate>Thu, 23 Apr 2020 23:43:56 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-439-5</guid>
+        <source url="https://forums.ficsit.app/t/sml-preventing-me-from-starting-satisfactory-early-access-version/439.rss">SML preventing me from starting Satisfactory Early Access version</source>
+      </item>
+      <item>
+        <title>SML preventing me from starting Satisfactory Early Access version</title>
+        <dc:creator><![CDATA[@Jonathan_Dupuis Jonathan Dupuis]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jonathan_dupuis">@Jonathan_Dupuis</a> wrote:</p>
+          <blockquote>
+              <p>Under the help menu, I only see the version displayed as 1.0.9.  If there is a new version of SML, the software doesn’t see it.</p>
+<p>I even tried uninstalling SML and reinstalling it from the installer on github, and still wound up with version 1.0.9.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/sml-preventing-me-from-starting-satisfactory-early-access-version/439/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/sml-preventing-me-from-starting-satisfactory-early-access-version/439/4</link>
+        <pubDate>Thu, 23 Apr 2020 23:31:02 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-439-4</guid>
+        <source url="https://forums.ficsit.app/t/sml-preventing-me-from-starting-satisfactory-early-access-version/439.rss">SML preventing me from starting Satisfactory Early Access version</source>
+      </item>
+      <item>
+        <title>SML preventing me from starting Satisfactory Early Access version</title>
+        <dc:creator><![CDATA[@JamieRCHI Jamie]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jamierchi">@JamieRCHI</a> wrote:</p>
+          <blockquote>
+              <p>Look under the Help dropdown and check your version. I think this was fixed in the latest version of 1.0.9. On the main screen for Early Access it should now should show v 2.0.0, and for the Experimental as shown in your screen shot.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/sml-preventing-me-from-starting-satisfactory-early-access-version/439/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/sml-preventing-me-from-starting-satisfactory-early-access-version/439/3</link>
+        <pubDate>Thu, 23 Apr 2020 23:22:26 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-439-3</guid>
+        <source url="https://forums.ficsit.app/t/sml-preventing-me-from-starting-satisfactory-early-access-version/439.rss">SML preventing me from starting Satisfactory Early Access version</source>
+      </item>
+      <item>
+        <title>SML preventing me from starting Satisfactory Early Access version</title>
+        <dc:creator><![CDATA[@Jonathan_Dupuis Jonathan Dupuis]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jonathan_dupuis">@Jonathan_Dupuis</a> wrote:</p>
+          <blockquote>
+              <p>For reference, I also tried disabling SML and starting Satisfactory without SML to try and see if the game would update, but no.  Everything is still at release 118201.</p>
+<p>Game loads fine without SML too.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/sml-preventing-me-from-starting-satisfactory-early-access-version/439/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/sml-preventing-me-from-starting-satisfactory-early-access-version/439/2</link>
+        <pubDate>Tue, 21 Apr 2020 22:24:40 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-439-2</guid>
+        <source url="https://forums.ficsit.app/t/sml-preventing-me-from-starting-satisfactory-early-access-version/439.rss">SML preventing me from starting Satisfactory Early Access version</source>
+      </item>
+      <item>
+        <title>SML preventing me from starting Satisfactory Early Access version</title>
+        <dc:creator><![CDATA[@Jonathan_Dupuis Jonathan Dupuis]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jonathan_dupuis">@Jonathan_Dupuis</a> wrote:</p>
+          <blockquote>
+              <p>I haven’t played Satisfactory in a few weeks and when I tried to play recently, the SML UI suddenly popped up this error:</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/60ffe2fbc7bb74f303616a0d160dbda05232701f.png" data-download-href="https://forums.ficsit.app/uploads/default/60ffe2fbc7bb74f303616a0d160dbda05232701f" title="image"><img src="https://forums.ficsit.app/uploads/default/optimized/1X/60ffe2fbc7bb74f303616a0d160dbda05232701f_2_666x500.png" alt="image" data-base62-sha1="dQ64rXXuvId7YjM2t6isbKPoplR" width="666" height="500" srcset="https://forums.ficsit.app/uploads/default/optimized/1X/60ffe2fbc7bb74f303616a0d160dbda05232701f_2_666x500.png, https://forums.ficsit.app/uploads/default/optimized/1X/60ffe2fbc7bb74f303616a0d160dbda05232701f_2_999x750.png 1.5x, https://forums.ficsit.app/uploads/default/original/1X/60ffe2fbc7bb74f303616a0d160dbda05232701f.png 2x" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/60ffe2fbc7bb74f303616a0d160dbda05232701f_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1004×753 59.9 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>I checked the version and 118201 is apparently the latest EA version available, so why would it be “outdated”?</p>
+<p>If I try to load the Experimental version, everything works fine.  Only the Early Access version seems bugged.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/sml-preventing-me-from-starting-satisfactory-early-access-version/439/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/sml-preventing-me-from-starting-satisfactory-early-access-version/439/1</link>
+        <pubDate>Tue, 21 Apr 2020 22:22:51 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-439-1</guid>
+        <source url="https://forums.ficsit.app/t/sml-preventing-me-from-starting-satisfactory-early-access-version/439.rss">SML preventing me from starting Satisfactory Early Access version</source>
+      </item>
+  </channel>
+</rss>

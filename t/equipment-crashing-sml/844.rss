@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Equipment+ crashing SML</title>
+    <link>https://forums.ficsit.app/t/equipment-crashing-sml/844</link>
+    <description>The mod has been crashing my SML for a little while now.  I get the following error message...
+
+@@@@SML HAS CRASHED: Errors occurred during mod loading stage &#39;mod discovery&#39;.  Loading cannot continue:  Failed to load zip mod from D:\Program Files\Epic Games\SatisfactoryExperimental/Mods/Equipment+_0.0.1.smod(Invalid data.json) @@@@
+Click OK to exit.
+
+Anyone else getting this?  Is there a fix I&#39;ve missed?
+
+I&#39;ve tried re-installing it and SML.  I&#39;ve tried renaming the mod, including the file references in the .smod file and the .json using the word &#39;EquipmentPlus&#39; instead of &#39;Equipment+&#39;.  It will launch without error, but doesn&#39;t load the files and so is not available in the game.  Then the next time I launch SML it notices the file has changed and reloads it to the original, which then crashes when I launch the game.
+
+Any thoughts?</description>
+    
+    <lastBuildDate>Mon, 10 Aug 2020 04:29:45 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forums.ficsit.app/t/equipment-crashing-sml/844.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Equipment+ crashing SML</title>
+        <dc:creator><![CDATA[@I_m_a_chicken29 Im A Chicken29]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/i_m_a_chicken29">@I_m_a_chicken29</a> wrote:</p>
+          <blockquote>
+              <p>it’s the Equipment+ mod it’s outdated just don’t use it and use EA branch not EXP since mods may not have support for it and not work</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/equipment-crashing-sml/844/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/equipment-crashing-sml/844/2</link>
+        <pubDate>Mon, 10 Aug 2020 04:29:45 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-844-2</guid>
+        <source url="https://forums.ficsit.app/t/equipment-crashing-sml/844.rss">Equipment+ crashing SML</source>
+      </item>
+      <item>
+        <title>Equipment+ crashing SML</title>
+        <dc:creator><![CDATA[@Darwin_Scheid_Jr Darwin Scheid Jr]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/darwin_scheid_jr">@Darwin_Scheid_Jr</a> wrote:</p>
+          <blockquote>
+              <p>The mod has been crashing my SML for a little while now.  I get the following error message…</p>
+<p>@@@<span class="mention">@SML</span> HAS CRASHED: Errors occurred during mod loading stage ‘mod discovery’.  Loading cannot continue:  Failed to load zip mod from D:\Program Files\Epic Games\SatisfactoryExperimental/Mods/Equipment+_0.0.1.smod(Invalid data.json) @@@@<br>
+Click OK to exit.</p>
+<p>Anyone else getting this?  Is there a fix I’ve missed?</p>
+<p>I’ve tried re-installing it and SML.  I’ve tried renaming the mod, including the file references in the .smod file and the .json using the word ‘EquipmentPlus’ instead of ‘Equipment+’.  It will launch without error, but doesn’t load the files and so is not available in the game.  Then the next time I launch SML it notices the file has changed and reloads it to the original, which then crashes when I launch the game.</p>
+<p>Any thoughts?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/equipment-crashing-sml/844/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/equipment-crashing-sml/844/1</link>
+        <pubDate>Sat, 08 Aug 2020 20:50:52 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-844-1</guid>
+        <source url="https://forums.ficsit.app/t/equipment-crashing-sml/844.rss">Equipment+ crashing SML</source>
+      </item>
+  </channel>
+</rss>

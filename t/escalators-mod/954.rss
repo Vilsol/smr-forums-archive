@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Escalators mod?</title>
+    <link>https://forums.ficsit.app/t/escalators-mod/954</link>
+    <description>Fixed function sizes, say go up only across 2 8m foundations. A sort of blending of conveyor belt fixed to a frame with a staircase frame encasing it. Snap the top or bottom to the end of a foundation, the other half auto snaps to the corresponding bottom far edge or nearest grid snapping point on that block. Can even snap to go up to doorways and gate walls. Doesn’t need power but might have a hefty iron plate, motor and rubber cost. A slimmer alternative to spiral staircases but smoother than ladders. Let it have a simple UI you access and hit a button labeled for “UP” or vice-versa for “DOWN.” Cannot be connected to conveyor belts to act like lifts, ONLY for personal movement from floor to floor.
+![image|190x266](upload://163o3x3sJwho56cU28kOS5SlwpT.jpeg)</description>
+    
+    <lastBuildDate>Fri, 30 Oct 2020 06:11:47 +0000</lastBuildDate>
+    <category>Suggestions &amp; Ideas</category>
+    <atom:link href="https://forums.ficsit.app/t/escalators-mod/954.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Escalators mod?</title>
+        <dc:creator><![CDATA[@SextonKing Sexton King]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/sextonking">@SextonKing</a> wrote:</p>
+          <blockquote>
+              <p>Fixed function sizes, say go up only across 2 8m foundations. A sort of blending of conveyor belt fixed to a frame with a staircase frame encasing it. Snap the top or bottom to the end of a foundation, the other half auto snaps to the corresponding bottom far edge or nearest grid snapping point on that block. Can even snap to go up to doorways and gate walls. Doesn’t need power but might have a hefty iron plate, motor and rubber cost. A slimmer alternative to spiral staircases but smoother than ladders. Let it have a simple UI you access and hit a button labeled for “UP” or vice-versa for “DOWN.” Cannot be connected to conveyor belts to act like lifts, ONLY for personal movement from floor to floor.<br>
+<img src="https://forums.ficsit.app/uploads/default/original/1X/07b16292d12caa62ba83495977e771c6ecf33c5d.jpeg" alt="image" data-base62-sha1="163o3x3sJwho56cU28kOS5SlwpT" width="190" height="266"></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/escalators-mod/954/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/escalators-mod/954/1</link>
+        <pubDate>Fri, 30 Oct 2020 06:09:52 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-954-1</guid>
+        <source url="https://forums.ficsit.app/t/escalators-mod/954.rss">Escalators mod?</source>
+      </item>
+  </channel>
+</rss>

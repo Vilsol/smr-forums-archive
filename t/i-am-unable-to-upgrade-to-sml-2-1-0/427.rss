@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>I am unable to upgrade to SML: 2.1.0</title>
+    <link>https://forums.ficsit.app/t/i-am-unable-to-upgrade-to-sml-2-1-0/427</link>
+    <description>In version 1.0.8
+how do i change to sml: 2.0.0 to sml: 2.1.0? I am unable to update</description>
+    
+    <lastBuildDate>Wed, 22 Apr 2020 17:55:33 +0000</lastBuildDate>
+    <category>SML</category>
+    <atom:link href="https://forums.ficsit.app/t/i-am-unable-to-upgrade-to-sml-2-1-0/427.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>I am unable to upgrade to SML: 2.1.0</title>
+        <dc:creator><![CDATA[@JamieRCHI Jamie]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jamierchi">@JamieRCHI</a> wrote:</p>
+          <blockquote>
+              <p>The version of the application has nothing to do with the version of the applications it interfaces to. If they have an internal split in the code, I don’t care. All I see is one program managing the interface to two separate build trees of Satisfactory. The internals of the code do not concern me. And as noted above, someone was needlessly confused because v2.0 is used for one thing, v2.1 another thing, and v1.0.x for a third. From now on I will only refer to the version 1.0.x version of the SML program and ignore the rest. (Except for the specific build numbers of Satisfactory of course.)</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/i-am-unable-to-upgrade-to-sml-2-1-0/427/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/i-am-unable-to-upgrade-to-sml-2-1-0/427/6</link>
+        <pubDate>Wed, 22 Apr 2020 17:55:33 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-427-6</guid>
+        <source url="https://forums.ficsit.app/t/i-am-unable-to-upgrade-to-sml-2-1-0/427.rss">I am unable to upgrade to SML: 2.1.0</source>
+      </item>
+      <item>
+        <title>I am unable to upgrade to SML: 2.1.0</title>
+        <dc:creator><![CDATA[@Joel_Stead Joel Stead]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/joel_stead">@Joel_Stead</a> wrote:</p>
+          <blockquote>
+              <p>I think they did it that way because the last few experimental releases have had big changes made to the core of them and they are trying to stabilize the mod launcher for both versions without it causing existing mods to stuff up massively. (Which is basically what has been happening with most mods in the last week or so.)</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/i-am-unable-to-upgrade-to-sml-2-1-0/427/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/i-am-unable-to-upgrade-to-sml-2-1-0/427/5</link>
+        <pubDate>Wed, 22 Apr 2020 07:07:52 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-427-5</guid>
+        <source url="https://forums.ficsit.app/t/i-am-unable-to-upgrade-to-sml-2-1-0/427.rss">I am unable to upgrade to SML: 2.1.0</source>
+      </item>
+      <item>
+        <title>I am unable to upgrade to SML: 2.1.0</title>
+        <dc:creator><![CDATA[@JamieRCHI Jamie]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jamierchi">@JamieRCHI</a> wrote:</p>
+          <blockquote>
+              <p>They really need to fix the version thing. It is confusing. Worked at Microsoft for many years.<br>
+Never seen it done this way anywhere. One program, one version. That is how it is done.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/i-am-unable-to-upgrade-to-sml-2-1-0/427/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/i-am-unable-to-upgrade-to-sml-2-1-0/427/4</link>
+        <pubDate>Tue, 21 Apr 2020 15:05:16 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-427-4</guid>
+        <source url="https://forums.ficsit.app/t/i-am-unable-to-upgrade-to-sml-2-1-0/427.rss">I am unable to upgrade to SML: 2.1.0</source>
+      </item>
+      <item>
+        <title>I am unable to upgrade to SML: 2.1.0</title>
+        <dc:creator><![CDATA[@Joel_Stead Joel Stead]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/joel_stead">@Joel_Stead</a> wrote:</p>
+          <blockquote>
+              <p>2.1.0 Is for the experimental version, if your running the early access it will default to 2.0.0</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/i-am-unable-to-upgrade-to-sml-2-1-0/427/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/i-am-unable-to-upgrade-to-sml-2-1-0/427/3</link>
+        <pubDate>Tue, 21 Apr 2020 14:27:29 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-427-3</guid>
+        <source url="https://forums.ficsit.app/t/i-am-unable-to-upgrade-to-sml-2-1-0/427.rss">I am unable to upgrade to SML: 2.1.0</source>
+      </item>
+      <item>
+        <title>I am unable to upgrade to SML: 2.1.0</title>
+        <dc:creator><![CDATA[@SatisfactoryBug Satisfactory Bug]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/satisfactorybug">@SatisfactoryBug</a> wrote:</p>
+          <blockquote>
+              <p>me too same, very strange also after installed v1.0.8 it still show SML v2.0.0 and no popup about the v2.1.0 as disppear very odd</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/i-am-unable-to-upgrade-to-sml-2-1-0/427/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/i-am-unable-to-upgrade-to-sml-2-1-0/427/2</link>
+        <pubDate>Mon, 20 Apr 2020 15:54:39 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-427-2</guid>
+        <source url="https://forums.ficsit.app/t/i-am-unable-to-upgrade-to-sml-2-1-0/427.rss">I am unable to upgrade to SML: 2.1.0</source>
+      </item>
+      <item>
+        <title>I am unable to upgrade to SML: 2.1.0</title>
+        <dc:creator><![CDATA[@Jeferson_Pinheli Jeferson Pinheli]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jeferson_pinheli">@Jeferson_Pinheli</a> wrote:</p>
+          <blockquote>
+              <p>In version 1.0.8<br>
+how do i change to sml: 2.0.0 to sml: 2.1.0? I am unable to update</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/i-am-unable-to-upgrade-to-sml-2-1-0/427/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/i-am-unable-to-upgrade-to-sml-2-1-0/427/1</link>
+        <pubDate>Mon, 20 Apr 2020 11:47:50 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-427-1</guid>
+        <source url="https://forums.ficsit.app/t/i-am-unable-to-upgrade-to-sml-2-1-0/427.rss">I am unable to upgrade to SML: 2.1.0</source>
+      </item>
+  </channel>
+</rss>

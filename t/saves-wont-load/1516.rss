@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Saves wont load</title>
+    <link>https://forums.ficsit.app/t/saves-wont-load/1516</link>
+    <description>Hello everyone, 
+    I&#39;ve been playing on the 100+ milestones mod pack for about 80 hours now, got the tier 29. Game would occasionally crash while playing, always assumed it was a GPU issue (I have a 2060 6GB of VRAM with 16GB of RAM). But now I went to launch it today and it wouldn&#39;t load in and crash on start-up, 3 most recent autosaves same story, my last physical save from 12 hrs prior loaded, after no hope just played on that to work back up to where I was. After about 30 mins I saved and reloaded the save to verify it would work. After a few hours I fell off the side of the map and went to re-load the most recent autosave and same story. But this time that save also didn&#39;t load, only the one from 12 hours prior. Please any input would be nice, I can post the crash log if desired since it only takes me a bout a min to re-create it. Thank you.</description>
+    
+    <lastBuildDate>Thu, 23 Dec 2021 22:07:43 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/saves-wont-load/1516.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Saves wont load</title>
+        <dc:creator><![CDATA[@Robert_West Robert West]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/robert_west">@Robert_West</a> wrote:</p>
+          <blockquote>
+              <p>UPDATE-- I cant load any of my manual saves anymore either, unless i go back all the way to that original one so like 20 hours lost now. Please help.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/saves-wont-load/1516/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/saves-wont-load/1516/2</link>
+        <pubDate>Thu, 23 Dec 2021 22:07:43 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1516-2</guid>
+        <source url="https://forums.ficsit.app/t/saves-wont-load/1516.rss">Saves wont load</source>
+      </item>
+      <item>
+        <title>Saves wont load</title>
+        <dc:creator><![CDATA[@Robert_West Robert West]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/robert_west">@Robert_West</a> wrote:</p>
+          <blockquote>
+              <p>Hello everyone,<br>
+I’ve been playing on the 100+ milestones mod pack for about 80 hours now, got the tier 29. Game would occasionally crash while playing, always assumed it was a GPU issue (I have a 2060 6GB of VRAM with 16GB of RAM). But now I went to launch it today and it wouldn’t load in and crash on start-up, 3 most recent autosaves same story, my last physical save from 12 hrs prior loaded, after no hope just played on that to work back up to where I was. After about 30 mins I saved and reloaded the save to verify it would work. After a few hours I fell off the side of the map and went to re-load the most recent autosave and same story. But this time that save also didn’t load, only the one from 12 hours prior. Please any input would be nice, I can post the crash log if desired since it only takes me a bout a min to re-create it. Thank you.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/saves-wont-load/1516/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/saves-wont-load/1516/1</link>
+        <pubDate>Thu, 23 Dec 2021 04:17:50 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1516-1</guid>
+        <source url="https://forums.ficsit.app/t/saves-wont-load/1516.rss">Saves wont load</source>
+      </item>
+  </channel>
+</rss>

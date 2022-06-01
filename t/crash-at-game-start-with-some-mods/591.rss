@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Crash at game start with some mods</title>
+    <link>https://forums.ficsit.app/t/crash-at-game-start-with-some-mods/591</link>
+    <description>Hello,
+
+my game crashes at startup if i have following mods installed on the latest Experimental version (122801): Light it up 0.5.4 and Refined Power 2.0.5. I hope that these mods will be updated soon.
+Does anyone have the same problems?
+
+greetings
+jens</description>
+    
+    <lastBuildDate>Sun, 31 May 2020 14:06:40 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/crash-at-game-start-with-some-mods/591.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Crash at game start with some mods</title>
+        <dc:creator><![CDATA[@mrhid6 Mrhid6]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/mrhid6">@mrhid6</a> wrote:</p>
+          <blockquote>
+              <p>This issue has been fixed on version 2.0.8</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/crash-at-game-start-with-some-mods/591/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/crash-at-game-start-with-some-mods/591/3</link>
+        <pubDate>Sun, 31 May 2020 14:06:40 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-591-3</guid>
+        <source url="https://forums.ficsit.app/t/crash-at-game-start-with-some-mods/591.rss">Crash at game start with some mods</source>
+      </item>
+      <item>
+        <title>Crash at game start with some mods</title>
+        <dc:creator><![CDATA[@Benedikt_Plangger Benedikt Plangger]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/benedikt_plangger">@Benedikt_Plangger</a> wrote:</p>
+          <blockquote>
+              <p>Hi Jens, the problem with both mods is already known. mrhid6 the creator of Refined Power has already posted on the officially github site to publish a new fixed version of the mod sometime today. Light it up will maybe took longer so remove it in the meantime.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/crash-at-game-start-with-some-mods/591/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/crash-at-game-start-with-some-mods/591/2</link>
+        <pubDate>Mon, 25 May 2020 19:42:49 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-591-2</guid>
+        <source url="https://forums.ficsit.app/t/crash-at-game-start-with-some-mods/591.rss">Crash at game start with some mods</source>
+      </item>
+      <item>
+        <title>Crash at game start with some mods</title>
+        <dc:creator><![CDATA[@jensjcs Jensjcs]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jensjcs">@jensjcs</a> wrote:</p>
+          <blockquote>
+              <p>Hello,</p>
+<p>my game crashes at startup if i have following mods installed on the latest Experimental version (122801): Light it up 0.5.4 and Refined Power 2.0.5. I hope that these mods will be updated soon.<br>
+Does anyone have the same problems?</p>
+<p>greetings<br>
+jens</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/crash-at-game-start-with-some-mods/591/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/crash-at-game-start-with-some-mods/591/1</link>
+        <pubDate>Mon, 25 May 2020 15:45:08 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-591-1</guid>
+        <source url="https://forums.ficsit.app/t/crash-at-game-start-with-some-mods/591.rss">Crash at game start with some mods</source>
+      </item>
+  </channel>
+</rss>

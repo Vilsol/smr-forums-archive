@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Just getting started making mods, ran into a problem for which google is no help</title>
+    <link>https://forums.ficsit.app/t/just-getting-started-making-mods-ran-into-a-problem-for-which-google-is-no-help/1065</link>
+    <description>I&#39;m trying to follow the instructions on the Satisfactory Modding Documentation website on ficsit.app.  I got as far as compiling my binaries and hit this problem: [https://i.imgur.com/9k3Kl4Q.png](https://i.imgur.com/9k3Kl4Q.png). 
+
+I&#39;ve tried running Visual Studio as an administrator and a few other unsafe tricks to give the batch files permission to run, but no dice.  Anyone have any suggestions?</description>
+    
+    <lastBuildDate>Sat, 09 Jan 2021 03:23:02 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/just-getting-started-making-mods-ran-into-a-problem-for-which-google-is-no-help/1065.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Just getting started making mods, ran into a problem for which google is no help</title>
+        <dc:creator><![CDATA[@genghiskhanx Genghiskhanx]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/genghiskhanx">@genghiskhanx</a> wrote:</p>
+          <blockquote>
+              <p>For anyone curious, this thread solved my problem:<br>
+<a href="https://forums.ficsit.app/t/factorygame-could-not-be-compiled-try-rebuilding-the-source-manually/1027/8">https://forums.ficsit.app/t/factorygame-could-not-be-compiled-try-rebuilding-the-source-manually/1027/8</a></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/just-getting-started-making-mods-ran-into-a-problem-for-which-google-is-no-help/1065/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/just-getting-started-making-mods-ran-into-a-problem-for-which-google-is-no-help/1065/2</link>
+        <pubDate>Sat, 09 Jan 2021 03:23:02 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1065-2</guid>
+        <source url="https://forums.ficsit.app/t/just-getting-started-making-mods-ran-into-a-problem-for-which-google-is-no-help/1065.rss">Just getting started making mods, ran into a problem for which google is no help</source>
+      </item>
+      <item>
+        <title>Just getting started making mods, ran into a problem for which google is no help</title>
+        <dc:creator><![CDATA[@genghiskhanx Genghiskhanx]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/genghiskhanx">@genghiskhanx</a> wrote:</p>
+          <blockquote>
+              <p>I’m trying to follow the instructions on the Satisfactory Modding Documentation website on ficsit.app.  I got as far as compiling my binaries and hit this problem: <a href="https://i.imgur.com/9k3Kl4Q.png" rel="nofollow noopener">https://i.imgur.com/9k3Kl4Q.png</a>.</p>
+<p>I’ve tried running Visual Studio as an administrator and a few other unsafe tricks to give the batch files permission to run, but no dice.  Anyone have any suggestions?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/just-getting-started-making-mods-ran-into-a-problem-for-which-google-is-no-help/1065/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/just-getting-started-making-mods-ran-into-a-problem-for-which-google-is-no-help/1065/1</link>
+        <pubDate>Tue, 05 Jan 2021 07:57:05 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1065-1</guid>
+        <source url="https://forums.ficsit.app/t/just-getting-started-making-mods-ran-into-a-problem-for-which-google-is-no-help/1065.rss">Just getting started making mods, ran into a problem for which google is no help</source>
+      </item>
+  </channel>
+</rss>

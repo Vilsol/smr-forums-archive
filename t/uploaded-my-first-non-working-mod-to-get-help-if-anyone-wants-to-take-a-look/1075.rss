@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Uploaded my first (non-working) mod to get help if anyone wants to take a look!</title>
+    <link>https://forums.ficsit.app/t/uploaded-my-first-non-working-mod-to-get-help-if-anyone-wants-to-take-a-look/1075</link>
+    <description>https://ficsit.app/mod/AVk8zG8mNprLXw
+
+I&#39;ve missed something regarding the unlocking of the recipes.  The milestone shows up in the HUB but has nothing in the &#39;unlock&#39; window.
+
+Thanks in advance
+
+Cheers!
+~GKX!
+
+Edit: Update...  Got it to show up on the menus, but my hologram doesn&#39;t show up and crashes the game if I try to build it.
+
+Error log from when I try to build it: https://pastebin.com/Jj1xxQ6J</description>
+    
+    <lastBuildDate>Sat, 09 Jan 2021 04:58:57 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/uploaded-my-first-non-working-mod-to-get-help-if-anyone-wants-to-take-a-look/1075.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Uploaded my first (non-working) mod to get help if anyone wants to take a look!</title>
+        <dc:creator><![CDATA[@genghiskhanx Genghiskhanx]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/genghiskhanx">@genghiskhanx</a> wrote:</p>
+          <blockquote>
+              <aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src="https://ficsit.app/favicon.ico" class="site-icon" width="32" height="32">
+      <a href="https://ficsit.app/mod/AVk8zG8mNprLXw" target="_blank" rel="nofollow noopener">ficsit.app</a>
+  </header>
+  <article class="onebox-body">
+    <img src="https://forums.ficsit.app/uploads/default/original/1X/f02da7f6991dd231eefed9e0b929b9f220067a67.png" class="thumbnail onebox-avatar" width="500" height="500">
+
+<h3><a href="https://ficsit.app/mod/AVk8zG8mNprLXw" target="_blank" rel="nofollow noopener">Fast Trains (non-functional) - SMR</a></h3>
+
+<p>Adds a new Locomotive that can accelerate past 200kph</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>I’ve missed something regarding the unlocking of the recipes.  The milestone shows up in the HUB but has nothing in the ‘unlock’ window.</p>
+<p>Thanks in advance</p>
+<p>Cheers!<br>
+~GKX!</p>
+<p>Edit: Update…  Got it to show up on the menus, but my hologram doesn’t show up and crashes the game if I try to build it.</p>
+<p>Error log from when I try to build it: <a href="https://pastebin.com/Jj1xxQ6J" rel="nofollow noopener">https://pastebin.com/Jj1xxQ6J</a></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/uploaded-my-first-non-working-mod-to-get-help-if-anyone-wants-to-take-a-look/1075/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/uploaded-my-first-non-working-mod-to-get-help-if-anyone-wants-to-take-a-look/1075/1</link>
+        <pubDate>Sat, 09 Jan 2021 03:28:33 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1075-1</guid>
+        <source url="https://forums.ficsit.app/t/uploaded-my-first-non-working-mod-to-get-help-if-anyone-wants-to-take-a-look/1075.rss">Uploaded my first (non-working) mod to get help if anyone wants to take a look!</source>
+      </item>
+  </channel>
+</rss>

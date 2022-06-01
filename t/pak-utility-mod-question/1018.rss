@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Pak Utility Mod Question</title>
+    <link>https://forums.ficsit.app/t/pak-utility-mod-question/1018</link>
+    <description>I apologize if this has been asked somewhere else, but I cannot seem to find an answer.  Can anyone tell me if it is possible to change the keybind for flying down in Pak Utility Mod? For instance, use the same key as crouch to go down?
+
+I am using Pak Utility Mod for flight and also using the Smart Mod for extending foundations, and unfortunately, they both use the Alt key (trying to extend foundations while flying is nearly impossible because Alt makes you fly down).
+
+Thanks in advance for any help!</description>
+    
+    <lastBuildDate>Wed, 17 Feb 2021 09:34:50 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/pak-utility-mod-question/1018.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Pak Utility Mod Question</title>
+        <dc:creator><![CDATA[@UgloBuglo Uglo Buglo]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/uglobuglo">@UgloBuglo</a> wrote:</p>
+          <blockquote>
+              <p>A late answer, but you can also use the arrow keys to build with Smart Mod  - no need to use ALT key.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/pak-utility-mod-question/1018/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/pak-utility-mod-question/1018/3</link>
+        <pubDate>Wed, 17 Feb 2021 09:34:50 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1018-3</guid>
+        <source url="https://forums.ficsit.app/t/pak-utility-mod-question/1018.rss">Pak Utility Mod Question</source>
+      </item>
+      <item>
+        <title>Pak Utility Mod Question</title>
+        <dc:creator><![CDATA[@I_m_a_chicken29 Im A Chicken29]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/i_m_a_chicken29">@I_m_a_chicken29</a> wrote:</p>
+          <blockquote>
+              <p>sadly no. unless it has a config file no</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/pak-utility-mod-question/1018/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/pak-utility-mod-question/1018/2</link>
+        <pubDate>Tue, 08 Dec 2020 16:07:04 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1018-2</guid>
+        <source url="https://forums.ficsit.app/t/pak-utility-mod-question/1018.rss">Pak Utility Mod Question</source>
+      </item>
+      <item>
+        <title>Pak Utility Mod Question</title>
+        <dc:creator><![CDATA[@Cliff_Adams Icedog21]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/cliff_adams">@Cliff_Adams</a> wrote:</p>
+          <blockquote>
+              <p>I apologize if this has been asked somewhere else, but I cannot seem to find an answer.  Can anyone tell me if it is possible to change the keybind for flying down in Pak Utility Mod? For instance, use the same key as crouch to go down?</p>
+<p>I am using Pak Utility Mod for flight and also using the Smart Mod for extending foundations, and unfortunately, they both use the Alt key (trying to extend foundations while flying is nearly impossible because Alt makes you fly down).</p>
+<p>Thanks in advance for any help!</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/pak-utility-mod-question/1018/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/pak-utility-mod-question/1018/1</link>
+        <pubDate>Wed, 02 Dec 2020 00:29:04 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1018-1</guid>
+        <source url="https://forums.ficsit.app/t/pak-utility-mod-question/1018.rss">Pak Utility Mod Question</source>
+      </item>
+  </channel>
+</rss>

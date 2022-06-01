@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>SMM Pushing all the wrong buttons</title>
+    <link>https://forums.ficsit.app/t/smm-pushing-all-the-wrong-buttons/1466</link>
+    <description>So, today I finally got this working after turning of one of my security programs and removing faulty mods, only for it to crash my game.
+
+It would seem that there is some sort of compatibility issue with UE4, as that is what is crashing when I try to launch the game.
+
+And so developers what are you going to about this, as I am getting very, very, very angry with this!!</description>
+    
+    <lastBuildDate>Fri, 26 Nov 2021 14:49:30 +0000</lastBuildDate>
+    <category>SML</category>
+    <atom:link href="https://forums.ficsit.app/t/smm-pushing-all-the-wrong-buttons/1466.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>SMM Pushing all the wrong buttons</title>
+        <dc:creator><![CDATA[@I_m_a_chicken29 Im A Chicken29]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/i_m_a_chicken29">@I_m_a_chicken29</a> wrote:</p>
+          <blockquote>
+              <p>it’s free you are not entitled in anyway to have a great experience with it. just remove the mods that are incompatible some may show as compatible but you can check on ficsit.app</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/smm-pushing-all-the-wrong-buttons/1466/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/smm-pushing-all-the-wrong-buttons/1466/2</link>
+        <pubDate>Fri, 26 Nov 2021 14:49:30 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1466-2</guid>
+        <source url="https://forums.ficsit.app/t/smm-pushing-all-the-wrong-buttons/1466.rss">SMM Pushing all the wrong buttons</source>
+      </item>
+      <item>
+        <title>SMM Pushing all the wrong buttons</title>
+        <dc:creator><![CDATA[@Roger_Dyer Roger Dyer]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/roger_dyer">@Roger_Dyer</a> wrote:</p>
+          <blockquote>
+              <p>So, today I finally got this working after turning of one of my security programs and removing faulty mods, only for it to crash my game.</p>
+<p>It would seem that there is some sort of compatibility issue with UE4, as that is what is crashing when I try to launch the game.</p>
+<p>And so developers what are you going to about this, as I am getting very, very, very angry with this!!</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/smm-pushing-all-the-wrong-buttons/1466/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/smm-pushing-all-the-wrong-buttons/1466/1</link>
+        <pubDate>Thu, 25 Nov 2021 17:07:47 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1466-1</guid>
+        <source url="https://forums.ficsit.app/t/smm-pushing-all-the-wrong-buttons/1466.rss">SMM Pushing all the wrong buttons</source>
+      </item>
+  </channel>
+</rss>

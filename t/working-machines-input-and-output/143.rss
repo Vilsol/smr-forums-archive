@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Working Machines input and output</title>
+    <link>https://forums.ficsit.app/t/working-machines-input-and-output/143</link>
+    <description>I have a machine that items go in, they don&#39;t come out. I do know it has something to do with factory grab output and break inventory items. I just still can&#39;t get what goes in to come out. 
+
+I do know that items going in at some point get deleted. I want what goes in to come out on the output connector.</description>
+    
+    <lastBuildDate>Thu, 16 Jan 2020 00:23:00 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/working-machines-input-and-output/143.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Working Machines input and output</title>
+        <dc:creator><![CDATA[@iceman11a Iceman11a *]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/iceman11a">@iceman11a</a> wrote:</p>
+          <blockquote>
+              <p>thx again for the help. I have got them to work, The nodes were setup in the wrong order.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/working-machines-input-and-output/143/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/working-machines-input-and-output/143/5</link>
+        <pubDate>Thu, 16 Jan 2020 00:23:00 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-143-5</guid>
+        <source url="https://forums.ficsit.app/t/working-machines-input-and-output/143.rss">Working Machines input and output</source>
+      </item>
+      <item>
+        <title>Working Machines input and output</title>
+        <dc:creator><![CDATA[@SuperCoder7979 SuperCoder79]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/supercoder7979">@SuperCoder7979</a> wrote:</p>
+          <blockquote>
+              <p>Have you tried looking at the headers that came with your satisfactory install to see if there are any clues there? You should try experimenting with the blueprint to see if you can find anything that works.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/working-machines-input-and-output/143/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/working-machines-input-and-output/143/4</link>
+        <pubDate>Wed, 15 Jan 2020 23:28:37 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-143-4</guid>
+        <source url="https://forums.ficsit.app/t/working-machines-input-and-output/143.rss">Working Machines input and output</source>
+      </item>
+      <item>
+        <title>Working Machines input and output</title>
+        <dc:creator><![CDATA[@iceman11a Iceman11a *]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/iceman11a">@iceman11a</a> wrote:</p>
+          <blockquote>
+              <p>Hi! Yes I have. The 1st machine is a grinder and the nodes I have tried. Just couldn’t get them to work on my mod. And the other machine is a Item deleter. This machines doesn’t throw anything to the output.</p>
+<p>I have tried the nodes on the 1st machine. The grinder. I never been able to figure out why I can’t get them to work. I do know that it does throw out a lot to the console. and I never been able to figure why. I didn’t think that was needed.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/working-machines-input-and-output/143/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/working-machines-input-and-output/143/3</link>
+        <pubDate>Wed, 15 Jan 2020 21:31:28 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-143-3</guid>
+        <source url="https://forums.ficsit.app/t/working-machines-input-and-output/143.rss">Working Machines input and output</source>
+      </item>
+      <item>
+        <title>Working Machines input and output</title>
+        <dc:creator><![CDATA[@SuperCoder7979 SuperCoder79]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/supercoder7979">@SuperCoder7979</a> wrote:</p>
+          <blockquote>
+              <p>Hi! Have you tried looking at the <a href="https://github.com/satisfactorymodding/SatisfactoryUnrealProject">example mod</a>? It has a factory building, so you may want to check that out.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/working-machines-input-and-output/143/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/working-machines-input-and-output/143/2</link>
+        <pubDate>Wed, 15 Jan 2020 18:16:13 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-143-2</guid>
+        <source url="https://forums.ficsit.app/t/working-machines-input-and-output/143.rss">Working Machines input and output</source>
+      </item>
+      <item>
+        <title>Working Machines input and output</title>
+        <dc:creator><![CDATA[@iceman11a Iceman11a *]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/iceman11a">@iceman11a</a> wrote:</p>
+          <blockquote>
+              <p>I have a machine that items go in, they don’t come out. I do know it has something to do with factory grab output and break inventory items. I just still can’t get what goes in to come out.</p>
+<p>I do know that items going in at some point get deleted. I want what goes in to come out on the output connector.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/working-machines-input-and-output/143/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/working-machines-input-and-output/143/1</link>
+        <pubDate>Tue, 14 Jan 2020 21:07:54 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-143-1</guid>
+        <source url="https://forums.ficsit.app/t/working-machines-input-and-output/143.rss">Working Machines input and output</source>
+      </item>
+  </channel>
+</rss>

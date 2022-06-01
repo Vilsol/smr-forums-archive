@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>[Mod Request] Always distant rendering for low-end computers</title>
+    <link>https://forums.ficsit.app/t/mod-request-always-distant-rendering-for-low-end-computers/1201</link>
+    <description>Hello,
+
+I have a request for what I hope is a simple mod. I noticed that distant objects have lower res textures and simplified geometry. Is it possible to make a mod that would render everything like this regardless of how close the player is? 
+
+My laptop used to be a decent gaming laptop, but it&#39;s getting kind of old and I get frequent frame rate issues even with all my graphics settings at their minimum. I realize it might look really terrible for everything to be rendered like it&#39;s far away, but I think it would really be worth the stable frame rate.
+
+Would anyone like to make this mod for me?
+
+In any case, I&#39;d love to hear your thoughts on the matter. And thanks for your time.</description>
+    
+    <lastBuildDate>Wed, 21 Apr 2021 01:33:20 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/mod-request-always-distant-rendering-for-low-end-computers/1201.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>[Mod Request] Always distant rendering for low-end computers</title>
+        <dc:creator><![CDATA[@Corwin Corwin]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/corwin">@Corwin</a> wrote:</p>
+          <blockquote>
+              <p>Hello,</p>
+<p>I have a request for what I hope is a simple mod. I noticed that distant objects have lower res textures and simplified geometry. Is it possible to make a mod that would render everything like this regardless of how close the player is?</p>
+<p>My laptop used to be a decent gaming laptop, but it’s getting kind of old and I get frequent frame rate issues even with all my graphics settings at their minimum. I realize it might look really terrible for everything to be rendered like it’s far away, but I think it would really be worth the stable frame rate.</p>
+<p>Would anyone like to make this mod for me?</p>
+<p>In any case, I’d love to hear your thoughts on the matter. And thanks for your time.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mod-request-always-distant-rendering-for-low-end-computers/1201/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mod-request-always-distant-rendering-for-low-end-computers/1201/1</link>
+        <pubDate>Wed, 21 Apr 2021 01:33:20 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1201-1</guid>
+        <source url="https://forums.ficsit.app/t/mod-request-always-distant-rendering-for-low-end-computers/1201.rss">[Mod Request] Always distant rendering for low-end computers</source>
+      </item>
+  </channel>
+</rss>

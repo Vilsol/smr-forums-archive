@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Getting AlpaKit Error?</title>
+    <link>https://forums.ficsit.app/t/getting-alpakit-error/135</link>
+    <description>Does anyone know why this is Happening, It says Alpakit Version is old and then it tries to fix it. an error (attached Pic) comes up and ue4 crashes!![error2|374x144](upload://sORfXwEoEzSz8xEbTD1gE48l8vR.png) OK  If i&#39;m in the Source Folder Executing it why is it telling me to rebuild Manually and how do i do such a thing?????</description>
+    
+    <lastBuildDate>Sun, 12 Jan 2020 03:53:08 +0000</lastBuildDate>
+    <category>Pak Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/getting-alpakit-error/135.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Getting AlpaKit Error?</title>
+        <dc:creator><![CDATA[@GreyWolfe64 GreyWolfe64]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/greywolfe64">@GreyWolfe64</a> wrote:</p>
+          <blockquote>
+              <p>Thanks, When i was there i noticed that i had to Download them in Sequence,I had 4.23 so i also  Did 4.22 then 4.21 showed up on my list of downloads. now i have 4 versions on my pc (almost 30 Gigs)</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/getting-alpakit-error/135/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/getting-alpakit-error/135/7</link>
+        <pubDate>Sun, 12 Jan 2020 03:53:08 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-135-7</guid>
+        <source url="https://forums.ficsit.app/t/getting-alpakit-error/135.rss">Getting AlpaKit Error?</source>
+      </item>
+      <item>
+        <title>Getting AlpaKit Error?</title>
+        <dc:creator><![CDATA[@Vilsol]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/vilsol">@Vilsol</a> wrote:</p>
+          <blockquote>
+              <p>When you are in the “Unreal Engine” tab in the Epic Games launcher. Switch to Library, click the + at the top and then in the drop down select 4.21.2.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/getting-alpakit-error/135/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/getting-alpakit-error/135/6</link>
+        <pubDate>Sun, 12 Jan 2020 02:40:15 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-135-6</guid>
+        <source url="https://forums.ficsit.app/t/getting-alpakit-error/135.rss">Getting AlpaKit Error?</source>
+      </item>
+      <item>
+        <title>Getting AlpaKit Error?</title>
+        <dc:creator><![CDATA[@GreyWolfe64 GreyWolfe64]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/greywolfe64">@GreyWolfe64</a> wrote:</p>
+          <blockquote>
+              <p>Yes, I’ve been Looking for UE 4.21 but the earliest version i see is 4.22</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/getting-alpakit-error/135/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/getting-alpakit-error/135/5</link>
+        <pubDate>Sun, 12 Jan 2020 02:28:11 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-135-5</guid>
+        <source url="https://forums.ficsit.app/t/getting-alpakit-error/135.rss">Getting AlpaKit Error?</source>
+      </item>
+      <item>
+        <title>Getting AlpaKit Error?</title>
+        <dc:creator><![CDATA[@mrhid6 Mrhid6]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/mrhid6">@mrhid6</a> wrote:</p>
+          <blockquote>
+              <p>You need to install ue 4.21 and the satisfactory starter project</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/getting-alpakit-error/135/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/getting-alpakit-error/135/4</link>
+        <pubDate>Sat, 11 Jan 2020 16:22:11 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-135-4</guid>
+        <source url="https://forums.ficsit.app/t/getting-alpakit-error/135.rss">Getting AlpaKit Error?</source>
+      </item>
+      <item>
+        <title>Getting AlpaKit Error?</title>
+        <dc:creator><![CDATA[@GreyWolfe64 GreyWolfe64]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/greywolfe64">@GreyWolfe64</a> wrote:</p>
+          <blockquote>
+              <p>I use UE 4.23.1 and i cannot find a starter kit for that version.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/getting-alpakit-error/135/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/getting-alpakit-error/135/3</link>
+        <pubDate>Thu, 09 Jan 2020 00:37:23 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-135-3</guid>
+        <source url="https://forums.ficsit.app/t/getting-alpakit-error/135.rss">Getting AlpaKit Error?</source>
+      </item>
+      <item>
+        <title>Getting AlpaKit Error?</title>
+        <dc:creator><![CDATA[@mircearoata Mircearoata]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/mircearoata">@mircearoata</a> wrote:</p>
+          <blockquote>
+              <p>Make sure you have the latest starter project. Also, what UE version do you use?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/getting-alpakit-error/135/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/getting-alpakit-error/135/2</link>
+        <pubDate>Wed, 08 Jan 2020 07:36:48 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-135-2</guid>
+        <source url="https://forums.ficsit.app/t/getting-alpakit-error/135.rss">Getting AlpaKit Error?</source>
+      </item>
+      <item>
+        <title>Getting AlpaKit Error?</title>
+        <dc:creator><![CDATA[@GreyWolfe64 GreyWolfe64]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/greywolfe64">@GreyWolfe64</a> wrote:</p>
+          <blockquote>
+              <p>Does anyone know why this is Happening, It says Alpakit Version is old and then it tries to fix it. an error (attached Pic) comes up and ue4 crashes!<img src="https://forums.ficsit.app/uploads/default/original/1X/c9fca4b1f7f987f977c0d431c86b91ffa75c472f.png" alt="error2" data-base62-sha1="sORfXwEoEzSz8xEbTD1gE48l8vR" width="374" height="144"> OK  If i’m in the Source Folder Executing it why is it telling me to rebuild Manually and how do i do such a thing???</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/getting-alpakit-error/135/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/getting-alpakit-error/135/1</link>
+        <pubDate>Wed, 08 Jan 2020 00:44:04 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-135-1</guid>
+        <source url="https://forums.ficsit.app/t/getting-alpakit-error/135.rss">Getting AlpaKit Error?</source>
+      </item>
+  </channel>
+</rss>

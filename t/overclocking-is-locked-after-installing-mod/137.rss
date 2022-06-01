@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Overclocking is locked after installing Mod</title>
+    <link>https://forums.ficsit.app/t/overclocking-is-locked-after-installing-mod/137</link>
+    <description>Hello,
+
+after installing from Mod´s Overlocking is not more possible. 
+Can Anybody help?
+
+The Mods work perfect.</description>
+    
+    <lastBuildDate>Wed, 22 Jan 2020 19:31:05 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/overclocking-is-locked-after-installing-mod/137.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Overclocking is locked after installing Mod</title>
+        <dc:creator><![CDATA[@Enrico_Setzer Enrico Setzer]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/enrico_setzer">@Enrico_Setzer</a> wrote:</p>
+          <blockquote>
+              <p>UPDATE:</p>
+<p>After the New Savegame Editor was realesd, i can open my Save file and added manually:<br>
+mIsBuildingEfficiencyUnlocked<code>and</code>mIsBuildingOverclockUnlocked`</p>
+<aside class="quote no-group quote-modified" data-post="4" data-topic="137">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.ficsit.app/user_avatar/forums.ficsit.app/budak7273/40/16_2.png" class="avatar"> budak7273:</div>
+<blockquote>
+<p>Open up your save and press <code>File &gt; Jump to tag ...</code> and enter <code>BP_GameState.BP_GameState_C</code> . If for some reason the jump fails to take you there, you can manually navigate to it at <code>/Game/FactoryGame/-Shared/Blueprint/BP_GameState.BP_GameState_C</code> . Look for the properties <code>**mIsBuildingEfficiencyUnlocked</code> and <code>mIsBuildingOverclockUnlocked</code>** in <code>Persistent_Level:PersistentLevel.BP_GameState_C_0</code> and check both of them. After saving your changes and loading up the save ingame, you should have access to the overclocking panel again.</p>
+</blockquote>
+</aside>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/overclocking-is-locked-after-installing-mod/137/20">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/overclocking-is-locked-after-installing-mod/137/20</link>
+        <pubDate>Wed, 22 Jan 2020 19:31:05 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-137-20</guid>
+        <source url="https://forums.ficsit.app/t/overclocking-is-locked-after-installing-mod/137.rss">Overclocking is locked after installing Mod</source>
+      </item>
+      <item>
+        <title>Overclocking is locked after installing Mod</title>
+        <dc:creator><![CDATA[@Enrico_Setzer Enrico Setzer]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/enrico_setzer">@Enrico_Setzer</a> wrote:</p>
+          <blockquote>
+              <p><a class="mention" href="/u/vilsol">@Vilsol</a> how i can send you a File?</p>
+<p><a href="https://www.file-upload.net/download-13868842/MODS.sav.html" data-bbcode="true" rel="nofollow noopener">MODS.sav</a></p>
+<p>I hope that is allowed in this Forum</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/overclocking-is-locked-after-installing-mod/137/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/overclocking-is-locked-after-installing-mod/137/19</link>
+        <pubDate>Sun, 19 Jan 2020 20:59:02 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-137-19</guid>
+        <source url="https://forums.ficsit.app/t/overclocking-is-locked-after-installing-mod/137.rss">Overclocking is locked after installing Mod</source>
+      </item>
+      <item>
+        <title>Overclocking is locked after installing Mod</title>
+        <dc:creator><![CDATA[@Enrico_Setzer Enrico Setzer]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/enrico_setzer">@Enrico_Setzer</a> wrote:</p>
+          <blockquote>
+              <p>I get no Error… The Save Editor is showing Loading Please Wait…</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/overclocking-is-locked-after-installing-mod/137/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/overclocking-is-locked-after-installing-mod/137/18</link>
+        <pubDate>Sun, 19 Jan 2020 20:58:11 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-137-18</guid>
+        <source url="https://forums.ficsit.app/t/overclocking-is-locked-after-installing-mod/137.rss">Overclocking is locked after installing Mod</source>
+      </item>
+      <item>
+        <title>Overclocking is locked after installing Mod</title>
+        <dc:creator><![CDATA[@Vilsol]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/vilsol">@Vilsol</a> wrote:</p>
+          <blockquote>
+              <p>Could you please send your save that you are unable to open with the save editor?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/overclocking-is-locked-after-installing-mod/137/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/overclocking-is-locked-after-installing-mod/137/17</link>
+        <pubDate>Sun, 19 Jan 2020 19:28:24 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-137-17</guid>
+        <source url="https://forums.ficsit.app/t/overclocking-is-locked-after-installing-mod/137.rss">Overclocking is locked after installing Mod</source>
+      </item>
+      <item>
+        <title>Overclocking is locked after installing Mod</title>
+        <dc:creator><![CDATA[@GreyWolfe64 GreyWolfe64]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/greywolfe64">@GreyWolfe64</a> wrote:</p>
+          <blockquote>
+              <p>Does the editor have issues opening large files, I started a new game and played for a few hours then opened in Save Editor but didn’t really have anything unlocked so it didn’t show up. Although everything was also Locked out in new game save too. I tried opening my newest save on my modded map and it says please wait? Left and went out for Dinner, 3 hours later still says please wait.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/overclocking-is-locked-after-installing-mod/137/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/overclocking-is-locked-after-installing-mod/137/16</link>
+        <pubDate>Sun, 19 Jan 2020 19:02:58 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-137-16</guid>
+        <source url="https://forums.ficsit.app/t/overclocking-is-locked-after-installing-mod/137.rss">Overclocking is locked after installing Mod</source>
+      </item>
+      <item>
+        <title>Overclocking is locked after installing Mod</title>
+        <dc:creator><![CDATA[@Vilsol]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/vilsol">@Vilsol</a> wrote:</p>
+          <blockquote>
+              <p>What error are you getting when opening the save?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/overclocking-is-locked-after-installing-mod/137/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/overclocking-is-locked-after-installing-mod/137/15</link>
+        <pubDate>Sun, 19 Jan 2020 12:58:15 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-137-15</guid>
+        <source url="https://forums.ficsit.app/t/overclocking-is-locked-after-installing-mod/137.rss">Overclocking is locked after installing Mod</source>
+      </item>
+      <item>
+        <title>Overclocking is locked after installing Mod</title>
+        <dc:creator><![CDATA[@Enrico_Setzer Enrico Setzer]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/enrico_setzer">@Enrico_Setzer</a> wrote:</p>
+          <blockquote>
+              <p>I deleated all the mods… and startet the game, but i wasn´t able to use the overclocking, the same Problem as before, in very old saves i can use it.<br>
+I can not add " <code>mIsBuildingOverclockUnlocked</code>" because I can´t open the Save file´s in the Save Editor which have the Problems with the Overlocking.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/overclocking-is-locked-after-installing-mod/137/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/overclocking-is-locked-after-installing-mod/137/14</link>
+        <pubDate>Sun, 19 Jan 2020 12:33:48 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-137-14</guid>
+        <source url="https://forums.ficsit.app/t/overclocking-is-locked-after-installing-mod/137.rss">Overclocking is locked after installing Mod</source>
+      </item>
+      <item>
+        <title>Overclocking is locked after installing Mod</title>
+        <dc:creator><![CDATA[@GreyWolfe64 GreyWolfe64]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/greywolfe64">@GreyWolfe64</a> wrote:</p>
+          <blockquote>
+              <p>Well i loaded Save Editor and could also only find one of the files? Checked it and it still didn’t work.<br>
+also noticed i don’t have the ability to use map function anymore, I hope i don’t have to remove the game and start from day one again!</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/overclocking-is-locked-after-installing-mod/137/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/overclocking-is-locked-after-installing-mod/137/13</link>
+        <pubDate>Sat, 18 Jan 2020 22:41:59 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-137-13</guid>
+        <source url="https://forums.ficsit.app/t/overclocking-is-locked-after-installing-mod/137.rss">Overclocking is locked after installing Mod</source>
+      </item>
+      <item>
+        <title>Overclocking is locked after installing Mod</title>
+        <dc:creator><![CDATA[@Vilsol]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/vilsol">@Vilsol</a> wrote:</p>
+          <blockquote>
+              <p>Can you try backing up your save, deleting all the mods, and adding the <code>mIsBuildingOverclockUnlocked</code> manually? Then slowly start adding mods one by one to see which one breaks it.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/overclocking-is-locked-after-installing-mod/137/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/overclocking-is-locked-after-installing-mod/137/12</link>
+        <pubDate>Sat, 18 Jan 2020 10:49:15 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-137-12</guid>
+        <source url="https://forums.ficsit.app/t/overclocking-is-locked-after-installing-mod/137.rss">Overclocking is locked after installing Mod</source>
+      </item>
+      <item>
+        <title>Overclocking is locked after installing Mod</title>
+        <dc:creator><![CDATA[@GreyWolfe64 GreyWolfe64]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/greywolfe64">@GreyWolfe64</a> wrote:</p>
+          <blockquote>
+              <p>I’m Getting the Same Problem also, Here are the mods i use.<div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/0f50d2c76fe6c62a3cfdacf48ae4822c027ad783.png" data-download-href="https://forums.ficsit.app/uploads/default/0f50d2c76fe6c62a3cfdacf48ae4822c027ad783" title="Overclock%20Error"><img src="https://forums.ficsit.app/uploads/default/original/1X/0f50d2c76fe6c62a3cfdacf48ae4822c027ad783.png" alt="Overclock%20Error" data-base62-sha1="2bukarxayCnw6jB6k5YcgdqAp59" width="553" height="500" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/0f50d2c76fe6c62a3cfdacf48ae4822c027ad783_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">Overclock%20Error</span><span class="informations">631×570 12.9 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/overclocking-is-locked-after-installing-mod/137/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/overclocking-is-locked-after-installing-mod/137/11</link>
+        <pubDate>Fri, 17 Jan 2020 03:00:22 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-137-11</guid>
+        <source url="https://forums.ficsit.app/t/overclocking-is-locked-after-installing-mod/137.rss">Overclocking is locked after installing Mod</source>
+      </item>
+      <item>
+        <title>Overclocking is locked after installing Mod</title>
+        <dc:creator><![CDATA[@Enrico_Setzer Enrico Setzer]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/enrico_setzer">@Enrico_Setzer</a> wrote:</p>
+          <blockquote>
+              <p><a class="mention" href="/u/vilsol">@Vilsol</a> Thank you for your help</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/overclocking-is-locked-after-installing-mod/137/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/overclocking-is-locked-after-installing-mod/137/10</link>
+        <pubDate>Wed, 15 Jan 2020 17:56:42 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-137-10</guid>
+        <source url="https://forums.ficsit.app/t/overclocking-is-locked-after-installing-mod/137.rss">Overclocking is locked after installing Mod</source>
+      </item>
+      <item>
+        <title>Overclocking is locked after installing Mod</title>
+        <dc:creator><![CDATA[@Enrico_Setzer Enrico Setzer]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/enrico_setzer">@Enrico_Setzer</a> wrote:</p>
+          <blockquote>
+              <p>Hello Vilsol,</p>
+<p>here is the screenshot from my Paks directory.<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/dc7b280e0993bac6c99dc4234603fe668108461b.jpeg" data-download-href="https://forums.ficsit.app/uploads/default/dc7b280e0993bac6c99dc4234603fe668108461b" title="Pak_%C3%9Cbersicht"><img src="https://forums.ficsit.app/uploads/default/optimized/1X/dc7b280e0993bac6c99dc4234603fe668108461b_2_382x499.jpeg" alt="Pak_%C3%9Cbersicht" data-base62-sha1="vssU6QmO7f7uKfoivTAeuuTj0Lx" width="382" height="499" srcset="https://forums.ficsit.app/uploads/default/optimized/1X/dc7b280e0993bac6c99dc4234603fe668108461b_2_382x499.jpeg, https://forums.ficsit.app/uploads/default/optimized/1X/dc7b280e0993bac6c99dc4234603fe668108461b_2_573x748.jpeg 1.5x, https://forums.ficsit.app/uploads/default/original/1X/dc7b280e0993bac6c99dc4234603fe668108461b.jpeg 2x" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/dc7b280e0993bac6c99dc4234603fe668108461b_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">Pak_%C3%9Cbersicht</span><span class="informations">647×846 104 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>I think the Problem must be since i installed the first Mod´s (see Post number 3)</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/overclocking-is-locked-after-installing-mod/137/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/overclocking-is-locked-after-installing-mod/137/8</link>
+        <pubDate>Mon, 13 Jan 2020 12:36:50 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-137-8</guid>
+        <source url="https://forums.ficsit.app/t/overclocking-is-locked-after-installing-mod/137.rss">Overclocking is locked after installing Mod</source>
+      </item>
+      <item>
+        <title>Overclocking is locked after installing Mod</title>
+        <dc:creator><![CDATA[@Vilsol]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/vilsol">@Vilsol</a> wrote:</p>
+          <blockquote>
+              <p>It seems that one of the mods is somehow removing overclocking for some reason. I will message the devs to see who is breaking this.</p>
+<p><a class="mention" href="/u/enrico_setzer">@Enrico_Setzer</a> Could you please show a screenshot of your Paks directory?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/overclocking-is-locked-after-installing-mod/137/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/overclocking-is-locked-after-installing-mod/137/7</link>
+        <pubDate>Mon, 13 Jan 2020 09:00:18 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-137-7</guid>
+        <source url="https://forums.ficsit.app/t/overclocking-is-locked-after-installing-mod/137.rss">Overclocking is locked after installing Mod</source>
+      </item>
+      <item>
+        <title>Overclocking is locked after installing Mod</title>
+        <dc:creator><![CDATA[@Enrico_Setzer Enrico Setzer]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/enrico_setzer">@Enrico_Setzer</a> wrote:</p>
+          <blockquote>
+              <p>Hello budak7273,</p>
+<p>Thank you for your answer.</p>
+<p>I downloded the save Editor Version Version 0.8.1.zip<br>
+and i opend the Save File, I only can find one of the two, the second checkbox is missing.<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/fa769a975713fb7ad55b3a070052a6003099e30f.jpeg" data-download-href="https://forums.ficsit.app/uploads/default/fa769a975713fb7ad55b3a070052a6003099e30f" title="opend_Save"><img src="https://forums.ficsit.app/uploads/default/optimized/1X/fa769a975713fb7ad55b3a070052a6003099e30f_2_690x280.jpeg" alt="opend_Save" data-base62-sha1="zJHtsNWNLTiF8hIG9Vh1lRrMBFZ" width="690" height="280" srcset="https://forums.ficsit.app/uploads/default/optimized/1X/fa769a975713fb7ad55b3a070052a6003099e30f_2_690x280.jpeg, https://forums.ficsit.app/uploads/default/optimized/1X/fa769a975713fb7ad55b3a070052a6003099e30f_2_1035x420.jpeg 1.5x, https://forums.ficsit.app/uploads/default/optimized/1X/fa769a975713fb7ad55b3a070052a6003099e30f_2_1380x560.jpeg 2x" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/fa769a975713fb7ad55b3a070052a6003099e30f_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">opend_Save</span><span class="informations">2560×1041 275 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>I hope you can help</p>
+<p>Update:<br>
+If i open an older Save Game in the Save Game Editor the second Checkbox is avalible.<br>
+If i open the older Save Game in Satisfactory the Overlocking is immediately closed.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/overclocking-is-locked-after-installing-mod/137/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/overclocking-is-locked-after-installing-mod/137/5</link>
+        <pubDate>Mon, 13 Jan 2020 06:20:34 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-137-5</guid>
+        <source url="https://forums.ficsit.app/t/overclocking-is-locked-after-installing-mod/137.rss">Overclocking is locked after installing Mod</source>
+      </item>
+      <item>
+        <title>Overclocking is locked after installing Mod</title>
+        <dc:creator><![CDATA[@Robb Rob B]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/robb">@Robb</a> wrote:</p>
+          <blockquote>
+              <p>We’re not aware of any mods that affect overclocking like this, but in the mean time, you should be able to use a save editor such as <a href="https://github.com/Goz3rr/SatisfactorySaveEditor/releases">this one</a> to manually re-enable overclocking.</p>
+<p>Open up your save and press <code>File &gt; Jump to tag ...</code> and enter <code>BP_GameState.BP_GameState_C</code>. If for some reason the jump fails to take you there, you can manually navigate to it at <code>/Game/FactoryGame/-Shared/Blueprint/BP_GameState.BP_GameState_C</code>. Look for the properties <code>mIsBuildingEfficiencyUnlocked</code> and <code>mIsBuildingOverclockUnlocked</code> in <code>Persistent_Level:PersistentLevel.BP_GameState_C_0</code> and check both of them. After saving your changes and loading up the save ingame, you should have access to the overclocking panel again.<br>
+<img src="https://forums.ficsit.app/uploads/default/original/1X/5905054f0631e1576a382a4d4d3ae936f805bc6b.png" alt="image" data-base62-sha1="cHvfBIXpq25iR15ziqoDpI3mHNx" width="277" height="58"></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/overclocking-is-locked-after-installing-mod/137/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/overclocking-is-locked-after-installing-mod/137/4</link>
+        <pubDate>Mon, 13 Jan 2020 03:43:45 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-137-4</guid>
+        <source url="https://forums.ficsit.app/t/overclocking-is-locked-after-installing-mod/137.rss">Overclocking is locked after installing Mod</source>
+      </item>
+      <item>
+        <title>Overclocking is locked after installing Mod</title>
+        <dc:creator><![CDATA[@Enrico_Setzer Enrico Setzer]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/enrico_setzer">@Enrico_Setzer</a> wrote:</p>
+          <blockquote>
+              <p><a class="mention" href="/u/vilsol">@Vilsol</a> Thank you for your fast Answer;</p>
+<p>I have installed the following Mod´s (please see the picture)<br>
+I can not place the item anymore (please see the picture)…<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/f3503ffe81be67d94dc2a6cbbaa037479f9a7024.jpeg" data-download-href="https://forums.ficsit.app/uploads/default/f3503ffe81be67d94dc2a6cbbaa037479f9a7024" title="InstalledMOdsandNoOverlocking"><img src="https://forums.ficsit.app/uploads/default/optimized/1X/f3503ffe81be67d94dc2a6cbbaa037479f9a7024_2_690x354.jpeg" alt="InstalledMOdsandNoOverlocking" data-base62-sha1="yIrXwDgUOhkewzzyU1i59US3Whm" width="690" height="354" srcset="https://forums.ficsit.app/uploads/default/optimized/1X/f3503ffe81be67d94dc2a6cbbaa037479f9a7024_2_690x354.jpeg, https://forums.ficsit.app/uploads/default/optimized/1X/f3503ffe81be67d94dc2a6cbbaa037479f9a7024_2_1035x531.jpeg 1.5x, https://forums.ficsit.app/uploads/default/optimized/1X/f3503ffe81be67d94dc2a6cbbaa037479f9a7024_2_1380x708.jpeg 2x" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/f3503ffe81be67d94dc2a6cbbaa037479f9a7024_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">InstalledMOdsandNoOverlocking</span><span class="informations">1635×839 73.2 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/overclocking-is-locked-after-installing-mod/137/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/overclocking-is-locked-after-installing-mod/137/3</link>
+        <pubDate>Sun, 12 Jan 2020 21:22:29 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-137-3</guid>
+        <source url="https://forums.ficsit.app/t/overclocking-is-locked-after-installing-mod/137.rss">Overclocking is locked after installing Mod</source>
+      </item>
+      <item>
+        <title>Overclocking is locked after installing Mod</title>
+        <dc:creator><![CDATA[@Vilsol]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/vilsol">@Vilsol</a> wrote:</p>
+          <blockquote>
+              <p>Which mods do you have installed? And what do you mean you can’t overclock anymore? You can’t turn up the overclock or place in the item anymore?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/overclocking-is-locked-after-installing-mod/137/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/overclocking-is-locked-after-installing-mod/137/2</link>
+        <pubDate>Sun, 12 Jan 2020 19:55:43 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-137-2</guid>
+        <source url="https://forums.ficsit.app/t/overclocking-is-locked-after-installing-mod/137.rss">Overclocking is locked after installing Mod</source>
+      </item>
+      <item>
+        <title>Overclocking is locked after installing Mod</title>
+        <dc:creator><![CDATA[@Enrico_Setzer Enrico Setzer]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/enrico_setzer">@Enrico_Setzer</a> wrote:</p>
+          <blockquote>
+              <p>Hello,</p>
+<p>after installing from Mod´s Overlocking is not more possible.<br>
+Can Anybody help?</p>
+<p>The Mods work perfect.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/overclocking-is-locked-after-installing-mod/137/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/overclocking-is-locked-after-installing-mod/137/1</link>
+        <pubDate>Sun, 12 Jan 2020 19:43:16 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-137-1</guid>
+        <source url="https://forums.ficsit.app/t/overclocking-is-locked-after-installing-mod/137.rss">Overclocking is locked after installing Mod</source>
+      </item>
+  </channel>
+</rss>

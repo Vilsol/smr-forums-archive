@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Moar Factory Version 0.7.0 crashes ModLoader</title>
+    <link>https://forums.ficsit.app/t/moar-factory-version-0-7-0-crashes-modloader/83</link>
+    <description>tried to update mod from 0.6 to 0.7 and got this :
+
+Mod is crashing &quot;Your are missing SID_p in your install!....&quot;
+
+SML Version: 1.0.2
+Game Version: 106504 
+
+dll and pak/sig are in the right folders
+
+what is wrong ?</description>
+    
+    <lastBuildDate>Sun, 24 Nov 2019 11:12:03 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forums.ficsit.app/t/moar-factory-version-0-7-0-crashes-modloader/83.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Moar Factory Version 0.7.0 crashes ModLoader</title>
+        <dc:creator><![CDATA[@Daniel_S Daniel S]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/daniel_s">@Daniel_S</a> wrote:</p>
+          <blockquote>
+              <p>It`s not mentioned ?</p>
+<p><strong>Installation and Infos</strong></p>
+<ol>
+<li>IMPORTANT!!! First, Download and install the latest version of SML</li>
+<li>Download the MoarFactory Mod and unpack the Files</li>
+<li>Delete the JSON File. You don’t need it</li>
+<li>Copy/paste, Move the…</li>
+</ol>
+<ul>
+<li>MoarFactory_p.pak</li>
+<li>MoarFactory_p.sig to \SatisfactoryEarlyAccess\FactoryGame\Content\Paks</li>
+<li>MoarFactory.dll to \SatisfactoryEarlyAccess\FactoryGame\Binaries\Win64\mods</li>
+</ul>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/moar-factory-version-0-7-0-crashes-modloader/83/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/moar-factory-version-0-7-0-crashes-modloader/83/4</link>
+        <pubDate>Sun, 24 Nov 2019 11:12:03 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-83-4</guid>
+        <source url="https://forums.ficsit.app/t/moar-factory-version-0-7-0-crashes-modloader/83.rss">Moar Factory Version 0.7.0 crashes ModLoader</source>
+      </item>
+      <item>
+        <title>Moar Factory Version 0.7.0 crashes ModLoader</title>
+        <dc:creator><![CDATA[@TBNRregs TBNRregs]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/tbnrregs">@TBNRregs</a> wrote:</p>
+          <blockquote>
+              <p>Wondering how many people dont read that they also need the SID</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/moar-factory-version-0-7-0-crashes-modloader/83/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/moar-factory-version-0-7-0-crashes-modloader/83/3</link>
+        <pubDate>Sun, 24 Nov 2019 09:17:36 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-83-3</guid>
+        <source url="https://forums.ficsit.app/t/moar-factory-version-0-7-0-crashes-modloader/83.rss">Moar Factory Version 0.7.0 crashes ModLoader</source>
+      </item>
+      <item>
+        <title>Moar Factory Version 0.7.0 crashes ModLoader</title>
+        <dc:creator><![CDATA[@Knowen Knowen]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/knowen">@Knowen</a> wrote:</p>
+          <blockquote>
+              <p>Hey,</p>
+<p>you need to install the SatisfactoryItemDictionary (SID) Mod.</p>
+<p>Cheers,<br>
+Knowen</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/moar-factory-version-0-7-0-crashes-modloader/83/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/moar-factory-version-0-7-0-crashes-modloader/83/2</link>
+        <pubDate>Sun, 24 Nov 2019 00:12:07 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-83-2</guid>
+        <source url="https://forums.ficsit.app/t/moar-factory-version-0-7-0-crashes-modloader/83.rss">Moar Factory Version 0.7.0 crashes ModLoader</source>
+      </item>
+      <item>
+        <title>Moar Factory Version 0.7.0 crashes ModLoader</title>
+        <dc:creator><![CDATA[@Daniel_S Daniel S]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/daniel_s">@Daniel_S</a> wrote:</p>
+          <blockquote>
+              <p>tried to update mod from 0.6 to 0.7 and got this :</p>
+<p>Mod is crashing “Your are missing SID_p in your install!..”</p>
+<p>SML Version: 1.0.2<br>
+Game Version: 106504</p>
+<p>dll and pak/sig are in the right folders</p>
+<p>what is wrong ?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/moar-factory-version-0-7-0-crashes-modloader/83/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/moar-factory-version-0-7-0-crashes-modloader/83/1</link>
+        <pubDate>Sat, 23 Nov 2019 23:49:58 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-83-1</guid>
+        <source url="https://forums.ficsit.app/t/moar-factory-version-0-7-0-crashes-modloader/83.rss">Moar Factory Version 0.7.0 crashes ModLoader</source>
+      </item>
+  </channel>
+</rss>

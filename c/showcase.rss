@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:discourse="http://www.discourse.org/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Showcase - SMR Forums</title>
+    <link>https://forums.ficsit.app/c/showcase</link>
+    <description>Topics in the &#39;Showcase&#39; category Show off your builds, mods, world, or just about anything related to Satisfactory.</description>
+    
+      <lastBuildDate>Mon, 19 Apr 2021 14:35:41 +0000</lastBuildDate>
+      <atom:link href="https://forums.ficsit.app/c/showcase.rss" rel="self" type="application/rss+xml" />
+        <item>
+          <title>Satis-Factory Manager online tool</title>
+          <dc:creator><![CDATA[@JZechy J Zechy]]></dc:creator>
+          <category>Showcase</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/jzechy">@JZechy</a> wrote:</p>
+            <blockquote>
+              <p>Hello!</p>
+<p>I have been using some satisfactory online tools for planning my factory, but I never really satisfied with them. So what’s better then? A custom tool!</p>
+<p><a href="https://zechy.cz/satisfactory/#/" rel="nofollow noopener">Satis-Factory Manager</a> is a online tool that allows you planning your factories from scratch. Grouping buildings together, see production and power overall statistics. And manage imports &amp; exports between your factories.</p>
+<p>Power management here is not only about production buildings, but about every thinkable building, that consumes power. From lights to Locos!</p>
+<p>You can try my <a href="https://zechy.cz/satisfactory/#/" rel="nofollow noopener">tool here</a>.</p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.ficsit.app/t/satis-factory-manager-online-tool/1198">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/satis-factory-manager-online-tool/1198</link>
+          <pubDate>Mon, 19 Apr 2021 14:35:41 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1198</guid>
+          <source url="https://forums.ficsit.app/t/satis-factory-manager-online-tool/1198.rss">Satis-Factory Manager online tool</source>
+        </item>
+        <item>
+          <title>My First Mod(tm): S.A.M. in the M.A.M</title>
+          <dc:creator><![CDATA[@genghiskhanx Genghiskhanx]]></dc:creator>
+          <category>Showcase</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/genghiskhanx">@genghiskhanx</a> wrote:</p>
+            <blockquote>
+              <p><a href="https://ficsit.app/mod/BEjGWQ4mL2jmxP" rel="nofollow noopener">S.A.M. Converter by GenghisKhanX</a></p>
+<p>The Converter is available once you complete the S.A.M. Research Tree, and can make any raw material from S.A.M. Ingots (which, in turn, can be made with S.A.M. Ore and any raw material).</p>
+<p>The Converter is not cheap.  In fact, the price may be too high for some people.</p>
+<p>It does have a couple bugs yet, but it works.</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.ficsit.app/t/my-first-mod-tm-s-a-m-in-the-m-a-m/1082">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/my-first-mod-tm-s-a-m-in-the-m-a-m/1082</link>
+          <pubDate>Mon, 11 Jan 2021 01:10:13 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1082</guid>
+          <source url="https://forums.ficsit.app/t/my-first-mod-tm-s-a-m-in-the-m-a-m/1082.rss">My First Mod(tm): S.A.M. in the M.A.M</source>
+        </item>
+        <item>
+          <title>New Mod - Sloped Walls</title>
+          <dc:creator><![CDATA[@andrew-w Andrew W]]></dc:creator>
+          <category>Showcase</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/andrew-w">@andrew-w</a> wrote:</p>
+            <blockquote>
+              <p>Just uploaded my first mod Sloped Walls, to fill in the gaps (literally).</p>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src="https://ficsit.app/favicon.ico" class="site-icon" width="32" height="32">
+      <a href="https://ficsit.app/mod/3yYkSLEp1w7w5C" target="_blank" rel="nofollow noopener">ficsit.app</a>
+  </header>
+  <article class="onebox-body">
+    <img src="https://storage.ficsit.app/file/smr-prod/images/mods/3yYkSLEp1w7w5C/logo.webp" class="thumbnail onebox-avatar" width="500" height="500">
+
+<h3><a href="https://ficsit.app/mod/3yYkSLEp1w7w5C" target="_blank" rel="nofollow noopener">Sloped Walls - SMR</a></h3>
+
+<p>Sloped Wall Variants</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>Right now, it’s just the 8x4 size variants, but might add more if I can later.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/82852124bb682b861079b26ac7eba3829040bf5b.png" data-download-href="https://forums.ficsit.app/uploads/default/82852124bb682b861079b26ac7eba3829040bf5b" title="WallSlopes1"><img src="https://forums.ficsit.app/uploads/default/optimized/1X/82852124bb682b861079b26ac7eba3829040bf5b_2_690x288.png" alt="WallSlopes1" data-base62-sha1="iCDiA8XdMnkKS57v8HZJhJJupB1" width="690" height="288" srcset="https://forums.ficsit.app/uploads/default/optimized/1X/82852124bb682b861079b26ac7eba3829040bf5b_2_690x288.png, https://forums.ficsit.app/uploads/default/original/1X/82852124bb682b861079b26ac7eba3829040bf5b.png 1.5x, https://forums.ficsit.app/uploads/default/original/1X/82852124bb682b861079b26ac7eba3829040bf5b.png 2x" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/82852124bb682b861079b26ac7eba3829040bf5b_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">WallSlopes1</span><span class="informations">772×323 357 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>Hope you enjoy them!</p>
+<p>Andy.</p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.ficsit.app/t/new-mod-sloped-walls/500">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/new-mod-sloped-walls/500</link>
+          <pubDate>Thu, 30 Apr 2020 03:14:11 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-500</guid>
+          <source url="https://forums.ficsit.app/t/new-mod-sloped-walls/500.rss">New Mod - Sloped Walls</source>
+        </item>
+        <item>
+          <title>Throughput Counter</title>
+          <dc:creator><![CDATA[@Esya Esya]]></dc:creator>
+          <category>Showcase</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/esya">@Esya</a> wrote:</p>
+            <blockquote>
+              <p>Here’s my first mod that displays the number of items passing through it per minute :</p>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src="https://ficsit.app/favicon.ico" class="site-icon" width="32" height="32">
+      <a href="https://ficsit.app/mod/EBmtX1itvNsyDb" target="_blank" rel="nofollow noopener">ficsit.app</a>
+  </header>
+  <article class="onebox-body">
+    <img src="https://forums.ficsit.app/uploads/default/original/1X/f02da7f6991dd231eefed9e0b929b9f220067a67.png" class="thumbnail onebox-avatar" width="500" height="500">
+
+<h3><a href="https://ficsit.app/mod/EBmtX1itvNsyDb" target="_blank" rel="nofollow noopener">Mod - SMR</a></h3>
+
+<p>Satisfactory mods, tools, guides and forums. An extension to the FICSIT industries.</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/895e8ecb43f74410beac8e76efa75818dde33f45.jpeg" data-download-href="https://forums.ficsit.app/uploads/default/895e8ecb43f74410beac8e76efa75818dde33f45" title=""><img src="https://forums.ficsit.app/uploads/default/original/1X/895e8ecb43f74410beac8e76efa75818dde33f45.jpeg" alt data-base62-sha1="jBe09UXryHow3RgumhuoPT7nmXb" width="445" height="500" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/895e8ecb43f74410beac8e76efa75818dde33f45_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename"></span><span class="informations">878×986 109 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>I’ll try to make it look a bit more “in universe” by having an actual screen on it or using a hologram, but that’s a first prototype ! Also it should work in multiplayer - but it needs extensive testing.</p>
+            </blockquote>
+            <p>Posts: 3</p>
+            <p>Participants: 3</p>
+            <p><a href="https://forums.ficsit.app/t/throughput-counter/451">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/throughput-counter/451</link>
+          <pubDate>Fri, 24 Apr 2020 20:58:11 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-451</guid>
+          <source url="https://forums.ficsit.app/t/throughput-counter/451.rss">Throughput Counter</source>
+        </item>
+        <item>
+          <title>Mini Mods General (Suggestions and Comments)</title>
+          <dc:creator><![CDATA[@Andre_Aquila DellAquila]]></dc:creator>
+          <category>Showcase</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/andre_aquila">@Andre_Aquila</a> wrote:</p>
+            <blockquote>
+              <p>Opening this topic to talk, suggest and comment on SMR mini mods.</p>
+            </blockquote>
+            <p>Posts: 208</p>
+            <p>Participants: 93</p>
+            <p><a href="https://forums.ficsit.app/t/mini-mods-general-suggestions-and-comments/397">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/mini-mods-general-suggestions-and-comments/397</link>
+          <pubDate>Fri, 17 Apr 2020 16:16:18 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-397</guid>
+          <source url="https://forums.ficsit.app/t/mini-mods-general-suggestions-and-comments/397.rss">Mini Mods General (Suggestions and Comments)</source>
+        </item>
+        <item>
+          <title>Nuclear Waste Cheat Mod</title>
+          <dc:creator><![CDATA[@Andre_Aquila DellAquila]]></dc:creator>
+          <category>Showcase</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/andre_aquila">@Andre_Aquila</a> wrote:</p>
+            <blockquote>
+              <p>CHEAT. Constructor can make Nuclear Waste disappear.</p>
+<p>Prefer those great mods:</p>
+<p>Nuclear Waste Recycle<br>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src="https://ficsit.app/favicon.ico" class="site-icon" width="32" height="32">
+      <a href="https://ficsit.app/mod/ByQfic8tg9ZS6" target="_blank" rel="nofollow noopener">ficsit.app</a>
+  </header>
+  <article class="onebox-body">
+    <img src="https://forums.ficsit.app/uploads/default/original/1X/f02da7f6991dd231eefed9e0b929b9f220067a67.png" class="thumbnail onebox-avatar" width="500" height="500">
+
+<h3><a href="https://ficsit.app/mod/ByQfic8tg9ZS6" target="_blank" rel="nofollow noopener">Mod - SMR</a></h3>
+
+<p>Satisfactory mods, tools, guides and forums. An extension to the FICSIT industries.</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+</p>
+<p>Purex Processing<br>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src="https://ficsit.app/favicon.ico" class="site-icon" width="32" height="32">
+      <a href="https://ficsit.app/mod/7QdMqH2zQjQvYA" target="_blank" rel="nofollow noopener">ficsit.app</a>
+  </header>
+  <article class="onebox-body">
+    <img src="https://forums.ficsit.app/uploads/default/original/1X/f02da7f6991dd231eefed9e0b929b9f220067a67.png" class="thumbnail onebox-avatar" width="500" height="500">
+
+<h3><a href="https://ficsit.app/mod/7QdMqH2zQjQvYA" target="_blank" rel="nofollow noopener">Mod - SMR</a></h3>
+
+<p>Satisfactory mods, tools, guides and forums. An extension to the FICSIT industries.</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+</p>
+<p>Refined Power<br>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src="https://ficsit.app/favicon.ico" class="site-icon" width="32" height="32">
+      <a href="https://ficsit.app/mod/DGiLzB3ZErWu2V" target="_blank" rel="nofollow noopener">ficsit.app</a>
+  </header>
+  <article class="onebox-body">
+    <img src="https://forums.ficsit.app/uploads/default/original/1X/f02da7f6991dd231eefed9e0b929b9f220067a67.png" class="thumbnail onebox-avatar" width="500" height="500">
+
+<h3><a href="https://ficsit.app/mod/DGiLzB3ZErWu2V" target="_blank" rel="nofollow noopener">Mod - SMR</a></h3>
+
+<p>Satisfactory mods, tools, guides and forums. An extension to the FICSIT industries.</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.ficsit.app/t/nuclear-waste-cheat-mod/395">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/nuclear-waste-cheat-mod/395</link>
+          <pubDate>Fri, 17 Apr 2020 11:35:30 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-395</guid>
+          <source url="https://forums.ficsit.app/t/nuclear-waste-cheat-mod/395.rss">Nuclear Waste Cheat Mod</source>
+        </item>
+        <item>
+          <title>Upside Down Foundations and more</title>
+          <dc:creator><![CDATA[@Andre_Aquila DellAquila]]></dc:creator>
+          <category>Showcase</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/andre_aquila">@Andre_Aquila</a> wrote:</p>
+            <blockquote>
+              <p>Foundation 8x1, 8x2, 8x4 and Glass but upside down. Some nature foundation from decoration mods too.</p>
+<p>Adds 4 more foundations that are the vanilla foundation upside down.</p>
+<p>Optional: (Unlocked at Tier 0)<br>
+Adds 12 more foundations from Decoration Mod.</p>
+            </blockquote>
+            <p>Posts: 43</p>
+            <p>Participants: 19</p>
+            <p><a href="https://forums.ficsit.app/t/upside-down-foundations-and-more/375">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/upside-down-foundations-and-more/375</link>
+          <pubDate>Tue, 14 Apr 2020 13:21:48 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-375</guid>
+          <source url="https://forums.ficsit.app/t/upside-down-foundations-and-more/375.rss">Upside Down Foundations and more</source>
+        </item>
+        <item>
+          <title>Packing Items Mod</title>
+          <dc:creator><![CDATA[@Andre_Aquila DellAquila]]></dc:creator>
+          <category>Showcase</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/andre_aquila">@Andre_Aquila</a> wrote:</p>
+            <blockquote>
+              <p>You can pack your items in Workbench or in the Constructor.</p>
+<p>Available for 55 items, turns 50 item in 1 pack of the item for easy transport and storage. The packed item has stack size of 500 and and it’s done really fast.</p>
+<p><strong>Packing</strong></p>
+<ul>
+<li>50 Item =&gt; 1 Packed Item</li>
+</ul>
+<p><strong>Unpacking</strong></p>
+<ul>
+<li>1 Packed Item =&gt; 50 Items</li>
+</ul>
+<p><strong>TO DO:</strong></p>
+<ul>
+<li>Different Icons</li>
+<li>Review Balance</li>
+</ul>
+<p>Maybe this is too powerful right now.</p>
+            </blockquote>
+            <p>Posts: 17</p>
+            <p>Participants: 9</p>
+            <p><a href="https://forums.ficsit.app/t/packing-items-mod/365">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/packing-items-mod/365</link>
+          <pubDate>Mon, 13 Apr 2020 11:19:57 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-365</guid>
+          <source url="https://forums.ficsit.app/t/packing-items-mod/365.rss">Packing Items Mod</source>
+        </item>
+        <item>
+          <title>Half Volume Fluids</title>
+          <dc:creator><![CDATA[@Andre_Aquila DellAquila]]></dc:creator>
+          <category>Showcase</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/andre_aquila">@Andre_Aquila</a> wrote:</p>
+            <blockquote>
+              <p>It does not change the balance and use of resources. An Alternative for not having Pipes MK2/MK3 yet, the possibility with 600m3/1200m3 flow rate in the end.</p>
+<p>Alpha version:</p>
+<p>Good only to transport fluids with long pipes or by trains.<br>
+Not usable in other recipes.<br>
+Water and Crude Oil Only<br>
+Alpha version - New Fluids</p>
+<p>Half V Crude Oil (Emulates a pipe flow 600m3/Train Transport 1000m3)<br>
+Half V Water (Emulates a pipe flow 600m3/Train Transport 1000m3)<br>
+Quarter V Crude Oil(Emulates a pipe flow 1200m3/Train Transport 2000m3)<br>
+Quarter V Water (Emulates a pipe flow 1200m3/Train Transport 2000m3)<br>
+Alpha version - New Refinery Recipes to Increasae and Decrease Volume</p>
+<p>300 Crude Oil -&gt; 150 Half Volume Crude Oil<br>
+300 Half Volume Crude Oil -&gt; 150 Quarter Volum Crude Oil<br>
+300 Water -&gt; 150 Half Volume Water<br>
+300 Half Volume Water -&gt; 150 Quarter Volume Water<br>
+TO DO:</p>
+<p>MAKE ALL RECIPES Using less volume items (Or wait someone lauch the Mk2 Pipe) X)</p>
+            </blockquote>
+            <p>Posts: 19</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.ficsit.app/t/half-volume-fluids/355">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/half-volume-fluids/355</link>
+          <pubDate>Sat, 11 Apr 2020 20:16:44 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-355</guid>
+          <source url="https://forums.ficsit.app/t/half-volume-fluids/355.rss">Half Volume Fluids</source>
+        </item>
+        <item>
+          <title>Buildable Power Shard</title>
+          <dc:creator><![CDATA[@Andre_Aquila DellAquila]]></dc:creator>
+          <category>Showcase</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/andre_aquila">@Andre_Aquila</a> wrote:</p>
+            <blockquote>
+              <p>CHEAT. A Tier 7 very expensive recipe for you to produce your own Power Shards.</p>
+<p><strong>Manufacturer (Ready in 10 minutes)</strong></p>
+<ul>
+<li>28 Turbo Motor</li>
+<li>56 Battery</li>
+<li>6 Nuclear Fuel Rod</li>
+<li>10 Adaptive Control Unit</li>
+</ul>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.ficsit.app/t/buildable-power-shard/346">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/buildable-power-shard/346</link>
+          <pubDate>Fri, 10 Apr 2020 19:27:47 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-346</guid>
+          <source url="https://forums.ficsit.app/t/buildable-power-shard/346.rss">Buildable Power Shard</source>
+        </item>
+        <item>
+          <title>Easy Refinery Mod</title>
+          <dc:creator><![CDATA[@Andre_Aquila DellAquila]]></dc:creator>
+          <category>Showcase</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/andre_aquila">@Andre_Aquila</a> wrote:</p>
+            <blockquote>
+              <p>New direct recipes for Plastic, Rubber, Polymer Resin, Fuel, Heavy Oil, Alumina Solution and Aluminum Scrap. This mod change the balance of refineries, making it easy to handle. Its a CHEAT.</p>
+<ul>
+<li>
+<strong>Easy Plastic</strong>  : 25 Oil &gt; 20 Plastic</li>
+<li>
+<strong>Easy Rubber</strong>  : 20 Oil &gt; 20 Rubber</li>
+<li>
+<strong>Easy Polymer Resin</strong>  : 50 Oil &gt; 130 Polymer Resin</li>
+<li>
+<strong>Easy Heavy Oil</strong>  : 20,8 Oil &gt; 40 Heavy Oil</li>
+<li>
+<strong>Easy Fuel</strong> : 13,4 Oil -&gt; 16 Fuel</li>
+<li>
+<strong>Easy Alumina Solution</strong>  : 40 Water + 65 Bauxite &gt; 80 Alumina</li>
+<li>
+<strong>Easy Aluminum Scrap</strong>  : 300 Alumina + 80 Petroleum Coke &gt; 500 Aluminium Scrap</li>
+<li>
+<strong>Easy Aluminum Scrap Alternative</strong>  : 295 Alumina + 90 coal &gt; 500 Aluminium Scrap</li>
+</ul>
+            </blockquote>
+            <p>Posts: 8</p>
+            <p>Participants: 3</p>
+            <p><a href="https://forums.ficsit.app/t/easy-refinery-mod/344">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/easy-refinery-mod/344</link>
+          <pubDate>Fri, 10 Apr 2020 17:44:07 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-344</guid>
+          <source url="https://forums.ficsit.app/t/easy-refinery-mod/344.rss">Easy Refinery Mod</source>
+        </item>
+        <item>
+          <title>Liquify Raw Materials</title>
+          <dc:creator><![CDATA[@Andre_Aquila DellAquila]]></dc:creator>
+          <category>Showcase</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/andre_aquila">@Andre_Aquila</a> wrote:</p>
+            <blockquote>
+              <p>Change Oil, Limestone, Iron Ore, Copper Ore, Coal, Bauxite, Caterium Ore, Raw Quartz, Sulfur and Uranium Ore into fluids and solids allowing using pipes, containers and tanks for logistics.</p>
+            </blockquote>
+            <p>Posts: 11</p>
+            <p>Participants: 6</p>
+            <p><a href="https://forums.ficsit.app/t/liquify-raw-materials/335">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/liquify-raw-materials/335</link>
+          <pubDate>Wed, 08 Apr 2020 19:44:51 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-335</guid>
+          <source url="https://forums.ficsit.app/t/liquify-raw-materials/335.rss">Liquify Raw Materials</source>
+        </item>
+        <item>
+          <title>Invisible PowerLine</title>
+          <dc:creator><![CDATA[@Andre_Aquila DellAquila]]></dc:creator>
+          <category>Showcase</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/andre_aquila">@Andre_Aquila</a> wrote:</p>
+            <blockquote>
+              <p>Have a factory with less visual pollution. This mod adds an invisible cable to connect poles.</p>
+<p>The invisible power line has same price and same max length.</p>
+            </blockquote>
+            <p>Posts: 4</p>
+            <p>Participants: 3</p>
+            <p><a href="https://forums.ficsit.app/t/invisible-powerline/327">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/invisible-powerline/327</link>
+          <pubDate>Mon, 06 Apr 2020 19:26:00 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-327</guid>
+          <source url="https://forums.ficsit.app/t/invisible-powerline/327.rss">Invisible PowerLine</source>
+        </item>
+        <item>
+          <title>Big Statues Mod</title>
+          <dc:creator><![CDATA[@Andre_Aquila DellAquila]]></dc:creator>
+          <category>Showcase</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/andre_aquila">@Andre_Aquila</a> wrote:</p>
+            <blockquote>
+              <p>Buildable trophies are 15x their sizes. Trophies still have the same costs in Coupons, but is buildable from Build menu.</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.ficsit.app/t/big-statues-mod/325">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/big-statues-mod/325</link>
+          <pubDate>Mon, 06 Apr 2020 14:36:22 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-325</guid>
+          <source url="https://forums.ficsit.app/t/big-statues-mod/325.rss">Big Statues Mod</source>
+        </item>
+        <item>
+          <title>Production Plus +</title>
+          <dc:creator><![CDATA[@Andre_Aquila DellAquila]]></dc:creator>
+          <category>Showcase</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/andre_aquila">@Andre_Aquila</a> wrote:</p>
+            <blockquote>
+              <p><strong>ALPHA VERSION</strong></p>
+<p>Adds new items to build. DOES NOT CHANGE ANYTHING in your current factory. Only minimalistic icons and 3D assets made in tinkercad by the author.</p>
+<p>TO DO</p>
+<ul>
+<li>Better Icons</li>
+<li>Better 3D sprites</li>
+<li>Space Rocket and Satellites</li>
+<li>New Nuclear Process</li>
+<li>Decorative Turrets and Walls</li>
+<li>Energy value to fluids</li>
+</ul>
+            </blockquote>
+            <p>Posts: 6</p>
+            <p>Participants: 3</p>
+            <p><a href="https://forums.ficsit.app/t/production-plus/320">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/production-plus/320</link>
+          <pubDate>Sun, 05 Apr 2020 22:36:42 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-320</guid>
+          <source url="https://forums.ficsit.app/t/production-plus/320.rss">Production Plus +</source>
+        </item>
+        <item>
+          <title>Icon Signs Illuminated Mod</title>
+          <dc:creator><![CDATA[@Andre_Aquila DellAquila]]></dc:creator>
+          <category>Showcase</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/andre_aquila">@Andre_Aquila</a> wrote:</p>
+            <blockquote>
+              <p>Some big stackable icon signs and 3D items for you to place wherever you want in your factory.</p>
+<p>There are 90 Stackable Big Icons and 67 3D items to put on belts, containers, machines or wherever you want.</p>
+<p>Just a DECORATIVE thing, doesn’t change anything in your factory.</p>
+<p>To do</p>
+<ul>
+<li>Make it all in one item and make a GUI for change icons</li>
+<li>Add Small Icons Signs or make it sizeble</li>
+<li>Add some Icons to build on Walls</li>
+</ul>
+            </blockquote>
+            <p>Posts: 23</p>
+            <p>Participants: 11</p>
+            <p><a href="https://forums.ficsit.app/t/icon-signs-illuminated-mod/307">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/icon-signs-illuminated-mod/307</link>
+          <pubDate>Sat, 04 Apr 2020 17:12:54 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-307</guid>
+          <source url="https://forums.ficsit.app/t/icon-signs-illuminated-mod/307.rss">Icon Signs Illuminated Mod</source>
+        </item>
+        <item>
+          <title>Decoration Mod -</title>
+          <dc:creator><![CDATA[@Andre_Aquila DellAquila]]></dc:creator>
+          <category>Showcase</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/andre_aquila">@Andre_Aquila</a> wrote:</p>
+            <blockquote>
+              <p>Environment items that you can place on your Factory.</p>
+<p><strong>To Do List</strong></p>
+<ul>
+<li>Make it possible to construct on the decorations you build (Mountains)</li>
+<li>Make the Clean Foundation and Letter Boxes Paintable</li>
+<li>Need different icons</li>
+<li>Better names for items</li>
+<li>More functionalities for the items</li>
+<li>More subdivisions/categories</li>
+<li>Nature Ramps 8x1</li>
+<li>Foundation 8x1 wood / Ramp 8x1 wood</li>
+<li>Wooden Walls / Grass Walls / Desert Sand Walls / Rock Walls</li>
+<li>Turn all products in decorations</li>
+</ul>
+            </blockquote>
+            <p>Posts: 20</p>
+            <p>Participants: 8</p>
+            <p><a href="https://forums.ficsit.app/t/decoration-mod/290">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/decoration-mod/290</link>
+          <pubDate>Tue, 31 Mar 2020 22:03:27 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-290</guid>
+          <source url="https://forums.ficsit.app/t/decoration-mod/290.rss">Decoration Mod -</source>
+        </item>
+        <item>
+          <title>.bat template for automatically loading KronosMod &amp; SML</title>
+          <dc:creator><![CDATA[@Ryder17z Ryder17z]]></dc:creator>
+          <category>Showcase</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/ryder17z">@Ryder17z</a> wrote:</p>
+            <blockquote>
+              <p>In order to get the mod loader and Kronos Mod to load automatically, i created a batch file:</p>
+<blockquote>
+<p>start factorygame.exe<br>
+timeout 20<br>
+START /D .\KronosMod .\KronosMod\KronosMod-Launcher.exe</p>
+</blockquote>
+<p>it should be put inside the install directory of Satisfactory, where you find FactoryGame.exe<br>
+Then create a shortcut to the batch file on your desktop or somewhere for easy access.</p>
+<p>If you have slow load times you might have to increase the line “timeout” from 20 seconds to a higher value.</p>
+            </blockquote>
+            <p>Posts: 3</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.ficsit.app/t/bat-template-for-automatically-loading-kronosmod-sml/252">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/bat-template-for-automatically-loading-kronosmod-sml/252</link>
+          <pubDate>Sat, 21 Mar 2020 18:47:20 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-252</guid>
+          <source url="https://forums.ficsit.app/t/bat-template-for-automatically-loading-kronosmod-sml/252.rss">.bat template for automatically loading KronosMod &amp; SML</source>
+        </item>
+        <item>
+          <title>Light It Up - End the darkness of Satisfactory</title>
+          <dc:creator><![CDATA[@Panakotta00 Panakotta00]]></dc:creator>
+          <category>Showcase</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/panakotta00">@Panakotta00</a> wrote:</p>
+            <blockquote>
+              <p>Satisfactorys nights and caves can be scary and dark, but you can end this with the Light It Up mod! It provides multiple different lights for any situation. You can also group lamps together to control multiple lights with just a couple of clicks!</p>
+<p>Check it out now, on SMR!</p>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src="https://ficsit.app/favicon.ico" class="site-icon" width="32" height="32">
+      <a href="https://ficsit.app/mod/AT6Zj38KmcKgZ6" target="_blank" rel="nofollow noopener">ficsit.app</a>
+  </header>
+  <article class="onebox-body">
+    <img src="https://storage.ficsit.app/file/smr-prod/images/mods/AT6Zj38KmcKgZ6/logo.webp" class="thumbnail onebox-avatar" width="500" height="500">
+
+<h3><a href="https://ficsit.app/mod/AT6Zj38KmcKgZ6" target="_blank" rel="nofollow noopener">Light It Up - SMR</a></h3>
+
+<p>A Satisfactory Mod which adds a couple of Lamps to the game.</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+            </blockquote>
+            <p>Posts: 16</p>
+            <p>Participants: 10</p>
+            <p><a href="https://forums.ficsit.app/t/light-it-up-end-the-darkness-of-satisfactory/45">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/light-it-up-end-the-darkness-of-satisfactory/45</link>
+          <pubDate>Sat, 09 Nov 2019 23:28:54 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-45</guid>
+          <source url="https://forums.ficsit.app/t/light-it-up-end-the-darkness-of-satisfactory/45.rss">Light It Up - End the darkness of Satisfactory</source>
+        </item>
+        <item>
+          <title>Satisfactory Modding Documentation</title>
+          <dc:creator><![CDATA[@Panakotta00 Panakotta00]]></dc:creator>
+          <category>Showcase</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/panakotta00">@Panakotta00</a> wrote:</p>
+            <blockquote>
+              <p>This will help you out to get started in modding Satisfactory. It provides information about Unreal and its internal architecture, concepts used by Satisfactory, structures/descriptions of Satisfactory Classes, guides to get started in Pak and C++ modding and reference for SML itself.</p>
+<p>Check it out here: <a href="https://docs.ficsit.app/" rel="nofollow noopener">https://docs.ficsit.app/</a></p>
+            </blockquote>
+            <p>Posts: 4</p>
+            <p>Participants: 4</p>
+            <p><a href="https://forums.ficsit.app/t/satisfactory-modding-documentation/44">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/satisfactory-modding-documentation/44</link>
+          <pubDate>Sat, 09 Nov 2019 23:24:53 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-44</guid>
+          <source url="https://forums.ficsit.app/t/satisfactory-modding-documentation/44.rss">Satisfactory Modding Documentation</source>
+        </item>
+        <item>
+          <title>About the Showcase category</title>
+          <dc:creator><![CDATA[@Vilsol]]></dc:creator>
+          <category>Showcase</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/vilsol">@Vilsol</a> wrote:</p>
+            <blockquote>
+              <p>Show off your builds, mods, world, or just about anything related to Satisfactory.</p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.ficsit.app/t/about-the-showcase-category/36">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/about-the-showcase-category/36</link>
+          <pubDate>Fri, 08 Nov 2019 17:13:54 +0000</pubDate>
+          <discourse:topicPinned>Yes</discourse:topicPinned>
+          <discourse:topicClosed>Yes</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-36</guid>
+          <source url="https://forums.ficsit.app/t/about-the-showcase-category/36.rss">About the Showcase category</source>
+        </item>
+  </channel>
+</rss>

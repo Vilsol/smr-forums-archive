@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Awesome sink item adder</title>
+    <link>https://forums.ficsit.app/t/awesome-sink-item-adder/413</link>
+    <description>is their a way to add an item to the awesome sink such as a mod item</description>
+    
+    <lastBuildDate>Sun, 19 Apr 2020 17:21:06 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/awesome-sink-item-adder/413.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Awesome sink item adder</title>
+        <dc:creator><![CDATA[@skellykat Skellykat]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/skellykat">@skellykat</a> wrote:</p>
+          <blockquote>
+              <p>is their a way to add an item to the awesome sink such as a mod item</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/awesome-sink-item-adder/413/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/awesome-sink-item-adder/413/1</link>
+        <pubDate>Sun, 19 Apr 2020 17:21:06 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-413-1</guid>
+        <source url="https://forums.ficsit.app/t/awesome-sink-item-adder/413.rss">Awesome sink item adder</source>
+      </item>
+  </channel>
+</rss>

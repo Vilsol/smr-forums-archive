@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Uniform nodes mod?</title>
+    <link>https://forums.ficsit.app/t/uniform-nodes-mod/743</link>
+    <description>gday from oz, up until the past couple of days i’ve been able to use this https://ficsit.app/mod/BvjoAkQLbHxwy2 but the author has updated it and now it’s elbusto if i try to use it, it will crash to the desktop lickety split… i cant find anywhere to contact the author, so i’m posting here, if this is in the wrong place then feel free to move it, i’ve tried to use the first version that worked fine but every time i load smm it seems to reset it to the latest, which is broken… any advice please, thanks</description>
+    
+    <lastBuildDate>Tue, 03 Nov 2020 10:25:38 +0000</lastBuildDate>
+    <category>SMR</category>
+    <atom:link href="https://forums.ficsit.app/t/uniform-nodes-mod/743.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Uniform nodes mod?</title>
+        <dc:creator><![CDATA[@Tommy_Korner Tommy Korner]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/tommy_korner">@Tommy_Korner</a> wrote:</p>
+          <blockquote>
+              <p>Hi Jacob. Awesome mod. Quick question. How would I add “Element65” to th elist of nodes to transform? Thanks mate.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/uniform-nodes-mod/743/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/uniform-nodes-mod/743/5</link>
+        <pubDate>Tue, 03 Nov 2020 10:25:38 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-743-5</guid>
+        <source url="https://forums.ficsit.app/t/uniform-nodes-mod/743.rss">Uniform nodes mod?</source>
+      </item>
+      <item>
+        <title>Uniform nodes mod?</title>
+        <dc:creator><![CDATA[@andrew_gatenby ozmods]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/andrew_gatenby">@andrew_gatenby</a> wrote:</p>
+          <blockquote>
+              <p>hi jacob,<br>
+it crashes on world load, it’s fine before then. i’ve gone back to v.1 that one works the others dont… not sure why,</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/uniform-nodes-mod/743/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/uniform-nodes-mod/743/4</link>
+        <pubDate>Thu, 16 Jul 2020 02:12:34 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-743-4</guid>
+        <source url="https://forums.ficsit.app/t/uniform-nodes-mod/743.rss">Uniform nodes mod?</source>
+      </item>
+      <item>
+        <title>Uniform nodes mod?</title>
+        <dc:creator><![CDATA[@Jacob_Shockley Jacob Shockley]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jacob_shockley">@Jacob_Shockley</a> wrote:</p>
+          <blockquote>
+              <p>Also I might suggest deleting the old config</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/uniform-nodes-mod/743/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/uniform-nodes-mod/743/3</link>
+        <pubDate>Wed, 15 Jul 2020 23:23:03 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-743-3</guid>
+        <source url="https://forums.ficsit.app/t/uniform-nodes-mod/743.rss">Uniform nodes mod?</source>
+      </item>
+      <item>
+        <title>Uniform nodes mod?</title>
+        <dc:creator><![CDATA[@Jacob_Shockley Jacob Shockley]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jacob_shockley">@Jacob_Shockley</a> wrote:</p>
+          <blockquote>
+              <p>Hey, the mod author here, can you tell me when it crashes exactly? On launch or on world load? Also could I get pastebins of the logs?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/uniform-nodes-mod/743/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/uniform-nodes-mod/743/2</link>
+        <pubDate>Wed, 15 Jul 2020 23:20:06 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-743-2</guid>
+        <source url="https://forums.ficsit.app/t/uniform-nodes-mod/743.rss">Uniform nodes mod?</source>
+      </item>
+      <item>
+        <title>Uniform nodes mod?</title>
+        <dc:creator><![CDATA[@andrew_gatenby ozmods]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/andrew_gatenby">@andrew_gatenby</a> wrote:</p>
+          <blockquote>
+              <p>gday from oz, up until the past couple of days i’ve been able to use this <a href="https://ficsit.app/mod/BvjoAkQLbHxwy2" rel="nofollow noopener">https://ficsit.app/mod/BvjoAkQLbHxwy2</a> but the author has updated it and now it’s elbusto if i try to use it, it will crash to the desktop lickety split… i cant find anywhere to contact the author, so i’m posting here, if this is in the wrong place then feel free to move it, i’ve tried to use the first version that worked fine but every time i load smm it seems to reset it to the latest, which is broken… any advice please, thanks</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/uniform-nodes-mod/743/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/uniform-nodes-mod/743/1</link>
+        <pubDate>Sun, 12 Jul 2020 11:10:06 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-743-1</guid>
+        <source url="https://forums.ficsit.app/t/uniform-nodes-mod/743.rss">Uniform nodes mod?</source>
+      </item>
+  </channel>
+</rss>

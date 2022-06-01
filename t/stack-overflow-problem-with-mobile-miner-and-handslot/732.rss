@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Stack Overflow problem with mobile miner and handslot</title>
+    <link>https://forums.ficsit.app/t/stack-overflow-problem-with-mobile-miner-and-handslot/732</link>
+    <description>I apologize, my english is really bad.
+
+Stackable mobile miners are a problem with Stack Overflow. If I pick up the stack in the hand slot and drop it on an ressource node, the entire stack becomes to one miner. Even after taking it up it&#39;s just one miner.
+
+I hope I could describe the problem clearly</description>
+    
+    <lastBuildDate>Thu, 09 Jul 2020 13:23:31 +0000</lastBuildDate>
+    <category>Suggestions &amp; Ideas</category>
+    <atom:link href="https://forums.ficsit.app/t/stack-overflow-problem-with-mobile-miner-and-handslot/732.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Stack Overflow problem with mobile miner and handslot</title>
+        <dc:creator><![CDATA[@Torsten_Kolling Torsten Kolling]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/torsten_kolling">@Torsten_Kolling</a> wrote:</p>
+          <blockquote>
+              <p>I apologize, my english is really bad.</p>
+<p>Stackable mobile miners are a problem with Stack Overflow. If I pick up the stack in the hand slot and drop it on an ressource node, the entire stack becomes to one miner. Even after taking it up it’s just one miner.</p>
+<p>I hope I could describe the problem clearly</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/stack-overflow-problem-with-mobile-miner-and-handslot/732/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/stack-overflow-problem-with-mobile-miner-and-handslot/732/1</link>
+        <pubDate>Thu, 09 Jul 2020 13:23:31 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-732-1</guid>
+        <source url="https://forums.ficsit.app/t/stack-overflow-problem-with-mobile-miner-and-handslot/732.rss">Stack Overflow problem with mobile miner and handslot</source>
+      </item>
+  </channel>
+</rss>

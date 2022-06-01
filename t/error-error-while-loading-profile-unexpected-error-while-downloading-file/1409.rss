@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Error Error while loading profile: Unexpected error while downloading file</title>
+    <link>https://forums.ficsit.app/t/error-error-while-loading-profile-unexpected-error-while-downloading-file/1409</link>
+    <description>![MWF4%606YG3%7B_OBHMY8DWS3ON|323x500](upload://oCgYgM666ePL4XaNgLYg3I3AFZQ.png) 
+
+当你第一次打开MOD管理器，并且找到想要的MOD点击下载时！出现下载SML出错提示！
+别担心！我找到了解决方法！
+
+
+①首先你应该让他弹出此错误一次！
+
+
+②win+R打开运行  输入这段神秘代码:%LOCALAPPDATA%  如图所示！
+
+![O_6C1L1%7D%5D88%25XG3O%5B5H%40M7S|413x237](upload://ofdUyfSxERGTaI7WEvMOZwmhtwh.png) 
+
+
+点击确定！
+
+③在打开的文件夹中找到 AppData\Local\SatisfactoryModManager\downloadCache\smlVersions\3.1.1文件夹，看看里面有没有东西，有的话就删除清空！
+
+
+④然后你可以找你的朋友把他的3.1.1文件夹里的 SML.smod 复制给你，粘贴进去就行了！
+或者下载我提供的 SML.smod 但是这个网站好像没有办法上传文件并提供下载！以后再说
+
+⑤然后打开Satisfactory游戏文件夹，找到 Satisfactory\FactoryGame\Mods\SML 查看里面是否有文件 和图片一样的哦！
+
+![6%25%7D%40%60%5D2%5B%5D16N%604M0YO7EDI8|690x386](upload://4GIokHXOETx3ZvsAYEKghPzqnce.png) 
+
+如果没有  请到 https://github.com/satisfactorymodding/SatisfactoryModLoader/releases/tag/3.1.1 下载sml.zip 并且解压到MOD文件夹里！
+
+
+⑥此时再重新打开MOD管理器  然后设置profile:为 development   恭喜你 大功告成！
+
+![LA2%24O)%258W3PY%25%40Q72)6RUAU|550x232](upload://8j0xp8mtUyLW7pkMI9u4d7BJBOC.png) 
+
+
+你可以下载自己喜欢的MOD了  ！</description>
+    
+    <lastBuildDate>Thu, 07 Oct 2021 18:24:07 +0000</lastBuildDate>
+    <category>SML</category>
+    <atom:link href="https://forums.ficsit.app/t/error-error-while-loading-profile-unexpected-error-while-downloading-file/1409.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Error Error while loading profile: Unexpected error while downloading file</title>
+        <dc:creator><![CDATA[@I_m_a_chicken29 Im A Chicken29]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/i_m_a_chicken29">@I_m_a_chicken29</a> wrote:</p>
+          <blockquote>
+              <p>use vpn china blocks stuff</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/error-error-while-loading-profile-unexpected-error-while-downloading-file/1409/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/error-error-while-loading-profile-unexpected-error-while-downloading-file/1409/2</link>
+        <pubDate>Thu, 07 Oct 2021 18:24:07 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1409-2</guid>
+        <source url="https://forums.ficsit.app/t/error-error-while-loading-profile-unexpected-error-while-downloading-file/1409.rss">Error Error while loading profile: Unexpected error while downloading file</source>
+      </item>
+      <item>
+        <title>Error Error while loading profile: Unexpected error while downloading file</title>
+        <dc:creator><![CDATA[@LinHaoNan98 Lin Hao Nan]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/linhaonan98">@LinHaoNan98</a> wrote:</p>
+          <blockquote>
+              <p><div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/ac87c07f1a26bd92a49ce9529276013b1079b2ee.png" data-download-href="https://forums.ficsit.app/uploads/default/ac87c07f1a26bd92a49ce9529276013b1079b2ee" title="MWF4%606YG3%7B_OBHMY8DWS3ON"><img src="https://forums.ficsit.app/uploads/default/original/1X/ac87c07f1a26bd92a49ce9529276013b1079b2ee.png" alt="MWF4%606YG3%7B_OBHMY8DWS3ON" data-base62-sha1="oCgYgM666ePL4XaNgLYg3I3AFZQ" width="323" height="500" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/ac87c07f1a26bd92a49ce9529276013b1079b2ee_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">MWF4%606YG3%7B_OBHMY8DWS3ON</span><span class="informations">550×850 48.1 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>当你第一次打开MOD管理器，并且找到想要的MOD点击下载时！出现下载SML出错提示！<br>
+别担心！我找到了解决方法！</p>
+<p>①首先你应该让他弹出此错误一次！</p>
+<p>②win+R打开运行  输入这段神秘代码:%LOCALAPPDATA%  如图所示！</p>
+<p><img src="https://forums.ficsit.app/uploads/default/original/1X/a9ecbe3819dd4e4e909f3b7c788ab97ffc88335d.png" alt="O_6C1L1%7D%5D88%25XG3O%5B5H%40M7S" data-base62-sha1="ofdUyfSxERGTaI7WEvMOZwmhtwh" width="413" height="237"></p>
+<p>点击确定！</p>
+<p>③在打开的文件夹中找到 AppData\Local\SatisfactoryModManager\downloadCache\smlVersions\3.1.1文件夹，看看里面有没有东西，有的话就删除清空！</p>
+<p>④然后你可以找你的朋友把他的3.1.1文件夹里的 SML.smod 复制给你，粘贴进去就行了！<br>
+或者下载我提供的 SML.smod 但是这个网站好像没有办法上传文件并提供下载！以后再说</p>
+<p>⑤然后打开Satisfactory游戏文件夹，找到 Satisfactory\FactoryGame\Mods\SML 查看里面是否有文件 和图片一样的哦！</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/20dcd2f787a35096a64d850f92011bb64e916392.png" data-download-href="https://forums.ficsit.app/uploads/default/20dcd2f787a35096a64d850f92011bb64e916392" title="6%25%7D%40%60%5D2%5B%5D16N%604M0YO7EDI8"><img src="https://forums.ficsit.app/uploads/default/optimized/1X/20dcd2f787a35096a64d850f92011bb64e916392_2_690x386.png" alt="6%25%7D%40%60%5D2%5B%5D16N%604M0YO7EDI8" data-base62-sha1="4GIokHXOETx3ZvsAYEKghPzqnce" width="690" height="386" srcset="https://forums.ficsit.app/uploads/default/optimized/1X/20dcd2f787a35096a64d850f92011bb64e916392_2_690x386.png, https://forums.ficsit.app/uploads/default/optimized/1X/20dcd2f787a35096a64d850f92011bb64e916392_2_1035x579.png 1.5x, https://forums.ficsit.app/uploads/default/original/1X/20dcd2f787a35096a64d850f92011bb64e916392.png 2x" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/20dcd2f787a35096a64d850f92011bb64e916392_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">6%25%7D%40%60%5D2%5B%5D16N%604M0YO7EDI8</span><span class="informations">1119×626 30.8 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>如果没有  请到 <a href="https://github.com/satisfactorymodding/SatisfactoryModLoader/releases/tag/3.1.1" rel="nofollow noopener">https://github.com/satisfactorymodding/SatisfactoryModLoader/releases/tag/3.1.1</a> 下载sml.zip 并且解压到MOD文件夹里！</p>
+<p>⑥此时再重新打开MOD管理器  然后设置profile:为 development   恭喜你 大功告成！</p>
+<p><img src="https://forums.ficsit.app/uploads/default/original/1X/3a3778825e3521dbe4d15138e1e8c48eebe7701e.png" alt="LA2%24O)%258W3PY%25%40Q72)6RUAU" data-base62-sha1="8j0xp8mtUyLW7pkMI9u4d7BJBOC" width="550" height="232"></p>
+<p>你可以下载自己喜欢的MOD了  ！</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/error-error-while-loading-profile-unexpected-error-while-downloading-file/1409/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/error-error-while-loading-profile-unexpected-error-while-downloading-file/1409/1</link>
+        <pubDate>Thu, 07 Oct 2021 02:32:00 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1409-1</guid>
+        <source url="https://forums.ficsit.app/t/error-error-while-loading-profile-unexpected-error-while-downloading-file/1409.rss">Error Error while loading profile: Unexpected error while downloading file</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Refined Power:Arc Reactor worth the effort?</title>
+    <link>https://forums.ficsit.app/t/refined-power-arc-reactor-worth-the-effort/298</link>
+    <description>TL;DR - For the possible power you can get from the ARC Reactor, it is not worth the effort (compared to vanilla power options) to go through all the steps to achieve ARC power.
+
+Here&#39;s the numbers in my scenario: (**All numbers are AS OF THE DATE OF THIS POST**)
+600pm E65 mined
+600pm E65 + 60pm Sulfuric acid in 8 refineries = 60pm refined E65
+60pm refined E65 + 600pm uranium in 16 refineries = 120pm Unfiltered Deuterium
+120pm Unfiltered Deuterium + 240pm packaged water in 16 refineries = 120pm Liquid Deuterium
+120pm Liquid Deuterium + 24 Advanced reactor casings in 48 refineries = 24pm Advanced Reactor Core
+
+According to the mod page &quot;Reactor will consume 10 Cores per minute, and 30m^3 of coolant per minute at max capacity.&quot;
+
+So, by my calculations all the work above in 88 refineries will produce enough cores to run 2 ARC Reactors generating a total of 10GW. That&#39;s not including the dozens of other support machines to supply coolant powder, packaged water, sulfuric acid, uranium, and advanced reactor casings.
+
+By contrast, I have a fuel generator farm of 40 generators producing 6GW from turbo fuel. This is done with one Oil Extractor, 14 refineries, and of course the 40 fuel generators. There is a small amount of compacted coal needed as well.
+
+I can out produce (12GW to 10GW) 2 ARC Reactors with 2 fuel generator farms for a *small fraction* of the resources and effort. 
+
+I know the recipes have been changed recently and they are MUCH better now but still not worth the effort IMHO. 
+
+My suggestion to calibrate the effort to power ratio: Instead of requiring 10pm cores in the reactors, change it to 2pm. That way, if I do go through the Herculean effort above, at least I&#39;ll come out of it with 50GW of power instead of 10GW.
+
+If my math is wrong, please correct me. I realize the mod is a WIP and so I offer this feedback to make it better. Thanks for the awesome work so far and keep it up! :+1:</description>
+    
+    <lastBuildDate>Thu, 04 Jun 2020 19:31:45 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/refined-power-arc-reactor-worth-the-effort/298.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Refined Power:Arc Reactor worth the effort?</title>
+        <dc:creator><![CDATA[@Robert_Schutt Robert]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/robert_schutt">@Robert_Schutt</a> wrote:</p>
+          <blockquote>
+              <p>I wanted to chime in on the balance talk of the arc reactor. I was interested in setting it up instead of using vanilla nuclear in order to avoid the waste issue.<br>
+After I went through the production chain and put the recipes in my calculation it was strange to get such little energy out of it. My calculation was based on 300 E65 per minute from a normal node in the desert. Based on this amount, the resulting 12 cores per minute could only support two reactors giving me 10 GW sustainably. By contrast - the 300 required Uranium per minute could be converted into 45 GW with the basic vanilla recipes and over 230 GW going the alternate route. So in my opinion 5 cores per minute is still way off. (also, it would be nice to get the empty cores back from the reactor since heavy frame production is “expenive”. Just kidding, I know, there has to be a balance drawback, but plastic canisters can also be recycled <img src="https://forums.ficsit.app/images/emoji/twitter/wink.png?v=9" title=":wink:" class="emoji" alt=":wink:"><br>
+Another thing, that’s a bit off, is the relatively simple and cheap production chain for the coolant in comparison to the fuel chain.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/refined-power-arc-reactor-worth-the-effort/298/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/refined-power-arc-reactor-worth-the-effort/298/3</link>
+        <pubDate>Thu, 04 Jun 2020 19:31:45 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-298-3</guid>
+        <source url="https://forums.ficsit.app/t/refined-power-arc-reactor-worth-the-effort/298.rss">Refined Power:Arc Reactor worth the effort?</source>
+      </item>
+      <item>
+        <title>Refined Power:Arc Reactor worth the effort?</title>
+        <dc:creator><![CDATA[@mrhid6 Mrhid6]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/mrhid6">@mrhid6</a> wrote:</p>
+          <blockquote>
+              <p>Hi Joe,</p>
+<p>The recipes have been updated in the latest version and i have just got round to updating the mod page.</p>
+<p>Please also bare in mind that these figures are at 100% utilization so Items/Min could be different based on power consumption in your factory.</p>
+<blockquote>
+<p>Reactor will consume 5 Cores per minute at 100% utilisation, and 5m^3 of coolant per minute at max capacity.</p>
+</blockquote>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/refined-power-arc-reactor-worth-the-effort/298/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/refined-power-arc-reactor-worth-the-effort/298/2</link>
+        <pubDate>Fri, 03 Apr 2020 02:34:18 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-298-2</guid>
+        <source url="https://forums.ficsit.app/t/refined-power-arc-reactor-worth-the-effort/298.rss">Refined Power:Arc Reactor worth the effort?</source>
+      </item>
+      <item>
+        <title>Refined Power:Arc Reactor worth the effort?</title>
+        <dc:creator><![CDATA[@Joe_Bryant Joe Bryant]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/joe_bryant">@Joe_Bryant</a> wrote:</p>
+          <blockquote>
+              <p>TL;DR - For the possible power you can get from the ARC Reactor, it is not worth the effort (compared to vanilla power options) to go through all the steps to achieve ARC power.</p>
+<p>Here’s the numbers in my scenario: (<strong>All numbers are AS OF THE DATE OF THIS POST</strong>)<br>
+600pm E65 mined<br>
+600pm E65 + 60pm Sulfuric acid in 8 refineries = 60pm refined E65<br>
+60pm refined E65 + 600pm uranium in 16 refineries = 120pm Unfiltered Deuterium<br>
+120pm Unfiltered Deuterium + 240pm packaged water in 16 refineries = 120pm Liquid Deuterium<br>
+120pm Liquid Deuterium + 24 Advanced reactor casings in 48 refineries = 24pm Advanced Reactor Core</p>
+<p>According to the mod page “Reactor will consume 10 Cores per minute, and 30m^3 of coolant per minute at max capacity.”</p>
+<p>So, by my calculations all the work above in 88 refineries will produce enough cores to run 2 ARC Reactors generating a total of 10GW. That’s not including the dozens of other support machines to supply coolant powder, packaged water, sulfuric acid, uranium, and advanced reactor casings.</p>
+<p>By contrast, I have a fuel generator farm of 40 generators producing 6GW from turbo fuel. This is done with one Oil Extractor, 14 refineries, and of course the 40 fuel generators. There is a small amount of compacted coal needed as well.</p>
+<p>I can out produce (12GW to 10GW) 2 ARC Reactors with 2 fuel generator farms for a <em>small fraction</em> of the resources and effort.</p>
+<p>I know the recipes have been changed recently and they are MUCH better now but still not worth the effort IMHO.</p>
+<p>My suggestion to calibrate the effort to power ratio: Instead of requiring 10pm cores in the reactors, change it to 2pm. That way, if I do go through the Herculean effort above, at least I’ll come out of it with 50GW of power instead of 10GW.</p>
+<p>If my math is wrong, please correct me. I realize the mod is a WIP and so I offer this feedback to make it better. Thanks for the awesome work so far and keep it up! <img src="https://forums.ficsit.app/images/emoji/twitter/+1.png?v=9" title=":+1:" class="emoji" alt=":+1:"></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/refined-power-arc-reactor-worth-the-effort/298/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/refined-power-arc-reactor-worth-the-effort/298/1</link>
+        <pubDate>Thu, 02 Apr 2020 18:54:46 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-298-1</guid>
+        <source url="https://forums.ficsit.app/t/refined-power-arc-reactor-worth-the-effort/298.rss">Refined Power:Arc Reactor worth the effort?</source>
+      </item>
+  </channel>
+</rss>

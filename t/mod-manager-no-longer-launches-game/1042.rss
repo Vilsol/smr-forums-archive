@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Mod Manager No longer launches Game</title>
+    <link>https://forums.ficsit.app/t/mod-manager-no-longer-launches-game/1042</link>
+    <description>Mod Manager sets up the mods correctly, but the Launch button does not work. It appears to work for a few seconds, saying the game is running, and then the button changes back to Launch. After setting up my mods and updating everything, I can run the game with mods if I start with the Epic launcher. I see no errors from the Epic launcher. I am running experimental only. Have not tried it with Early Access enabled. It shouldn&#39;t matter since both Early Access and Experimental are at the same build number currently.</description>
+    
+    <lastBuildDate>Mon, 19 Apr 2021 23:44:01 +0000</lastBuildDate>
+    <category>SML</category>
+    <atom:link href="https://forums.ficsit.app/t/mod-manager-no-longer-launches-game/1042.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Mod Manager No longer launches Game</title>
+        <dc:creator><![CDATA[@Elime_De_La_Video Elimé De La Video]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/elime_de_la_video">@Elime_De_La_Video</a> wrote:</p>
+          <blockquote>
+              <p>So, I think I understand now why my game wasn’t launching whenever I was pressing the Launch button. Basically, I uninstalled all of my mods and I changed the SML version to 3.0.0 and then, I was able to launch the game without mods. After I did this, I was able to reinstall the updated mods and it worked just fine even with mods. Although, It is important to uninstall outdated mods, because the game will launch but the mods won’t load! I hope this helped you… If you have any questions, feel free to ask!</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mod-manager-no-longer-launches-game/1042/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mod-manager-no-longer-launches-game/1042/16</link>
+        <pubDate>Mon, 19 Apr 2021 23:44:01 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1042-16</guid>
+        <source url="https://forums.ficsit.app/t/mod-manager-no-longer-launches-game/1042.rss">Mod Manager No longer launches Game</source>
+      </item>
+      <item>
+        <title>Mod Manager No longer launches Game</title>
+        <dc:creator><![CDATA[@Vanloocke_Axel Vanloocke Axel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/vanloocke_axel">@Vanloocke_Axel</a> wrote:</p>
+          <blockquote>
+              <p>Hello,<br>
+got the same problem : SML is updated, so are my mods. I can launch Satisfactory update 4 (stable version, not the Experimental) with SML and with the Epic launcher. Nothing work.<br>
+I leave a tactical dot here and wait for a miracle :/.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mod-manager-no-longer-launches-game/1042/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mod-manager-no-longer-launches-game/1042/15</link>
+        <pubDate>Thu, 15 Apr 2021 08:09:17 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1042-15</guid>
+        <source url="https://forums.ficsit.app/t/mod-manager-no-longer-launches-game/1042.rss">Mod Manager No longer launches Game</source>
+      </item>
+      <item>
+        <title>Mod Manager No longer launches Game</title>
+        <dc:creator><![CDATA[@logan_jordan Logan Jordan]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/logan_jordan">@logan_jordan</a> wrote:</p>
+          <blockquote>
+              <p>today i can use the launch button but it will not do mods it will launch with no mods activated please if anyone has a solution please please help me</p>
+<p>edit: I went through the mods with the red names witch i think means it is out of date and took them out it might work not sure… fingers crossed</p>
+<p>Edit: nope it doesnt work</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mod-manager-no-longer-launches-game/1042/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mod-manager-no-longer-launches-game/1042/14</link>
+        <pubDate>Wed, 14 Apr 2021 14:12:39 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1042-14</guid>
+        <source url="https://forums.ficsit.app/t/mod-manager-no-longer-launches-game/1042.rss">Mod Manager No longer launches Game</source>
+      </item>
+      <item>
+        <title>Mod Manager No longer launches Game</title>
+        <dc:creator><![CDATA[@Elime_De_La_Video Elimé De La Video]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/elime_de_la_video">@Elime_De_La_Video</a> wrote:</p>
+          <blockquote>
+              <p>I have the same problem as <a class="mention" href="/u/geordiebloke">@Geordiebloke</a> and <a class="mention" href="/u/cuzco25">@cuzco25</a> and I just really don’t know what to do… Everytime I click on the <code>Launch Satisfactory</code> it only becomes more grey then nothing happens. I tried with the SML v2.2.1 and v3.0.0 with and without mods and it just won’t work… I’m playing with Steam and I don’t know how to launch the modded version without the SMM like <a class="mention" href="/u/cuzco25">@cuzco25</a> said on his Edit. If anyone knows how to use mods without having to launch the game via the SMM or if there’s a solution to my problem, it would be very appreciated if you’d tell me! My game version is CL150216 by the way. Thanks for your time!</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mod-manager-no-longer-launches-game/1042/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mod-manager-no-longer-launches-game/1042/13</link>
+        <pubDate>Tue, 13 Apr 2021 21:25:51 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1042-13</guid>
+        <source url="https://forums.ficsit.app/t/mod-manager-no-longer-launches-game/1042.rss">Mod Manager No longer launches Game</source>
+      </item>
+      <item>
+        <title>Mod Manager No longer launches Game</title>
+        <dc:creator><![CDATA[@logan_jordan Logan Jordan]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/logan_jordan">@logan_jordan</a> wrote:</p>
+          <blockquote>
+              <p>my launcher will open for like 5 seconds then just close because update four came out.I am running the game on steam not sure if it is the same thing as epic games launcher kinda with the mods</p>
+<p>anyway please help me <img src="https://forums.ficsit.app/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"> btw today is 4/13/2021</p>
+<p>it also uninstalls the launcher when it closes idk what is wrong</p>
+<p>i also got the latest mod  launcher… but the launch button no work</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mod-manager-no-longer-launches-game/1042/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mod-manager-no-longer-launches-game/1042/12</link>
+        <pubDate>Tue, 13 Apr 2021 20:02:39 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1042-12</guid>
+        <source url="https://forums.ficsit.app/t/mod-manager-no-longer-launches-game/1042.rss">Mod Manager No longer launches Game</source>
+      </item>
+      <item>
+        <title>Mod Manager No longer launches Game</title>
+        <dc:creator><![CDATA[@cuzco25 Cuzco25]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/cuzco25">@cuzco25</a> wrote:</p>
+          <blockquote>
+              <p>I am seeing the same thing as well.  One thing I noticed, is that the mods determine which version is being loaded.  So, i tried unchecking all my mods and selecting the 3.0.0 from Settings -&gt; SML Versions -&gt; 3.0.0.  this way, it would at least tell me what mods won’t work with update 4, in theory.  Even without having any mods checked, it won’t launch the game.  When i launch the game from the .exe, i can see that the mod manager is working at least(shows up in main menu).  the mods i want to use are not, so I can’t say it is loading mods 100%.</p>
+<p>Edit:  Ok, i installed one of the latest mods updated, and it is showing up in the list and is working.  so, the SMM is loading compatible mods, just can’t launch satisfactory from the launch button.</p>
+<p>Edit 2: I am using steam, Early access, not experimental, and it is CL150216 - SML v3.0.0</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mod-manager-no-longer-launches-game/1042/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mod-manager-no-longer-launches-game/1042/11</link>
+        <pubDate>Tue, 13 Apr 2021 19:13:23 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1042-11</guid>
+        <source url="https://forums.ficsit.app/t/mod-manager-no-longer-launches-game/1042.rss">Mod Manager No longer launches Game</source>
+      </item>
+      <item>
+        <title>Mod Manager No longer launches Game</title>
+        <dc:creator><![CDATA[@Geordiebloke Geordiebloke]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/geordiebloke">@Geordiebloke</a> wrote:</p>
+          <blockquote>
+              <p>Hi, I’m brand new to this forum so forgive any etiquette faux-pas, however I’ve just got the latest version of Satisfactory on the ‘normal’ branch today and the Satisfactory Mod manager also updated itself, however it will not now launch my game. (For info: Satisfactory CL150216 and SML v2.2.1.</p>
+<p>I’ve tried the suggestions on this thread, and the game starts no problem from the .exe file, but that by-passes the mods!  The ‘Launch Satisfactory’ bar only changes shades of green, but does not launch the game.  I’ve also tried restarting my PC with no luck.</p>
+<p>Am I missing something obvious or is this a bug in the latest version?</p>
+<p>Thank you in advance!</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mod-manager-no-longer-launches-game/1042/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mod-manager-no-longer-launches-game/1042/10</link>
+        <pubDate>Tue, 13 Apr 2021 18:30:38 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1042-10</guid>
+        <source url="https://forums.ficsit.app/t/mod-manager-no-longer-launches-game/1042.rss">Mod Manager No longer launches Game</source>
+      </item>
+      <item>
+        <title>Mod Manager No longer launches Game</title>
+        <dc:creator><![CDATA[@JamieRCHI Jamie]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jamierchi">@JamieRCHI</a> wrote:</p>
+          <blockquote>
+              <p>Tried to launch directly with the Epic Launcher (with mods) and it doesn’t work either.<br>
+Looks like I will have to wait until this is fixed.<br>
+Edit: I attempted to start the game today (2/12/2021) with Experimental 142854.<br>
+It did not launch with the Epic Launcher. Also started up the Mod Manager. There were a couple of updates but the launcher fails to update and does not give a reason why or tell me what fails.  I did not try to launch the game with the Mod Launcher. I may try to get Early Access build to work, but more likely will go back and play Fallout 4 for awhile.<br>
+Edit Again. Mods will not update in Mod Manager for Either Early access or Experimental.<br>
+Internet Access is fine on my end.<br>
+Edit: Mods are now updating. I can start Early Access with mods and Experimental without.<br>
+(Game launches as above through both SML and Epic Launcher for now.)<br>
+Would be nice to get some real info about what is going on from the developer(s) of the Mod Launcher.</p>
+<p>Final Edit: Here is a link to a post in the Satisfactory Q&amp;A that explains this.<br>
+<a href="https://questions.satisfactorygame.com/post/60266c64fedfd12dd739ac91" class="onebox" target="_blank" rel="nofollow noopener">https://questions.satisfactorygame.com/post/60266c64fedfd12dd739ac91</a></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mod-manager-no-longer-launches-game/1042/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mod-manager-no-longer-launches-game/1042/9</link>
+        <pubDate>Wed, 03 Feb 2021 20:44:36 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1042-9</guid>
+        <source url="https://forums.ficsit.app/t/mod-manager-no-longer-launches-game/1042.rss">Mod Manager No longer launches Game</source>
+      </item>
+      <item>
+        <title>Mod Manager No longer launches Game</title>
+        <dc:creator><![CDATA[@Shorty66666 Shorty66666]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/shorty66666">@Shorty66666</a> wrote:</p>
+          <blockquote>
+              <p>aha cool thanks for the info</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mod-manager-no-longer-launches-game/1042/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mod-manager-no-longer-launches-game/1042/8</link>
+        <pubDate>Wed, 03 Feb 2021 18:43:04 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1042-8</guid>
+        <source url="https://forums.ficsit.app/t/mod-manager-no-longer-launches-game/1042.rss">Mod Manager No longer launches Game</source>
+      </item>
+      <item>
+        <title>Mod Manager No longer launches Game</title>
+        <dc:creator><![CDATA[@I_m_a_chicken29 Im A Chicken29]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/i_m_a_chicken29">@I_m_a_chicken29</a> wrote:</p>
+          <blockquote>
+              <p>Experimental is not supported currently</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mod-manager-no-longer-launches-game/1042/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mod-manager-no-longer-launches-game/1042/7</link>
+        <pubDate>Wed, 03 Feb 2021 17:56:30 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1042-7</guid>
+        <source url="https://forums.ficsit.app/t/mod-manager-no-longer-launches-game/1042.rss">Mod Manager No longer launches Game</source>
+      </item>
+      <item>
+        <title>Mod Manager No longer launches Game</title>
+        <dc:creator><![CDATA[@Shorty66666 Shorty66666]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/shorty66666">@Shorty66666</a> wrote:</p>
+          <blockquote>
+              <p>hi currently nothing works<br>
+i try a totaly new install from epic and SSM i can only start the came when i have no mod selected</p>
+<p>if i have one or more mods selectet it wil not work not starting from SMM and also epic launger or when i start the .exe in the root from SatisfactoryExperimental/…exe or in the SatisfactoryExperimental/Factory Game/Binaris/Win64/…exe</p>
+<p>could some one help me</p>
+<p>i checked also the SMMdebug infos but most of them are not clear for me</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mod-manager-no-longer-launches-game/1042/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mod-manager-no-longer-launches-game/1042/6</link>
+        <pubDate>Wed, 03 Feb 2021 15:55:58 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1042-6</guid>
+        <source url="https://forums.ficsit.app/t/mod-manager-no-longer-launches-game/1042.rss">Mod Manager No longer launches Game</source>
+      </item>
+      <item>
+        <title>Mod Manager No longer launches Game</title>
+        <dc:creator><![CDATA[@JamieRCHI Jamie]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jamierchi">@JamieRCHI</a> wrote:</p>
+          <blockquote>
+              <p>The only thing that always works for me is to use the Epic Games Launcher.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mod-manager-no-longer-launches-game/1042/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mod-manager-no-longer-launches-game/1042/5</link>
+        <pubDate>Fri, 01 Jan 2021 03:11:30 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1042-5</guid>
+        <source url="https://forums.ficsit.app/t/mod-manager-no-longer-launches-game/1042.rss">Mod Manager No longer launches Game</source>
+      </item>
+      <item>
+        <title>Mod Manager No longer launches Game</title>
+        <dc:creator><![CDATA[@Holger_W Holger W]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/holger_w">@Holger_W</a> wrote:</p>
+          <blockquote>
+              <p>Restarting the PC helped me.<br>
+After that I could start it with the Mod Manager.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mod-manager-no-longer-launches-game/1042/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mod-manager-no-longer-launches-game/1042/4</link>
+        <pubDate>Thu, 31 Dec 2020 09:53:51 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1042-4</guid>
+        <source url="https://forums.ficsit.app/t/mod-manager-no-longer-launches-game/1042.rss">Mod Manager No longer launches Game</source>
+      </item>
+      <item>
+        <title>Mod Manager No longer launches Game</title>
+        <dc:creator><![CDATA[@JamieRCHI Jamie]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jamierchi">@JamieRCHI</a> wrote:</p>
+          <blockquote>
+              <p>Thanks. I’ll try that.<br>
+Edit: Yes, that works better.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mod-manager-no-longer-launches-game/1042/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mod-manager-no-longer-launches-game/1042/3</link>
+        <pubDate>Fri, 25 Dec 2020 22:33:02 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1042-3</guid>
+        <source url="https://forums.ficsit.app/t/mod-manager-no-longer-launches-game/1042.rss">Mod Manager No longer launches Game</source>
+      </item>
+      <item>
+        <title>Mod Manager No longer launches Game</title>
+        <dc:creator><![CDATA[@I_m_a_chicken29 Im A Chicken29]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/i_m_a_chicken29">@I_m_a_chicken29</a> wrote:</p>
+          <blockquote>
+              <p>Launch the game from the .exe</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mod-manager-no-longer-launches-game/1042/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mod-manager-no-longer-launches-game/1042/2</link>
+        <pubDate>Fri, 25 Dec 2020 15:48:48 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1042-2</guid>
+        <source url="https://forums.ficsit.app/t/mod-manager-no-longer-launches-game/1042.rss">Mod Manager No longer launches Game</source>
+      </item>
+      <item>
+        <title>Mod Manager No longer launches Game</title>
+        <dc:creator><![CDATA[@JamieRCHI Jamie]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jamierchi">@JamieRCHI</a> wrote:</p>
+          <blockquote>
+              <p>Mod Manager sets up the mods correctly, but the Launch button does not work. It appears to work for a few seconds, saying the game is running, and then the button changes back to Launch. After setting up my mods and updating everything, I can run the game with mods if I start with the Epic launcher. I see no errors from the Epic launcher. I am running experimental only. Have not tried it with Early Access enabled. It shouldn’t matter since both Early Access and Experimental are at the same build number currently.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mod-manager-no-longer-launches-game/1042/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mod-manager-no-longer-launches-game/1042/1</link>
+        <pubDate>Fri, 25 Dec 2020 08:41:16 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1042-1</guid>
+        <source url="https://forums.ficsit.app/t/mod-manager-no-longer-launches-game/1042.rss">Mod Manager No longer launches Game</source>
+      </item>
+  </channel>
+</rss>

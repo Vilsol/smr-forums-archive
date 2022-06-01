@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Refined Power Balance</title>
+    <link>https://forums.ficsit.app/t/refined-power-balance/490</link>
+    <description>I&#39;m absolutely loving Refined Power so far, but it seems pretty overpowered. Why bother with coal or fuel generators when you can just cover a pond with water turbines and be set for the rest of the game? 
+
+Suggestions for Mk1 generators (haven&#39;t unlocked Mk2 yet):
+
+* Decrease wind turbine Mk1 output to 5 MW and add 1 or 2 rotors to the build recipe.
+
+* Scale up the size of the water turbine Mk1 to be as big as a coal generator and add motors to the recipe.
+
+* If possible, make the Mk1 water turbines only effective in areas with running water and have an upstream separation distance requirement. I could see this being difficult to implement though. Otherwise, maybe nerf output to 30-40 MW, in addition to the model upscale and recipe buff. Seriously, these water turbines are crazy OP.
+
+I&#39;d love if there was a way to configure mod parameters like in factorio, since I&#39;m sure not everyone agrees with me.</description>
+    
+    <lastBuildDate>Sat, 13 Feb 2021 11:17:05 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/refined-power-balance/490.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Refined Power Balance</title>
+        <dc:creator><![CDATA[@Pworld_Pworld Pworld]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/pworld_pworld">@Pworld_Pworld</a> wrote:</p>
+          <blockquote>
+              <p>Honestly, I have to agree with OP.</p>
+<p>At first, I have only tried out the refined power mod for a bit and I really love it, but it feels so powerful that it somehow nearly seems cheaty for me.</p>
+<p>I have made a few calculations. Most w.r.t. MK1, but they probably are also applicable for MK2 and more.</p>
+<p><strong>Wind Turbines</strong></p>
+<p>Basically, using only MK1 miners on coal, you can make about 15 GW of power in total, needing these resources. If you could produce energy only on Fuel, it would be about twice the amount.</p>
+<p>Wind turbines MK1, which should be somehow weaker. Not half of it, because the Tier difference isn’t that high, but maybe a reduction of like 30%-40% to coal.</p>
+<p>In total, you can place - ballpark number - about 20000 wind turbines with 100% efficiency (I just took an 28x28 grid on a 4 x 4 km² area). This would already give 200 GW just from wind turbines MK1 on the ground!</p>
+<p>Of course, space could already be converted to power conservation, which few people do, but I still think slashing the power generation to about 10% (which would give a nice 1 MW for an MK1 wind turbine on the ground) would make sense. Alternatively, the minimum distance could also be increased to like 40 m (nice 5 foundations) while giving 2 MW, which I would maybe even prefer. Another alternative, which could make even more sense, would be to make the wind generate power based on some perlin noise, then it could generate maybe up 0 - 8 MW depending on this noise. However, I don’t know how computationally intensive that would be.</p>
+<p><strong>Solar Panels</strong></p>
+<p>For solar panels, it’s similar, but even more extreme. Are Tier 3, so being equally good as coal would be fine to me. However, I think one solar cell should take up exactly 2x2 foundations (16x16 m) and generate 2 MW during the day. This would result in about 120 GW of power during the day, but IMHO that’s fine, because it has the disadvantage of being power only in the day.</p>
+<p><strong>Water Turbines</strong></p>
+<p>Water turbines surprisingly seem to be balanced on the first sight. Maybe the power generated could still be reduced by 50% as they don’t require anything you would otherwise require (except water, which is plenty).</p>
+<p><strong>Modular Power</strong></p>
+<p>For Coal, I haven’t made my own calculation (sorry), but someone said to have got 6000 MW with 240 coal + some water (see <a href="https://www.reddit.com/r/SatisfactoryGame/comments/jgqu00/modular_power_math_consumption_and_production/" rel="nofollow noopener">https://www.reddit.com/r/SatisfactoryGame/comments/jgqu00/modular_power_math_consumption_and_production/</a>)<br>
+As it is more complicated to handle the modular machines, a bit more power IMHO is warranted. 240 coal should normally give 1,2 GW, so maybe 1.5 or 2 GW seem warranted, i.e. reducing the power generation 25%-35%.</p>
+<p>Having a more balanced mod would IMHO make the game even more enjoyable.<br>
+Even if there is no configuration, is actually modding the mod with the “normal” modding techniques possible?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/refined-power-balance/490/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/refined-power-balance/490/4</link>
+        <pubDate>Sat, 13 Feb 2021 11:17:05 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-490-4</guid>
+        <source url="https://forums.ficsit.app/t/refined-power-balance/490.rss">Refined Power Balance</source>
+      </item>
+      <item>
+        <title>Refined Power Balance</title>
+        <dc:creator><![CDATA[@trunkyredstone Trunkyredstone]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/trunkyredstone">@trunkyredstone</a> wrote:</p>
+          <blockquote>
+              <p>Thanks for the suggestion! We probably will never add a config, to keep it challenging, also, i believe that such a nerf would be quite difficult since people’s power will suddenly die. We have to keep in consideration other people’s existing builds. For further discussion,</p>
+<p>Here is our discord: <a href="https://discord.gg/CgMn3wQ" rel="nofollow noopener">https://discord.gg/CgMn3wQ</a></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/refined-power-balance/490/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/refined-power-balance/490/3</link>
+        <pubDate>Thu, 17 Sep 2020 16:18:15 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-490-3</guid>
+        <source url="https://forums.ficsit.app/t/refined-power-balance/490.rss">Refined Power Balance</source>
+      </item>
+      <item>
+        <title>Refined Power Balance</title>
+        <dc:creator><![CDATA[@zoscran Zoscran]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/zoscran">@zoscran</a> wrote:</p>
+          <blockquote>
+              <p>i agree reduce the power output to 30 mw make an MK2 with more power later could be more balanced</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/refined-power-balance/490/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/refined-power-balance/490/2</link>
+        <pubDate>Tue, 28 Apr 2020 20:12:36 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-490-2</guid>
+        <source url="https://forums.ficsit.app/t/refined-power-balance/490.rss">Refined Power Balance</source>
+      </item>
+      <item>
+        <title>Refined Power Balance</title>
+        <dc:creator><![CDATA[@Blake_Welter]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/blake_welter">@Blake_Welter</a> wrote:</p>
+          <blockquote>
+              <p>I’m absolutely loving Refined Power so far, but it seems pretty overpowered. Why bother with coal or fuel generators when you can just cover a pond with water turbines and be set for the rest of the game?</p>
+<p>Suggestions for Mk1 generators (haven’t unlocked Mk2 yet):</p>
+<ul>
+<li>
+<p>Decrease wind turbine Mk1 output to 5 MW and add 1 or 2 rotors to the build recipe.</p>
+</li>
+<li>
+<p>Scale up the size of the water turbine Mk1 to be as big as a coal generator and add motors to the recipe.</p>
+</li>
+<li>
+<p>If possible, make the Mk1 water turbines only effective in areas with running water and have an upstream separation distance requirement. I could see this being difficult to implement though. Otherwise, maybe nerf output to 30-40 MW, in addition to the model upscale and recipe buff. Seriously, these water turbines are crazy OP.</p>
+</li>
+</ul>
+<p>I’d love if there was a way to configure mod parameters like in factorio, since I’m sure not everyone agrees with me.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/refined-power-balance/490/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/refined-power-balance/490/1</link>
+        <pubDate>Tue, 28 Apr 2020 19:03:03 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-490-1</guid>
+        <source url="https://forums.ficsit.app/t/refined-power-balance/490.rss">Refined Power Balance</source>
+      </item>
+  </channel>
+</rss>

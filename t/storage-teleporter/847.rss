@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Storage Teleporter</title>
+    <link>https://forums.ficsit.app/t/storage-teleporter/847</link>
+    <description>I&#39;m trying to set up the Storage Teleporter and I can&#39;t seem to get them working.  I have the teleporter station (powered), both teleporters have the same name, and the conveyor belts are in the correct positions.  In the drop-down at the bottom of the details window, I selected the partner and saved but it hasn&#39;t helped.  When I reopen the details, it&#39;s not paired anymore.  What am I missing pls?
+@Blockout22</description>
+    
+    <lastBuildDate>Tue, 21 Dec 2021 13:53:42 +0000</lastBuildDate>
+    <category>Help</category>
+    <atom:link href="https://forums.ficsit.app/t/storage-teleporter/847.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Storage Teleporter</title>
+        <dc:creator><![CDATA[@Merix_Style Merix Style]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/merix_style">@Merix_Style</a> wrote:</p>
+          <blockquote>
+              <p>Im having the same problem, have you found a fix for it yet or did he contact you at all?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/storage-teleporter/847/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/storage-teleporter/847/2</link>
+        <pubDate>Mon, 11 Jan 2021 00:36:14 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-847-2</guid>
+        <source url="https://forums.ficsit.app/t/storage-teleporter/847.rss">Storage Teleporter</source>
+      </item>
+      <item>
+        <title>Storage Teleporter</title>
+        <dc:creator><![CDATA[@S_H S H]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/s_h">@S_H</a> wrote:</p>
+          <blockquote>
+              <p>I’m trying to set up the Storage Teleporter and I can’t seem to get them working.  I have the teleporter station (powered), both teleporters have the same name, and the conveyor belts are in the correct positions.  In the drop-down at the bottom of the details window, I selected the partner and saved but it hasn’t helped.  When I reopen the details, it’s not paired anymore.  What am I missing pls?<br>
+<a class="mention" href="/u/blockout22">@Blockout22</a></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/storage-teleporter/847/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/storage-teleporter/847/1</link>
+        <pubDate>Sun, 09 Aug 2020 15:26:10 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-847-1</guid>
+        <source url="https://forums.ficsit.app/t/storage-teleporter/847.rss">Storage Teleporter</source>
+      </item>
+  </channel>
+</rss>

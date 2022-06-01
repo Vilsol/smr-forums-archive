@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Ficsit-Networks :: FactoryHook</title>
+    <link>https://forums.ficsit.app/t/ficsit-networks-factoryhook/1048</link>
+    <description>https://docs.ficsit.app/ficsit-networks/0.0.1/lua/api/Inventory.html#_factoryhook
+
+Anyone know how to use this? Not seeing any exposed functions on instances, nor samples in lua documentation. 
+getInventory() on FactoryConnector appears to be non functional, making this incredibly important to reliably track throughput on conveyers. 
+
+I&#39;m doing it manually right now using computer.millis() to calculate it myself, but it takes a toll on frame rate when used at global scale. 
+Would really like to use FactoryHook.... Any ideas?</description>
+    
+    <lastBuildDate>Wed, 30 Dec 2020 09:04:48 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/ficsit-networks-factoryhook/1048.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Ficsit-Networks :: FactoryHook</title>
+        <dc:creator><![CDATA[@I_m_a_chicken29 Im A Chicken29]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/i_m_a_chicken29">@I_m_a_chicken29</a> wrote:</p>
+          <blockquote>
+              <p>Join the Ficsit-networks discord, they will be a great help <a href="https://discord.gg/7GnD52CMWB" rel="nofollow noopener">https://discord.gg/7GnD52CMWB</a></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/ficsit-networks-factoryhook/1048/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/ficsit-networks-factoryhook/1048/2</link>
+        <pubDate>Wed, 30 Dec 2020 09:04:48 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1048-2</guid>
+        <source url="https://forums.ficsit.app/t/ficsit-networks-factoryhook/1048.rss">Ficsit-Networks :: FactoryHook</source>
+      </item>
+      <item>
+        <title>Ficsit-Networks :: FactoryHook</title>
+        <dc:creator><![CDATA[@ensemblebd Ensemblebd]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/ensemblebd">@ensemblebd</a> wrote:</p>
+          <blockquote>
+              <aside class="onebox whitelistedgeneric">
+  <header class="source">
+      
+      <a href="https://docs.ficsit.app/ficsit-networks/0.0.1/lua/api/Inventory.html#_factoryhook" target="_blank" rel="nofollow noopener">docs.ficsit.app</a>
+  </header>
+  <article class="onebox-body">
+    <img src="https://forums.ficsit.app/uploads/default/original/1X/f02da7f6991dd231eefed9e0b929b9f220067a67.png" class="thumbnail onebox-avatar" width="500" height="500">
+
+<h3><a href="https://docs.ficsit.app/ficsit-networks/0.0.1/lua/api/Inventory.html#_factoryhook" target="_blank" rel="nofollow noopener">Inventory API :: Satisfactory Modding Documentation</a></h3>
+
+<p>The Inventory API allows you to interact with ingame inventories.</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>Anyone know how to use this? Not seeing any exposed functions on instances, nor samples in lua documentation.<br>
+getInventory() on FactoryConnector appears to be non functional, making this incredibly important to reliably track throughput on conveyers.</p>
+<p>I’m doing it manually right now using computer.millis() to calculate it myself, but it takes a toll on frame rate when used at global scale.<br>
+Would really like to use FactoryHook… Any ideas?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/ficsit-networks-factoryhook/1048/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/ficsit-networks-factoryhook/1048/1</link>
+        <pubDate>Tue, 29 Dec 2020 21:13:04 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1048-1</guid>
+        <source url="https://forums.ficsit.app/t/ficsit-networks-factoryhook/1048.rss">Ficsit-Networks :: FactoryHook</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>ConfigurableStart Bug</title>
+    <link>https://forums.ficsit.app/t/configurablestart-bug/870</link>
+    <description>When I start a new Game, all my Copper Nodes are gone. I dont know, if these happens to other Nodes too. Iron and Limestone are working.</description>
+    
+    <lastBuildDate>Mon, 31 Aug 2020 18:03:12 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forums.ficsit.app/t/configurablestart-bug/870.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>ConfigurableStart Bug</title>
+        <dc:creator><![CDATA[@Svevil Svevil]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/svevil">@Svevil</a> wrote:</p>
+          <blockquote>
+              <p>When I start a new Game, all my Copper Nodes are gone. I dont know, if these happens to other Nodes too. Iron and Limestone are working.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/configurablestart-bug/870/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/configurablestart-bug/870/1</link>
+        <pubDate>Mon, 31 Aug 2020 18:03:12 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-870-1</guid>
+        <source url="https://forums.ficsit.app/t/configurablestart-bug/870.rss">ConfigurableStart Bug</source>
+      </item>
+  </channel>
+</rss>

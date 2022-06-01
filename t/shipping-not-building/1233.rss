@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Shipping Not Building</title>
+    <link>https://forums.ficsit.app/t/shipping-not-building/1233</link>
+    <description>First time moder here. I made it through the docs and got everything setup. I was able to successfully build using &quot;Development Editor&quot; and &quot;Win64&quot;. However, when I try to build with &quot;Shipping&quot; and &quot;Win64&quot; the build fails. I was able to create the first plugin DocMod but cannot Alpakit pack it because the &quot;Shipping&quot; wont build. Any help?
+
+![image|690x327](upload://AoXeyZf1rv5d9zBtvxOq5ZbfUVs.png)</description>
+    
+    <lastBuildDate>Mon, 03 May 2021 13:38:13 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/shipping-not-building/1233.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Shipping Not Building</title>
+        <dc:creator><![CDATA[@Dan_Sledge Dan Sledge]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/dan_sledge">@Dan_Sledge</a> wrote:</p>
+          <blockquote>
+              <p>Awesome thanks! I was able to get it working before your reply by switching to the <code>sml-dev</code> branch and recompiling. Hope that helps you too.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/shipping-not-building/1233/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/shipping-not-building/1233/3</link>
+        <pubDate>Mon, 03 May 2021 13:38:13 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1233-3</guid>
+        <source url="https://forums.ficsit.app/t/shipping-not-building/1233.rss">Shipping Not Building</source>
+      </item>
+      <item>
+        <title>Shipping Not Building</title>
+        <dc:creator><![CDATA[@Philip_Kamphausen Philip Kamphausen]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/philip_kamphausen">@Philip_Kamphausen</a> wrote:</p>
+          <blockquote>
+              <p>I finally got it to work, but I am not exactly sure which of my steps solved the issue. Here is what I did:</p>
+<ul>
+<li>I installed the previous UE Version UE-4.25.3-CSS-<strong>39</strong> instead of the newest one UE-4.25.3-CSS-<strong>40</strong>
+</li>
+<li>I installed the Unreal Engine Installer in the Visual Studio Installer</li>
+<li>I installed MSVC v141 - VS 2017 in the Visual Studio Installer and used this to generate the Visual Studio Project files.</li>
+</ul>
+<p>Hope this helps you!</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/shipping-not-building/1233/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/shipping-not-building/1233/2</link>
+        <pubDate>Sat, 01 May 2021 11:07:24 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1233-2</guid>
+        <source url="https://forums.ficsit.app/t/shipping-not-building/1233.rss">Shipping Not Building</source>
+      </item>
+      <item>
+        <title>Shipping Not Building</title>
+        <dc:creator><![CDATA[@Dan_Sledge Dan Sledge]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/dan_sledge">@Dan_Sledge</a> wrote:</p>
+          <blockquote>
+              <p>First time moder here. I made it through the docs and got everything setup. I was able to successfully build using “Development Editor” and “Win64”. However, when I try to build with “Shipping” and “Win64” the build fails. I was able to create the first plugin DocMod but cannot Alpakit pack it because the “Shipping” wont build. Any help?</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/ff206df5906d0e70c00da22ca135e6a45b53a0a2.png" data-download-href="https://forums.ficsit.app/uploads/default/ff206df5906d0e70c00da22ca135e6a45b53a0a2" title="image"><img src="https://forums.ficsit.app/uploads/default/original/1X/ff206df5906d0e70c00da22ca135e6a45b53a0a2.png" alt="image" data-base62-sha1="AoXeyZf1rv5d9zBtvxOq5ZbfUVs" width="690" height="327" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/ff206df5906d0e70c00da22ca135e6a45b53a0a2_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1519×722 61.7 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/shipping-not-building/1233/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/shipping-not-building/1233/1</link>
+        <pubDate>Fri, 30 Apr 2021 03:48:07 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1233-1</guid>
+        <source url="https://forums.ficsit.app/t/shipping-not-building/1233.rss">Shipping Not Building</source>
+      </item>
+  </channel>
+</rss>

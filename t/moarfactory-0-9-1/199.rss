@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>MoarFactory 0.9.1</title>
+    <link>https://forums.ficsit.app/t/moarfactory-0-9-1/199</link>
+    <description>when turning the sound off in game, MoarFactory machines still produce sound</description>
+    
+    <lastBuildDate>Tue, 25 Feb 2020 13:01:33 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forums.ficsit.app/t/moarfactory-0-9-1/199.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>MoarFactory 0.9.1</title>
+        <dc:creator><![CDATA[@xXxNeeD4BlooDxXx X Xx Nee D4 Bloo Dx Xx]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/xxxneed4bloodxxx">@xXxNeeD4BlooDxXx</a> wrote:</p>
+          <blockquote>
+              <p>when turning the sound off in game, MoarFactory machines still produce sound</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/moarfactory-0-9-1/199/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/moarfactory-0-9-1/199/1</link>
+        <pubDate>Tue, 25 Feb 2020 13:01:33 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-199-1</guid>
+        <source url="https://forums.ficsit.app/t/moarfactory-0-9-1/199.rss">MoarFactory 0.9.1</source>
+      </item>
+  </channel>
+</rss>

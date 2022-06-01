@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>AHud example anywhere?</title>
+    <link>https://forums.ficsit.app/t/ahud-example-anywhere/1529</link>
+    <description>Is it possible to add a hud to your mod? I want to access the UCanvas class to do some line drawing and I can only seem to do that through a AHud class. I see Satisfactory has a hud for the object scanner but I can&#39;t see the code they use to add this to the screen. I have found examples online but they involve setting the hud in the game mode and I don&#39;t think I have access to that.</description>
+    
+    <lastBuildDate>Sat, 01 Jan 2022 22:10:49 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/ahud-example-anywhere/1529.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>AHud example anywhere?</title>
+        <dc:creator><![CDATA[@kfpopeye Kfpopeye]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/kfpopeye">@kfpopeye</a> wrote:</p>
+          <blockquote>
+              <p>Is it possible to add a hud to your mod? I want to access the UCanvas class to do some line drawing and I can only seem to do that through a AHud class. I see Satisfactory has a hud for the object scanner but I can’t see the code they use to add this to the screen. I have found examples online but they involve setting the hud in the game mode and I don’t think I have access to that.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/ahud-example-anywhere/1529/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/ahud-example-anywhere/1529/1</link>
+        <pubDate>Sat, 01 Jan 2022 22:10:49 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1529-1</guid>
+        <source url="https://forums.ficsit.app/t/ahud-example-anywhere/1529.rss">AHud example anywhere?</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>SML version confusion</title>
+    <link>https://forums.ficsit.app/t/sml-version-confusion/421</link>
+    <description>SML shows version 2.0.0 on main page for Early Access and 2.1.0 for Experimental. I guess this makes sense, but in one of the menus it says version 1.0.8. 
+Could someone clarify this?
+Thanks.</description>
+    
+    <lastBuildDate>Wed, 22 Apr 2020 17:35:16 +0000</lastBuildDate>
+    <category>SML</category>
+    <atom:link href="https://forums.ficsit.app/t/sml-version-confusion/421.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>SML version confusion</title>
+        <dc:creator><![CDATA[@JamieRCHI Jamie]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jamierchi">@JamieRCHI</a> wrote:</p>
+          <blockquote>
+              <p>Well that makes no since to me as a user, and I do have many years experience as a programmer. Not saying you are wrong. It’s just the younger generation (below 50) has a different experience and might have different viewpoints on this. I just think all we need to know as a user is what we see on the outside and treat the application as a black box. One revision number makes sense and it is what we did at MS and also follows my experience with Linux and many other OS’s.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/sml-version-confusion/421/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/sml-version-confusion/421/3</link>
+        <pubDate>Wed, 22 Apr 2020 17:35:16 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-421-3</guid>
+        <source url="https://forums.ficsit.app/t/sml-version-confusion/421.rss">SML version confusion</source>
+      </item>
+      <item>
+        <title>SML version confusion</title>
+        <dc:creator><![CDATA[@JesusPwnsYa_The_Firs Jesus Pwns Ya The First]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jesuspwnsya_the_firs">@JesusPwnsYa_The_Firs</a> wrote:</p>
+          <blockquote>
+              <p>1.0.8 is the launcher ui and 2.* is the launcher framework I guess?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/sml-version-confusion/421/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/sml-version-confusion/421/2</link>
+        <pubDate>Mon, 20 Apr 2020 17:37:36 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-421-2</guid>
+        <source url="https://forums.ficsit.app/t/sml-version-confusion/421.rss">SML version confusion</source>
+      </item>
+      <item>
+        <title>SML version confusion</title>
+        <dc:creator><![CDATA[@JamieRCHI Jamie]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jamierchi">@JamieRCHI</a> wrote:</p>
+          <blockquote>
+              <p>SML shows version 2.0.0 on main page for Early Access and 2.1.0 for Experimental. I guess this makes sense, but in one of the menus it says version 1.0.8.<br>
+Could someone clarify this?<br>
+Thanks.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/sml-version-confusion/421/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/sml-version-confusion/421/1</link>
+        <pubDate>Mon, 20 Apr 2020 04:39:48 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-421-1</guid>
+        <source url="https://forums.ficsit.app/t/sml-version-confusion/421.rss">SML version confusion</source>
+      </item>
+  </channel>
+</rss>

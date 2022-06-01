@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Moar Factory 0.9.1 - advanced smelter bug</title>
+    <link>https://forums.ficsit.app/t/moar-factory-0-9-1-advanced-smelter-bug/158</link>
+    <description>I just noticed that everytime i try to place advanced smelter part of the building is underground and it is basicly impossible to connect input/output to anything. As you can see on image
+
+https://imgur.com/a/4eKdOa9
+
+So you cant place it on foundation and if you place it on ground, you cant work with it. :smiley:
+
+Btw. I have fresh game and only mods i am using are Moar factory, Farming mod, Light it up and Renewable Energy</description>
+    
+    <lastBuildDate>Wed, 11 Mar 2020 15:22:38 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forums.ficsit.app/t/moar-factory-0-9-1-advanced-smelter-bug/158.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Moar Factory 0.9.1 - advanced smelter bug</title>
+        <dc:creator><![CDATA[@Ron_Sargeant Ron Sargeant]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/ron_sargeant">@Ron_Sargeant</a> wrote:</p>
+          <blockquote>
+              <p>I have found the same problem, the placement reference of the machine seems to have been assigned to the centre instead of the base, so you always get an encroachment on a foundation or it is buried in the ground.</p>
+<p>[edit]<br>
+Got a workaround using Area Actions mod.  Place a smelter in the ground, then you can use AA to ‘select a building’ and use the copy action to raise it out of the ground. Set Z to 5 and paste with “OK”, then dismantle the original smelter. Once it’s out of the ground you can see that the model is incomplete, there is a lot of space under it and the ports connect to nothing.<br>
+It also appears that you cannot connect belts to the ports if you try to snap to the bottom edge of a port. For some reason the snap point is near the top of the ports, so aim there when connecting belts and they will connect properly to the bottom edge.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/moar-factory-0-9-1-advanced-smelter-bug/158/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/moar-factory-0-9-1-advanced-smelter-bug/158/2</link>
+        <pubDate>Tue, 10 Mar 2020 15:41:46 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-158-2</guid>
+        <source url="https://forums.ficsit.app/t/moar-factory-0-9-1-advanced-smelter-bug/158.rss">Moar Factory 0.9.1 - advanced smelter bug</source>
+      </item>
+      <item>
+        <title>Moar Factory 0.9.1 - advanced smelter bug</title>
+        <dc:creator><![CDATA[@mckulich Mckulich]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/mckulich">@mckulich</a> wrote:</p>
+          <blockquote>
+              <p>I just noticed that everytime i try to place advanced smelter part of the building is underground and it is basicly impossible to connect input/output to anything. As you can see on image</p>
+<p>            </p><div class="onebox imgur-album">
+              <a href="https://imgur.com/a/4eKdOa9" target="_blank" rel="nofollow noopener">
+                <span class="outer-box" style="width:600px">
+                  <span class="inner-box">
+                    <span class="album-title">[Album] Advanced smelter wrong placement</span>
+                  </span>
+                </span>
+                <img src="https://forums.ficsit.app/uploads/default/original/1X/c72a7b7d100c7efc40b906d29f4f48bff25e4b1a.jpeg" title="Advanced smelter wrong placement" height="315" width="600">
+              </a>
+            </div>
+
+<p>So you cant place it on foundation and if you place it on ground, you cant work with it. <img src="https://forums.ficsit.app/images/emoji/twitter/smiley.png?v=9" title=":smiley:" class="emoji" alt=":smiley:"></p>
+<p>Btw. I have fresh game and only mods i am using are Moar factory, Farming mod, Light it up and Renewable Energy</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/moar-factory-0-9-1-advanced-smelter-bug/158/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/moar-factory-0-9-1-advanced-smelter-bug/158/1</link>
+        <pubDate>Sun, 19 Jan 2020 21:28:59 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-158-1</guid>
+        <source url="https://forums.ficsit.app/t/moar-factory-0-9-1-advanced-smelter-bug/158.rss">Moar Factory 0.9.1 - advanced smelter bug</source>
+      </item>
+  </channel>
+</rss>

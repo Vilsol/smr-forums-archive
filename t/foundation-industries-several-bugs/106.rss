@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Foundation-Industries several bugs</title>
+    <link>https://forums.ficsit.app/t/foundation-industries-several-bugs/106</link>
+    <description>Hello there. Just wanted to point out several bugs I&#39;ve noticed with the mod.
+1. Every time I load up a save with the mod, more and more listings for all 3 of the milestones show up in the hub terminal. At this point I have 5 of the corners, 6 ramps and 7 glass.
+2. Every time I&#39;m in the terminal, I&#39;m getting spam in the SML console window.
+&quot;IsSchematicPaidOff failed, schematic was null.&quot;
+&quot;UFGSchematic::GetSchematicDisplayName, class was nullpeter.&quot;
+&quot;GetPaidOffCostFor failed, schematic was null.&quot;
+
+FYI, I have 109075 build of the game, 1.0.2 SML, 0.8.0 MoarFactory, 1.2.0 Foundations-Industries, 1.0.1 SID, 0.1.1 Advanced Logistics, 0.2.2 Light It Up and I&#39;m using 0.3.2 KronosMod.</description>
+    
+    <lastBuildDate>Sun, 08 Dec 2019 09:03:14 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forums.ficsit.app/t/foundation-industries-several-bugs/106.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Foundation-Industries several bugs</title>
+        <dc:creator><![CDATA[@meridias Meridias]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/meridias">@meridias</a> wrote:</p>
+          <blockquote>
+              <p>Hello there. Just wanted to point out several bugs I’ve noticed with the mod.</p>
+<ol>
+<li>Every time I load up a save with the mod, more and more listings for all 3 of the milestones show up in the hub terminal. At this point I have 5 of the corners, 6 ramps and 7 glass.</li>
+<li>Every time I’m in the terminal, I’m getting spam in the SML console window.<br>
+“IsSchematicPaidOff failed, schematic was null.”<br>
+“UFGSchematic::GetSchematicDisplayName, class was nullpeter.”<br>
+“GetPaidOffCostFor failed, schematic was null.”</li>
+</ol>
+<p>FYI, I have 109075 build of the game, 1.0.2 SML, 0.8.0 MoarFactory, 1.2.0 Foundations-Industries, 1.0.1 SID, 0.1.1 Advanced Logistics, 0.2.2 Light It Up and I’m using 0.3.2 KronosMod.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/foundation-industries-several-bugs/106/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/foundation-industries-several-bugs/106/1</link>
+        <pubDate>Sun, 08 Dec 2019 09:03:14 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-106-1</guid>
+        <source url="https://forums.ficsit.app/t/foundation-industries-several-bugs/106.rss">Foundation-Industries several bugs</source>
+      </item>
+  </channel>
+</rss>

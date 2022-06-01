@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Radiation shielding</title>
+    <link>https://forums.ficsit.app/t/radiation-shielding/810</link>
+    <description>Is there an existing mod or is someone working on adding walls with radiation protection?
+Like lead lined walls that reduse radiation or reflect it or lead containers to reduce radiation from nuclear waste and uranium products?</description>
+    
+    <lastBuildDate>Sat, 01 Aug 2020 12:28:24 +0000</lastBuildDate>
+    <category>General</category>
+    <atom:link href="https://forums.ficsit.app/t/radiation-shielding/810.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Radiation shielding</title>
+        <dc:creator><![CDATA[@Ryder17z Ryder17z]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/ryder17z">@Ryder17z</a> wrote:</p>
+          <blockquote>
+              <p>So far there seems to only be this: <a href="https://ficsit.app/mod/CjfhzfJT1f7HMk" rel="nofollow noopener">https://ficsit.app/mod/CjfhzfJT1f7HMk</a></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/radiation-shielding/810/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/radiation-shielding/810/2</link>
+        <pubDate>Sat, 01 Aug 2020 12:28:24 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-810-2</guid>
+        <source url="https://forums.ficsit.app/t/radiation-shielding/810.rss">Radiation shielding</source>
+      </item>
+      <item>
+        <title>Radiation shielding</title>
+        <dc:creator><![CDATA[@jayson_withers Jayson Withers]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jayson_withers">@jayson_withers</a> wrote:</p>
+          <blockquote>
+              <p>Is there an existing mod or is someone working on adding walls with radiation protection?<br>
+Like lead lined walls that reduse radiation or reflect it or lead containers to reduce radiation from nuclear waste and uranium products?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/radiation-shielding/810/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/radiation-shielding/810/1</link>
+        <pubDate>Tue, 28 Jul 2020 06:21:15 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-810-1</guid>
+        <source url="https://forums.ficsit.app/t/radiation-shielding/810.rss">Radiation shielding</source>
+      </item>
+  </channel>
+</rss>

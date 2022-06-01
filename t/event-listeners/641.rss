@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Event listeners</title>
+    <link>https://forums.ficsit.app/t/event-listeners/641</link>
+    <description>Hi, im very new to satisfactory modding and UE blueprints workflow and i was wondering how can i listen for a specific event. Like when the player picks up some foliage. Because i know how to do it with code but the whole blueprints stuff confuses me quite a bit.
+Thanks :)</description>
+    
+    <lastBuildDate>Wed, 10 Jun 2020 21:40:11 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/event-listeners/641.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Event listeners</title>
+        <dc:creator><![CDATA[@IsmaelTrentin Ismael Trentin]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/ismaeltrentin">@IsmaelTrentin</a> wrote:</p>
+          <blockquote>
+              <p>Hi, im very new to satisfactory modding and UE blueprints workflow and i was wondering how can i listen for a specific event. Like when the player picks up some foliage. Because i know how to do it with code but the whole blueprints stuff confuses me quite a bit.<br>
+Thanks <img src="https://forums.ficsit.app/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/event-listeners/641/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/event-listeners/641/1</link>
+        <pubDate>Wed, 10 Jun 2020 21:40:11 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-641-1</guid>
+        <source url="https://forums.ficsit.app/t/event-listeners/641.rss">Event listeners</source>
+      </item>
+  </channel>
+</rss>

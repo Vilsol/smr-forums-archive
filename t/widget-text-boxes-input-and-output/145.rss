@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Widget Text Boxes. Input and Output</title>
+    <link>https://forums.ficsit.app/t/widget-text-boxes-input-and-output/145</link>
+    <description>I have a widget that gets the items coming in the top textbox it gets a appends text &quot;count&quot;, &quot;ItemCount&quot;  and the 2nd textbox it TypeCount and ItemTypes. I been trying to use the code with some editing in the grinder from the Starter project and with no result. Just doesn&#39;t display any thing. I think it&#39;s strange that it doesn&#39;t work, anyway. I have a text file that I have my node setup that I been playing with for over a week. http://www.mediafire.com/file/01o6lfju09jngu9/BP_Script_for_Textbox.txt/file
+
+You will have to paste it in some where so you can see what I&#39;m trying to do. Anyone can all so reach me on my discord server. https://discord.gg/a72Qc5X
+
+Thx Ice</description>
+    
+    <lastBuildDate>Thu, 16 Jan 2020 23:42:18 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/widget-text-boxes-input-and-output/145.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Widget Text Boxes. Input and Output</title>
+        <dc:creator><![CDATA[@iceman11a Iceman11a *]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/iceman11a">@iceman11a</a> wrote:</p>
+          <blockquote>
+              <p>Thanks. Sorry it won’t help. The support for this just doesn’t exist. Modding is too new. If it’s like this web site would let us copy and paste are images and files and so on. That would help.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/widget-text-boxes-input-and-output/145/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/widget-text-boxes-input-and-output/145/3</link>
+        <pubDate>Thu, 16 Jan 2020 23:42:18 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-145-3</guid>
+        <source url="https://forums.ficsit.app/t/widget-text-boxes-input-and-output/145.rss">Widget Text Boxes. Input and Output</source>
+      </item>
+      <item>
+        <title>Widget Text Boxes. Input and Output</title>
+        <dc:creator><![CDATA[@Robb Rob B]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/robb">@Robb</a> wrote:</p>
+          <blockquote>
+              <p>I’m afraid I don’t know enough about the blueprint system to assist with your issue, but this blueprint sharing tool may be of assistance: <a href="https://blueprintue.com/">https://blueprintue.com/</a>. With it, you can send blueprints to others and view a preview without opening Unreal Engine.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/widget-text-boxes-input-and-output/145/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/widget-text-boxes-input-and-output/145/2</link>
+        <pubDate>Thu, 16 Jan 2020 20:14:08 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-145-2</guid>
+        <source url="https://forums.ficsit.app/t/widget-text-boxes-input-and-output/145.rss">Widget Text Boxes. Input and Output</source>
+      </item>
+      <item>
+        <title>Widget Text Boxes. Input and Output</title>
+        <dc:creator><![CDATA[@iceman11a Iceman11a *]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/iceman11a">@iceman11a</a> wrote:</p>
+          <blockquote>
+              <p>I have a widget that gets the items coming in the top textbox it gets a appends text “count”, “ItemCount”  and the 2nd textbox it TypeCount and ItemTypes. I been trying to use the code with some editing in the grinder from the Starter project and with no result. Just doesn’t display any thing. I think it’s strange that it doesn’t work, anyway. I have a text file that I have my node setup that I been playing with for over a week. <a href="http://www.mediafire.com/file/01o6lfju09jngu9/BP_Script_for_Textbox.txt/file" rel="nofollow noopener">http://www.mediafire.com/file/01o6lfju09jngu9/BP_Script_for_Textbox.txt/file</a></p>
+<p>You will have to paste it in some where so you can see what I’m trying to do. Anyone can all so reach me on my discord server. <a href="https://discord.gg/a72Qc5X" rel="nofollow noopener">https://discord.gg/a72Qc5X</a></p>
+<p>Thx Ice</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/widget-text-boxes-input-and-output/145/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/widget-text-boxes-input-and-output/145/1</link>
+        <pubDate>Thu, 16 Jan 2020 06:14:54 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-145-1</guid>
+        <source url="https://forums.ficsit.app/t/widget-text-boxes-input-and-output/145.rss">Widget Text Boxes. Input and Output</source>
+      </item>
+  </channel>
+</rss>

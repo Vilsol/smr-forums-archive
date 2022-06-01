@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Game updated and SMM stopped working</title>
+    <link>https://forums.ficsit.app/t/game-updated-and-smm-stopped-working/1292</link>
+    <description>Was playing Satisfactory with mods no problems. SMM 2.4.2 and SML 3.0 Steam version. Then when I logged out it updated to SML 3.1.0 and SMM 2.4.4 and  Steam version updated and now nothing works even after reloading SMM over and over. I keep getting error of Mod Helper not found and it kicks me out. Installed again 15 times literally and still same thing. Will not generate debug either.</description>
+    
+    <lastBuildDate>Fri, 14 May 2021 12:16:59 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/game-updated-and-smm-stopped-working/1292.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Game updated and SMM stopped working</title>
+        <dc:creator><![CDATA[@Jim_B Jim B]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jim_b">@Jim_B</a> wrote:</p>
+          <blockquote>
+              <p>Thanks. Got it working except on the mod web site there is no longer the “Install” button just the “View” button.  And it shows no mods in my profile now. But I can do  search in the SMM and install them that way.  Just annoying. but works. Gave permissions to firewall and everything you can think of, but no more Install button <img src="https://forums.ficsit.app/images/emoji/twitter/frowning.png?v=9" title=":frowning:" class="emoji" alt=":frowning:"></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/game-updated-and-smm-stopped-working/1292/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/game-updated-and-smm-stopped-working/1292/3</link>
+        <pubDate>Fri, 14 May 2021 12:16:59 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1292-3</guid>
+        <source url="https://forums.ficsit.app/t/game-updated-and-smm-stopped-working/1292.rss">Game updated and SMM stopped working</source>
+      </item>
+      <item>
+        <title>Game updated and SMM stopped working</title>
+        <dc:creator><![CDATA[@Richard_Dorrell Rich]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/richard_dorrell">@Richard_Dorrell</a> wrote:</p>
+          <blockquote>
+              <p>I’ve been using SMM 2.4.3 and had the same issue.</p>
+<p>I’ve sorted it by setting the SMM ‘update settings’ to ‘ask’, then reinstalled v.2.4.3 and re-updated the mods to work with that version. I was finding that every time I tried to install 2.4.3 it was automatically updating to 2.4.4 which doesn’t work with EA.</p>
+<p>Perhaps this will help.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/game-updated-and-smm-stopped-working/1292/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/game-updated-and-smm-stopped-working/1292/2</link>
+        <pubDate>Thu, 13 May 2021 10:06:45 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1292-2</guid>
+        <source url="https://forums.ficsit.app/t/game-updated-and-smm-stopped-working/1292.rss">Game updated and SMM stopped working</source>
+      </item>
+      <item>
+        <title>Game updated and SMM stopped working</title>
+        <dc:creator><![CDATA[@Jim_B Jim B]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jim_b">@Jim_B</a> wrote:</p>
+          <blockquote>
+              <p>Was playing Satisfactory with mods no problems. SMM 2.4.2 and SML 3.0 Steam version. Then when I logged out it updated to SML 3.1.0 and SMM 2.4.4 and  Steam version updated and now nothing works even after reloading SMM over and over. I keep getting error of Mod Helper not found and it kicks me out. Installed again 15 times literally and still same thing. Will not generate debug either.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/game-updated-and-smm-stopped-working/1292/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/game-updated-and-smm-stopped-working/1292/1</link>
+        <pubDate>Wed, 12 May 2021 23:26:06 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1292-1</guid>
+        <source url="https://forums.ficsit.app/t/game-updated-and-smm-stopped-working/1292.rss">Game updated and SMM stopped working</source>
+      </item>
+  </channel>
+</rss>

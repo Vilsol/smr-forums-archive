@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Mods are loaded but do not start</title>
+    <link>https://forums.ficsit.app/t/mods-are-loaded-but-do-not-start/1445</link>
+    <description>Hi everyone, I have a problem loading mods with SML 3.01 and 3.1.1
+let me explain, I have an unofficial version of Satisfactory 151773. I installed both SML 3.1.0 and 3.1.1 and starting the game everything seems to be fine, bottom left under the Build version tells me how many mods are loaded and I can see them all but starting the game no mod is active except &quot; SMART! &quot; that works in part. that is, only the duplication of the blocks to be placed, not even the menu can be opened to configure it.
+obviously I am not using SMM due to the fact that my version is not official, I wanted to know if there is a way to solve because with SML 2.2.1 everything works fine but there are many mods that I cannot install because they require SML 3.0.0</description>
+    
+    <lastBuildDate>Mon, 15 Nov 2021 14:19:59 +0000</lastBuildDate>
+    <category>SML Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/mods-are-loaded-but-do-not-start/1445.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Mods are loaded but do not start</title>
+        <dc:creator><![CDATA[@I_m_a_chicken29 Im A Chicken29]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/i_m_a_chicken29">@I_m_a_chicken29</a> wrote:</p>
+          <blockquote>
+              <p>mods do not work on pirated versions, please buy the game</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mods-are-loaded-but-do-not-start/1445/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mods-are-loaded-but-do-not-start/1445/3</link>
+        <pubDate>Mon, 15 Nov 2021 14:19:59 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1445-3</guid>
+        <source url="https://forums.ficsit.app/t/mods-are-loaded-but-do-not-start/1445.rss">Mods are loaded but do not start</source>
+      </item>
+      <item>
+        <title>Mods are loaded but do not start</title>
+        <dc:creator><![CDATA[@asundrus Asundrus]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/asundrus">@asundrus</a> wrote:</p>
+          <blockquote>
+              <p>Buy the game, and try again.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mods-are-loaded-but-do-not-start/1445/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mods-are-loaded-but-do-not-start/1445/2</link>
+        <pubDate>Mon, 15 Nov 2021 13:08:44 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1445-2</guid>
+        <source url="https://forums.ficsit.app/t/mods-are-loaded-but-do-not-start/1445.rss">Mods are loaded but do not start</source>
+      </item>
+      <item>
+        <title>Mods are loaded but do not start</title>
+        <dc:creator><![CDATA[@User_212 Darknes]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/user_212">@User_212</a> wrote:</p>
+          <blockquote>
+              <p>Hi everyone, I have a problem loading mods with SML 3.01 and 3.1.1<br>
+let me explain, I have an unofficial version of Satisfactory 151773. I installed both SML 3.1.0 and 3.1.1 and starting the game everything seems to be fine, bottom left under the Build version tells me how many mods are loaded and I can see them all but starting the game no mod is active except " SMART! " that works in part. that is, only the duplication of the blocks to be placed, not even the menu can be opened to configure it.<br>
+obviously I am not using SMM due to the fact that my version is not official, I wanted to know if there is a way to solve because with SML 2.2.1 everything works fine but there are many mods that I cannot install because they require SML 3.0.0</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mods-are-loaded-but-do-not-start/1445/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mods-are-loaded-but-do-not-start/1445/1</link>
+        <pubDate>Fri, 12 Nov 2021 10:02:17 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1445-1</guid>
+        <source url="https://forums.ficsit.app/t/mods-are-loaded-but-do-not-start/1445.rss">Mods are loaded but do not start</source>
+      </item>
+  </channel>
+</rss>

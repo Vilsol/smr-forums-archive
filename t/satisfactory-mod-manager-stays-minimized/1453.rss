@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Satisfactory Mod Manager Stays Minimized</title>
+    <link>https://forums.ficsit.app/t/satisfactory-mod-manager-stays-minimized/1453</link>
+    <description>I don&#39;t know if this is the right place to post this but none of the other categories seemed right to me. I had the SMM installed for a while. Update 5 rolls around on experimental so I fire it up. Everything works fine but its work time so I close it all down. When I try and launch SMM after work it &quot;opens&quot; but stays minimized no matter what I do. I force close it, I alt tab to it, run it as admin, whatever I can think of to make it show up not minimized to the task bar. I have uninstalled (with Revo so a good full uninstall) and reinstalled. Nothing does the trick. I am on windows 10 pro btw with epic version of satisfactory if that matters.</description>
+    
+    <lastBuildDate>Mon, 22 Nov 2021 16:53:26 +0000</lastBuildDate>
+    <category>General</category>
+    <atom:link href="https://forums.ficsit.app/t/satisfactory-mod-manager-stays-minimized/1453.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Satisfactory Mod Manager Stays Minimized</title>
+        <dc:creator><![CDATA[@Stephen_Jones Stephen Jones]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/stephen_jones">@Stephen_Jones</a> wrote:</p>
+          <blockquote>
+              <p>I don’t know if this is the right place to post this but none of the other categories seemed right to me. I had the SMM installed for a while. Update 5 rolls around on experimental so I fire it up. Everything works fine but its work time so I close it all down. When I try and launch SMM after work it “opens” but stays minimized no matter what I do. I force close it, I alt tab to it, run it as admin, whatever I can think of to make it show up not minimized to the task bar. I have uninstalled (with Revo so a good full uninstall) and reinstalled. Nothing does the trick. I am on windows 10 pro btw with epic version of satisfactory if that matters.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/satisfactory-mod-manager-stays-minimized/1453/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/satisfactory-mod-manager-stays-minimized/1453/1</link>
+        <pubDate>Mon, 22 Nov 2021 16:53:26 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1453-1</guid>
+        <source url="https://forums.ficsit.app/t/satisfactory-mod-manager-stays-minimized/1453.rss">Satisfactory Mod Manager Stays Minimized</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Smart Mod Problem</title>
+    <link>https://forums.ficsit.app/t/smart-mod-problem/1237</link>
+    <description>Hello, I hope someone can help me here. Since the Update 4, i have the problem that Satisfactoy does not start with the SMART Mod. I have all updates installed. At startup it always shows me these error messages....
+
+![2021-05-01|379x500](upload://wMTQ4XOKSr9bKxfKXpOkhTsMRzw.png) 
+
+....What have I done wrong.
+Thank you for interest.</description>
+    
+    <lastBuildDate>Sun, 09 May 2021 16:50:45 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forums.ficsit.app/t/smart-mod-problem/1237.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Smart Mod Problem</title>
+        <dc:creator><![CDATA[@Jeppe_Achton_Nielsen Jeppe Achton Nielsen]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jeppe_achton_nielsen">@Jeppe_Achton_Nielsen</a> wrote:</p>
+          <blockquote>
+              <p>Alright, it is a known issue with SML. We need to wait or use experimental mode. From the discord:</p>
+<p>" SML 3.1.0 just released, and it fixes that crash, alongside some other fixes and changes.</p>
+<p>This version of SML is only compatible with the build 151773 (and up) of the game, this means that it is currently only compatible with the Experimental branch of the game. Because of this, we suggest you switch to using that branch while waiting for it to merge back into the Early Access branch.</p>
+<p>Some mods may have become broken because of the SML update. We already know about Micro Manage and Smart. The fix is simple and those mods will likely be updated again. But as always, please do not ask for ETAs. Mod updates will come when they come.</p>
+<p>Please remember that all of the mods are made by volunteers who do this in their spare time ! Happy modding everyone!"</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/smart-mod-problem/1237/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/smart-mod-problem/1237/6</link>
+        <pubDate>Sun, 09 May 2021 16:50:45 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1237-6</guid>
+        <source url="https://forums.ficsit.app/t/smart-mod-problem/1237.rss">Smart Mod Problem</source>
+      </item>
+      <item>
+        <title>Smart Mod Problem</title>
+        <dc:creator><![CDATA[@Jeppe_Achton_Nielsen Jeppe Achton Nielsen]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jeppe_achton_nielsen">@Jeppe_Achton_Nielsen</a> wrote:</p>
+          <blockquote>
+              <p>I tried updating to SML 3.1.0 alone, seems there is a version issue going on:</p>
+<p>2021-05-09 01:26:51:955	[DEBUG]	SML@3.1.0 is not good: Game version incompatible. Installed: 151248. SML requires &gt;=151773 Trace:<br>
+Error: Game version incompatible. Installed: 151248. SML requires &gt;=151773<br>
+at LockfileGraph.validate (C:\SMM\Satisfactory Mod Manager\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\lockfile.js:94:23)<br>
+at async Array.forEachAsync (C:\SMM\Satisfactory Mod Manager\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\utils.js:212:9)<br>
+at async LockfileGraph.validate (C:\SMM\Satisfactory Mod Manager\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\lockfile.js:109:29)<br>
+at async C:\SMM\Satisfactory Mod Manager\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\manifest.js:164:13<br>
+at async Array.forEachAsync (C:\SMM\Satisfactory Mod Manager\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\utils.js:212:9)<br>
+at async Object.mutateManifest (C:\SMM\Satisfactory Mod Manager\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\manifest.js:158:5)<br>
+at async SatisfactoryInstall.checkForUpdates (C:\SMM\Satisfactory Mod Manager\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\satisfactoryInstall.js:261:44)</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/smart-mod-problem/1237/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/smart-mod-problem/1237/5</link>
+        <pubDate>Sat, 08 May 2021 23:37:32 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1237-5</guid>
+        <source url="https://forums.ficsit.app/t/smart-mod-problem/1237.rss">Smart Mod Problem</source>
+      </item>
+      <item>
+        <title>Smart Mod Problem</title>
+        <dc:creator><![CDATA[@Marcel_Hintz Marcel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/marcel_hintz">@Marcel_Hintz</a> wrote:</p>
+          <blockquote>
+              <p>Ich habe das Problem auch schon eine lösung gefunden?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/smart-mod-problem/1237/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/smart-mod-problem/1237/4</link>
+        <pubDate>Thu, 06 May 2021 09:27:01 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1237-4</guid>
+        <source url="https://forums.ficsit.app/t/smart-mod-problem/1237.rss">Smart Mod Problem</source>
+      </item>
+      <item>
+        <title>Smart Mod Problem</title>
+        <dc:creator><![CDATA[@Renegade Renegade]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/renegade">@Renegade</a> wrote:</p>
+          <blockquote>
+              <p>I have the same error. sml 3.1.0<br>
+plugin ‘SmartFoundation’ could not be found. please ensure the plugin is properly instaled, otherwise consider disabling the pluging for this project.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/smart-mod-problem/1237/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/smart-mod-problem/1237/3</link>
+        <pubDate>Tue, 04 May 2021 05:02:21 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1237-3</guid>
+        <source url="https://forums.ficsit.app/t/smart-mod-problem/1237.rss">Smart Mod Problem</source>
+      </item>
+      <item>
+        <title>Smart Mod Problem</title>
+        <dc:creator><![CDATA[@Rick_B Rick B]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/rick_b">@Rick_B</a> wrote:</p>
+          <blockquote>
+              <p>I have the same error. Anyone find a fix?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/smart-mod-problem/1237/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/smart-mod-problem/1237/2</link>
+        <pubDate>Mon, 03 May 2021 14:01:46 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1237-2</guid>
+        <source url="https://forums.ficsit.app/t/smart-mod-problem/1237.rss">Smart Mod Problem</source>
+      </item>
+      <item>
+        <title>Smart Mod Problem</title>
+        <dc:creator><![CDATA[@Laser_DIABOLUS Laser Diabolus]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/laser_diabolus">@Laser_DIABOLUS</a> wrote:</p>
+          <blockquote>
+              <p>Hello, I hope someone can help me here. Since the Update 4, i have the problem that Satisfactoy does not start with the SMART Mod. I have all updates installed. At startup it always shows me these error messages…</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/e5ccab0521484905e29d2435d873f8dc84eb300e.png" data-download-href="https://forums.ficsit.app/uploads/default/e5ccab0521484905e29d2435d873f8dc84eb300e" title="2021-05-01"><img src="https://forums.ficsit.app/uploads/default/optimized/1X/e5ccab0521484905e29d2435d873f8dc84eb300e_2_379x500.png" alt="2021-05-01" data-base62-sha1="wMTQ4XOKSr9bKxfKXpOkhTsMRzw" width="379" height="500" srcset="https://forums.ficsit.app/uploads/default/optimized/1X/e5ccab0521484905e29d2435d873f8dc84eb300e_2_379x500.png, https://forums.ficsit.app/uploads/default/original/1X/e5ccab0521484905e29d2435d873f8dc84eb300e.png 1.5x, https://forums.ficsit.app/uploads/default/original/1X/e5ccab0521484905e29d2435d873f8dc84eb300e.png 2x" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/e5ccab0521484905e29d2435d873f8dc84eb300e_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">2021-05-01</span><span class="informations">413×544 44.1 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>…What have I done wrong.<br>
+Thank you for interest.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/smart-mod-problem/1237/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/smart-mod-problem/1237/1</link>
+        <pubDate>Sat, 01 May 2021 21:56:05 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1237-1</guid>
+        <source url="https://forums.ficsit.app/t/smart-mod-problem/1237.rss">Smart Mod Problem</source>
+      </item>
+  </channel>
+</rss>

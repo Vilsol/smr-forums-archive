@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Sweettransportal mod and big factories</title>
+    <link>https://forums.ficsit.app/t/sweettransportal-mod-and-big-factories/188</link>
+    <description>Hello,
+
+I dowloaded and used some mods from SMR recently and everything is working fine, except for the Sweettransportal one.
+The problem is not related to the transportals themselves, they work as intended without bugs or problems, but it&#39;s about the loading time when starting the game or loading a save with a big factory and a lot of transportals.
+In my game, I&#39;m using a lot of them, probably more than 800, and the loading time is getting unbearable. It&#39;s not the screen with &quot;Satisfactory&quot; written and a loading wheel that takes much time, it&#39;s after that, once you&#39;re in the game but your character can&#39;t move yet, until &quot;Ficsit, hudOS, welcome back [name]&quot; appears in the middle of the screen.
+While the first screen, which is the &quot;real&quot; loading time I guess, disappears after ~40secs, I have to wait more than 12 minutes(!) on a frozen screen (which is the view I had when I saved) for the &quot;Ficsit, hudOS, welcome back [name]&quot; message to appear and being able to move.
+
+I&#39;m not 100% sure this is due to the amount of transportals I&#39;m using, but I had another unmodded game with a huge factory aswell before, and I can instantly move after the 40 secs loading screen. The main difference is the amount of transportals I used : 0 in the unmodded game and 800+ in the new one. So I think that&#39;s the problem.
+Maybe that moment between loading time and when you can move has the purpose to connect all the transportals between them and the more you have, the longer it takes, I don&#39;t know. But that&#39;s really problematic because I can&#39;t add transportals anymore (the waiting time is already too long) and even now I can&#39;t wait 12+ minutes everytime I start / load the game...
+
+Thanks in advance if someone helps</description>
+    
+    <lastBuildDate>Wed, 26 Feb 2020 00:33:28 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forums.ficsit.app/t/sweettransportal-mod-and-big-factories/188.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Sweettransportal mod and big factories</title>
+        <dc:creator><![CDATA[@Robert_Beasley Robert Beasley]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/robert_beasley">@Robert_Beasley</a> wrote:</p>
+          <blockquote>
+              <p>I am trying to use this mod myself, i updated the latest version and i can not figure out how to connect the belts. I know I have to b missing something real simple</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/sweettransportal-mod-and-big-factories/188/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/sweettransportal-mod-and-big-factories/188/7</link>
+        <pubDate>Wed, 26 Feb 2020 00:33:28 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-188-7</guid>
+        <source url="https://forums.ficsit.app/t/sweettransportal-mod-and-big-factories/188.rss">Sweettransportal mod and big factories</source>
+      </item>
+      <item>
+        <title>Sweettransportal mod and big factories</title>
+        <dc:creator><![CDATA[@Bryce_Lumpkin Bryce Lumpkin]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/bryce_lumpkin">@Bryce_Lumpkin</a> wrote:</p>
+          <blockquote>
+              <p>Awesome!  No problem, glad it worked</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/sweettransportal-mod-and-big-factories/188/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/sweettransportal-mod-and-big-factories/188/6</link>
+        <pubDate>Sun, 16 Feb 2020 20:06:07 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-188-6</guid>
+        <source url="https://forums.ficsit.app/t/sweettransportal-mod-and-big-factories/188.rss">Sweettransportal mod and big factories</source>
+      </item>
+      <item>
+        <title>Sweettransportal mod and big factories</title>
+        <dc:creator><![CDATA[@Flandre_Scarlet Flandre Scarlet]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/flandre_scarlet">@Flandre_Scarlet</a> wrote:</p>
+          <blockquote>
+              <p>Annnnnd… it worked!<br>
+After the loading screen, I’ve been able to move instantly. So yeah, the last update completely fixed the issue.</p>
+<p>Thanks again for your help Bryce</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/sweettransportal-mod-and-big-factories/188/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/sweettransportal-mod-and-big-factories/188/5</link>
+        <pubDate>Sun, 16 Feb 2020 19:31:53 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-188-5</guid>
+        <source url="https://forums.ficsit.app/t/sweettransportal-mod-and-big-factories/188.rss">Sweettransportal mod and big factories</source>
+      </item>
+      <item>
+        <title>Sweettransportal mod and big factories</title>
+        <dc:creator><![CDATA[@Bryce_Lumpkin Bryce Lumpkin]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/bryce_lumpkin">@Bryce_Lumpkin</a> wrote:</p>
+          <blockquote>
+              <p>Please do let me know!</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/sweettransportal-mod-and-big-factories/188/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/sweettransportal-mod-and-big-factories/188/4</link>
+        <pubDate>Sun, 16 Feb 2020 19:25:50 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-188-4</guid>
+        <source url="https://forums.ficsit.app/t/sweettransportal-mod-and-big-factories/188.rss">Sweettransportal mod and big factories</source>
+      </item>
+      <item>
+        <title>Sweettransportal mod and big factories</title>
+        <dc:creator><![CDATA[@Flandre_Scarlet Flandre Scarlet]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/flandre_scarlet">@Flandre_Scarlet</a> wrote:</p>
+          <blockquote>
+              <p>I’m blind, I didn’t even see there was a new version…<br>
+Thanks for your answer, I’m testing and I’ll tell you if the new version fixes the issue</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/sweettransportal-mod-and-big-factories/188/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/sweettransportal-mod-and-big-factories/188/3</link>
+        <pubDate>Sun, 16 Feb 2020 19:21:41 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-188-3</guid>
+        <source url="https://forums.ficsit.app/t/sweettransportal-mod-and-big-factories/188.rss">Sweettransportal mod and big factories</source>
+      </item>
+      <item>
+        <title>Sweettransportal mod and big factories</title>
+        <dc:creator><![CDATA[@Bryce_Lumpkin Bryce Lumpkin]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/bryce_lumpkin">@Bryce_Lumpkin</a> wrote:</p>
+          <blockquote>
+              <p>What version of Transportals are you using?  The latest change 0.1.1 was a fix for long load times that worked on two other peoples games to greatly reduce load time.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/sweettransportal-mod-and-big-factories/188/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/sweettransportal-mod-and-big-factories/188/2</link>
+        <pubDate>Sun, 16 Feb 2020 19:04:59 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-188-2</guid>
+        <source url="https://forums.ficsit.app/t/sweettransportal-mod-and-big-factories/188.rss">Sweettransportal mod and big factories</source>
+      </item>
+      <item>
+        <title>Sweettransportal mod and big factories</title>
+        <dc:creator><![CDATA[@Flandre_Scarlet Flandre Scarlet]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/flandre_scarlet">@Flandre_Scarlet</a> wrote:</p>
+          <blockquote>
+              <p>Hello,</p>
+<p>I dowloaded and used some mods from SMR recently and everything is working fine, except for the Sweettransportal one.<br>
+The problem is not related to the transportals themselves, they work as intended without bugs or problems, but it’s about the loading time when starting the game or loading a save with a big factory and a lot of transportals.<br>
+In my game, I’m using a lot of them, probably more than 800, and the loading time is getting unbearable. It’s not the screen with “Satisfactory” written and a loading wheel that takes much time, it’s after that, once you’re in the game but your character can’t move yet, until “Ficsit, hudOS, welcome back [name]” appears in the middle of the screen.<br>
+While the first screen, which is the “real” loading time I guess, disappears after ~40secs, I have to wait more than 12 minutes(!) on a frozen screen (which is the view I had when I saved) for the “Ficsit, hudOS, welcome back [name]” message to appear and being able to move.</p>
+<p>I’m not 100% sure this is due to the amount of transportals I’m using, but I had another unmodded game with a huge factory aswell before, and I can instantly move after the 40 secs loading screen. The main difference is the amount of transportals I used : 0 in the unmodded game and 800+ in the new one. So I think that’s the problem.<br>
+Maybe that moment between loading time and when you can move has the purpose to connect all the transportals between them and the more you have, the longer it takes, I don’t know. But that’s really problematic because I can’t add transportals anymore (the waiting time is already too long) and even now I can’t wait 12+ minutes everytime I start / load the game…</p>
+<p>Thanks in advance if someone helps</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/sweettransportal-mod-and-big-factories/188/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/sweettransportal-mod-and-big-factories/188/1</link>
+        <pubDate>Sun, 16 Feb 2020 18:45:04 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-188-1</guid>
+        <source url="https://forums.ficsit.app/t/sweettransportal-mod-and-big-factories/188.rss">Sweettransportal mod and big factories</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Manual mod load process?</title>
+    <link>https://forums.ficsit.app/t/manual-mod-load-process/353</link>
+    <description>what is the manual mod load process? I am getting the mod loader error below. nobody has responded with an idea or solution.  the error is not descriptive enough to solve it myself.
+
+Error: Dependency ubjtpwrNUqGkb of manifest_ubjtpwrNUqGkb could not be installed. Conflicting version requriements: manifest_ubjtpwrNUqGkb requires &gt;=0.0.0 All changes were discarded.
+
+i have posted before about the error..
+
+so, what the manual process for loading new mods or updating existing mods?</description>
+    
+    <lastBuildDate>Sun, 12 Apr 2020 13:21:52 +0000</lastBuildDate>
+    <category>SML</category>
+    <atom:link href="https://forums.ficsit.app/t/manual-mod-load-process/353.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Manual mod load process?</title>
+        <dc:creator><![CDATA[@Robert_Walters Robert Walters]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/robert_walters">@Robert_Walters</a> wrote:</p>
+          <blockquote>
+              <p>the mod files were .zips before, and i knew where to place them.  now they appear to be .smod files.  the mod pages now dont have directions on where to place the files like before.</p>
+<p>I looked in the debug code, it indicates a file was removed from the ficsit.app, that i was trying a newer version. then fails.  so i dont believe the mod installer failure is on my PC.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/manual-mod-load-process/353/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/manual-mod-load-process/353/4</link>
+        <pubDate>Sun, 12 Apr 2020 13:21:52 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-353-4</guid>
+        <source url="https://forums.ficsit.app/t/manual-mod-load-process/353.rss">Manual mod load process?</source>
+      </item>
+      <item>
+        <title>Manual mod load process?</title>
+        <dc:creator><![CDATA[@Steven_Adler Steven Adler]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/steven_adler">@Steven_Adler</a> wrote:</p>
+          <blockquote>
+              <p>If you already have the modding set up (which you should with SML installed), you can install mods directly into your SatisfactoryEarlyAccess\mods folder.  As I’ve been dealing with the same issue as you, this is how I’ve been handling it.  Just download a mod from the site and place it in that folder.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/manual-mod-load-process/353/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/manual-mod-load-process/353/3</link>
+        <pubDate>Sat, 11 Apr 2020 21:34:43 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-353-3</guid>
+        <source url="https://forums.ficsit.app/t/manual-mod-load-process/353.rss">Manual mod load process?</source>
+      </item>
+      <item>
+        <title>Manual mod load process?</title>
+        <dc:creator><![CDATA[@Robert_Walters Robert Walters]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/robert_walters">@Robert_Walters</a> wrote:</p>
+          <blockquote>
+              <p>it seems to be some dependency error, on all mods or updates.  so, is it a loader or SML dependency?</p>
+<p>the mods already loaded work fine.  just unable to load new ones or update.</p>
+<p>ideas? suggestions?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/manual-mod-load-process/353/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/manual-mod-load-process/353/2</link>
+        <pubDate>Sat, 11 Apr 2020 15:40:50 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-353-2</guid>
+        <source url="https://forums.ficsit.app/t/manual-mod-load-process/353.rss">Manual mod load process?</source>
+      </item>
+      <item>
+        <title>Manual mod load process?</title>
+        <dc:creator><![CDATA[@Robert_Walters Robert Walters]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/robert_walters">@Robert_Walters</a> wrote:</p>
+          <blockquote>
+              <p>what is the manual mod load process? I am getting the mod loader error below. nobody has responded with an idea or solution.  the error is not descriptive enough to solve it myself.</p>
+<p>Error: Dependency ubjtpwrNUqGkb of manifest_ubjtpwrNUqGkb could not be installed. Conflicting version requriements: manifest_ubjtpwrNUqGkb requires &gt;=0.0.0 All changes were discarded.</p>
+<p>i have posted before about the error…</p>
+<p>so, what the manual process for loading new mods or updating existing mods?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/manual-mod-load-process/353/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/manual-mod-load-process/353/1</link>
+        <pubDate>Sat, 11 Apr 2020 15:34:46 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-353-1</guid>
+        <source url="https://forums.ficsit.app/t/manual-mod-load-process/353.rss">Manual mod load process?</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>sweetTransportal</title>
+    <link>https://forums.ficsit.app/t/sweettransportal/296</link>
+    <description>Is there any way to run sweetTransportal on update 3 [v118201]</description>
+    
+    <lastBuildDate>Sat, 18 Apr 2020 11:43:49 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/sweettransportal/296.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>sweetTransportal</title>
+        <dc:creator><![CDATA[@Sven_Doe Sven Doe]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/sven_doe">@Sven_Doe</a> wrote:</p>
+          <blockquote>
+              <p>Yes. Please make a new Version for Playing.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/sweettransportal/296/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/sweettransportal/296/2</link>
+        <pubDate>Sat, 18 Apr 2020 11:43:49 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-296-2</guid>
+        <source url="https://forums.ficsit.app/t/sweettransportal/296.rss">sweetTransportal</source>
+      </item>
+      <item>
+        <title>sweetTransportal</title>
+        <dc:creator><![CDATA[@SatisfactoryBug Satisfactory Bug]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/satisfactorybug">@SatisfactoryBug</a> wrote:</p>
+          <blockquote>
+              <p>Is there any way to run sweetTransportal on update 3 [v118201]</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/sweettransportal/296/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/sweettransportal/296/1</link>
+        <pubDate>Thu, 02 Apr 2020 15:04:05 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-296-1</guid>
+        <source url="https://forums.ficsit.app/t/sweettransportal/296.rss">sweetTransportal</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Programmable Elevators not working after recent mod loader update</title>
+    <link>https://forums.ficsit.app/t/programmable-elevators-not-working-after-recent-mod-loader-update/716</link>
+    <description>This mod when installed after the recent update it errors.
+
+Mod Loader gives the error SML HAS CRASHED: Module failed to load:  (gives the directory for UE4-ProgrammableElevatorMod-Win64-Shipping.dll
+
+I love the elevators I hope it can be fixed soon!</description>
+    
+    <lastBuildDate>Mon, 06 Jul 2020 17:43:35 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forums.ficsit.app/t/programmable-elevators-not-working-after-recent-mod-loader-update/716.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Programmable Elevators not working after recent mod loader update</title>
+        <dc:creator><![CDATA[@LadyKathleen Lady Kathleen]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/ladykathleen">@LadyKathleen</a> wrote:</p>
+          <blockquote>
+              <p>This mod when installed after the recent update it errors.</p>
+<p>Mod Loader gives the error SML HAS CRASHED: Module failed to load:  (gives the directory for UE4-ProgrammableElevatorMod-Win64-Shipping.dll</p>
+<p>I love the elevators I hope it can be fixed soon!</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/programmable-elevators-not-working-after-recent-mod-loader-update/716/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/programmable-elevators-not-working-after-recent-mod-loader-update/716/1</link>
+        <pubDate>Mon, 06 Jul 2020 17:43:35 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-716-1</guid>
+        <source url="https://forums.ficsit.app/t/programmable-elevators-not-working-after-recent-mod-loader-update/716.rss">Programmable Elevators not working after recent mod loader update</source>
+      </item>
+  </channel>
+</rss>

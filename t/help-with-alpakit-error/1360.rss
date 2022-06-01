@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Help with Alpakit Error</title>
+    <link>https://forums.ficsit.app/t/help-with-alpakit-error/1360</link>
+    <description>Hi, if someone know why i have this error when i&#39;m trying to use alpakit, or what does this error mean ? (I&#39;m new with Unreal Engine).
+
+I installed UE from jenkins-UE-4.25.3-CSS-40 on GitHub
+
+![image|690x57, 100%](upload://Aq7ViEuIhjWcnAxznusduCiVPax.png)
+The complete error line is:
+
+    UATHelper: Package Mod Task (Windows): ERROR: Failed to load script DLL: D:\Dev\SML\Build\Alpakit.Automation\Scripts\Alpakit.Automation.dll: Impossible de charger le fichier ou l&#39;assembly &#39;Alpakit.Automation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null&#39; ou une de ses dépendances. L&#39;opération n&#39;est pas prise en charge. (Exception de HRESULT : 0x8013
+    1515)
+
+*Sorry if part of this output is in French, I think it&#39;s because my Windows is too*</description>
+    
+    <lastBuildDate>Thu, 22 Jul 2021 15:23:03 +0000</lastBuildDate>
+    <category>Pak Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/help-with-alpakit-error/1360.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Help with Alpakit Error</title>
+        <dc:creator><![CDATA[@Watz WatzTheEngineer]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/watz">@Watz</a> wrote:</p>
+          <blockquote>
+              <p>I finaly found a solution <a href="https://stackoverflow.com/questions/34400546/could-not-load-file-or-assembly-operation-is-not-supported-exception-from-hres" rel="nofollow noopener"><strong>here</strong></a><br>
+Windows blocked automatically <code>Alpakit.Automation.dll</code></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/help-with-alpakit-error/1360/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/help-with-alpakit-error/1360/2</link>
+        <pubDate>Thu, 22 Jul 2021 15:23:03 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1360-2</guid>
+        <source url="https://forums.ficsit.app/t/help-with-alpakit-error/1360.rss">Help with Alpakit Error</source>
+      </item>
+      <item>
+        <title>Help with Alpakit Error</title>
+        <dc:creator><![CDATA[@Watz WatzTheEngineer]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/watz">@Watz</a> wrote:</p>
+          <blockquote>
+              <p>Hi, if someone know why i have this error when i’m trying to use alpakit, or what does this error mean ? (I’m new with Unreal Engine).</p>
+<p>I installed UE from jenkins-UE-4.25.3-CSS-40 on GitHub</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/ff425b65260eea8b0bfc49fc8576446bcf53b2f1.png" data-download-href="https://forums.ficsit.app/uploads/default/ff425b65260eea8b0bfc49fc8576446bcf53b2f1" title="image"><img src="https://forums.ficsit.app/uploads/default/optimized/1X/ff425b65260eea8b0bfc49fc8576446bcf53b2f1_2_690x57.png" alt="image" data-base62-sha1="Aq7ViEuIhjWcnAxznusduCiVPax" width="690" height="57" srcset="https://forums.ficsit.app/uploads/default/optimized/1X/ff425b65260eea8b0bfc49fc8576446bcf53b2f1_2_690x57.png, https://forums.ficsit.app/uploads/default/optimized/1X/ff425b65260eea8b0bfc49fc8576446bcf53b2f1_2_1035x85.png 1.5x, https://forums.ficsit.app/uploads/default/optimized/1X/ff425b65260eea8b0bfc49fc8576446bcf53b2f1_2_1380x114.png 2x" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/ff425b65260eea8b0bfc49fc8576446bcf53b2f1_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1896×158 33.3 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div><br>
+The complete error line is:</p>
+<pre><code>UATHelper: Package Mod Task (Windows): ERROR: Failed to load script DLL: D:\Dev\SML\Build\Alpakit.Automation\Scripts\Alpakit.Automation.dll: Impossible de charger le fichier ou l'assembly 'Alpakit.Automation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' ou une de ses dépendances. L'opération n'est pas prise en charge. (Exception de HRESULT : 0x8013
+1515)
+</code></pre>
+<p><em>Sorry if part of this output is in French, I think it’s because my Windows is too</em></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/help-with-alpakit-error/1360/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/help-with-alpakit-error/1360/1</link>
+        <pubDate>Wed, 07 Jul 2021 14:35:30 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1360-1</guid>
+        <source url="https://forums.ficsit.app/t/help-with-alpakit-error/1360.rss">Help with Alpakit Error</source>
+      </item>
+  </channel>
+</rss>

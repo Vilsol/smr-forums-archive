@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>MoarFactory Crashes</title>
+    <link>https://forums.ficsit.app/t/moarfactory-crashes/403</link>
+    <description>I Intalling Moar Factory as only Mod in my Game. 
+When i starting the Game its Crashing 
+
+I Delete the Mod its Starting.
+I Install oather Mods its Starting and it Works.
+
+Exist a Problem for MoarFactory with the Launcher 1.0.6 and the older 1.0.5 ? 
+How i install the Mod Manuell with the smod File from Downlods. 
+&quot;MoarFactory-1.0.4.smod&quot;
+
+Thanks.</description>
+    
+    <lastBuildDate>Mon, 11 May 2020 14:00:06 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forums.ficsit.app/t/moarfactory-crashes/403.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>MoarFactory Crashes</title>
+        <dc:creator><![CDATA[@Richard_Frye Richard Frye]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/richard_frye">@Richard_Frye</a> wrote:</p>
+          <blockquote>
+              <p>1.0.7 works for me but I have a crash with 1.0.8.   Im wondering if it has issues with other mods installed?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/moarfactory-crashes/403/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/moarfactory-crashes/403/10</link>
+        <pubDate>Mon, 11 May 2020 14:00:06 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-403-10</guid>
+        <source url="https://forums.ficsit.app/t/moarfactory-crashes/403.rss">MoarFactory Crashes</source>
+      </item>
+      <item>
+        <title>MoarFactory Crashes</title>
+        <dc:creator><![CDATA[@Elaine_Barlow Elaine Barlow]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/elaine_barlow">@Elaine_Barlow</a> wrote:</p>
+          <blockquote>
+              <p>I have not been able to get any version other than 1.0.3 to work.<br>
+If I upgrade, Satisfactory crashes on launch with corrupted data error.<br>
+Any fix? Is  it because ModLoader only has SML 2.0?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/moarfactory-crashes/403/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/moarfactory-crashes/403/9</link>
+        <pubDate>Fri, 08 May 2020 20:53:58 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-403-9</guid>
+        <source url="https://forums.ficsit.app/t/moarfactory-crashes/403.rss">MoarFactory Crashes</source>
+      </item>
+      <item>
+        <title>MoarFactory Crashes</title>
+        <dc:creator><![CDATA[@Peter_Oertel Peter Oertel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/peter_oertel">@Peter_Oertel</a> wrote:</p>
+          <blockquote>
+              <p>I’m having the same issue and have tracked it down to this mod. I’ve got a whole array of mods installed, but just this one seems to break the game at launch. I’ve tried downgrading a couple of versions, but nothing has helped. Perhaps it’s because I’m running the game on experimental? I feel like I haven’t changed much to my game since two days ago, and it was working just fine then.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/moarfactory-crashes/403/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/moarfactory-crashes/403/8</link>
+        <pubDate>Thu, 30 Apr 2020 22:07:44 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-403-8</guid>
+        <source url="https://forums.ficsit.app/t/moarfactory-crashes/403.rss">MoarFactory Crashes</source>
+      </item>
+      <item>
+        <title>MoarFactory Crashes</title>
+        <dc:creator><![CDATA[@Sven_Doe Sven Doe]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/sven_doe">@Sven_Doe</a> wrote:</p>
+          <blockquote>
+              <p>No Update Today <img src="https://forums.ficsit.app/images/emoji/twitter/frowning.png?v=9" title=":frowning:" class="emoji" alt=":frowning:"><br>
+So. 20 More Letters for the Filter ^^</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/moarfactory-crashes/403/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/moarfactory-crashes/403/7</link>
+        <pubDate>Sun, 19 Apr 2020 18:36:47 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-403-7</guid>
+        <source url="https://forums.ficsit.app/t/moarfactory-crashes/403.rss">MoarFactory Crashes</source>
+      </item>
+      <item>
+        <title>MoarFactory Crashes</title>
+        <dc:creator><![CDATA[@Sven_Doe Sven Doe]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/sven_doe">@Sven_Doe</a> wrote:</p>
+          <blockquote>
+              <p>Cant Install.</p>
+<p>It Loading and Loading and Loading and then this error…</p>
+<p>Error: Czne9oqDvu9xVu@1.0.3 not found All changes were discarded.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/moarfactory-crashes/403/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/moarfactory-crashes/403/6</link>
+        <pubDate>Sat, 18 Apr 2020 22:17:42 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-403-6</guid>
+        <source url="https://forums.ficsit.app/t/moarfactory-crashes/403.rss">MoarFactory Crashes</source>
+      </item>
+      <item>
+        <title>MoarFactory Crashes</title>
+        <dc:creator><![CDATA[@Sven_Doe Sven Doe]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/sven_doe">@Sven_Doe</a> wrote:</p>
+          <blockquote>
+              <p>Thanks, i try it <img src="https://forums.ficsit.app/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:">  …</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/moarfactory-crashes/403/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/moarfactory-crashes/403/5</link>
+        <pubDate>Sat, 18 Apr 2020 22:04:58 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-403-5</guid>
+        <source url="https://forums.ficsit.app/t/moarfactory-crashes/403.rss">MoarFactory Crashes</source>
+      </item>
+      <item>
+        <title>MoarFactory Crashes</title>
+        <dc:creator><![CDATA[@Marco_H Marco H]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/marco_h">@Marco_H</a> wrote:</p>
+          <blockquote>
+              <p>you can add it later. but you could also use 1.0.3 via “Install older Version”. This version is working</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/moarfactory-crashes/403/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/moarfactory-crashes/403/4</link>
+        <pubDate>Sat, 18 Apr 2020 21:43:54 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-403-4</guid>
+        <source url="https://forums.ficsit.app/t/moarfactory-crashes/403.rss">MoarFactory Crashes</source>
+      </item>
+      <item>
+        <title>MoarFactory Crashes</title>
+        <dc:creator><![CDATA[@Sven_Doe Sven Doe]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/sven_doe">@Sven_Doe</a> wrote:</p>
+          <blockquote>
+              <p>I waiting for a Response.<br>
+But now i starting a Game without the MoarFactory Mod.<br>
+Can i Add the Mod after Creating a Game ?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/moarfactory-crashes/403/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/moarfactory-crashes/403/3</link>
+        <pubDate>Sat, 18 Apr 2020 21:40:38 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-403-3</guid>
+        <source url="https://forums.ficsit.app/t/moarfactory-crashes/403.rss">MoarFactory Crashes</source>
+      </item>
+      <item>
+        <title>MoarFactory Crashes</title>
+        <dc:creator><![CDATA[@Sven_Doe Sven Doe]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/sven_doe">@Sven_Doe</a> wrote:</p>
+          <blockquote>
+              <p>Version: 118201, IsPerforceBuild: false, BuildConfiguration: Shipping, NetMode:</p>
+<p>Assertion failed: [File:D:\ws\SB-200303103109-c8c\UE4\Engine\Source\Runtime\CoreUObject\Private\Serialization\AsyncLoading.cpp] [Line: 3630] StaticMesh /Game/FactoryGame/MoarFactory/Buildable/Building/Pipe/Mesh/MF_Foundation013.MF_Foundation013: Serial size mismatch: Got 50034, Expected 50033</p>
+<p>FactoryGame_Win64_Shipping!FWindowsErrorOutputDevice::Serialize() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\core\private\windows\windowserroroutputdevice.cpp:79]<br>
+FactoryGame_Win64_Shipping!FOutputDevice::LogfImpl() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\core\private\misc\outputdevice.cpp:71]<br>
+FactoryGame_Win64_Shipping!AssertFailedImplV() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\core\private\misc\assertionmacros.cpp:101]<br>
+FactoryGame_Win64_Shipping!FDebug::AssertFailed() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\core\private\misc\assertionmacros.cpp:449]<br>
+FactoryGame_Win64_Shipping!FAsyncPackage::EventDrivenSerializeExport() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\coreuobject\private\serialization\asyncloading.cpp:3630]<br>
+FactoryGame_Win64_Shipping!FAsyncPackage::ProcessImportsAndExports_Event() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\coreuobject\private\serialization\asyncloading.cpp:3937]<br>
+FactoryGame_Win64_Shipping!&lt;lambda_34eee40e849fa2534d7a680d55b737bd&gt;::operator()() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\coreuobject\private\serialization\asyncloading.cpp:2736]<br>
+FactoryGame_Win64_Shipping!FAsyncLoadingThread::ProcessAsyncLoading() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\coreuobject\private\serialization\asyncloading.cpp:4488]<br>
+FactoryGame_Win64_Shipping!FAsyncLoadingThread::TickAsyncThread() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\coreuobject\private\serialization\asyncloading.cpp:5269]<br>
+FactoryGame_Win64_Shipping!FAsyncLoadingThread::TickAsyncLoading() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\coreuobject\private\serialization\asyncloading.cpp:4972]<br>
+FactoryGame_Win64_Shipping!FlushAsyncLoading() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\coreuobject\private\serialization\asyncloading.cpp:7294]<br>
+FactoryGame_Win64_Shipping!LoadPackageInternal() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\coreuobject\private\uobject\uobjectglobals.cpp:1095]<br>
+FactoryGame_Win64_Shipping!LoadPackage() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\coreuobject\private\uobject\uobjectglobals.cpp:1411]<br>
+FactoryGame_Win64_Shipping!ResolveName() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\coreuobject\private\uobject\uobjectglobals.cpp:751]<br>
+FactoryGame_Win64_Shipping!StaticLoadObjectInternal() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\coreuobject\private\uobject\uobjectglobals.cpp:813]<br>
+FactoryGame_Win64_Shipping!StaticLoadObject() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\coreuobject\private\uobject\uobjectglobals.cpp:888]<br>
+FactoryGame_Win64_Shipping!StaticLoadClass() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\coreuobject\private\uobject\uobjectglobals.cpp:922]<br>
+UE4_SML_Win64_Shipping<br>
+UE4_SML_Win64_Shipping<br>
+UE4_SML_Win64_Shipping<br>
+UE4_SML_Win64_Shipping<br>
+UE4_SML_Win64_Shipping<br>
+FactoryGame_Win64_Shipping!TBaseMulticastDelegate::Broadcast() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\core\public\delegates\delegatesignatureimpl.inl:977]<br>
+FactoryGame_Win64_Shipping!FEngineLoop::Init() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\launch\private\launchengineloop.cpp:3278]<br>
+FactoryGame_Win64_Shipping!GuardedMain() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\launch\private\launch.cpp:157]<br>
+FactoryGame_Win64_Shipping!GuardedMainWrapper() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\launch\private\windows\launchwindows.cpp:145]<br>
+FactoryGame_Win64_Shipping!WinMain() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\launch\private\windows\launchwindows.cpp:275]<br>
+FactoryGame_Win64_Shipping!__scrt_common_main_seh() [d:\agent_work\2\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]<br>
+kernel32<br>
+ntdll</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/moarfactory-crashes/403/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/moarfactory-crashes/403/2</link>
+        <pubDate>Sat, 18 Apr 2020 12:55:20 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-403-2</guid>
+        <source url="https://forums.ficsit.app/t/moarfactory-crashes/403.rss">MoarFactory Crashes</source>
+      </item>
+      <item>
+        <title>MoarFactory Crashes</title>
+        <dc:creator><![CDATA[@Sven_Doe Sven Doe]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/sven_doe">@Sven_Doe</a> wrote:</p>
+          <blockquote>
+              <p>I Intalling Moar Factory as only Mod in my Game.<br>
+When i starting the Game its Crashing</p>
+<p>I Delete the Mod its Starting.<br>
+I Install oather Mods its Starting and it Works.</p>
+<p>Exist a Problem for MoarFactory with the Launcher 1.0.6 and the older 1.0.5 ?<br>
+How i install the Mod Manuell with the smod File from Downlods.<br>
+“MoarFactory-1.0.4.smod”</p>
+<p>Thanks.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/moarfactory-crashes/403/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/moarfactory-crashes/403/1</link>
+        <pubDate>Sat, 18 Apr 2020 11:28:28 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-403-1</guid>
+        <source url="https://forums.ficsit.app/t/moarfactory-crashes/403.rss">MoarFactory Crashes</source>
+      </item>
+  </channel>
+</rss>

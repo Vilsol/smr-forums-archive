@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Mod administration tool</title>
+    <link>https://forums.ficsit.app/t/mod-administration-tool/92</link>
+    <description>Hi,
+
+I&#39;m thinking about making a mod manager, that can manage (install, update) mods to the game. Is it possible to get a list of active mods from this site? Preferably via a service API?
+
+I imagine that one could run this mod manager prior to launching the game to check if all mods are up to date. with an option to update. Also new mods could be discovered, downloaded and installed.
+
+Cheers</description>
+    
+    <lastBuildDate>Mon, 02 Dec 2019 07:52:42 +0000</lastBuildDate>
+    <category>General</category>
+    <atom:link href="https://forums.ficsit.app/t/mod-administration-tool/92.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Mod administration tool</title>
+        <dc:creator><![CDATA[@Jan_Daniel_Andersen Jan Daniel Andersen]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jan_daniel_andersen">@Jan_Daniel_Andersen</a> wrote:</p>
+          <blockquote>
+              <p>Cool!</p>
+<p>Thanks a lot <img src="https://forums.ficsit.app/images/emoji/twitter/slightly_smiling_face.png?v=9" title=":slightly_smiling_face:" class="emoji" alt=":slightly_smiling_face:"></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mod-administration-tool/92/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mod-administration-tool/92/11</link>
+        <pubDate>Mon, 02 Dec 2019 07:52:42 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-92-11</guid>
+        <source url="https://forums.ficsit.app/t/mod-administration-tool/92.rss">Mod administration tool</source>
+      </item>
+      <item>
+        <title>Mod administration tool</title>
+        <dc:creator><![CDATA[@Vilsol]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/vilsol">@Vilsol</a> wrote:</p>
+          <blockquote>
+              <p><a class="mention" href="/u/jan_daniel_andersen">@Jan_Daniel_Andersen</a> I have added a page explaining the publicly available API endpoints:</p>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src="https://ficsit.app/api-docs/favicon.ico" class="site-icon" width="" height="">
+      <a href="https://ficsit.app/api-docs" target="_blank">ficsit.app</a>
+  </header>
+  <article class="onebox-body">
+    <img src="https://forums.ficsit.app/uploads/default/original/1X/f02da7f6991dd231eefed9e0b929b9f220067a67.png" class="thumbnail onebox-avatar" width="500" height="500">
+
+<h3><a href="https://ficsit.app/api-docs" target="_blank">API - SMR</a></h3>
+
+<p>Satisfactory mods, tools, guides and forums. An extension to the FICSIT industries.</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mod-administration-tool/92/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mod-administration-tool/92/10</link>
+        <pubDate>Mon, 02 Dec 2019 06:05:50 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-92-10</guid>
+        <source url="https://forums.ficsit.app/t/mod-administration-tool/92.rss">Mod administration tool</source>
+      </item>
+      <item>
+        <title>Mod administration tool</title>
+        <dc:creator><![CDATA[@Jan_Daniel_Andersen Jan Daniel Andersen]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jan_daniel_andersen">@Jan_Daniel_Andersen</a> wrote:</p>
+          <blockquote>
+              <p>I usually ask for APIs because those APIs, you can find by sniffing around, isn’t always meant to be used by third party. APIs that are not meant to be public can have side effects, that its developers are aware of and compensate for, that outsiders are not aware of, and thus, cannot compensate for.</p>
+<p>Also I think it’s polite to ask before putting an unintended strain on other peoples services.</p>
+<p>But no worries. I wasn’t offended. It’s all good :).</p>
+<p>That out of the way, could any of the devs maybe give a thumbs up for using the API used by the site?</p>
+<p>Cheers</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mod-administration-tool/92/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mod-administration-tool/92/9</link>
+        <pubDate>Sun, 01 Dec 2019 18:32:03 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-92-9</guid>
+        <source url="https://forums.ficsit.app/t/mod-administration-tool/92.rss">Mod administration tool</source>
+      </item>
+      <item>
+        <title>Mod administration tool</title>
+        <dc:creator><![CDATA[@mircearoata Mircearoata]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/mircearoata">@mircearoata</a> wrote:</p>
+          <blockquote>
+              <p>Sorry, I didn’t mean it to sound like that, but really you could have at least looked at it or search for <code>API</code> through the code</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mod-administration-tool/92/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mod-administration-tool/92/8</link>
+        <pubDate>Sun, 01 Dec 2019 16:40:26 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-92-8</guid>
+        <source url="https://forums.ficsit.app/t/mod-administration-tool/92.rss">Mod administration tool</source>
+      </item>
+      <item>
+        <title>Mod administration tool</title>
+        <dc:creator><![CDATA[@Derek_Mitchell Derek Mitchell]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/derek_mitchell">@Derek_Mitchell</a> wrote:</p>
+          <blockquote>
+              <p>Whats with the hostility?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mod-administration-tool/92/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mod-administration-tool/92/7</link>
+        <pubDate>Sun, 01 Dec 2019 16:16:22 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-92-7</guid>
+        <source url="https://forums.ficsit.app/t/mod-administration-tool/92.rss">Mod administration tool</source>
+      </item>
+      <item>
+        <title>Mod administration tool</title>
+        <dc:creator><![CDATA[@mircearoata Mircearoata]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/mircearoata">@mircearoata</a> wrote:</p>
+          <blockquote>
+              <p>No, I’m manually typing the list of mods every time someone makes the request. Of course there is an API, and you would know that if you looked a bit more at ficsit.app (like, really, just open developer tools and look at the requests made by the website <img src="https://forums.ficsit.app/uploads/default/original/1X/231c7592ee796a382d64355fc8bfc0bde09ee2de.png" alt="image" data-base62-sha1="50BGtOY60DPH8Iel0sOZQpAt98i" width="201" height="51">), or at the code I linked</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mod-administration-tool/92/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mod-administration-tool/92/6</link>
+        <pubDate>Sun, 01 Dec 2019 09:25:36 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-92-6</guid>
+        <source url="https://forums.ficsit.app/t/mod-administration-tool/92.rss">Mod administration tool</source>
+      </item>
+      <item>
+        <title>Mod administration tool</title>
+        <dc:creator><![CDATA[@mircearoata Mircearoata]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/mircearoata">@mircearoata</a> wrote:</p>
+          <blockquote>
+              <p>You can use the CLI version anywhere, and the GUI depends on it too, but the GUI finds Satisfactory installs automatically whereas the CLI needs you to input the Win64 path. The GUI also has a mod search tab so you don’t need to go to ficsit.app to find the mod ID and the version you want to download, then type them in the console, as the CLI needs</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mod-administration-tool/92/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mod-administration-tool/92/5</link>
+        <pubDate>Sun, 01 Dec 2019 09:22:51 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-92-5</guid>
+        <source url="https://forums.ficsit.app/t/mod-administration-tool/92.rss">Mod administration tool</source>
+      </item>
+      <item>
+        <title>Mod administration tool</title>
+        <dc:creator><![CDATA[@Jan_Daniel_Andersen Jan Daniel Andersen]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jan_daniel_andersen">@Jan_Daniel_Andersen</a> wrote:</p>
+          <blockquote>
+              <p>Cool!</p>
+<p>Are you using an API to access mod data on ficsit?</p>
+<p>Cheers</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mod-administration-tool/92/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mod-administration-tool/92/4</link>
+        <pubDate>Thu, 28 Nov 2019 10:54:30 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-92-4</guid>
+        <source url="https://forums.ficsit.app/t/mod-administration-tool/92.rss">Mod administration tool</source>
+      </item>
+      <item>
+        <title>Mod administration tool</title>
+        <dc:creator><![CDATA[@Knowen Knowen]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/knowen">@Knowen</a> wrote:</p>
+          <blockquote>
+              <p>So the CLI version is only for servers?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mod-administration-tool/92/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mod-administration-tool/92/3</link>
+        <pubDate>Wed, 27 Nov 2019 17:43:38 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-92-3</guid>
+        <source url="https://forums.ficsit.app/t/mod-administration-tool/92.rss">Mod administration tool</source>
+      </item>
+      <item>
+        <title>Mod administration tool</title>
+        <dc:creator><![CDATA[@mircearoata Mircearoata]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/mircearoata">@mircearoata</a> wrote:</p>
+          <blockquote>
+              <p>Hi!</p>
+<p>I already made a mod launcher with both CLI (for dedicated servers when they will come) in Go and GUI with electron handling downloads of mods and SML and installing, uninstalling and updating mods and their dependencies. You can check them out at <a href="https://github.com/mircearoata/SatisfactoryModLauncherCLI" rel="nofollow noopener">https://github.com/mircearoata/SatisfactoryModLauncherCLI</a> and <a href="https://github.com/mircearoata/SatisfactoryModLauncherGUI" rel="nofollow noopener">https://github.com/mircearoata/SatisfactoryModLauncherGUI</a> (this one is currently private while I’m fixing the Travis builds)</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mod-administration-tool/92/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mod-administration-tool/92/2</link>
+        <pubDate>Wed, 27 Nov 2019 17:39:19 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-92-2</guid>
+        <source url="https://forums.ficsit.app/t/mod-administration-tool/92.rss">Mod administration tool</source>
+      </item>
+      <item>
+        <title>Mod administration tool</title>
+        <dc:creator><![CDATA[@Jan_Daniel_Andersen Jan Daniel Andersen]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jan_daniel_andersen">@Jan_Daniel_Andersen</a> wrote:</p>
+          <blockquote>
+              <p>Hi,</p>
+<p>I’m thinking about making a mod manager, that can manage (install, update) mods to the game. Is it possible to get a list of active mods from this site? Preferably via a service API?</p>
+<p>I imagine that one could run this mod manager prior to launching the game to check if all mods are up to date. with an option to update. Also new mods could be discovered, downloaded and installed.</p>
+<p>Cheers</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mod-administration-tool/92/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mod-administration-tool/92/1</link>
+        <pubDate>Wed, 27 Nov 2019 09:25:59 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-92-1</guid>
+        <source url="https://forums.ficsit.app/t/mod-administration-tool/92.rss">Mod administration tool</source>
+      </item>
+  </channel>
+</rss>

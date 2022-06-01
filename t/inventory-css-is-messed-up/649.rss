@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Inventory css is messed up</title>
+    <link>https://forums.ficsit.app/t/inventory-css-is-messed-up/649</link>
+    <description>![image|690x348](upload://wsKSdb9Oc0zDJA7F166diGCMbI4.jpeg) 
+
+I have 12 mods installed currently: 
+StackMeMore 0.1.5
+Light it up 0.5.7
+Blade Runner Mk.2 0.0.1
+Floor hole 0.1.0
+ExoSuit Mod 0.0.10
+WFurniture 0.2.0
+Pak Utility Mod 0.4.0
+Calculator 0.0.3
+10 + Inventory Slots 0.0.1
+Utility Signs 1.0.0
+Area Actions 1.6.4
+
+I would like to know which mod might be causing it and how I can fix my current issues. They worked together before the steam update of satisfactory. I am running it from Epic games. SML 2.1.2</description>
+    
+    <lastBuildDate>Fri, 19 Jun 2020 06:30:03 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forums.ficsit.app/t/inventory-css-is-messed-up/649.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Inventory css is messed up</title>
+        <dc:creator><![CDATA[@Torsten_Kolling Torsten Kolling]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/torsten_kolling">@Torsten_Kolling</a> wrote:</p>
+          <blockquote>
+              <p>I think the problem is that the creator of “Stackmemore” changes the icons of the items. The size of the icons varies with the name in them. If he simply used the standard icons instead of his own design, the problem would probably be solved.</p>
+<p>Stackmemore also prevents research for me. Simply because the game does not loot petals in the M.A.M. triggers. However, German client.</p>
+<p>Someone with more mod experience could look at that.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/inventory-css-is-messed-up/649/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/inventory-css-is-messed-up/649/6</link>
+        <pubDate>Fri, 19 Jun 2020 06:30:03 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-649-6</guid>
+        <source url="https://forums.ficsit.app/t/inventory-css-is-messed-up/649.rss">Inventory css is messed up</source>
+      </item>
+      <item>
+        <title>Inventory css is messed up</title>
+        <dc:creator><![CDATA[@Rudi_Boshoff Rudi Boshoff]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/rudi_boshoff">@Rudi_Boshoff</a> wrote:</p>
+          <blockquote>
+              <p>hi yes deleting the files from the extracted zip in the mod description for the StackMeMore mod fixed the issues for all icons and models.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/1007a7ed26cf28acf2048e222a233b030b773b42.jpeg" data-download-href="https://forums.ficsit.app/uploads/default/1007a7ed26cf28acf2048e222a233b030b773b42" title="image"><img src="https://forums.ficsit.app/uploads/default/optimized/1X/1007a7ed26cf28acf2048e222a233b030b773b42_2_666x500.jpeg" alt="image" data-base62-sha1="2hO2CNq9PRrIbb0LqK3RlOfFZ4K" width="666" height="500" srcset="https://forums.ficsit.app/uploads/default/optimized/1X/1007a7ed26cf28acf2048e222a233b030b773b42_2_666x500.jpeg, https://forums.ficsit.app/uploads/default/optimized/1X/1007a7ed26cf28acf2048e222a233b030b773b42_2_999x750.jpeg 1.5x, https://forums.ficsit.app/uploads/default/original/1X/1007a7ed26cf28acf2048e222a233b030b773b42.jpeg 2x" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/1007a7ed26cf28acf2048e222a233b030b773b42_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1135×852 193 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div><br>
+This is what I deleted.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/inventory-css-is-messed-up/649/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/inventory-css-is-messed-up/649/5</link>
+        <pubDate>Thu, 18 Jun 2020 11:18:56 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-649-5</guid>
+        <source url="https://forums.ficsit.app/t/inventory-css-is-messed-up/649.rss">Inventory css is messed up</source>
+      </item>
+      <item>
+        <title>Inventory css is messed up</title>
+        <dc:creator><![CDATA[@ArgaBenjamin Arga Benjamin]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/argabenjamin">@ArgaBenjamin</a> wrote:</p>
+          <blockquote>
+              <p>I’m having the same issue, did deleting the files sort it out on all icons? Which ones did you delete? I don’t get the blank ones but I still have quite a few that are stretched. Not game breaking by any means but a little annoying <img src="https://forums.ficsit.app/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/inventory-css-is-messed-up/649/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/inventory-css-is-messed-up/649/4</link>
+        <pubDate>Thu, 18 Jun 2020 08:31:10 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-649-4</guid>
+        <source url="https://forums.ficsit.app/t/inventory-css-is-messed-up/649.rss">Inventory css is messed up</source>
+      </item>
+      <item>
+        <title>Inventory css is messed up</title>
+        <dc:creator><![CDATA[@Rudi_Boshoff Rudi Boshoff]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/rudi_boshoff">@Rudi_Boshoff</a> wrote:</p>
+          <blockquote>
+              <p>You were right, looked at the description of StackMeMore</p>
+<p>“This mod has issues with the UI stretching, theres a work around for it by going into Options-User Interface-Enable Large Inventory Slots (thanks to M1keyy for figuring this out), it doesnt make every item perfect but its definitely better, there is currently no other fix for this”</p>
+<p>Issue was that I originally installed it without using the mod launcher and had to delete some files manually. fixed everything.</p>
+<p>Thank you.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/inventory-css-is-messed-up/649/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/inventory-css-is-messed-up/649/3</link>
+        <pubDate>Wed, 17 Jun 2020 14:39:10 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-649-3</guid>
+        <source url="https://forums.ficsit.app/t/inventory-css-is-messed-up/649.rss">Inventory css is messed up</source>
+      </item>
+      <item>
+        <title>Inventory css is messed up</title>
+        <dc:creator><![CDATA[@JamieRCHI Jamie]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jamierchi">@JamieRCHI</a> wrote:</p>
+          <blockquote>
+              <p>StackMeMore does this. It is still broken. I bugged it in another thread.<br>
+(FYI. Even though I don’t see Refined Power mod in your list, it also causes a few of it’s items to do this as well.)</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/inventory-css-is-messed-up/649/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/inventory-css-is-messed-up/649/2</link>
+        <pubDate>Sat, 13 Jun 2020 15:58:25 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-649-2</guid>
+        <source url="https://forums.ficsit.app/t/inventory-css-is-messed-up/649.rss">Inventory css is messed up</source>
+      </item>
+      <item>
+        <title>Inventory css is messed up</title>
+        <dc:creator><![CDATA[@Rudi_Boshoff Rudi Boshoff]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/rudi_boshoff">@Rudi_Boshoff</a> wrote:</p>
+          <blockquote>
+              <p><div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/e385b7b3a5fb63726bfbf2e311e495952a098778.jpeg" data-download-href="https://forums.ficsit.app/uploads/default/e385b7b3a5fb63726bfbf2e311e495952a098778" title="image"><img src="https://forums.ficsit.app/uploads/default/optimized/1X/e385b7b3a5fb63726bfbf2e311e495952a098778_2_690x348.jpeg" alt="image" data-base62-sha1="wsKSdb9Oc0zDJA7F166diGCMbI4" width="690" height="348" srcset="https://forums.ficsit.app/uploads/default/optimized/1X/e385b7b3a5fb63726bfbf2e311e495952a098778_2_690x348.jpeg, https://forums.ficsit.app/uploads/default/optimized/1X/e385b7b3a5fb63726bfbf2e311e495952a098778_2_1035x522.jpeg 1.5x, https://forums.ficsit.app/uploads/default/original/1X/e385b7b3a5fb63726bfbf2e311e495952a098778.jpeg 2x" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/e385b7b3a5fb63726bfbf2e311e495952a098778_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1347×680 195 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>I have 12 mods installed currently:<br>
+StackMeMore 0.1.5<br>
+Light it up 0.5.7<br>
+Blade Runner Mk.2 0.0.1<br>
+Floor hole 0.1.0<br>
+ExoSuit Mod 0.0.10<br>
+WFurniture 0.2.0<br>
+Pak Utility Mod 0.4.0<br>
+Calculator 0.0.3<br>
+10 + Inventory Slots 0.0.1<br>
+Utility Signs 1.0.0<br>
+Area Actions 1.6.4</p>
+<p>I would like to know which mod might be causing it and how I can fix my current issues. They worked together before the steam update of satisfactory. I am running it from Epic games. SML 2.1.2</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/inventory-css-is-messed-up/649/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/inventory-css-is-messed-up/649/1</link>
+        <pubDate>Fri, 12 Jun 2020 12:22:10 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-649-1</guid>
+        <source url="https://forums.ficsit.app/t/inventory-css-is-messed-up/649.rss">Inventory css is messed up</source>
+      </item>
+  </channel>
+</rss>

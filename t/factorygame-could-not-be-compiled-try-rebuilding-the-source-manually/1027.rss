@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>FactoryGame could not be compiled, try rebuilding the source manually</title>
+    <link>https://forums.ficsit.app/t/factorygame-could-not-be-compiled-try-rebuilding-the-source-manually/1027</link>
+    <description>I&#39;m having an issue when I open the project in the CSS ue4 editor.</description>
+    
+    <lastBuildDate>Sun, 13 Dec 2020 11:37:55 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/factorygame-could-not-be-compiled-try-rebuilding-the-source-manually/1027.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>FactoryGame could not be compiled, try rebuilding the source manually</title>
+        <dc:creator><![CDATA[@Spirit_Dev Spirit Dev]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/spirit_dev">@Spirit_Dev</a> wrote:</p>
+          <blockquote>
+              <p>it works now thank you so much, you are the best.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/factorygame-could-not-be-compiled-try-rebuilding-the-source-manually/1027/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/factorygame-could-not-be-compiled-try-rebuilding-the-source-manually/1027/7</link>
+        <pubDate>Sun, 13 Dec 2020 11:37:55 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1027-7</guid>
+        <source url="https://forums.ficsit.app/t/factorygame-could-not-be-compiled-try-rebuilding-the-source-manually/1027.rss">FactoryGame could not be compiled, try rebuilding the source manually</source>
+      </item>
+      <item>
+        <title>FactoryGame could not be compiled, try rebuilding the source manually</title>
+        <dc:creator><![CDATA[@Robb Rob B]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/robb">@Robb</a> wrote:</p>
+          <blockquote>
+              <p>Mircea on the discord says:</p>
+<blockquote>
+<p>Either use build 70, or remove the const where the error is</p>
+</blockquote>
+<p>So, try using this specific build: <a href="https://github.com/SatisfactoryModdingUE/UnrealEngine/releases/tag/jenkins-UnrealEngine-70">https://github.com/SatisfactoryModdingUE/UnrealEngine/releases/tag/jenkins-UnrealEngine-70</a></p>
+<p>If not, you can try modifying the code where the error is to make it compile.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/factorygame-could-not-be-compiled-try-rebuilding-the-source-manually/1027/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/factorygame-could-not-be-compiled-try-rebuilding-the-source-manually/1027/6</link>
+        <pubDate>Sun, 13 Dec 2020 04:03:48 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1027-6</guid>
+        <source url="https://forums.ficsit.app/t/factorygame-could-not-be-compiled-try-rebuilding-the-source-manually/1027.rss">FactoryGame could not be compiled, try rebuilding the source manually</source>
+      </item>
+      <item>
+        <title>FactoryGame could not be compiled, try rebuilding the source manually</title>
+        <dc:creator><![CDATA[@Spirit_Dev Spirit Dev]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/spirit_dev">@Spirit_Dev</a> wrote:</p>
+          <blockquote>
+              <p>still the same messaged i did everything you said and followed the rest. im using the css ue4 and vs 2017 <div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/24968affa9bc6f7b2858394bf3f4b5a256bd18c2.png" data-download-href="https://forums.ficsit.app/uploads/default/24968affa9bc6f7b2858394bf3f4b5a256bd18c2" title="image"><img src="https://forums.ficsit.app/uploads/default/original/1X/24968affa9bc6f7b2858394bf3f4b5a256bd18c2.png" alt="image" data-base62-sha1="5dFIZM6QS68M51TLwBt1yIrG8QG" width="690" height="293" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/24968affa9bc6f7b2858394bf3f4b5a256bd18c2_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1049×446 32.1 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div>  is this ok?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/factorygame-could-not-be-compiled-try-rebuilding-the-source-manually/1027/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/factorygame-could-not-be-compiled-try-rebuilding-the-source-manually/1027/5</link>
+        <pubDate>Sat, 12 Dec 2020 18:22:41 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1027-5</guid>
+        <source url="https://forums.ficsit.app/t/factorygame-could-not-be-compiled-try-rebuilding-the-source-manually/1027.rss">FactoryGame could not be compiled, try rebuilding the source manually</source>
+      </item>
+      <item>
+        <title>FactoryGame could not be compiled, try rebuilding the source manually</title>
+        <dc:creator><![CDATA[@Spirit_Dev Spirit Dev]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/spirit_dev">@Spirit_Dev</a> wrote:</p>
+          <blockquote>
+              <p>I just realised i missed that bit let me finish this and i will tell you if it works.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/factorygame-could-not-be-compiled-try-rebuilding-the-source-manually/1027/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/factorygame-could-not-be-compiled-try-rebuilding-the-source-manually/1027/4</link>
+        <pubDate>Sat, 12 Dec 2020 18:17:24 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1027-4</guid>
+        <source url="https://forums.ficsit.app/t/factorygame-could-not-be-compiled-try-rebuilding-the-source-manually/1027.rss">FactoryGame could not be compiled, try rebuilding the source manually</source>
+      </item>
+      <item>
+        <title>FactoryGame could not be compiled, try rebuilding the source manually</title>
+        <dc:creator><![CDATA[@Robb Rob B]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/robb">@Robb</a> wrote:</p>
+          <blockquote>
+              <p>Did you make sure to do <a href="https://docs.ficsit.app/satisfactory-modding/2.2.0/Development/BeginnersGuide/project_setup.html#_generate_visual_studio_files">this</a> step of setup? That’s usually what causes this error.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/factorygame-could-not-be-compiled-try-rebuilding-the-source-manually/1027/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/factorygame-could-not-be-compiled-try-rebuilding-the-source-manually/1027/2</link>
+        <pubDate>Sat, 12 Dec 2020 05:25:12 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1027-2</guid>
+        <source url="https://forums.ficsit.app/t/factorygame-could-not-be-compiled-try-rebuilding-the-source-manually/1027.rss">FactoryGame could not be compiled, try rebuilding the source manually</source>
+      </item>
+      <item>
+        <title>FactoryGame could not be compiled, try rebuilding the source manually</title>
+        <dc:creator><![CDATA[@Spirit_Dev Spirit Dev]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/spirit_dev">@Spirit_Dev</a> wrote:</p>
+          <blockquote>
+              <p>I’m having an issue when I open the project in the CSS ue4 editor.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/factorygame-could-not-be-compiled-try-rebuilding-the-source-manually/1027/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/factorygame-could-not-be-compiled-try-rebuilding-the-source-manually/1027/1</link>
+        <pubDate>Wed, 09 Dec 2020 18:05:33 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1027-1</guid>
+        <source url="https://forums.ficsit.app/t/factorygame-could-not-be-compiled-try-rebuilding-the-source-manually/1027.rss">FactoryGame could not be compiled, try rebuilding the source manually</source>
+      </item>
+  </channel>
+</rss>

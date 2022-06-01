@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Some Mods Won&#39;t run or start</title>
+    <link>https://forums.ficsit.app/t/some-mods-wont-run-or-start/65</link>
+    <description>I have a few mods installed. How ever I can&#39;t seem to get some of them to load in or run. 
+1) InfiniteStorage
+2) SolarPanels_p
+
+These 2 mods don&#39;t seem to load in. at all. So I&#39;m confused. 
+
+The other mods load in just fine
+
+1) FarmingMod
+2) LightItUp
+and Last MoarFactory
+
+Any one have any ideas why those 2 mods won&#39;t load or run</description>
+    
+    <lastBuildDate>Thu, 21 Nov 2019 18:39:43 +0000</lastBuildDate>
+    <category>General</category>
+    <atom:link href="https://forums.ficsit.app/t/some-mods-wont-run-or-start/65.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Some Mods Won&#39;t run or start</title>
+        <dc:creator><![CDATA[@iceman11a Iceman11a *]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/iceman11a">@iceman11a</a> wrote:</p>
+          <blockquote>
+              <p>Sorry for not getting back with you on this. I had to cheat to unlock tier 7. and I fount every thing in Tier 7. and that sucks. Those 2 mods should be in tier 5. Sense tier 8 haven’t been released yet. no one has any idea what their plans are.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/some-mods-wont-run-or-start/65/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/some-mods-wont-run-or-start/65/5</link>
+        <pubDate>Thu, 21 Nov 2019 18:39:43 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-65-5</guid>
+        <source url="https://forums.ficsit.app/t/some-mods-wont-run-or-start/65.rss">Some Mods Won&#39;t run or start</source>
+      </item>
+      <item>
+        <title>Some Mods Won&#39;t run or start</title>
+        <dc:creator><![CDATA[@shubnigg Shubnigg]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/shubnigg">@shubnigg</a> wrote:</p>
+          <blockquote>
+              <p>Strange… For the InfiniteStorage I suppose you have the last version…<br>
+Try to add the kronos mod <a href="https://ficsit.app/mod/DtrTF3U4ckRJSK" rel="nofollow noopener">https://ficsit.app/mod/DtrTF3U4ckRJSK</a><br>
+Start the game launch the kronos mod when you are inside you game. You should be able to see it in the build menu (Kirthos mod submenu)<br>
+Hop it help… If it’s not working, maybe there is a conflict with some mods try to remove all of them and try just  InfiniteStorage and Kronos to see if it"s working… Also don’t forget to put in C:\Program Files\Epic Games\SatisfactoryExperimental\FactoryGame\Binaries\Win64 the last SML   ( <a href="https://github.com/satisfactorymodding/SatisfactoryModLoader/releases/download/1.0.2/xinput1_3.dll" rel="nofollow noopener">xinput1_3.dll</a></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/some-mods-wont-run-or-start/65/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/some-mods-wont-run-or-start/65/4</link>
+        <pubDate>Thu, 21 Nov 2019 10:04:42 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-65-4</guid>
+        <source url="https://forums.ficsit.app/t/some-mods-wont-run-or-start/65.rss">Some Mods Won&#39;t run or start</source>
+      </item>
+      <item>
+        <title>Some Mods Won&#39;t run or start</title>
+        <dc:creator><![CDATA[@iceman11a Iceman11a *]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/iceman11a">@iceman11a</a> wrote:</p>
+          <blockquote>
+              <p>I sent a screen shot. As you can see what I have, How ever those 2 mods are the only ones I don’t have access too. And my milestones are all done until I unlock tier 7.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/fd8b9264ef5c8303b7b4447dd99e8890c3ab1755.png" data-download-href="https://forums.ficsit.app/uploads/default/fd8b9264ef5c8303b7b4447dd99e8890c3ab1755" title="paks%20folder_1"><img src="https://forums.ficsit.app/uploads/default/original/1X/fd8b9264ef5c8303b7b4447dd99e8890c3ab1755.png" alt="paks%20folder_1" data-base62-sha1="AaXPxFjf1bvvhKiXjEDc69ZyZCd" width="690" height="392" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/fd8b9264ef5c8303b7b4447dd99e8890c3ab1755_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">paks%20folder_1</span><span class="informations">904×514 41.9 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/some-mods-wont-run-or-start/65/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/some-mods-wont-run-or-start/65/3</link>
+        <pubDate>Wed, 20 Nov 2019 19:17:49 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-65-3</guid>
+        <source url="https://forums.ficsit.app/t/some-mods-wont-run-or-start/65.rss">Some Mods Won&#39;t run or start</source>
+      </item>
+      <item>
+        <title>Some Mods Won&#39;t run or start</title>
+        <dc:creator><![CDATA[@shubnigg Shubnigg]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/shubnigg">@shubnigg</a> wrote:</p>
+          <blockquote>
+              <p>Hello can you put the path where you have put InfiniteStorage and SolarPanel? And what files do you put in the folders.<br>
+Maybe we can find your problem</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/some-mods-wont-run-or-start/65/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/some-mods-wont-run-or-start/65/2</link>
+        <pubDate>Wed, 20 Nov 2019 16:07:40 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-65-2</guid>
+        <source url="https://forums.ficsit.app/t/some-mods-wont-run-or-start/65.rss">Some Mods Won&#39;t run or start</source>
+      </item>
+      <item>
+        <title>Some Mods Won&#39;t run or start</title>
+        <dc:creator><![CDATA[@iceman11a Iceman11a *]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/iceman11a">@iceman11a</a> wrote:</p>
+          <blockquote>
+              <p>I have a few mods installed. How ever I can’t seem to get some of them to load in or run.</p>
+<ol>
+<li>InfiniteStorage</li>
+<li>SolarPanels_p</li>
+</ol>
+<p>These 2 mods don’t seem to load in. at all. So I’m confused.</p>
+<p>The other mods load in just fine</p>
+<ol>
+<li>FarmingMod</li>
+<li>LightItUp<br>
+and Last MoarFactory</li>
+</ol>
+<p>Any one have any ideas why those 2 mods won’t load or run</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/some-mods-wont-run-or-start/65/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/some-mods-wont-run-or-start/65/1</link>
+        <pubDate>Mon, 18 Nov 2019 17:32:50 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-65-1</guid>
+        <source url="https://forums.ficsit.app/t/some-mods-wont-run-or-start/65.rss">Some Mods Won&#39;t run or start</source>
+      </item>
+  </channel>
+</rss>

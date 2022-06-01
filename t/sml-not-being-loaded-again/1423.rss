@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>SML not being loaded (again)</title>
+    <link>https://forums.ficsit.app/t/sml-not-being-loaded-again/1423</link>
+    <description>I run Steam experimental build CL#165698. No mods works just fine.
+I also downloaded latest SMM 2.5.0 and installed some mod (doesn&#39;t matter which one, fails the same).
+Judging from the contents of
+`steamapps\common\Satisfactory\FactoryGame\Mods\SML\ResourcesSML.uplugin` 
+which reads
+`&quot;VersionName&quot;: &quot;3.1.1&quot;,`
+`&quot;SemVersion&quot;: &quot;3.1.1&quot;,`
+`&quot;FriendlyName&quot;: &quot;Satisfactory Mod Loader&quot;,`
+`&quot;Description&quot;: &quot;Mod loading and compatibility API for Satisfactory&quot;,`
+I guess SMM installed SML 3.1.1 which is latest as of the time of this writing.
+Upon starting the game I see two sequential error message boxes as shown below:
+![sfbug|415x367](upload://aIPTiHZpUfbOXFFNa6MJluBfyFS.png) 
+Also of note is the fact that my friend runs the same versions on his machine just fine, so it must be something wrong with my system.
+What do I do to amend the situation?</description>
+    
+    <lastBuildDate>Sat, 06 Nov 2021 21:34:22 +0000</lastBuildDate>
+    <category>SML</category>
+    <atom:link href="https://forums.ficsit.app/t/sml-not-being-loaded-again/1423.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>SML not being loaded (again)</title>
+        <dc:creator><![CDATA[@JamieRCHI Jamie]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jamierchi">@JamieRCHI</a> wrote:</p>
+          <blockquote>
+              <p>Mods have been disabled by the Developers on the Experimental Builds.<br>
+Mods only work on Early Access.<br>
+There are several posts on SatisfactoryQA and the steam forums that explain this as well.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/sml-not-being-loaded-again/1423/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/sml-not-being-loaded-again/1423/3</link>
+        <pubDate>Sat, 06 Nov 2021 21:34:22 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1423-3</guid>
+        <source url="https://forums.ficsit.app/t/sml-not-being-loaded-again/1423.rss">SML not being loaded (again)</source>
+      </item>
+      <item>
+        <title>SML not being loaded (again)</title>
+        <dc:creator><![CDATA[@Thierry_Carre Thierry Carré]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/thierry_carre">@Thierry_Carre</a> wrote:</p>
+          <blockquote>
+              <p>Same with Epic platform.</p>
+<p>I removed all files: game, mod manager, local factoryGame files in local.<br>
+The I reinstall the game and SML.<br>
+Tried with different mod recently updated and/or strongly used.</p>
+<p>And, same error</p>
+<p>! <a href="/uploads/short-url/8cmeHB1z24gKY9R8RfGPc155CeM.png">Error1|424x198</a></p>
+<p><img src="https://forums.ficsit.app/uploads/default/original/1X/aa45313a69369b1d1b72248c598e3b896f63170c.png" alt="Error2" data-base62-sha1="oihpEBLDCnSOuG0V3SjaiY80ykI" width="416" height="172"></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/sml-not-being-loaded-again/1423/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/sml-not-being-loaded-again/1423/2</link>
+        <pubDate>Sat, 23 Oct 2021 14:27:54 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1423-2</guid>
+        <source url="https://forums.ficsit.app/t/sml-not-being-loaded-again/1423.rss">SML not being loaded (again)</source>
+      </item>
+      <item>
+        <title>SML not being loaded (again)</title>
+        <dc:creator><![CDATA[@Gennadiy_Poryev Gennadiy Poryev]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/gennadiy_poryev">@Gennadiy_Poryev</a> wrote:</p>
+          <blockquote>
+              <p>I run Steam experimental build CL#165698. No mods works just fine.<br>
+I also downloaded latest SMM 2.5.0 and installed some mod (doesn’t matter which one, fails the same).<br>
+Judging from the contents of<br>
+<code>steamapps\common\Satisfactory\FactoryGame\Mods\SML\ResourcesSML.uplugin</code><br>
+which reads<br>
+<code>"VersionName": "3.1.1",</code><br>
+<code>"SemVersion": "3.1.1",</code><br>
+<code>"FriendlyName": "Satisfactory Mod Loader",</code><br>
+<code>"Description": "Mod loading and compatibility API for Satisfactory",</code><br>
+I guess SMM installed SML 3.1.1 which is latest as of the time of this writing.<br>
+Upon starting the game I see two sequential error message boxes as shown below:<br>
+<img src="https://forums.ficsit.app/uploads/default/original/1X/4b273eadc8dd895ce16fa67daa44b75cc09d6684.png" alt="sfbug" data-base62-sha1="aIPTiHZpUfbOXFFNa6MJluBfyFS" width="415" height="367"><br>
+Also of note is the fact that my friend runs the same versions on his machine just fine, so it must be something wrong with my system.<br>
+What do I do to amend the situation?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/sml-not-being-loaded-again/1423/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/sml-not-being-loaded-again/1423/1</link>
+        <pubDate>Thu, 21 Oct 2021 20:39:57 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1423-1</guid>
+        <source url="https://forums.ficsit.app/t/sml-not-being-loaded-again/1423.rss">SML not being loaded (again)</source>
+      </item>
+  </channel>
+</rss>

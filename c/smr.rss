@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:discourse="http://www.discourse.org/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>SMR - SMR Forums</title>
+    <link>https://forums.ficsit.app/c/smr</link>
+    <description>Topics in the &#39;SMR&#39; category Satisfactory Mod Repository related discussions.</description>
+    
+      <lastBuildDate>Sun, 14 Nov 2021 05:08:54 +0000</lastBuildDate>
+      <atom:link href="https://forums.ficsit.app/c/smr.rss" rel="self" type="application/rss+xml" />
+        <item>
+          <title>Power Poles, 10 lines</title>
+          <dc:creator><![CDATA[@LazerVision Lazer Vision]]></dc:creator>
+          <category>SMR</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/lazervision">@LazerVision</a> wrote:</p>
+            <blockquote>
+              <p>What happened to the mod that had the power poles that would accept up to 10 lines? I can’t remember the name of it and have searched SMR all day for it.</p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.ficsit.app/t/power-poles-10-lines/1448">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/power-poles-10-lines/1448</link>
+          <pubDate>Sun, 14 Nov 2021 05:08:54 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1448</guid>
+          <source url="https://forums.ficsit.app/t/power-poles-10-lines/1448.rss">Power Poles, 10 lines</source>
+        </item>
+        <item>
+          <title>SMR Interface Bug: Changing search/sort does not reset selected results page</title>
+          <dc:creator><![CDATA[@macdjord Macdjord]]></dc:creator>
+          <category>SMR</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/macdjord">@macdjord</a> wrote:</p>
+            <blockquote>
+              <p>When you enter a new search query or change the sort order of the results, you should be reset to page 1 of the (new) results. Right now, this doesn’t happen, which can lead to confusing results.</p>
+<p>For instance, if you’re browsing through the complete mod list and are on page, say, 3, then try searching for something, then unless whatever search query you enter returns 3 or more pages or results you’ll see no results at all, making it look as if your query didn’t match anything; the only clue that this is not the case is the tiny page indicator in the corner.</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.ficsit.app/t/smr-interface-bug-changing-search-sort-does-not-reset-selected-results-page/1402">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/smr-interface-bug-changing-search-sort-does-not-reset-selected-results-page/1402</link>
+          <pubDate>Thu, 30 Sep 2021 06:09:32 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1402</guid>
+          <source url="https://forums.ficsit.app/t/smr-interface-bug-changing-search-sort-does-not-reset-selected-results-page/1402.rss">SMR Interface Bug: Changing search/sort does not reset selected results page</source>
+        </item>
+        <item>
+          <title>Mods on SMR need their own forum on their /mod/ page</title>
+          <dc:creator><![CDATA[@Melissa_Dupuis Melissa Dupuis]]></dc:creator>
+          <category>SMR</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/melissa_dupuis">@Melissa_Dupuis</a> wrote:</p>
+            <blockquote>
+              <p>As much as I appreciate and love this site, and many of the mods hosted here, there have been several mods that are causing crashes and <strong>multi-gigabyte</strong> error logs, with the authors of those mods having absolutely zero means of contacting them or giving feedback.</p>
+<p>This type of communication is <em>essential</em> for mods, and gives ficsit.app the dubious distinction of being the first mod repository I’ve ever seen that doesn’t make it easy to contact authors with bugs.</p>
+<p>Please, for the love of all things shiny, correct this glaring oversight. Your users like me will thank you. <img src="https://forums.ficsit.app/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+<p>~MLD</p>
+            </blockquote>
+            <p>Posts: 3</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.ficsit.app/t/mods-on-smr-need-their-own-forum-on-their-mod-page/1358">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/mods-on-smr-need-their-own-forum-on-their-mod-page/1358</link>
+          <pubDate>Sat, 03 Jul 2021 06:35:00 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1358</guid>
+          <source url="https://forums.ficsit.app/t/mods-on-smr-need-their-own-forum-on-their-mod-page/1358.rss">Mods on SMR need their own forum on their /mod/ page</source>
+        </item>
+        <item>
+          <title>Uniform nodes mod?</title>
+          <dc:creator><![CDATA[@andrew_gatenby ozmods]]></dc:creator>
+          <category>SMR</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/andrew_gatenby">@andrew_gatenby</a> wrote:</p>
+            <blockquote>
+              <p>gday from oz, up until the past couple of days i’ve been able to use this <a href="https://ficsit.app/mod/BvjoAkQLbHxwy2" rel="nofollow noopener">https://ficsit.app/mod/BvjoAkQLbHxwy2</a> but the author has updated it and now it’s elbusto if i try to use it, it will crash to the desktop lickety split… i cant find anywhere to contact the author, so i’m posting here, if this is in the wrong place then feel free to move it, i’ve tried to use the first version that worked fine but every time i load smm it seems to reset it to the latest, which is broken… any advice please, thanks</p>
+            </blockquote>
+            <p>Posts: 5</p>
+            <p>Participants: 3</p>
+            <p><a href="https://forums.ficsit.app/t/uniform-nodes-mod/743">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/uniform-nodes-mod/743</link>
+          <pubDate>Sun, 12 Jul 2020 11:10:06 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-743</guid>
+          <source url="https://forums.ficsit.app/t/uniform-nodes-mod/743.rss">Uniform nodes mod?</source>
+        </item>
+        <item>
+          <title>The Utility Tool link in the tools section is out of date</title>
+          <dc:creator><![CDATA[@ParadoxImmobilizer Paradox Immobilizer]]></dc:creator>
+          <category>SMR</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/paradoximmobilizer">@ParadoxImmobilizer</a> wrote:</p>
+            <blockquote>
+              <p>Utility Tool (<a href="http://satisfactory.greeny.dev" rel="nofollow noopener">satisfactory.greeny.dev</a>) has been depreciated and is still using update 2 information. It was replaced with Satisfactory Tools, which can be found at <a href="https://www.satisfactorytools.com/" rel="nofollow noopener">www.satisfactorytools.com</a>.</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.ficsit.app/t/the-utility-tool-link-in-the-tools-section-is-out-of-date/735">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/the-utility-tool-link-in-the-tools-section-is-out-of-date/735</link>
+          <pubDate>Thu, 09 Jul 2020 19:50:05 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-735</guid>
+          <source url="https://forums.ficsit.app/t/the-utility-tool-link-in-the-tools-section-is-out-of-date/735.rss">The Utility Tool link in the tools section is out of date</source>
+        </item>
+        <item>
+          <title>Comments, when?</title>
+          <dc:creator><![CDATA[@Panakotta00 Panakotta00]]></dc:creator>
+          <category>SMR</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/panakotta00">@Panakotta00</a> wrote:</p>
+            <blockquote>
+              <p>When do we get comments? I want comments! Everyone want comments! <img src="https://forums.ficsit.app/images/emoji/twitter/joy.png?v=9" title=":joy:" class="emoji" alt=":joy:"><br>
+I can’t type about that much…<br>
+just wanted to say “Where is comment support?”</p>
+            </blockquote>
+            <p>Posts: 19</p>
+            <p>Participants: 3</p>
+            <p><a href="https://forums.ficsit.app/t/comments-when/26">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/comments-when/26</link>
+          <pubDate>Thu, 07 Nov 2019 17:11:38 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-26</guid>
+          <source url="https://forums.ficsit.app/t/comments-when/26.rss">Comments, when?</source>
+        </item>
+        <item>
+          <title>About the SMR category</title>
+          <dc:creator><![CDATA[@Vilsol]]></dc:creator>
+          <category>SMR</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/vilsol">@Vilsol</a> wrote:</p>
+            <blockquote>
+              <p>Satisfactory Mod Repository related discussions.</p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.ficsit.app/t/about-the-smr-category/16">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/about-the-smr-category/16</link>
+          <pubDate>Thu, 07 Nov 2019 16:06:34 +0000</pubDate>
+          <discourse:topicPinned>Yes</discourse:topicPinned>
+          <discourse:topicClosed>Yes</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-16</guid>
+          <source url="https://forums.ficsit.app/t/about-the-smr-category/16.rss">About the SMR category</source>
+        </item>
+  </channel>
+</rss>

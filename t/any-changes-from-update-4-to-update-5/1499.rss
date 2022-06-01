@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Any changes from Update 4 to update 5</title>
+    <link>https://forums.ficsit.app/t/any-changes-from-update-4-to-update-5/1499</link>
+    <description>I been able to get my mod to compile with no errors. And when I start Satisfactory, It crashes. It doesn&#39;t seem to display anything at all on my mod.
+
+Here&#39;s the text from the crash report. 
+---------------------------------------------------
+Version: 174799, IsEditor: No, IsPerforceBuild: No, BuildConfiguration: Shipping, Launcher: Epic, NetMode: Standalone, IsUsingMods: Yes
+
+Assertion failed: Texture-&gt;VolumeData.CompressedDistanceFieldVolume.Num() == Size.X * Size.Y * Size.Z * FormatSize [File:D:/ws/SB-211116092526-440/UE4/Engine/Source/Runtime/Engine/Private/DistanceFieldAtlas.cpp] [Line: 687]
+
+FactoryGame_Core_Win64_Shipping!AssertFailedImplV() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\core\private\misc\assertionmacros.cpp:104]
+FactoryGame_Core_Win64_Shipping!FDebug::CheckVerifyFailedImpl() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\core\private\misc\assertionmacros.cpp:461]
+FactoryGame_Engine_Win64_Shipping!&lt;lambda_e8c8fb69694d978ccc8e892848d31a9b&gt;::operator()() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\engine\private\distancefieldatlas.cpp:687]
+FactoryGame_Engine_Win64_Shipping!ParallelForImpl::TParallelForData&lt;TFunctionRef&lt;void __cdecl(int)&gt; &gt;::Process() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\core\public\async\parallelfor.h:177]
+FactoryGame_Engine_Win64_Shipping!TGraphTask&lt;ParallelForImpl::TParallelForTask&lt;TFunctionRef&lt;void __cdecl(int)&gt; &gt; &gt;::ExecuteTask() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\core\public\async\taskgraphinterfaces.h:886]
+FactoryGame_Core_Win64_Shipping!FTaskThreadAnyThread::ProcessTasksUntilQuit() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\core\private\async\taskgraph.cpp:887]
+FactoryGame_Core_Win64_Shipping!FTaskThreadBase::Run() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\core\private\async\taskgraph.cpp:541]
+FactoryGame_Core_Win64_Shipping!FRunnableThreadWin::Run() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\core\private\windows\windowsrunnablethread.cpp:86]
+-----------------------------------------------------------------------------------------------------------
+
+So my question is that has something else been added to the mod to get it to work so that the game will load. I been checking the documents every other day for any updates. And there doesn&#39;t seem to be any changes made from update 4. Does anyone have any idea on what could be wrong?</description>
+    
+    <lastBuildDate>Mon, 06 Dec 2021 17:43:40 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/any-changes-from-update-4-to-update-5/1499.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Any changes from Update 4 to update 5</title>
+        <dc:creator><![CDATA[@iceman11a Iceman11a *]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/iceman11a">@iceman11a</a> wrote:</p>
+          <blockquote>
+              <p>I been able to get my mod to compile with no errors. And when I start Satisfactory, It crashes. It doesn’t seem to display anything at all on my mod.</p>
+<h2>Here’s the text from the crash report.</h2>
+<p>Version: 174799, IsEditor: No, IsPerforceBuild: No, BuildConfiguration: Shipping, Launcher: Epic, NetMode: Standalone, IsUsingMods: Yes</p>
+<p>Assertion failed: Texture-&gt;VolumeData.CompressedDistanceFieldVolume.Num() == Size.X * Size.Y * Size.Z * FormatSize [File:D:/ws/SB-211116092526-440/UE4/Engine/Source/Runtime/Engine/Private/DistanceFieldAtlas.cpp] [Line: 687]</p>
+<h2>FactoryGame_Core_Win64_Shipping!AssertFailedImplV() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\core\private\misc\assertionmacros.cpp:104]<br>
+FactoryGame_Core_Win64_Shipping!FDebug::CheckVerifyFailedImpl() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\core\private\misc\assertionmacros.cpp:461]<br>
+FactoryGame_Engine_Win64_Shipping!&lt;lambda_e8c8fb69694d978ccc8e892848d31a9b&gt;::operator()() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\engine\private\distancefieldatlas.cpp:687]<br>
+FactoryGame_Engine_Win64_Shipping!ParallelForImpl::TParallelForData&lt;TFunctionRef&lt;void __cdecl(int)&gt; &gt;::Process() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\core\public\async\parallelfor.h:177]<br>
+FactoryGame_Engine_Win64_Shipping!TGraphTask&lt;ParallelForImpl::TParallelForTask&lt;TFunctionRef&lt;void __cdecl(int)&gt; &gt; &gt;::ExecuteTask() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\core\public\async\taskgraphinterfaces.h:886]<br>
+FactoryGame_Core_Win64_Shipping!FTaskThreadAnyThread::ProcessTasksUntilQuit() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\core\private\async\taskgraph.cpp:887]<br>
+FactoryGame_Core_Win64_Shipping!FTaskThreadBase::Run() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\core\private\async\taskgraph.cpp:541]<br>
+FactoryGame_Core_Win64_Shipping!FRunnableThreadWin::Run() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\core\private\windows\windowsrunnablethread.cpp:86]</h2>
+<p>So my question is that has something else been added to the mod to get it to work so that the game will load. I been checking the documents every other day for any updates. And there doesn’t seem to be any changes made from update 4. Does anyone have any idea on what could be wrong?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/any-changes-from-update-4-to-update-5/1499/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/any-changes-from-update-4-to-update-5/1499/1</link>
+        <pubDate>Mon, 06 Dec 2021 17:43:40 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1499-1</guid>
+        <source url="https://forums.ficsit.app/t/any-changes-from-update-4-to-update-5/1499.rss">Any changes from Update 4 to update 5</source>
+      </item>
+  </channel>
+</rss>

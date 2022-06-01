@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Wwise hanging forever</title>
+    <link>https://forums.ficsit.app/t/wwise-hanging-forever/1037</link>
+    <description>I&#39;ve followed the steps correctly, at least as far as I can tell...
+
+However, at the integration step it&#39;s hanging at &quot;Retrieving Wwise Integration details&quot;
+I let it run all night and I know my computer isn&#39;t that slow (runs Satisfactory just fine).
+I&#39;m on Windows 7 if that helps.
+
+I also tried the &quot;Integrate Using Offline Files&quot; option... it then gets about halfway through &quot;Applying Operation&quot;, but hangs again after reaching &quot;Preparing Integration&quot; 
+
+![hang|609x500](upload://3lS4egqGpbnq1KkTwD0zBu15hlY.png)</description>
+    
+    <lastBuildDate>Wed, 13 Jan 2021 23:18:20 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/wwise-hanging-forever/1037.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Wwise hanging forever</title>
+        <dc:creator><![CDATA[@Robb Rob B]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/robb">@Robb</a> wrote:</p>
+          <blockquote>
+              <p>I’m afraid I don’t have many further ideas. Someone on the Discord may have some, though.</p>
+<p>You could try cleaning up all of the files Wwise has made and starting with a new starter project and all that.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/wwise-hanging-forever/1037/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/wwise-hanging-forever/1037/4</link>
+        <pubDate>Wed, 13 Jan 2021 23:18:20 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1037-4</guid>
+        <source url="https://forums.ficsit.app/t/wwise-hanging-forever/1037.rss">Wwise hanging forever</source>
+      </item>
+      <item>
+        <title>Wwise hanging forever</title>
+        <dc:creator><![CDATA[@Xeridox Xeridox]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/xeridox">@Xeridox</a> wrote:</p>
+          <blockquote>
+              <p>The problem still persists. I would love to do some modding but this is keeping me from it. Any ideas or workarounds?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/wwise-hanging-forever/1037/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/wwise-hanging-forever/1037/3</link>
+        <pubDate>Wed, 30 Dec 2020 00:52:09 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1037-3</guid>
+        <source url="https://forums.ficsit.app/t/wwise-hanging-forever/1037.rss">Wwise hanging forever</source>
+      </item>
+      <item>
+        <title>Wwise hanging forever</title>
+        <dc:creator><![CDATA[@Robb Rob B]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/robb">@Robb</a> wrote:</p>
+          <blockquote>
+              <p>I haven’t seen a problem with Wwise like this before. Have you had any success with this issue since you posted? The first thing I would try would be a computer restart, as lame as that sounds.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/wwise-hanging-forever/1037/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/wwise-hanging-forever/1037/2</link>
+        <pubDate>Tue, 29 Dec 2020 20:10:28 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1037-2</guid>
+        <source url="https://forums.ficsit.app/t/wwise-hanging-forever/1037.rss">Wwise hanging forever</source>
+      </item>
+      <item>
+        <title>Wwise hanging forever</title>
+        <dc:creator><![CDATA[@Xeridox Xeridox]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/xeridox">@Xeridox</a> wrote:</p>
+          <blockquote>
+              <p>I’ve followed the steps correctly, at least as far as I can tell…</p>
+<p>However, at the integration step it’s hanging at “Retrieving Wwise Integration details”<br>
+I let it run all night and I know my computer isn’t that slow (runs Satisfactory just fine).<br>
+I’m on Windows 7 if that helps.</p>
+<p>I also tried the “Integrate Using Offline Files” option… it then gets about halfway through “Applying Operation”, but hangs again after reaching “Preparing Integration”</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/177f764fc3a2e772c96a58c2f8ab4e0a6fb5517e.png" data-download-href="https://forums.ficsit.app/uploads/default/177f764fc3a2e772c96a58c2f8ab4e0a6fb5517e" title="hang"><img src="https://forums.ficsit.app/uploads/default/optimized/1X/177f764fc3a2e772c96a58c2f8ab4e0a6fb5517e_2_609x500.png" alt="hang" data-base62-sha1="3lS4egqGpbnq1KkTwD0zBu15hlY" width="609" height="500" srcset="https://forums.ficsit.app/uploads/default/optimized/1X/177f764fc3a2e772c96a58c2f8ab4e0a6fb5517e_2_609x500.png, https://forums.ficsit.app/uploads/default/optimized/1X/177f764fc3a2e772c96a58c2f8ab4e0a6fb5517e_2_913x750.png 1.5x, https://forums.ficsit.app/uploads/default/original/1X/177f764fc3a2e772c96a58c2f8ab4e0a6fb5517e.png 2x" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/177f764fc3a2e772c96a58c2f8ab4e0a6fb5517e_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">hang</span><span class="informations">1104×905 80.1 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/wwise-hanging-forever/1037/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/wwise-hanging-forever/1037/1</link>
+        <pubDate>Sun, 20 Dec 2020 01:20:57 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1037-1</guid>
+        <source url="https://forums.ficsit.app/t/wwise-hanging-forever/1037.rss">Wwise hanging forever</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>About the SMR category</title>
+    <link>https://forums.ficsit.app/t/about-the-smr-category/16</link>
+    <description>Satisfactory Mod Repository related discussions.</description>
+    
+    <lastBuildDate>Sat, 09 Nov 2019 03:22:16 +0000</lastBuildDate>
+    <category>SMR</category>
+    <atom:link href="https://forums.ficsit.app/t/about-the-smr-category/16.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>About the SMR category</title>
+        <dc:creator><![CDATA[@Robb Rob B]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/robb">@Robb</a> wrote:</p>
+          <blockquote>
+              
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/about-the-smr-category/16/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/about-the-smr-category/16/2</link>
+        <pubDate>Sat, 09 Nov 2019 15:48:06 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-16-2</guid>
+        <source url="https://forums.ficsit.app/t/about-the-smr-category/16.rss">About the SMR category</source>
+      </item>
+      <item>
+        <title>About the SMR category</title>
+        <dc:creator><![CDATA[@Vilsol]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/vilsol">@Vilsol</a> wrote:</p>
+          <blockquote>
+              <p>Satisfactory Mod Repository related discussions.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/about-the-smr-category/16/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/about-the-smr-category/16/1</link>
+        <pubDate>Thu, 07 Nov 2019 16:06:34 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-16-1</guid>
+        <source url="https://forums.ficsit.app/t/about-the-smr-category/16.rss">About the SMR category</source>
+      </item>
+  </channel>
+</rss>

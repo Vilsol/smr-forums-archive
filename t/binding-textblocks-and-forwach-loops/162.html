@@ -1,0 +1,835 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  
+<!-- Mirrored from forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162 by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 01 Jun 2022 15:02:47 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta charset="utf-8">
+    <title>Binding Textblocks and forwach loops - Modding - SMR Forums</title>
+    <meta name="description" content="I getting info from inventory and getting the Item, Count and Item Name, Plus the Type count and Index Types. The issue is that when the results are displayed in the text block. The results blink. As it would in the fore&amp;hellip;">
+    <meta name="generator" content="Discourse 2.4.0.beta7 - https://github.com/discourse/discourse version f8d69253e811c29703334eccd6288f3df3700327">
+<link rel="icon" type="image/png" href="../../uploads/default/optimized/1X/f02da7f6991dd231eefed9e0b929b9f220067a67_2_32x32.png">
+<link rel="apple-touch-icon" type="image/png" href="../../uploads/default/optimized/1X/f02da7f6991dd231eefed9e0b929b9f220067a67_2_180x180.png">
+<meta name="theme-color" content="#111111">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes, viewport-fit=cover">
+<link rel="canonical" href="162.html" />
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"WebSite","url":"https://forums.ficsit.app","potentialAction":{"@type":"SearchAction","target":"https://forums.ficsit.app/search?q={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<link rel="search" type="application/opensearchdescription+xml" href="../../opensearch.xml" title="SMR Forums Search">
+
+      <link href="../../stylesheets/desktop_1_65b6df79b7ca1c9605f957c83775f8eef4438a11.css_%3b%20filename_%3dUTF-8%27%27desktop_1_65b6df79b7ca1c9605f957c83775f8eef4438a11f6fe.css?__ws=forums.ficsit.app" media="all" rel="stylesheet" data-target="desktop" data-theme-id="1"/>
+      <link href="../../stylesheets/desktop_theme_1_9db8e85b82346e2f29622cc14c8bdf75c88b0e15.css_%3b%20filename_%3dUTF-8%27%27desktop_theme_1_9db8e85b82346e2f29622cc14c8bdf75c88b0e15f6fe.css?__ws=forums.ficsit.app" media="all" rel="stylesheet" data-target="desktop_theme" data-theme-id="1"/>
+    
+    
+        <link rel="alternate" type="application/rss+xml" title="RSS feed of &#39;Binding Textblocks and forwach loops&#39;" href="162.rss" />
+    <meta property="og:site_name" content="SMR Forums" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:image" content="https://forums.ficsit.app/uploads/default/optimized/1X/c672174db82ffb99fbac966d0497e807d43ad044_2_690x215.png" />
+<meta property="og:image" content="https://forums.ficsit.app/uploads/default/optimized/1X/c672174db82ffb99fbac966d0497e807d43ad044_2_690x215.png" />
+<meta property="og:url" content="https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162" />
+<meta name="twitter:url" content="https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162" />
+<meta property="og:title" content="Binding Textblocks and forwach loops" />
+<meta name="twitter:title" content="Binding Textblocks and forwach loops" />
+<meta property="og:description" content="I getting info from inventory and getting the Item, Count and Item Name, Plus the Type count and Index Types. The issue is that when the results are displayed in the text block. The results blink. As it would in the foreach loop. Any one have any idea on how to keep the results from blinking Here’s my node setup" />
+<meta name="twitter:description" content="I getting info from inventory and getting the Item, Count and Item Name, Plus the Type count and Index Types. The issue is that when the results are displayed in the text block. The results blink. As it would in the foreach loop. Any one have any idea on how to keep the results from blinking Here’s my node setup" />
+<meta property="article:published_time" content="2020-01-21T00:41:25+00:00" />
+<meta property="og:ignore_canonical" content="true" />
+
+        <link rel="next" href="1624658.html?page=2">
+
+
+    
+  </head>
+  <body class="crawler">
+    
+<script src="../../theme-javascripts/1b5d0e2e70911dd7c8508f7624ecb6a8b056a12c.js_%3b%20filename_%3dUTF-8%27%271b5d0e2e70911dd7c8508f7624ecb6a8b056a12cf6fe.js?__ws=forums.ficsit.app"></script>
+    <header>
+      <a href="../../index-2.html">
+          <img src="../../uploads/default/original/1X/4e840b8b4fdb3676c614937b8f18b06415f9bd1c.png" alt="SMR Forums" id="site-logo" style="max-width: 150px;">
+      </a>
+    </header>
+    <div id="main-outlet" class="wrap">
+        <h1 class="crawler-topic-title">
+    <a href="162.html">Binding Textblocks and forwach loops</a>
+  </h1>
+
+  <div id='breadcrumbs'>
+      <div id="breadcrumb-0" itemscope itemtype="http://data-vocabulary.org/Breadcrumb"
+>
+        <a href="../../c/modding-help.html" itemprop="url" class='badge-wrapper bullet'>
+          <span class="badge-category-bg"></span>
+          <span itemprop="title" class='category-title'>Modding</span>
+        </a>
+      </div>
+  </div>
+
+
+  
+
+
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='../../u/iceman11a.html'><span itemprop='name'>iceman11a</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2020-01-21T00:41:25Z' class='post-time'>
+                January 21, 2020, 12:41am
+              </time>
+          <span itemprop='position'>#1</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>I getting info from inventory and getting the Item, Count and Item Name, Plus the Type count and Index Types. The issue is that when the results are displayed in the text block. The results blink. As it would in the foreach loop. Any one have any idea on how to keep the results from blinking Here’s my node setup <div class="lightbox-wrapper"><a class="lightbox" href="../../uploads/default/original/1X/c672174db82ffb99fbac966d0497e807d43ad044.png" data-download-href="https://forums.ficsit.app/uploads/default/c672174db82ffb99fbac966d0497e807d43ad044" title="image"><img src="../../uploads/default/optimized/1X/c672174db82ffb99fbac966d0497e807d43ad044_2_690x215.png" alt="image" data-base62-sha1="sjwYDDjY8vhbufezbi6pSApL1DS" width="690" height="215" srcset="https://forums.ficsit.app/uploads/default/optimized/1X/c672174db82ffb99fbac966d0497e807d43ad044_2_690x215.png, https://forums.ficsit.app/uploads/default/original/1X/c672174db82ffb99fbac966d0497e807d43ad044.png 1.5x, https://forums.ficsit.app/uploads/default/original/1X/c672174db82ffb99fbac966d0497e807d43ad044.png 2x" data-small-upload="../../uploads/default/optimized/1X/c672174db82ffb99fbac966d0497e807d43ad044_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">911×284 55.3 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+        </div>
+
+        <meta itemprop='headline' content='Binding Textblocks and forwach loops'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+            <div class='crawler-linkback-list' itemscope itemtype='http://schema.org/ItemList'>
+            </div>
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='../../u/mircearoata.html'><span itemprop='name'>mircearoata</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2020-01-21T08:03:21Z' class='post-time'>
+                January 21, 2020,  8:03am
+              </time>
+          <span itemprop='position'>#2</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <ol>
+<li>
+<p>What is the for each connected to?</p>
+</li>
+<li>
+<p>The return node basically terminates that function, so only the first element would get displayed. So to make it display all you would need a list. I don’t remember rn how they are made, but when I get home I can look how I did it before</p>
+</li>
+</ol>
+        </div>
+
+        <meta itemprop='headline' content='Binding Textblocks and forwach loops'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='../../u/iceman11a.html'><span itemprop='name'>iceman11a</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2020-01-21T11:28:35Z' class='post-time'>
+                January 21, 2020, 11:28am
+              </time>
+          <span itemprop='position'>#3</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>Yes, Sorry about that, I didn’t think to send you all the nodes. I will in this post. as I said, The loop is from the inventory.<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="../../uploads/default/original/1X/376326f30ad7db4c7d9ea2c858877916dbcdcb56.png" data-download-href="https://forums.ficsit.app/uploads/default/376326f30ad7db4c7d9ea2c858877916dbcdcb56" title="image"><img src="../../uploads/default/original/1X/376326f30ad7db4c7d9ea2c858877916dbcdcb56.png" alt="image" data-base62-sha1="7TYGZiYe0NRQNoaZPKV4hVgOURg" width="690" height="359" data-small-upload="../../uploads/default/optimized/1X/376326f30ad7db4c7d9ea2c858877916dbcdcb56_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">768×400 60.7 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div><br>
+<div class="lightbox-wrapper"><a class="lightbox" href="../../uploads/default/original/1X/52103c3170ad5b358860921f1673d8bec176d055.png" data-download-href="https://forums.ficsit.app/uploads/default/52103c3170ad5b358860921f1673d8bec176d055" title="image"><img src="../../uploads/default/optimized/1X/52103c3170ad5b358860921f1673d8bec176d055_2_690x321.png" alt="image" data-base62-sha1="bHXW2Gb06Lu0xr863GB7H3O7QMt" width="690" height="321" srcset="https://forums.ficsit.app/uploads/default/optimized/1X/52103c3170ad5b358860921f1673d8bec176d055_2_690x321.png, https://forums.ficsit.app/uploads/default/original/1X/52103c3170ad5b358860921f1673d8bec176d055.png 1.5x, https://forums.ficsit.app/uploads/default/original/1X/52103c3170ad5b358860921f1673d8bec176d055.png 2x" data-small-upload="../../uploads/default/optimized/1X/52103c3170ad5b358860921f1673d8bec176d055_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">737×343 77.3 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div><br>
+<div class="lightbox-wrapper"><a class="lightbox" href="../../uploads/default/original/1X/a35792fe0cbf098a9ad34d1ca4bb6f0fc0c0423e.png" data-download-href="https://forums.ficsit.app/uploads/default/a35792fe0cbf098a9ad34d1ca4bb6f0fc0c0423e" title="image"><img src="../../uploads/default/optimized/1X/a35792fe0cbf098a9ad34d1ca4bb6f0fc0c0423e_2_690x332.png" alt="image" data-base62-sha1="niZsbajw9lmUVjJ2ybILrdOsHrE" width="690" height="332" srcset="https://forums.ficsit.app/uploads/default/optimized/1X/a35792fe0cbf098a9ad34d1ca4bb6f0fc0c0423e_2_690x332.png, https://forums.ficsit.app/uploads/default/original/1X/a35792fe0cbf098a9ad34d1ca4bb6f0fc0c0423e.png 1.5x, https://forums.ficsit.app/uploads/default/original/1X/a35792fe0cbf098a9ad34d1ca4bb6f0fc0c0423e.png 2x" data-small-upload="../../uploads/default/optimized/1X/a35792fe0cbf098a9ad34d1ca4bb6f0fc0c0423e_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">804×388 82.8 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+        </div>
+
+        <meta itemprop='headline' content='Binding Textblocks and forwach loops'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="1" />
+          </div>
+
+            <div class='crawler-linkback-list' itemscope itemtype='http://schema.org/ItemList'>
+            </div>
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='../../u/mircearoata.html'><span itemprop='name'>mircearoata</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2020-01-21T12:17:31Z' class='post-time'>
+                January 21, 2020, 12:17pm
+              </time>
+          <span itemprop='position'>#4</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>The way you done it is very odd, because</p>
+<ol>
+<li>The manufacturer class needs power and a recipe to work</li>
+<li>You’re doing the grab logic from the widget</li>
+</ol>
+<p>What I suggest is make your building a FGBuildableFactory, and the grab logic should be in Factory_Tick event to always grab and put it in an inventory component you add to the object.</p>
+<p>Then, the function looks fine after you change it from getting the output inventory to getting your inventory, except the list issue that I told you about</p>
+        </div>
+
+        <meta itemprop='headline' content='Binding Textblocks and forwach loops'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="1" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='../../u/iceman11a.html'><span itemprop='name'>iceman11a</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <meta itemprop='datePublished' content='2020-01-21T12:34:07Z'>
+              <time itemprop='dateModified' datetime='2020-01-21T12:36:48Z' class='post-time'>
+                January 21, 2020, 12:36pm
+              </time>
+          <span itemprop='position'>#5</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>Well I don’t under stand why it is odd, This comes from the online tutorial, The online Tutorial had it setup to a FGBuidlable. I had it changed to help with the inventory system. and the manufacturing buildable, has the inventory built it, It’s just there’s options missing is this class, like the FGInventory class does. In the buildablemanufacturing I all ready pull from the inventory and output it to a conveyor. The idea behind this is just to count and display info on each item goes threw the item counter. Before I added in the Grab all Items from inventory in the widget. The nodes just didn’t work, So I had to add that in. It works. It’s just the issue is that the info coming from the inventory blinks on and off as is gets sent to the widget designer.</p>
+<p>One more thing. This machine does have a recipe and power and I am looking threw tutorials. On what I’m trying to do. and there’s nothing on this. so when you get home, You mite be able to help with using a listview.</p>
+        </div>
+
+        <meta itemprop='headline' content='Binding Textblocks and forwach loops'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="1" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='../../u/mircearoata.html'><span itemprop='name'>mircearoata</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2020-01-21T12:38:49Z' class='post-time'>
+                January 21, 2020, 12:38pm
+              </time>
+          <span itemprop='position'>#6</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>The FGManufaucturer isn’t the appropriate class for a machine that shouldn’t have a recipe, but just accept everything. And the docs don’t say to put the machine logic in the widget, even if you keep it as a manufacturer, you should move it to Factory_Tick</p>
+        </div>
+
+        <meta itemprop='headline' content='Binding Textblocks and forwach loops'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="1" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='../../u/mircearoata.html'><span itemprop='name'>mircearoata</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2020-01-21T12:40:21Z' class='post-time'>
+                January 21, 2020, 12:40pm
+              </time>
+          <span itemprop='position'>#7</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>Check the image at the bottom of this page<br>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      
+      <a href="https://docs.ficsit.app/satisfactory-modding/1.0.0/beginners_guide/simpleMod/machines/SimpleMachine.html" target="_blank" rel="nofollow noopener">docs.ficsit.app</a>
+  </header>
+  <article class="onebox-body">
+    <img src="../../uploads/default/original/1X/f02da7f6991dd231eefed9e0b929b9f220067a67.png" class="thumbnail onebox-avatar" width="500" height="500">
+
+<h3><a href="https://docs.ficsit.app/satisfactory-modding/1.0.0/beginners_guide/simpleMod/machines/SimpleMachine.html" target="_blank" rel="nofollow noopener">First Simple Machine :: Satisfactory Modding Documentation</a></h3>
+
+<p>In this chapter we’ll create a simple machine which simply counts the items and types of items that pass through it, outputting them a...</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+</p>
+<p>It is exactly what you’re trying to do</p>
+        </div>
+
+        <meta itemprop='headline' content='Binding Textblocks and forwach loops'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+            <div class='crawler-linkback-list' itemscope itemtype='http://schema.org/ItemList'>
+            </div>
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='../../u/iceman11a.html'><span itemprop='name'>iceman11a</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2020-01-21T12:40:29Z' class='post-time'>
+                January 21, 2020, 12:40pm
+              </time>
+          <span itemprop='position'>#8</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>This is how I set it up in the buildable. I added 2 new functions and run them. and these are coming from a factory tic.</p>
+<p><img src="../../uploads/default/original/1X/9e4f7f15111832a39840ae1fb7e9974fef1b012d.png" alt="image" data-base62-sha1="mAtL9NR1Q6cszn8wnMTFJsRnUa9" width="458" height="256"></p>
+<p>this is how I put the inventory</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../uploads/default/original/1X/bba0ba8ab69ae851d8570aa59b4a8f5d99ee540a.png" data-download-href="https://forums.ficsit.app/uploads/default/bba0ba8ab69ae851d8570aa59b4a8f5d99ee540a" title="image"><img src="../../uploads/default/optimized/1X/bba0ba8ab69ae851d8570aa59b4a8f5d99ee540a_2_690x211.png" alt="image" data-base62-sha1="qLPE5siGNasK9JQZ1LKBfbD52k2" width="690" height="211" srcset="https://forums.ficsit.app/uploads/default/optimized/1X/bba0ba8ab69ae851d8570aa59b4a8f5d99ee540a_2_690x211.png, https://forums.ficsit.app/uploads/default/original/1X/bba0ba8ab69ae851d8570aa59b4a8f5d99ee540a.png 1.5x, https://forums.ficsit.app/uploads/default/original/1X/bba0ba8ab69ae851d8570aa59b4a8f5d99ee540a.png 2x" data-small-upload="../../uploads/default/optimized/1X/bba0ba8ab69ae851d8570aa59b4a8f5d99ee540a_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">816×250 43.5 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>This is how it outputs it<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="../../uploads/default/original/1X/b658b232ad4d8c892c947b8b4985da75ab6e403a.png" data-download-href="https://forums.ficsit.app/uploads/default/b658b232ad4d8c892c947b8b4985da75ab6e403a" title="image"><img src="../../uploads/default/optimized/1X/b658b232ad4d8c892c947b8b4985da75ab6e403a_2_690x421.png" alt="image" data-base62-sha1="q16VFl2exKmH5GJ1VFCGHFyyOnM" width="690" height="421" srcset="https://forums.ficsit.app/uploads/default/optimized/1X/b658b232ad4d8c892c947b8b4985da75ab6e403a_2_690x421.png, https://forums.ficsit.app/uploads/default/original/1X/b658b232ad4d8c892c947b8b4985da75ab6e403a.png 1.5x, https://forums.ficsit.app/uploads/default/original/1X/b658b232ad4d8c892c947b8b4985da75ab6e403a.png 2x" data-small-upload="../../uploads/default/optimized/1X/b658b232ad4d8c892c947b8b4985da75ab6e403a_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">761×465 87.8 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+        </div>
+
+        <meta itemprop='headline' content='Binding Textblocks and forwach loops'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="1" />
+          </div>
+
+            <div class='crawler-linkback-list' itemscope itemtype='http://schema.org/ItemList'>
+            </div>
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='../../u/mircearoata.html'><span itemprop='name'>mircearoata</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2020-01-21T12:42:17Z' class='post-time'>
+                January 21, 2020, 12:42pm
+              </time>
+          <span itemprop='position'>#9</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>It’s still overcomplicating it. Look at the picture I linked. It does all you want your building to do: count items and item types</p>
+        </div>
+
+        <meta itemprop='headline' content='Binding Textblocks and forwach loops'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="1" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='../../u/iceman11a.html'><span itemprop='name'>iceman11a</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <meta itemprop='datePublished' content='2020-01-21T12:43:16Z'>
+              <time itemprop='dateModified' datetime='2020-01-21T12:46:04Z' class='post-time'>
+                January 21, 2020, 12:46pm
+              </time>
+          <span itemprop='position'>#10</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>It does. It works fine so far. I just need to fix the blinking out issue. and I guess your saying that adding it to a list will fix that. So I’ll have to wait until you get home. Have you had time to go threw the classes for the warehouse I make to find out why the default widget doesn’t work.</p>
+        </div>
+
+        <meta itemprop='headline' content='Binding Textblocks and forwach loops'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="1" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='../../u/mircearoata.html'><span itemprop='name'>mircearoata</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2020-01-21T12:47:16Z' class='post-time'>
+                January 21, 2020, 12:47pm
+              </time>
+          <span itemprop='position'>#11</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>They blink because the inventory keeps switching from an item to no items, which is because of the overcomplicated way you did it. Your way doesn’t actually count the items, it only displays the content of the inventory which immediately empties.</p>
+<p>Please, look at the blueprint I sent. It counts the items the right way, and making the UI for it is just interactObject-&gt;Cast To-&gt;Get ItemCount</p>
+        </div>
+
+        <meta itemprop='headline' content='Binding Textblocks and forwach loops'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='../../u/iceman11a.html'><span itemprop='name'>iceman11a</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2020-01-21T12:52:50Z' class='post-time'>
+                January 21, 2020, 12:52pm
+              </time>
+          <span itemprop='position'>#12</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>sorry, All I see is the online tutorial you sent the one I been following for this machine. I don’t see a Bp class attached</p>
+        </div>
+
+        <meta itemprop='headline' content='Binding Textblocks and forwach loops'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="1" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='../../u/mircearoata.html'><span itemprop='name'>mircearoata</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <meta itemprop='datePublished' content='2020-01-21T12:59:58Z'>
+              <time itemprop='dateModified' datetime='2020-01-21T13:01:00Z' class='post-time'>
+                January 21, 2020,  1:01pm
+              </time>
+          <span itemprop='position'>#13</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>At the very bottom there’s this image <a href="https://docs.ficsit.app/satisfactory-modding/1.0.0/_images/beginners_guide/simpleMod/machines/SimpleMachine_Grab.jpg" rel="nofollow noopener">https://docs.ficsit.app/satisfactory-modding/1.0.0/_images/beginners_guide/simpleMod/machines/SimpleMachine_Grab.jpg</a></p>
+<p>It is not the entire asset, just an image with the blueprint graph you have to do for the item counter</p>
+        </div>
+
+        <meta itemprop='headline' content='Binding Textblocks and forwach loops'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+            <div class='crawler-linkback-list' itemscope itemtype='http://schema.org/ItemList'>
+            </div>
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='../../u/iceman11a.html'><span itemprop='name'>iceman11a</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <meta itemprop='datePublished' content='2020-01-21T13:03:42Z'>
+              <time itemprop='dateModified' datetime='2020-01-21T13:04:56Z' class='post-time'>
+                January 21, 2020,  1:04pm
+              </time>
+          <span itemprop='position'>#14</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>See that’s the option I had setup before about a month ago when I 1st started on the tutorial, The other guy that was helping me with it. Couldn’t help for the last few days he’s having family issues, That we removed that. Didn’t need it. So he came up with the idea you saw. and It’s been working. Like I said.</p>
+<p>From what I read that’s an Grab override function.</p>
+        </div>
+
+        <meta itemprop='headline' content='Binding Textblocks and forwach loops'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="1" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='../../u/mircearoata.html'><span itemprop='name'>mircearoata</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2020-01-21T14:26:43Z' class='post-time'>
+                January 21, 2020,  2:26pm
+              </time>
+          <span itemprop='position'>#15</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>Yes, so when the output wants an item, you take one from input and count it</p>
+        </div>
+
+        <meta itemprop='headline' content='Binding Textblocks and forwach loops'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="1" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='../../u/iceman11a.html'><span itemprop='name'>iceman11a</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2020-01-21T14:32:42Z' class='post-time'>
+                January 21, 2020,  2:32pm
+              </time>
+          <span itemprop='position'>#16</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>Right. when you get home you can show me your listview so I can see what your doing so that the outputs don’t blink on the display. i still looking for small sample on google and haven’y fount one yet. I more then likely will have to wait until you get home</p>
+        </div>
+
+        <meta itemprop='headline' content='Binding Textblocks and forwach loops'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="1" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='../../u/mircearoata.html'><span itemprop='name'>mircearoata</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <meta itemprop='datePublished' content='2020-01-21T14:57:37Z'>
+              <time itemprop='dateModified' datetime='2020-01-21T15:04:11Z' class='post-time'>
+                January 21, 2020,  3:04pm
+              </time>
+          <span itemprop='position'>#17</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>I don’t remember exactly its name, so I didn’t find the listview on Google either, I’ll look in my projects</p>
+<p>But this won’t solve the blinking problem. The BP graph in the picture will, because it counts the right way (counts all items, instead of the items currently in the buffer)</p>
+        </div>
+
+        <meta itemprop='headline' content='Binding Textblocks and forwach loops'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="1" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='../../u/iceman11a.html'><span itemprop='name'>iceman11a</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <meta itemprop='datePublished' content='2020-01-21T15:07:33Z'>
+              <time itemprop='dateModified' datetime='2020-01-21T15:10:30Z' class='post-time'>
+                January 21, 2020,  3:10pm
+              </time>
+          <span itemprop='position'>#18</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>Well see I don’t your setup or what your trying to do, if you look at the end of that Grab Output. You see that it prints the results to the Chat Message. That’s a crazy way to displaying info when it should be displayed in the designer of the widget. That’s why I’m not using it and that’s not the way to go. Seeing all that crap running threw the Chat Messages, Doesn’t that bother you. It did with me, That’s one reason why I changed it. MrHid from the discord server is the one that’s been helping me with it. His Partner’s family have issues and he’s been helping them with that.  This sample that I shows you is in the Mod Sample in the starter Project. It’s the Grinder MK1. you mite want to take a look at it. As you can see I all ready tried that machine and it doesn’t work. So that’s the reason why I have mine setup the way I do.</p>
+        </div>
+
+        <meta itemprop='headline' content='Binding Textblocks and forwach loops'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="1" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='../../u/mircearoata.html'><span itemprop='name'>mircearoata</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <meta itemprop='datePublished' content='2020-01-21T15:20:56Z'>
+              <time itemprop='dateModified' datetime='2020-01-21T15:22:08Z' class='post-time'>
+                January 21, 2020,  3:22pm
+              </time>
+          <span itemprop='position'>#19</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>… you gould have just removed the enter chat message and do it the widget way while keeping the rest of it, which does exactly what you want</p>
+        </div>
+
+        <meta itemprop='headline' content='Binding Textblocks and forwach loops'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="1" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='../../u/iceman11a.html'><span itemprop='name'>iceman11a</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2020-01-21T15:22:42Z' class='post-time'>
+                January 21, 2020,  3:22pm
+              </time>
+          <span itemprop='position'>#20</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>Yes I tried that too. The guy that helped me with just told me I didn’t need it. So I removed it. I spent like over a week on it tried to get it to work, It just didn’t work. By not working I mean it didn’t send anything out to the widget</p>
+        </div>
+
+        <meta itemprop='headline' content='Binding Textblocks and forwach loops'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="1" />
+          </div>
+
+
+    </div>
+
+    <div role='navigation' itemscope itemtype='http://schema.org/SiteNavigationElement' class="topic-body crawler-post">
+        <span itemprop='name'><b><a rel="next" itemprop="url" href="1624658.html?page=2">next page →</a></b></span>
+    </div>
+
+
+
+
+
+    </div>
+    <footer class="container wrap">
+      <nav class='crawler-nav' itemscope itemtype='http://schema.org/SiteNavigationElement'>
+        <ul>
+        <li itemprop="name"><a href='../../index-2.html' itemprop="url">Home </a></li>
+        <li itemprop="name"><a href='../../categories.html' itemprop="url">Categories </a></li>
+        <li itemprop="name"><a href='../../guidelines.html' itemprop="url">FAQ/Guidelines </a></li>
+        <li itemprop="name"><a href='../../tos.html' itemprop="url">Terms of Service </a></li>
+        <li itemprop="name"><a href='../../privacy.html' itemprop="url">Privacy Policy </a></li>
+        </ul>
+      </nav>
+      <p class='powered-by-link'>Powered by <a href="https://www.discourse.org/">Discourse</a>, best viewed with JavaScript enabled</p>
+    </footer>
+    
+    
+  <script defer src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" data-cf-beacon='{"rayId":"7148d2608ad9b4c0","token":"edccaedef54c459a9d18b03179e72dde","version":"2021.12.0","si":100}' crossorigin="anonymous"></script>
+</body>
+  
+
+<!-- Mirrored from forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162 by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 01 Jun 2022 15:03:07 GMT -->
+</html>

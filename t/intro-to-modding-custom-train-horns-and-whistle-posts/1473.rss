@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Intro to modding - custom train horns and &quot;whistle posts&quot;</title>
+    <link>https://forums.ficsit.app/t/intro-to-modding-custom-train-horns-and-whistle-posts/1473</link>
+    <description>I&#39;d like to learn how to create basic mods for Satisfactory.
+
+I&#39;ve had the idea on my mind to create a mod which can change the train horn sound effects and introduce a new track signal which causes trains to sound their horns upon passage.
+
+The purpose being that my hub and mall are located at the middle of a very busy central rail hub which sees a lot of high speed train traffic.  (Up to 200 kph.)  It would be nice to be able to hear these screaming fast inbound trains well in advance over the game&#39;s music and the ambient noise of the area.
+
+Would anyone be willing to walk me through the basic steps of setting up the modding environment and building something like this?  I&#39;m sh*t when it comes to software so this sort of thing I&#39;ll never be able to figure out without help.</description>
+    
+    <lastBuildDate>Wed, 01 Dec 2021 05:29:04 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/intro-to-modding-custom-train-horns-and-whistle-posts/1473.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Intro to modding - custom train horns and &quot;whistle posts&quot;</title>
+        <dc:creator><![CDATA[@Kerry_Freeman Kerry Freeman]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/kerry_freeman">@Kerry_Freeman</a> wrote:</p>
+          <blockquote>
+              <p>A brilliant suggestion my friend. I hope it gets implemented.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/intro-to-modding-custom-train-horns-and-whistle-posts/1473/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/intro-to-modding-custom-train-horns-and-whistle-posts/1473/2</link>
+        <pubDate>Wed, 01 Dec 2021 05:29:04 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1473-2</guid>
+        <source url="https://forums.ficsit.app/t/intro-to-modding-custom-train-horns-and-whistle-posts/1473.rss">Intro to modding - custom train horns and &quot;whistle posts&quot;</source>
+      </item>
+      <item>
+        <title>Intro to modding - custom train horns and &quot;whistle posts&quot;</title>
+        <dc:creator><![CDATA[@P10B]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/p10b">@P10B</a> wrote:</p>
+          <blockquote>
+              <p>I’d like to learn how to create basic mods for Satisfactory.</p>
+<p>I’ve had the idea on my mind to create a mod which can change the train horn sound effects and introduce a new track signal which causes trains to sound their horns upon passage.</p>
+<p>The purpose being that my hub and mall are located at the middle of a very busy central rail hub which sees a lot of high speed train traffic.  (Up to 200 kph.)  It would be nice to be able to hear these screaming fast inbound trains well in advance over the game’s music and the ambient noise of the area.</p>
+<p>Would anyone be willing to walk me through the basic steps of setting up the modding environment and building something like this?  I’m sh*t when it comes to software so this sort of thing I’ll never be able to figure out without help.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/intro-to-modding-custom-train-horns-and-whistle-posts/1473/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/intro-to-modding-custom-train-horns-and-whistle-posts/1473/1</link>
+        <pubDate>Sat, 27 Nov 2021 15:49:08 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1473-1</guid>
+        <source url="https://forums.ficsit.app/t/intro-to-modding-custom-train-horns-and-whistle-posts/1473.rss">Intro to modding - custom train horns and &quot;whistle posts&quot;</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Mod making-questions</title>
+    <link>https://forums.ficsit.app/t/mod-making-questions/87</link>
+    <description>is there a tutorial for making mods or a website?</description>
+    
+    <lastBuildDate>Mon, 25 Nov 2019 19:42:34 +0000</lastBuildDate>
+    <category>SML Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/mod-making-questions/87.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Mod making-questions</title>
+        <dc:creator><![CDATA[@Vilsol]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/vilsol">@Vilsol</a> wrote:</p>
+          <blockquote>
+              <p>There currently are no perfect guides, but here are some starting points:</p>
+<p><a href="https://satisfactorymodding.github.io/Documentation" class="onebox" target="_blank">https://satisfactorymodding.github.io/Documentation</a><br>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src="https://github.githubassets.com/favicon.ico" class="site-icon" width="32" height="32">
+      <a href="https://github.com/PXA-Renegade/Satisfactory-Pak-Modding/wiki" target="_blank">GitHub</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/371;"><img src="https://forums.ficsit.app/uploads/default/original/1X/2658407d83131024a986864bd0abbef7f37fd14b.jpeg" class="thumbnail"></div>
+
+<h3><a href="https://github.com/PXA-Renegade/Satisfactory-Pak-Modding/wiki" target="_blank">PXA-Renegade/Satisfactory-Pak-Modding</a></h3>
+
+<p>Starter project, tools and all information regarding pak modding in Satisfactory. - PXA-Renegade/Satisfactory-Pak-Modding</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+<br>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src="https://github.githubassets.com/favicon.ico" class="site-icon" width="32" height="32">
+      <a href="https://github.com/iam-Legend/Satisfactory-Modding-Guide/wiki" target="_blank">GitHub</a>
+  </header>
+  <article class="onebox-body">
+    <img src="https://forums.ficsit.app/uploads/default/original/1X/cf295d98644ebf4d06ec0a78136f851cdb32b46c.png" class="thumbnail onebox-avatar" width="420" height="420">
+
+<h3><a href="https://github.com/iam-Legend/Satisfactory-Modding-Guide/wiki" target="_blank">iam-Legend/Satisfactory-Modding-Guide</a></h3>
+
+<p>A repository dedicated to hosting a wiki page and possibly other resources on Satisfactory modding. - iam-Legend/Satisfactory-Modding-Guide</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mod-making-questions/87/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mod-making-questions/87/2</link>
+        <pubDate>Mon, 25 Nov 2019 19:42:34 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-87-2</guid>
+        <source url="https://forums.ficsit.app/t/mod-making-questions/87.rss">Mod making-questions</source>
+      </item>
+      <item>
+        <title>Mod making-questions</title>
+        <dc:creator><![CDATA[@weeaiden102_weilltur Weeaiden102 Weilltur]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/weeaiden102_weilltur">@weeaiden102_weilltur</a> wrote:</p>
+          <blockquote>
+              <p>is there a tutorial for making mods or a website?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mod-making-questions/87/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mod-making-questions/87/1</link>
+        <pubDate>Mon, 25 Nov 2019 16:07:09 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-87-1</guid>
+        <source url="https://forums.ficsit.app/t/mod-making-questions/87.rss">Mod making-questions</source>
+      </item>
+  </channel>
+</rss>

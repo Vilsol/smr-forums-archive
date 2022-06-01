@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:discourse="http://www.discourse.org/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>General - SMR Forums</title>
+    <link>https://forums.ficsit.app/c/general</link>
+    <description>Topics in the &#39;General&#39; category Any discussion related to Satisfactory that doesn’t fit anywhere else.</description>
+    
+      <lastBuildDate>Mon, 17 Jan 2022 13:53:34 +0000</lastBuildDate>
+      <atom:link href="https://forums.ficsit.app/c/general.rss" rel="self" type="application/rss+xml" />
+        <item>
+          <title>Lower coal consumption, if power consumption is not 100%</title>
+          <dc:creator><![CDATA[@yuyaryshev Yuyaryshev]]></dc:creator>
+          <category>Suggestions &amp; Ideas</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/yuyaryshev">@yuyaryshev</a> wrote:</p>
+            <blockquote>
+              <p>The Biomass Burner has “the resource consumption is automatically lowered”.<br>
+I was wondering:</p>
+<ul>
+<li>Is there any mod that enables you to build a setup that simulates this behavior?<br>
+Say a belt splitter that stops if the accumulator charge is above 90% and starts if it’s below 105?</li>
+</ul>
+<p>Or</p>
+<ul>
+<li>Is there a mod that has generators with this property? (“the resource consumption is automatically lowered”)</li>
+</ul>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.ficsit.app/t/lower-coal-consumption-if-power-consumption-is-not-100/1542">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/lower-coal-consumption-if-power-consumption-is-not-100/1542</link>
+          <pubDate>Mon, 17 Jan 2022 13:53:34 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1542</guid>
+          <source url="https://forums.ficsit.app/t/lower-coal-consumption-if-power-consumption-is-not-100/1542.rss">Lower coal consumption, if power consumption is not 100%</source>
+        </item>
+        <item>
+          <title>[Suggestion] Power grid overload</title>
+          <dc:creator><![CDATA[@Mika_Noren Mika Norén]]></dc:creator>
+          <category>General</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/mika_noren">@Mika_Noren</a> wrote:</p>
+            <blockquote>
+              <p>Scenario:<br>
+Lights start to flicker. Machines slow down. Something is going on, but what?<br>
+Oh?.. .wait… what’s smoking over there? is one of the generators over at the coal power plant on fire?<br>
+Oh dear, I shouldn’t have overloaded the power grid. I knew loading the power grid to 105% was a bad idea. With one of the generators out the factory is now overloading the grid to 130% instead, and the other generators will take too much damage and catch fire too. I better turn machines off and save what’s left of the power plant!</p>
+<p>Yea that’s the idea I have for a mod: Grid overload.<br>
+Instead of tripping the fuse when hitting 100.000001% power consumption, I’d imagine things to slow down and flicker. The more one overloads the grid, the slower things run.</p>
+<p>Say that one overloads the grid to 113%, the machine will only run at 87% of their set speed.  Machines efficiency on overloaded grid:  Machine_speed% - (Current_grid_load% - Max_grid_Load%)</p>
+<p>If a connected generator is damaged (due to overheating as a result of being overloaded) it drops power output lowering the grid efficiency. (Reducing Max_grid_load%)<br>
+Let’s say the generators won’t start to reduce their output until 25% damaged or more. After that, the output reduces as it gets more damaged until it reaches a critical failure point where it will be irreparable. The whole unit has to be replaced instead of repaired.</p>
+<p>Example on a machine at 100% speed: 100-(113-100) = 87% speed.<br>
+Example on a machine at 66% speed (underclocked) 66-(113-100) = 53% speed.<br>
+Example on a machine at 100% speed with only 80% grid efficiency: 100-(113-80) = 67% speed.<br>
+If the result is zero or less, the machine grinds to a halt.<br>
+If the grid load is less than Max_grid_load%, nothing applies. (Normal status)</p>
+<p>As one can see, overloading will have cascading effects. How long one can run overloaded depends on how much punishment generations can take. Maybe it is worth to overload 125% for a short while just to get that few extra steel pipes out a wee bit faster. One can repair the generators later on.</p>
+<p>What purpose would such a mod have? Benefits with added risks. Instead of suddenly tripping a fuse, things will still run, but at a cost.</p>
+<p>Those who played Factorio (another factory building game, but 2D) kinda recognise this behaviour. There the power grid overload causes everything to slow down. Although with no damaging results.</p>
+<p>Would this be doable as a mod?</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.ficsit.app/t/suggestion-power-grid-overload/1539">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/suggestion-power-grid-overload/1539</link>
+          <pubDate>Sat, 15 Jan 2022 19:14:53 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1539</guid>
+          <source url="https://forums.ficsit.app/t/suggestion-power-grid-overload/1539.rss">[Suggestion] Power grid overload</source>
+        </item>
+        <item>
+          <title>Request: More lighting sources (with sample pictures)</title>
+          <dc:creator><![CDATA[@Sathapana_Rongthong Sathapana Rongthong]]></dc:creator>
+          <category>Suggestions &amp; Ideas</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/sathapana_rongthong">@Sathapana_Rongthong</a> wrote:</p>
+            <blockquote>
+              <p>Due to the game’s limited types of lighting sources and all being too large, it’d be very nice if we have more options for interior and exterior lighting designs. It’s impossible to do indirect lighting designs or light stripes and even though some mod contains a 1m wall with lights, it doesn’t reflect the actual light on other surfaces so that can’t be counted as a lighting source because it doesn’t light up that space.</p>
+<ul>
+<li>Downlight, lamps, ceiling, wall, floor, or light stripes for designing indirect lightings</li>
+</ul>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/04a7811a189643e2d731fe75a1a7a91a249bc53d.jpeg" data-download-href="https://forums.ficsit.app/uploads/default/04a7811a189643e2d731fe75a1a7a91a249bc53d" title="2021-12-09%2022_38_57-Untitled-1_%20%40%20150%20%25%20(RGB_Preview)%20copy"><img src="https://forums.ficsit.app/uploads/default/optimized/1X/04a7811a189643e2d731fe75a1a7a91a249bc53d_2_690x469.jpeg" alt="2021-12-09%2022_38_57-Untitled-1_%20%40%20150%20%25%20(RGB_Preview)%20copy" data-base62-sha1="FaMK9dOt8i41ObjzsQYgGEAz6t" width="690" height="469" srcset="https://forums.ficsit.app/uploads/default/optimized/1X/04a7811a189643e2d731fe75a1a7a91a249bc53d_2_690x469.jpeg, https://forums.ficsit.app/uploads/default/optimized/1X/04a7811a189643e2d731fe75a1a7a91a249bc53d_2_1035x703.jpeg 1.5x, https://forums.ficsit.app/uploads/default/original/1X/04a7811a189643e2d731fe75a1a7a91a249bc53d.jpeg 2x" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/04a7811a189643e2d731fe75a1a7a91a249bc53d_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">2021-12-09%2022_38_57-Untitled-1_%20%40%20150%20%25%20(RGB_Preview)%20copy</span><span class="informations">1100×749 612 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>all individual pictures in link below<br>
+<a href="https://drive.google.com/drive/folders/1XblEFq7IquJjLCRQWe1t26-VkyGl1oh2?usp=sharing" class="onebox" target="_blank" rel="nofollow noopener">https://drive.google.com/drive/folders/1XblEFq7IquJjLCRQWe1t26-VkyGl1oh2?usp=sharing</a></p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.ficsit.app/t/request-more-lighting-sources-with-sample-pictures/1505">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/request-more-lighting-sources-with-sample-pictures/1505</link>
+          <pubDate>Thu, 09 Dec 2021 15:51:27 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1505</guid>
+          <source url="https://forums.ficsit.app/t/request-more-lighting-sources-with-sample-pictures/1505.rss">Request: More lighting sources (with sample pictures)</source>
+        </item>
+        <item>
+          <title>TC MOD IDEA: Tiberian Forge (Satisfactory/C&amp;C)</title>
+          <dc:creator><![CDATA[@Orphiex Orphiex]]></dc:creator>
+          <category>Suggestions &amp; Ideas</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/orphiex">@Orphiex</a> wrote:</p>
+            <blockquote>
+              <p>So I’m not a modder, for Satisfactory or otherwise. Unfortunately, a brainworm has crawled inside my skull and manifested into a mod idea that just won’t leave me alone. So I commit it to digital text here, in the hopes that it will infest some other poor sod and leave me be.</p>
+<p>On the other hand, I need to put it out there in an interesting way, otherwise it won’t be exorcised. So here we go:</p>
+<h1>===================================<br>
+SATISFACTORY / COMMAND &amp; CONQUER:<br>
+TIBERIAN FORGE</h1>
+<p>"Good afternoon, Engineers. You are all here because you volunteered for this detachment; on behalf of GDI, humanity and life itself, I salute you and thank you for your dedicated and loyal service.</p>
+<p>"This mission is both severely divergent from operational procedure and hazardous in the extreme. Nevertheless, needs must; given the lack of options available at this point in time, this course affords the greatest chance of saving this world from the encroachment of Tiberium. While all of you have been briefed on the mission, I will reiterate the salient details for the record.</p>
+<p>"At 0245 hours shipboard time two days ago, Scout vessel <em>Andronicus</em> of the GDI Extrasolar Exploratory Corps moved into orbit around the life-bearing planet designated “Massage-2(AB)B” and began scans of the planet’s surface. It was at this time that the saboteur struck; a Brotherhood of NOD infiltrator among the crew was captured in an attempt to destroy the ship by detonating a suborned missile within the armament bays. The bridge Weapons Officer was able to spot the access breach in time and disable the warhead remotely.</p>
+<p>"I… almost wish the saboteur had succeeded in his attempt. His contingency plan was… is… far worse. While the warhead itself was disabled, the missile was not, and before he was captured, he launched it at the planet below… carrying a shard of active Tiberium. High-intensity scans are already showing weak Tiberium emission frequencies from the point of planetary impact. In other words, the planet has been contaminated… and if nothing is done, it will be consumed as Earth was.</p>
+<p>"The <em>Andronicus</em> is not equipped with the necessary materiel for full-scale Tiberium remediation; the only option is for the ship to return to GDI Command and report the need for a Reclamator detachment. However, every day’s transit is a day in which Tiberium is free to spread through the biosphere of a virgin world. This is unacceptable. Hence, this mission, for which you, the brave men and women of GDI’s Engineering Corps, have volunteered.</p>
+<p>"Your mission is simple: abatement, containment and if possible eradication of Tiberium on the world below. You will deploy to the planet by orbital drop pods; unfortunately, we have no field units to deploy with you. You will have to make use of the tools available to you, especially your Field Constructors, to assemble the structures, hardware and materials needed to suppress the spread of Tiberium.</p>
+<p>“Good luck, and may God be with you all.”</p>
+<p>============================</p>
+<p>This is basically a proposal for a Total Conversion multiplayer mod that radically changes the game’s objectives. The players are on a clock; the longer the game goes on, the more the Tiberium spreads and the more dangerous the world becomes. Players start with the majority of blueprints and gear unlocked, and their suits have built-in immunity to gas and radiation… but Tiberium is an environmental hazard all its own, and any fauna that survive Tib exposure become more deadly.</p>
+<p>I’m under no illusions that a mod like this would be anything other than massively difficult to make; while some of the code in the game might be adaptable (e.g. the Radar Tower’s scanning pattern could maybe be used to calculate the spread of Tiberium per hourly tick), overall it would probably be a complete nightmare to code something like this. Still, I hope this inspires somebody to build <em>something</em>.</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.ficsit.app/t/tc-mod-idea-tiberian-forge-satisfactory-c-c/1496">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/tc-mod-idea-tiberian-forge-satisfactory-c-c/1496</link>
+          <pubDate>Sat, 04 Dec 2021 18:05:27 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1496</guid>
+          <source url="https://forums.ficsit.app/t/tc-mod-idea-tiberian-forge-satisfactory-c-c/1496.rss">TC MOD IDEA: Tiberian Forge (Satisfactory/C&amp;C)</source>
+        </item>
+        <item>
+          <title>Logistics 2.0 causing crashes</title>
+          <dc:creator><![CDATA[@cameron_maddox Cameron Maddox]]></dc:creator>
+          <category>General</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/cameron_maddox">@cameron_maddox</a> wrote:</p>
+            <blockquote>
+              <p>Logistics 2.0 it causes crashes and has a self dependency issue that wont allow its deletion</p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.ficsit.app/t/logistics-2-0-causing-crashes/1463">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/logistics-2-0-causing-crashes/1463</link>
+          <pubDate>Thu, 25 Nov 2021 04:40:16 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1463</guid>
+          <source url="https://forums.ficsit.app/t/logistics-2-0-causing-crashes/1463.rss">Logistics 2.0 causing crashes</source>
+        </item>
+        <item>
+          <title>Satisfactory Mod Manager Stays Minimized</title>
+          <dc:creator><![CDATA[@Stephen_Jones Stephen Jones]]></dc:creator>
+          <category>General</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/stephen_jones">@Stephen_Jones</a> wrote:</p>
+            <blockquote>
+              <p>I don’t know if this is the right place to post this but none of the other categories seemed right to me. I had the SMM installed for a while. Update 5 rolls around on experimental so I fire it up. Everything works fine but its work time so I close it all down. When I try and launch SMM after work it “opens” but stays minimized no matter what I do. I force close it, I alt tab to it, run it as admin, whatever I can think of to make it show up not minimized to the task bar. I have uninstalled (with Revo so a good full uninstall) and reinstalled. Nothing does the trick. I am on windows 10 pro btw with epic version of satisfactory if that matters.</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.ficsit.app/t/satisfactory-mod-manager-stays-minimized/1453">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/satisfactory-mod-manager-stays-minimized/1453</link>
+          <pubDate>Mon, 22 Nov 2021 16:53:26 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1453</guid>
+          <source url="https://forums.ficsit.app/t/satisfactory-mod-manager-stays-minimized/1453.rss">Satisfactory Mod Manager Stays Minimized</source>
+        </item>
+        <item>
+          <title>Delete Account from the forum</title>
+          <dc:creator><![CDATA[@Crafty06 Crafty06]]></dc:creator>
+          <category>General</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/crafty06">@Crafty06</a> wrote:</p>
+            <blockquote>
+              <p>Hi,<br>
+i just wanted to ask, if there is any<br>
+way to delete your Account.<br>
+I already tried to revoke the OAuth<br>
+from Github, but i can still login.<br>
+(Even without Github)</p>
+<p>Is there any way?<br>
+Regards</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.ficsit.app/t/delete-account-from-the-forum/1425">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/delete-account-from-the-forum/1425</link>
+          <pubDate>Fri, 22 Oct 2021 13:30:35 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1425</guid>
+          <source url="https://forums.ficsit.app/t/delete-account-from-the-forum/1425.rss">Delete Account from the forum</source>
+        </item>
+        <item>
+          <title>Menu Adjusting Mod Idea</title>
+          <dc:creator><![CDATA[@MdosTV Mdos Tv]]></dc:creator>
+          <category>Suggestions &amp; Ideas</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/mdostv">@MdosTV</a> wrote:</p>
+            <blockquote>
+              <p>I think a nice addition to the mod market is a mod that can allow you to adjust the placement of the “Hands” and “Body” slots. Got a lot of mods that add more slots, which causes overlapping if you try to use too many of them. Would really like to still have all those slots and be able to access them.</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.ficsit.app/t/menu-adjusting-mod-idea/1410">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/menu-adjusting-mod-idea/1410</link>
+          <pubDate>Fri, 08 Oct 2021 03:52:27 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1410</guid>
+          <source url="https://forums.ficsit.app/t/menu-adjusting-mod-idea/1410.rss">Menu Adjusting Mod Idea</source>
+        </item>
+        <item>
+          <title>[Suggestion] mk8 pipe+ mod</title>
+          <dc:creator><![CDATA[@Robert_James Robert James]]></dc:creator>
+          <category>Suggestions &amp; Ideas</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/robert_james">@Robert_James</a> wrote:</p>
+            <blockquote>
+              <p>Can anyone make a pipe mod for each tier of pipe from mk2 pipe of 600m3 to mk3 1200m3 to mk4 2400m3 to mk5 4800m3 to mk6 9600m3 to mk7 19200m3 and mk8 38400m3. I don’t like being limited to 300m3 to 600m3 where my machines push more then that none over clocked.</p>
+            </blockquote>
+            <p>Posts: 4</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.ficsit.app/t/suggestion-mk8-pipe-mod/1355">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/suggestion-mk8-pipe-mod/1355</link>
+          <pubDate>Mon, 28 Jun 2021 19:04:23 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1355</guid>
+          <source url="https://forums.ficsit.app/t/suggestion-mk8-pipe-mod/1355.rss">[Suggestion] mk8 pipe+ mod</source>
+        </item>
+        <item>
+          <title>Mod idea will make ausom sink so much easyer</title>
+          <dc:creator><![CDATA[@logan_jordan Logan Jordan]]></dc:creator>
+          <category>Suggestions &amp; Ideas</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/logan_jordan">@logan_jordan</a> wrote:</p>
+            <blockquote>
+              <p>I know I have been posting a lot presently but that its because I have mod ideas, bug’s I have found, and general questions.<br>
+I am in a ticket race with my brother in the ausom sink and we are allowed to use mods. But there is one mod that I found but was outdated the Ausom points X100 ( mod link <a href="https://ficsit.app/mod/CTbhnCnW8zWWGG" rel="nofollow noopener">https://ficsit.app/mod/CTbhnCnW8zWWGG</a> )  and I was wondering if someone could make a mod like this and or reach out to the mod dev  and update it if allowed and I want to make my own mods so I don’t have to post these stupid forums all the time about mod ideas but I don’t know how yet I am trying to find a non-gibrish guide( i can’t find one that  makes any sense)</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.ficsit.app/t/mod-idea-will-make-ausom-sink-so-much-easyer/1347">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/mod-idea-will-make-ausom-sink-so-much-easyer/1347</link>
+          <pubDate>Wed, 23 Jun 2021 14:59:33 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1347</guid>
+          <source url="https://forums.ficsit.app/t/mod-idea-will-make-ausom-sink-so-much-easyer/1347.rss">Mod idea will make ausom sink so much easyer</source>
+        </item>
+        <item>
+          <title>Are the devs working on s.a.m ore uses?</title>
+          <dc:creator><![CDATA[@logan_jordan Logan Jordan]]></dc:creator>
+          <category>General</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/logan_jordan">@logan_jordan</a> wrote:</p>
+            <blockquote>
+              <p>i left my game running on accedent during a 5 month vacay i have practically found every single s.a.m ore node and I have an entire industrial container full of it+ rlly long conveyors with it completely full wtf can I do with this s*** i cant ausom sink it build anything with it or do anything it is just there</p>
+<p>Like this post? visit some more brand new ones<br>
+<aside class="quote" data-post="1" data-topic="1340">
+  <div class="title">
+    <div class="quote-controls"></div>
+    <img alt="" width="20" height="20" src="/user_avatar/forums.ficsit.app/logan_jordan/40/397_2.png" class="avatar">
+    <a href="https://forums.ficsit.app/t/what-item-gives-the-most-ausom-sink-points/1340">What item gives the most ausom sink points?</a> <a class="badge-wrapper  bullet" href="/c/general"><span class="badge-category-bg" style="background-color: #8C6238;"></span><span style="" data-drop-close="true" class="badge-category clear-badge" title="Any discussion related to Satisfactory that doesn’t fit anywhere else.">General</span></a>
+  </div>
+  <blockquote>
+    i am trying to be able to brag on my brother with the most amount of tickets for the ausom shop I have almost every item in the game going into my sink settup but I am still needing more my brother currently can print 45 billion tickets I can only print 3,900 tickets but science my brother is on a few week hike at philmont(a gorgus gorgus mountain in Mexico) i am able to work on my setup idc if it takes me 5 hours or 100 days what is the item that gives the most points pls help me
+  </blockquote>
+</aside>
+</p>
+<aside class="quote quote-modified" data-post="1" data-topic="1339">
+  <div class="title">
+    <div class="quote-controls"></div>
+    <img alt="" width="20" height="20" src="/user_avatar/forums.ficsit.app/logan_jordan/40/397_2.png" class="avatar">
+    <a href="https://forums.ficsit.app/t/new-bug-maby-hidden-feature-with-nuclear-waste/1339">New bug(maby hidden feature) with nuclear waste</a> <a class="badge-wrapper  bullet" href="/c/general"><span class="badge-category-bg" style="background-color: #8C6238;"></span><span style="" data-drop-close="true" class="badge-category clear-badge" title="Any discussion related to Satisfactory that doesn’t fit anywhere else.">General</span></a>
+  </div>
+  <blockquote>
+    I have a let’s play world with 4,000 power plants (nuclear power plants) I hit 4 googles of uranium waste (not plutonium) and I haven’t put down a single-particle accelerator for plutonium power but once I hit 4 googles of uranium waste I started getting plutonium wast so I went to the nuclear setup and all my uranium fuel rods where now plutonium fuel rods and all my other uranium things where now plutonium things and I don’t have any of it attached to a blender or particle accelerator. 
+once a…
+  </blockquote>
+</aside>
+
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.ficsit.app/t/are-the-devs-working-on-s-a-m-ore-uses/1343">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/are-the-devs-working-on-s-a-m-ore-uses/1343</link>
+          <pubDate>Tue, 22 Jun 2021 16:53:10 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1343</guid>
+          <source url="https://forums.ficsit.app/t/are-the-devs-working-on-s-a-m-ore-uses/1343.rss">Are the devs working on s.a.m ore uses?</source>
+        </item>
+        <item>
+          <title>What item gives the most ausom sink points?</title>
+          <dc:creator><![CDATA[@logan_jordan Logan Jordan]]></dc:creator>
+          <category>General</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/logan_jordan">@logan_jordan</a> wrote:</p>
+            <blockquote>
+              <p>i am trying to be able to brag on my brother with the most amount of tickets for the ausom shop I have almost every item in the game going into my sink settup but I am still needing more my brother currently can print 45 billion tickets I can only print 3,900 tickets but science my brother is on a few week hike at philmont(a gorgus gorgus mountain in Mexico) i am able to work on my setup idc if it takes me 5 hours or 100 days what is the item that gives the most points pls help me</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.ficsit.app/t/what-item-gives-the-most-ausom-sink-points/1340">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/what-item-gives-the-most-ausom-sink-points/1340</link>
+          <pubDate>Mon, 21 Jun 2021 17:42:48 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1340</guid>
+          <source url="https://forums.ficsit.app/t/what-item-gives-the-most-ausom-sink-points/1340.rss">What item gives the most ausom sink points?</source>
+        </item>
+        <item>
+          <title>New bug(maby hidden feature) with nuclear waste</title>
+          <dc:creator><![CDATA[@logan_jordan Logan Jordan]]></dc:creator>
+          <category>General</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/logan_jordan">@logan_jordan</a> wrote:</p>
+            <blockquote>
+              <p>I have a let’s play world with 4,000 power plants (nuclear power plants) I hit 4 googles of uranium waste (not plutonium) and I haven’t put down a single-particle accelerator for plutonium power but once I hit 4 googles of uranium waste I started getting plutonium wast so I went to the nuclear setup and all my uranium fuel rods where now plutonium fuel rods and all my other uranium things where now plutonium things and I don’t have any of it attached to a blender or particle accelerator.<br>
+once again I am not sure if it is a bug or hidden feature</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.ficsit.app/t/new-bug-maby-hidden-feature-with-nuclear-waste/1339">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/new-bug-maby-hidden-feature-with-nuclear-waste/1339</link>
+          <pubDate>Mon, 21 Jun 2021 17:21:16 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1339</guid>
+          <source url="https://forums.ficsit.app/t/new-bug-maby-hidden-feature-with-nuclear-waste/1339.rss">New bug(maby hidden feature) with nuclear waste</source>
+        </item>
+        <item>
+          <title>How can I install mods manually?</title>
+          <dc:creator><![CDATA[@Aykut_Tasci Aykut Taşcı]]></dc:creator>
+          <category>Help</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/aykut_tasci">@Aykut_Tasci</a> wrote:</p>
+            <blockquote>
+              <p><a href="https://docs.ficsit.app/satisfactory-modding/latest/ManualInstallDirections.html" rel="nofollow noopener">https://docs.ficsit.app/satisfactory-modding/latest/ManualInstallDirections.html</a></p>
+<p>Although I did everything right in the docs part, the SML installation occurred, but I could not activate the mods. Is there any other place where I need to install mods?</p>
+<p>Is there anyone who can help me with this?</p>
+            </blockquote>
+            <p>Posts: 6</p>
+            <p>Participants: 4</p>
+            <p><a href="https://forums.ficsit.app/t/how-can-i-install-mods-manually/1255">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/how-can-i-install-mods-manually/1255</link>
+          <pubDate>Wed, 05 May 2021 15:53:39 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1255</guid>
+          <source url="https://forums.ficsit.app/t/how-can-i-install-mods-manually/1255.rss">How can I install mods manually?</source>
+        </item>
+        <item>
+          <title>Ficsit app site not working now</title>
+          <dc:creator><![CDATA[@Jim_B Jim B]]></dc:creator>
+          <category>General</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/jim_b">@Jim_B</a> wrote:</p>
+            <blockquote>
+              <p>I have been using the site and have the SMM installed and it has worked every time to install mods.  Now, as off yesterday, the page shows “View” and no longer shows “Install” on each mod. I have reinstalled the SMM several times to no avail. Tried different browsers and nothing.  I tried signing in and out over and over, nothing seems to bring the option to install the mods back.  I prefer to use the SMM and not do it manually.  Any suggestions?</p>
+            </blockquote>
+            <p>Posts: 8</p>
+            <p>Participants: 3</p>
+            <p><a href="https://forums.ficsit.app/t/ficsit-app-site-not-working-now/1241">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/ficsit-app-site-not-working-now/1241</link>
+          <pubDate>Sun, 02 May 2021 12:53:49 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1241</guid>
+          <source url="https://forums.ficsit.app/t/ficsit-app-site-not-working-now/1241.rss">Ficsit app site not working now</source>
+        </item>
+        <item>
+          <title>Foundations/walls etc Whit internal Power cable</title>
+          <dc:creator><![CDATA[@Markku_Palviainen Markku Palviainen]]></dc:creator>
+          <category>Suggestions &amp; Ideas</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/markku_palviainen">@Markku_Palviainen</a> wrote:</p>
+            <blockquote>
+              <p>Has anyone else had an idea about foundations that had internal Power lines build into.</p>
+<p>I have been founding myself thinking about something like this:</p>
+<p>Foundation 8X4, with direct power line: cost 6 concrete and 1 cable.<br>
+Foundation 8x4, with crossed power line: cost 6 concrete and 2 cable.<br>
+Foundation 8x4, cable outlet Up, which you can use, for example, as a source for a normal electrical pole</p>
+<p>this could be used in walls etc.</p>
+<p>If there is already Mod like this out, i would love to get a link for it.</p>
+<p>thanks in advance, best regards<br>
+Satisfactory novice engineer<br>
+Stonevall</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.ficsit.app/t/foundations-walls-etc-whit-internal-power-cable/1223">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/foundations-walls-etc-whit-internal-power-cable/1223</link>
+          <pubDate>Mon, 26 Apr 2021 17:19:13 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1223</guid>
+          <source url="https://forums.ficsit.app/t/foundations-walls-etc-whit-internal-power-cable/1223.rss">Foundations/walls etc Whit internal Power cable</source>
+        </item>
+        <item>
+          <title>No mods are working</title>
+          <dc:creator><![CDATA[@shubnigg Shubnigg]]></dc:creator>
+          <category>General</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/shubnigg">@shubnigg</a> wrote:</p>
+            <blockquote>
+              <p>Hello,<br>
+I try several things but no mods are working Experimental or Early access (v151248)<br>
+I try to use Satisfactory Mod Manager v2.4.3. The mods are installed in the folder but I can’t see any of them in the game.<br>
+In the game I cannot see anymore the mods menu<br>
+Any idea or help?</p>
+            </blockquote>
+            <p>Posts: 4</p>
+            <p>Participants: 3</p>
+            <p><a href="https://forums.ficsit.app/t/no-mods-are-working/1203">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/no-mods-are-working/1203</link>
+          <pubDate>Wed, 21 Apr 2021 08:46:46 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1203</guid>
+          <source url="https://forums.ficsit.app/t/no-mods-are-working/1203.rss">No mods are working</source>
+        </item>
+        <item>
+          <title>Ancient/Overgrown Factory Buildings</title>
+          <dc:creator><![CDATA[@Joel_Stead Joel Stead]]></dc:creator>
+          <category>Suggestions &amp; Ideas</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/joel_stead">@Joel_Stead</a> wrote:</p>
+            <blockquote>
+              <p>Ancient Type:<br>
+Charred and broken ladders, platforms with signs that they have worked for massive amounts of time without servicing. Lots of grease,rust  and charring on the outside with dents and cracks visible here and there.</p>
+<p>Overgrown Type:<br>
+Similar to above but with vines, grass, sand, gravel dirt, mud etc piles here and there and up ladders and through the platforms. Cracks and Rust as well here and there to show the machinery was abandoned.</p>
+<p>I am looking for a variety of machines/platforms with textures / models to try show an abandoned or very old and overworked factory.</p>
+<p>Some possible examples of options:</p>
+<ul>
+<li>Normal speed / normal power usage. (Basically for looks but no functional change but with a variety of degrees of damage visible) <em>default idea</em> but allowing for other changes for making the game more challenging such as the below.</li>
+</ul>
+<hr>
+<ul>
+<li>1/4 speed with 1.75 times power usage required as base value. (Heavy damaged)<br>
+For example a miner missing most the mining rods, broken power connector, massive damage to casing, badly worn and damaged drill head, badly damaged engine sparking and cracked with rust and old everywhere)</li>
+<li>1/2 speed with 1.5 times power usage required as base value. (Moderate damage)<br>
+(Moderate damage to drill head, arcing power connector, engine stuttering, some rubble, cracks and rust over most the machine.)</li>
+<li>Normal speed with 1.25 times power usage as base value.<br>
+(Light damage but with faulty power connection, rubble and dirt clogging the drill bits)</li>
+</ul>
+<p>Additional foundations and walls with similar features would be awesome as well to go with the theme.</p>
+<p>( Satisfactory has in the description that there were only a few successful landings, but definitely doesn’t specify a time period in which they happened, and with the way we can clip foundations, walls into everything I though of expanding it to show abandoned or old exploration [{especially with doggos always bringing me nuclear waste barrels <img src="https://forums.ficsit.app/images/emoji/twitter/stuck_out_tongue.png?v=9" title=":stuck_out_tongue:" class="emoji" alt=":stuck_out_tongue:"> }] )</p>
+<p>What do you think of the idea?</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.ficsit.app/t/ancient-overgrown-factory-buildings/1186">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/ancient-overgrown-factory-buildings/1186</link>
+          <pubDate>Sat, 17 Apr 2021 08:45:47 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1186</guid>
+          <source url="https://forums.ficsit.app/t/ancient-overgrown-factory-buildings/1186.rss">Ancient/Overgrown Factory Buildings</source>
+        </item>
+        <item>
+          <title>Which program is recommended SMR or SML</title>
+          <dc:creator><![CDATA[@What_About_me What About Me]]></dc:creator>
+          <category>General</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/what_about_me">@What_About_me</a> wrote:</p>
+            <blockquote>
+              <p>Which is better SMR or SML I am using SMR and get an error every time I exit to desktop. I tend to just close the box although sometimes I have bumped the Send report and close, I am sure Coffee Stain are tired of the errors I am sending them so which program is better and if its recommended SMR how do I stop those errors.</p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.ficsit.app/t/which-program-is-recommended-smr-or-sml/1171">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/which-program-is-recommended-smr-or-sml/1171</link>
+          <pubDate>Tue, 06 Apr 2021 12:15:23 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1171</guid>
+          <source url="https://forums.ficsit.app/t/which-program-is-recommended-smr-or-sml/1171.rss">Which program is recommended SMR or SML</source>
+        </item>
+        <item>
+          <title>Global Grid Placment</title>
+          <dc:creator><![CDATA[@Adventure4Life Adventure4 Life]]></dc:creator>
+          <category>Suggestions &amp; Ideas</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/adventure4life">@Adventure4Life</a> wrote:</p>
+            <blockquote>
+              <p>One of the most anoying things when i build my factories is aligning all the foundations. I like to build all over the place, but I really dislike when I try to link to factories together and the foundations do not slot together correctly. So I tend to build these massive “construction lines”.</p>
+<p>What I do is place my 1st block… then if I want to build elsewhere I build from that block all the way to the other place, then delete the “construction line”. Now the factory I am building at the new location will link up if I ever do that as it is built off the same “grid”.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/f423ed2a95a583d63b9294658ebb8df866f690f4.jpeg" data-download-href="https://forums.ficsit.app/uploads/default/f423ed2a95a583d63b9294658ebb8df866f690f4" title="111"><img src="https://forums.ficsit.app/uploads/default/optimized/1X/f423ed2a95a583d63b9294658ebb8df866f690f4_2_690x388.jpeg" alt="111" data-base62-sha1="yPLtrbfA5KITce8hpUWwwyMPztW" width="690" height="388" srcset="https://forums.ficsit.app/uploads/default/optimized/1X/f423ed2a95a583d63b9294658ebb8df866f690f4_2_690x388.jpeg, https://forums.ficsit.app/uploads/default/optimized/1X/f423ed2a95a583d63b9294658ebb8df866f690f4_2_1035x582.jpeg 1.5x, https://forums.ficsit.app/uploads/default/optimized/1X/f423ed2a95a583d63b9294658ebb8df866f690f4_2_1380x776.jpeg 2x" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/f423ed2a95a583d63b9294658ebb8df866f690f4_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">111</span><span class="informations">2304×1296 348 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/924049273aea949fc90cd590839cd00300acd188.jpeg" data-download-href="https://forums.ficsit.app/uploads/default/924049273aea949fc90cd590839cd00300acd188" title="222"><img src="https://forums.ficsit.app/uploads/default/optimized/1X/924049273aea949fc90cd590839cd00300acd188_2_690x388.jpeg" alt="222" data-base62-sha1="kRNrq7JKsHpRRasPUNamBQgG7ck" width="690" height="388" srcset="https://forums.ficsit.app/uploads/default/optimized/1X/924049273aea949fc90cd590839cd00300acd188_2_690x388.jpeg, https://forums.ficsit.app/uploads/default/optimized/1X/924049273aea949fc90cd590839cd00300acd188_2_1035x582.jpeg 1.5x, https://forums.ficsit.app/uploads/default/optimized/1X/924049273aea949fc90cd590839cd00300acd188_2_1380x776.jpeg 2x" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/924049273aea949fc90cd590839cd00300acd188_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">222</span><span class="informations">2304×1296 291 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>Here is my new save were I am working on my Iron Mines. I built a base on top of the cliff and then draw my “construction lines”… build down… and now I have built my new foundations in a way so every factory I build will be aligned to the same foundations… so they can all link up perfectly if I build a road or a buss or w/e.</p>
+<p>Anyway…</p>
+<p><strong>The Suggestion</strong></p>
+<p>I think a great mod would be a way to automate this. You could build a foundation and select it… now when you build it uses that foundation to “set the grid”. So your new foundation you place all alone somewhere “snaps” as if it is next to a foundation.</p>
+<p>You could make it a tool you hold maybe so the global snapping thing only happens if you are holding it… and it saves the “source block” so you do not need to select a source block each time.</p>
+<p>I’m not a modder, I am sure you guys would know the best way to implement it… the goal would be to remove the need for all these construction lines. Which are a pain to buld and annoying to remove.</p>
+<p>Thanks…  for your consideration!</p>
+<p>PS - I am not the best communicator, if you have any questions please let em know and I can clear things up.</p>
+            </blockquote>
+            <p>Posts: 4</p>
+            <p>Participants: 4</p>
+            <p><a href="https://forums.ficsit.app/t/global-grid-placment/1134">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/global-grid-placment/1134</link>
+          <pubDate>Mon, 08 Mar 2021 00:41:05 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1134</guid>
+          <source url="https://forums.ficsit.app/t/global-grid-placment/1134.rss">Global Grid Placment</source>
+        </item>
+        <item>
+          <title>Size Limitations for Mega Factory</title>
+          <dc:creator><![CDATA[@Steve_Barnett Steve Barnett]]></dc:creator>
+          <category>General</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/steve_barnett">@Steve_Barnett</a> wrote:</p>
+            <blockquote>
+              <p>Afternoon folks,</p>
+<p>My apologies if I’m repeating a topic that may be elsewhere or if this silly old man has placed this question in the wrong area.</p>
+<p>So, does anyone know if there are size limitations when building a mega factory?</p>
+<p>I ask as I’ve started building one ( obviously <img src="https://forums.ficsit.app/images/emoji/twitter/roll_eyes.png?v=9" title=":roll_eyes:" class="emoji" alt=":roll_eyes:"> ) that if my scale calculations are correct this factory is 1 cubic kilometre in size. I’ve already marked out the base using the 4 metre foundations and I’ve now got a 1 kilometre x 1 kilometre square (that just needs filling in with a lot of concrete…eek!) and in the centre of the square I’ve been able to place a 1 kilometre high tower of the 4 metre x 4 metre foundations. This 1 kilometre square base is sitting about 300 metres above the ground.</p>
+<p>As you can imagine the structure alone is going to be quite huge, let alone filling the whole cavernous thing with thousands of happy machines which will be fed from elevators, pipes etc for the raw materials.</p>
+<p>I would be disappointed if I put too much more work into it only to find that I’ve killed the game as I’d be happier if I know if there are limitations in which case I’ll scale everything back.</p>
+<p>Many thanks in advance.</p>
+<p>Cheers,</p>
+<p>Steve.</p>
+<p>Ps; Why a cube that big…well…it’s good enough for the Borg <img src="https://forums.ficsit.app/images/emoji/twitter/laughing.png?v=9" title=":laughing:" class="emoji" alt=":laughing:"></p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.ficsit.app/t/size-limitations-for-mega-factory/1114">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/size-limitations-for-mega-factory/1114</link>
+          <pubDate>Sat, 13 Feb 2021 04:58:32 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1114</guid>
+          <source url="https://forums.ficsit.app/t/size-limitations-for-mega-factory/1114.rss">Size Limitations for Mega Factory</source>
+        </item>
+        <item>
+          <title>Adding Mods to an existing save</title>
+          <dc:creator><![CDATA[@Faded Faded]]></dc:creator>
+          <category>General</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/faded">@Faded</a> wrote:</p>
+            <blockquote>
+              <p>I only had a question, can the mods be used in existing save files? Or would it need a fresh start after adding mods</p>
+            </blockquote>
+            <p>Posts: 3</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.ficsit.app/t/adding-mods-to-an-existing-save/1112">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/adding-mods-to-an-existing-save/1112</link>
+          <pubDate>Thu, 11 Feb 2021 03:06:38 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1112</guid>
+          <source url="https://forums.ficsit.app/t/adding-mods-to-an-existing-save/1112.rss">Adding Mods to an existing save</source>
+        </item>
+        <item>
+          <title>Structural Solutions is Amazing!</title>
+          <dc:creator><![CDATA[@Richard_Barnes Richard Barnes]]></dc:creator>
+          <category>General</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/richard_barnes">@Richard_Barnes</a> wrote:</p>
+            <blockquote>
+              <p>I just snagged Structural Solutions by Mike Skinner (not sure if he is on discord) but it is a really well thought out addition to the game. Specifically designed to build superstructures for your factory, it is amazing at adding architecture to your builds. I hope that Mike will work with Smart <span class="mention">@Algalish</span> (Smart!)  &amp;  Factory Skyline (Cephidqq) to integrate these new parts into their modes.</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.ficsit.app/t/structural-solutions-is-amazing/1105">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/structural-solutions-is-amazing/1105</link>
+          <pubDate>Sat, 06 Feb 2021 14:30:27 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1105</guid>
+          <source url="https://forums.ficsit.app/t/structural-solutions-is-amazing/1105.rss">Structural Solutions is Amazing!</source>
+        </item>
+        <item>
+          <title>Download queue for SMM</title>
+          <dc:creator><![CDATA[@Joshua_Fowler Joshua Fowler]]></dc:creator>
+          <category>Suggestions &amp; Ideas</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/joshua_fowler">@Joshua_Fowler</a> wrote:</p>
+            <blockquote>
+              <p>A simple download queue for SMM would be useful, especially for those who have slower internet. Not  downloading mods simultaneously, just sequential in the order they came in.</p>
+            </blockquote>
+            <p>Posts: 3</p>
+            <p>Participants: 3</p>
+            <p><a href="https://forums.ficsit.app/t/download-queue-for-smm/1074">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/download-queue-for-smm/1074</link>
+          <pubDate>Fri, 08 Jan 2021 18:22:47 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1074</guid>
+          <source url="https://forums.ficsit.app/t/download-queue-for-smm/1074.rss">Download queue for SMM</source>
+        </item>
+        <item>
+          <title>Unban from server</title>
+          <dc:creator><![CDATA[@oliver_laws Oliver Laws]]></dc:creator>
+          <category>General</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/oliver_laws">@oliver_laws</a> wrote:</p>
+            <blockquote>
+              <p>i thought i pirated but i actually bought the game from cdkeys pls unban</p>
+            </blockquote>
+            <p>Posts: 4</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.ficsit.app/t/unban-from-server/1067">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/unban-from-server/1067</link>
+          <pubDate>Tue, 05 Jan 2021 21:34:28 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1067</guid>
+          <source url="https://forums.ficsit.app/t/unban-from-server/1067.rss">Unban from server</source>
+        </item>
+  </channel>
+</rss>

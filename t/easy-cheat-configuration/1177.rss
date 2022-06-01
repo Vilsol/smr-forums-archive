@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Easy Cheat configuration</title>
+    <link>https://forums.ficsit.app/t/easy-cheat-configuration/1177</link>
+    <description>Hi !
+
+I try to use the EasyCheat Mod from @Andre_Aquila.
+
+On the Mod page, he explains how to do this but despite his instructions I cannot find the FactoryGame / Configs / SML.cfg config files on my PC. I searched for it all over the c drive without success. Do we actually have to create the folder and the file manually?
+
+Thank you in advance for your help !</description>
+    
+    <lastBuildDate>Sun, 25 Apr 2021 23:45:42 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/easy-cheat-configuration/1177.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Easy Cheat configuration</title>
+        <dc:creator><![CDATA[@Thomas_Meier Thomas Meier]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/thomas_meier">@Thomas_Meier</a> wrote:</p>
+          <blockquote>
+              <p>I experience similar issues<br>
+I’ve freshly installed Update 4 from Epic, changed “Epic Games\SatisfactoryEarlyAccess\FactoryGame\Configs\SML.cfg” and set “enableCheatConsoleCommands” to true.<br>
+I can enter “PlayerFly 1” in the chat window to activate fly mode and “PlayerFly 0” to deactivate.<br>
+But any command mentioned on the mod page starting with “/c” are all not recognized and have no effect.</p>
+<p>I must have edited the correct SML.cfg as setting “consoleWindow” to true gave me a console window when starting the game. But “enableCheatConsoleCommands” seems to have no effect.<br>
+When I build an Easy Cheat console and open it with “e” I get a note at the top left telleing me to set “enableCheatConsoleCommands” to true. But activating Fly mode or setting the Time of day works in that.</p>
+<p>Besides EasyCheat I only have the Smart! mod installed. So either Smart! does not play well with EasyCheat or it’s an update 4 issue that needs to be fixed in EasyCheat.</p>
+<p>Any hint what I might be doing wrong is highly appreciated.</p>
+<p>EDIT: I made a rooky mistake! I input the commands in the command prompt “§” but should have used the chat prompt <em>enter</em>. Opening the chat window by pressing enter did the trick and the commands all worked.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/easy-cheat-configuration/1177/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/easy-cheat-configuration/1177/6</link>
+        <pubDate>Sun, 25 Apr 2021 16:42:19 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1177-6</guid>
+        <source url="https://forums.ficsit.app/t/easy-cheat-configuration/1177.rss">Easy Cheat configuration</source>
+      </item>
+      <item>
+        <title>Easy Cheat configuration</title>
+        <dc:creator><![CDATA[@Knut_Anders_Laland Knut Anders Laland]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/knut_anders_laland">@Knut_Anders_Laland</a> wrote:</p>
+          <blockquote>
+              <p>here is another image.<br>
+Could not post 2 images…<br>
+<img src="https://forums.ficsit.app/uploads/default/original/1X/1f80725aebbc79c5e8b2b0f80d2abd9abb7f75f0.jpeg" alt="easycheat1" data-base62-sha1="4uFZPSZzj4jHnypaK9LS8AbAkY8" width="371" height="107"></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/easy-cheat-configuration/1177/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/easy-cheat-configuration/1177/5</link>
+        <pubDate>Thu, 15 Apr 2021 13:25:07 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1177-5</guid>
+        <source url="https://forums.ficsit.app/t/easy-cheat-configuration/1177.rss">Easy Cheat configuration</source>
+      </item>
+      <item>
+        <title>Easy Cheat configuration</title>
+        <dc:creator><![CDATA[@Knut_Anders_Laland Knut Anders Laland]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/knut_anders_laland">@Knut_Anders_Laland</a> wrote:</p>
+          <blockquote>
+              <p>I also installed this mod, but i cant get it to work.<br>
+When in console it says it does not recognize the commands.<br>
+I have updated the SML.cfg file.<br>
+Running early access 150216</p>
+<p>Any tips</p>
+<p>Worth noting is that i’m in perma GOD mode. It stayed that way after i used a mod 1 year ago.<br>
+Does not go away even if i dont use mods</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/2bb4251526e1bcc48fa8b6cbb2811fad494ab5fa.jpeg" data-download-href="https://forums.ficsit.app/uploads/default/2bb4251526e1bcc48fa8b6cbb2811fad494ab5fa" title="easycheat2"><img src="https://forums.ficsit.app/uploads/default/optimized/1X/2bb4251526e1bcc48fa8b6cbb2811fad494ab5fa_2_690x175.jpeg" alt="easycheat2" data-base62-sha1="6eCumMOp2jzKrNDPGyVOV3vOnyy" width="690" height="175" srcset="https://forums.ficsit.app/uploads/default/optimized/1X/2bb4251526e1bcc48fa8b6cbb2811fad494ab5fa_2_690x175.jpeg, https://forums.ficsit.app/uploads/default/optimized/1X/2bb4251526e1bcc48fa8b6cbb2811fad494ab5fa_2_1035x262.jpeg 1.5x, https://forums.ficsit.app/uploads/default/optimized/1X/2bb4251526e1bcc48fa8b6cbb2811fad494ab5fa_2_1380x350.jpeg 2x" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/2bb4251526e1bcc48fa8b6cbb2811fad494ab5fa_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">easycheat2</span><span class="informations">1537×391 53.2 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/easy-cheat-configuration/1177/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/easy-cheat-configuration/1177/4</link>
+        <pubDate>Thu, 15 Apr 2021 13:24:27 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1177-4</guid>
+        <source url="https://forums.ficsit.app/t/easy-cheat-configuration/1177.rss">Easy Cheat configuration</source>
+      </item>
+      <item>
+        <title>Easy Cheat configuration</title>
+        <dc:creator><![CDATA[@Andre_Aquila DellAquila]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/andre_aquila">@Andre_Aquila</a> wrote:</p>
+          <blockquote>
+              <p>Perfect Philippe… thanks for that info, i added in the mod page!</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/easy-cheat-configuration/1177/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/easy-cheat-configuration/1177/3</link>
+        <pubDate>Wed, 14 Apr 2021 18:11:11 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1177-3</guid>
+        <source url="https://forums.ficsit.app/t/easy-cheat-configuration/1177.rss">Easy Cheat configuration</source>
+      </item>
+      <item>
+        <title>Easy Cheat configuration</title>
+        <dc:creator><![CDATA[@Philippe_Piveron Philippe Piveron]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/philippe_piveron">@Philippe_Piveron</a> wrote:</p>
+          <blockquote>
+              <p>In fact, after a very last search I found the location of the configuration file:<br>
+“C: \ Program Files (x86) \ Steam \ steamapps \ common \ Satisfactory \ FactoryGame \ Configs \ SML.cfg”</p>
+<p>Note that I installed Satisfactory through Steam. If you used Epic your parent folder will surely be different!</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/easy-cheat-configuration/1177/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/easy-cheat-configuration/1177/2</link>
+        <pubDate>Wed, 14 Apr 2021 10:02:03 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1177-2</guid>
+        <source url="https://forums.ficsit.app/t/easy-cheat-configuration/1177.rss">Easy Cheat configuration</source>
+      </item>
+      <item>
+        <title>Easy Cheat configuration</title>
+        <dc:creator><![CDATA[@Philippe_Piveron Philippe Piveron]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/philippe_piveron">@Philippe_Piveron</a> wrote:</p>
+          <blockquote>
+              <p>Hi !</p>
+<p>I try to use the EasyCheat Mod from <a class="mention" href="/u/andre_aquila">@Andre_Aquila</a>.</p>
+<p>On the Mod page, he explains how to do this but despite his instructions I cannot find the FactoryGame / Configs / SML.cfg config files on my PC. I searched for it all over the c drive without success. Do we actually have to create the folder and the file manually?</p>
+<p>Thank you in advance for your help !</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/easy-cheat-configuration/1177/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/easy-cheat-configuration/1177/1</link>
+        <pubDate>Wed, 14 Apr 2021 09:45:35 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1177-1</guid>
+        <source url="https://forums.ficsit.app/t/easy-cheat-configuration/1177.rss">Easy Cheat configuration</source>
+      </item>
+  </channel>
+</rss>

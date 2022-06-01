@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>A error when running Alpakit</title>
+    <link>https://forums.ficsit.app/t/a-error-when-running-alpakit/1188</link>
+    <description>When I run Alpakit, I get an ERROR: Stage Failed. Missing receipt &#39;C:\Unreal Project\TestMod\Binaries\Win64\FactoryGame-Win64-Shipping.target&#39;. Check that this target has been built. 
+How can I solve it？
+
+![QQ%E6%88%AA%E5%9B%BE20210417171620|690x82, 100%](upload://6KkLwo70thCLiDDDjChGsZw5HGr.png)</description>
+    
+    <lastBuildDate>Thu, 22 Apr 2021 10:47:24 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/a-error-when-running-alpakit/1188.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>A error when running Alpakit</title>
+        <dc:creator><![CDATA[@Moonfish90 Moonfish90]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/moonfish90">@Moonfish90</a> wrote:</p>
+          <blockquote>
+              <p>Its worked for me.</p>
+<p><img src="https://forums.ficsit.app/uploads/default/original/1X/1d10f89673202c13d5fa4c67e710a3fc1141cdde.png" alt="image" data-base62-sha1="498cPtLkkVplNSG0nTtQZz4Gdoa" width="464" height="186"></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/a-error-when-running-alpakit/1188/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/a-error-when-running-alpakit/1188/3</link>
+        <pubDate>Thu, 22 Apr 2021 10:47:24 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1188-3</guid>
+        <source url="https://forums.ficsit.app/t/a-error-when-running-alpakit/1188.rss">A error when running Alpakit</source>
+      </item>
+      <item>
+        <title>A error when running Alpakit</title>
+        <dc:creator><![CDATA[@leiwan Leiwan]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/leiwan">@leiwan</a> wrote:</p>
+          <blockquote>
+              <p>When I run Alpakit, I get an ERROR: Stage Failed. Missing receipt ‘C:\Unreal Project\TestMod\Binaries\Win64\FactoryGame-Win64-Shipping.target’. Check that this target has been built.<br>
+How can I solve it？</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/2f49e5d873abcd3b10b764671b3d3272d39c782b.png" data-download-href="https://forums.ficsit.app/uploads/default/2f49e5d873abcd3b10b764671b3d3272d39c782b" title="QQ%E6%88%AA%E5%9B%BE20210417171620"><img src="https://forums.ficsit.app/uploads/default/optimized/1X/2f49e5d873abcd3b10b764671b3d3272d39c782b_2_690x82.png" alt="QQ%E6%88%AA%E5%9B%BE20210417171620" data-base62-sha1="6KkLwo70thCLiDDDjChGsZw5HGr" width="690" height="82" srcset="https://forums.ficsit.app/uploads/default/optimized/1X/2f49e5d873abcd3b10b764671b3d3272d39c782b_2_690x82.png, https://forums.ficsit.app/uploads/default/optimized/1X/2f49e5d873abcd3b10b764671b3d3272d39c782b_2_1035x123.png 1.5x, https://forums.ficsit.app/uploads/default/optimized/1X/2f49e5d873abcd3b10b764671b3d3272d39c782b_2_1380x164.png 2x" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/2f49e5d873abcd3b10b764671b3d3272d39c782b_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">QQ%E6%88%AA%E5%9B%BE20210417171620</span><span class="informations">1887×226 63.9 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/a-error-when-running-alpakit/1188/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/a-error-when-running-alpakit/1188/1</link>
+        <pubDate>Sat, 17 Apr 2021 09:21:46 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1188-1</guid>
+        <source url="https://forums.ficsit.app/t/a-error-when-running-alpakit/1188.rss">A error when running Alpakit</source>
+      </item>
+  </channel>
+</rss>

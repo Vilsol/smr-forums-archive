@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Size Limitations for Mega Factory</title>
+    <link>https://forums.ficsit.app/t/size-limitations-for-mega-factory/1114</link>
+    <description>Afternoon folks,
+
+My apologies if I&#39;m repeating a topic that may be elsewhere or if this silly old man has placed this question in the wrong area.
+
+So, does anyone know if there are size limitations when building a mega factory?
+
+I ask as I&#39;ve started building one ( obviously :roll_eyes: ) that if my scale calculations are correct this factory is 1 cubic kilometre in size. I&#39;ve already marked out the base using the 4 metre foundations and I&#39;ve now got a 1 kilometre x 1 kilometre square (that just needs filling in with a lot of concrete....eek!) and in the centre of the square I&#39;ve been able to place a 1 kilometre high tower of the 4 metre x 4 metre foundations. This 1 kilometre square base is sitting about 300 metres above the ground.
+
+As you can imagine the structure alone is going to be quite huge, let alone filling the whole cavernous thing with thousands of happy machines which will be fed from elevators, pipes etc for the raw materials.
+
+I would be disappointed if I put too much more work into it only to find that I&#39;ve killed the game as I&#39;d be happier if I know if there are limitations in which case I&#39;ll scale everything back.
+
+Many thanks in advance.
+
+Cheers,
+
+Steve.
+
+Ps; Why a cube that big.....well.....it&#39;s good enough for the Borg :laughing:</description>
+    
+    <lastBuildDate>Fri, 19 Mar 2021 14:21:30 +0000</lastBuildDate>
+    <category>General</category>
+    <atom:link href="https://forums.ficsit.app/t/size-limitations-for-mega-factory/1114.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Size Limitations for Mega Factory</title>
+        <dc:creator><![CDATA[@Degenerecy Degenerecy]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/degenerecy">@Degenerecy</a> wrote:</p>
+          <blockquote>
+              <p>From <a href="https://satisfactory.gamepedia.com/Tutorial:Unreal_Engine_Entity_Limit" rel="nofollow noopener">https://satisfactory.gamepedia.com/Tutorial:Unreal_Engine_Entity_Limit</a><br>
+“The default limit set in  <em>Unreal Engine</em>  is 2,162,688 UObjects”</p>
+<p>So yes there is a limit, but it’s based on how many objects you place.  Read that page to see how to increase the number but may break your saves.  Also make things hollow and not solid.  If you can’t see it, it’s just unnecessary stuff.</p>
+<p>Before you reach that limit, the game will slowly start to get slower.</p>
+<p>There is a ceiling limit to how high you can build but I don’t know the details, just that one user made about 1100 ladders before death happened.</p>
+<p>A condensed factory may increase load on your computer.  Haven’t seen details but I heard it’s better to spread out your factories into smaller ones then one large one.  That limitation isn’t game related necessarily but your computer.  If you start and run in dropping frames left and right, you may run into such limitations.</p>
+<p>The game itself isn’t in a stage where you can mine and craft with all the resources yet.  I mean you could but again, you will run into the issues described above.  So it’s a yes/no answer…</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/size-limitations-for-mega-factory/1114/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/size-limitations-for-mega-factory/1114/3</link>
+        <pubDate>Fri, 19 Mar 2021 14:21:30 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1114-3</guid>
+        <source url="https://forums.ficsit.app/t/size-limitations-for-mega-factory/1114.rss">Size Limitations for Mega Factory</source>
+      </item>
+      <item>
+        <title>Size Limitations for Mega Factory</title>
+        <dc:creator><![CDATA[@Steve_Barnett Steve Barnett]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/steve_barnett">@Steve_Barnett</a> wrote:</p>
+          <blockquote>
+              <p>Afternoon folks,</p>
+<p>My apologies if I’m repeating a topic that may be elsewhere or if this silly old man has placed this question in the wrong area.</p>
+<p>So, does anyone know if there are size limitations when building a mega factory?</p>
+<p>I ask as I’ve started building one ( obviously <img src="https://forums.ficsit.app/images/emoji/twitter/roll_eyes.png?v=9" title=":roll_eyes:" class="emoji" alt=":roll_eyes:"> ) that if my scale calculations are correct this factory is 1 cubic kilometre in size. I’ve already marked out the base using the 4 metre foundations and I’ve now got a 1 kilometre x 1 kilometre square (that just needs filling in with a lot of concrete…eek!) and in the centre of the square I’ve been able to place a 1 kilometre high tower of the 4 metre x 4 metre foundations. This 1 kilometre square base is sitting about 300 metres above the ground.</p>
+<p>As you can imagine the structure alone is going to be quite huge, let alone filling the whole cavernous thing with thousands of happy machines which will be fed from elevators, pipes etc for the raw materials.</p>
+<p>I would be disappointed if I put too much more work into it only to find that I’ve killed the game as I’d be happier if I know if there are limitations in which case I’ll scale everything back.</p>
+<p>Many thanks in advance.</p>
+<p>Cheers,</p>
+<p>Steve.</p>
+<p>Ps; Why a cube that big…well…it’s good enough for the Borg <img src="https://forums.ficsit.app/images/emoji/twitter/laughing.png?v=9" title=":laughing:" class="emoji" alt=":laughing:"></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/size-limitations-for-mega-factory/1114/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/size-limitations-for-mega-factory/1114/1</link>
+        <pubDate>Sat, 13 Feb 2021 04:58:33 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1114-1</guid>
+        <source url="https://forums.ficsit.app/t/size-limitations-for-mega-factory/1114.rss">Size Limitations for Mega Factory</source>
+      </item>
+  </channel>
+</rss>

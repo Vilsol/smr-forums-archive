@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Mod Luancher error</title>
+    <link>https://forums.ficsit.app/t/mod-luancher-error/333</link>
+    <description>Getting an error today when installing mods.  the error doesn&#39;t tell me anything useful.  Several mods are installed from as recent as yesterday.  I get this error when trying to install a new mod or update any that are already installed.  Ideas?
+
+Error: Dependency ubjtpwrNUqGkb of manifest_ubjtpwrNUqGkb could not be installed. Conflicting version requriements: manifest_ubjtpwrNUqGkb requires &gt;=0.0.0 All changes were discarded.</description>
+    
+    <lastBuildDate>Sat, 11 Apr 2020 15:44:23 +0000</lastBuildDate>
+    <category>SML</category>
+    <atom:link href="https://forums.ficsit.app/t/mod-luancher-error/333.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Mod Luancher error</title>
+        <dc:creator><![CDATA[@Robert_Walters Robert Walters]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/robert_walters">@Robert_Walters</a> wrote:</p>
+          <blockquote>
+              <p>looking in the debug mode, this shows something was removed.  so whats the solution?</p>
+<p>2020-04-11 10:38:23:948	[INFO]	Version 0.0.1 of ubjtpwrNUqGkb was removed from ficsit.app. Removing and attempting to use the latest version available.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mod-luancher-error/333/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mod-luancher-error/333/4</link>
+        <pubDate>Sat, 11 Apr 2020 15:44:23 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-333-4</guid>
+        <source url="https://forums.ficsit.app/t/mod-luancher-error/333.rss">Mod Luancher error</source>
+      </item>
+      <item>
+        <title>Mod Luancher error</title>
+        <dc:creator><![CDATA[@Steven_Adler Steven Adler]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/steven_adler">@Steven_Adler</a> wrote:</p>
+          <blockquote>
+              <p>Having the same issue.  Any attempt to install a mod meets with that error message.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mod-luancher-error/333/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mod-luancher-error/333/3</link>
+        <pubDate>Thu, 09 Apr 2020 00:11:11 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-333-3</guid>
+        <source url="https://forums.ficsit.app/t/mod-luancher-error/333.rss">Mod Luancher error</source>
+      </item>
+      <item>
+        <title>Mod Luancher error</title>
+        <dc:creator><![CDATA[@Robert_Walters Robert Walters]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/robert_walters">@Robert_Walters</a> wrote:</p>
+          <blockquote>
+              <p>As an update, it is not any one mod that generates this error. any one of them i select to install or update generates he error.  I had thought it might be a certain mod, so i was checking f any others worked.</p>
+<p>I also checked the log, no info there either.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mod-luancher-error/333/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mod-luancher-error/333/2</link>
+        <pubDate>Wed, 08 Apr 2020 23:07:43 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-333-2</guid>
+        <source url="https://forums.ficsit.app/t/mod-luancher-error/333.rss">Mod Luancher error</source>
+      </item>
+      <item>
+        <title>Mod Luancher error</title>
+        <dc:creator><![CDATA[@Robert_Walters Robert Walters]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/robert_walters">@Robert_Walters</a> wrote:</p>
+          <blockquote>
+              <p>Getting an error today when installing mods.  the error doesn’t tell me anything useful.  Several mods are installed from as recent as yesterday.  I get this error when trying to install a new mod or update any that are already installed.  Ideas?</p>
+<p>Error: Dependency ubjtpwrNUqGkb of manifest_ubjtpwrNUqGkb could not be installed. Conflicting version requriements: manifest_ubjtpwrNUqGkb requires &gt;=0.0.0 All changes were discarded.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mod-luancher-error/333/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mod-luancher-error/333/1</link>
+        <pubDate>Wed, 08 Apr 2020 18:50:48 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-333-1</guid>
+        <source url="https://forums.ficsit.app/t/mod-luancher-error/333.rss">Mod Luancher error</source>
+      </item>
+  </channel>
+</rss>

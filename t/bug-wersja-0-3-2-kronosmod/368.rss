@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Bug WERSJA 0.3.2 KronosMod</title>
+    <link>https://forums.ficsit.app/t/bug-wersja-0-3-2-kronosmod/368</link>
+    <description>
+
+
+Version: 118201, IsPerforceBuild: false, BuildConfiguration: Shipping, NetMode: ListenServer
+
+Unhandled exception
+
+KronosMod
+KronosMod
+FactoryGame_Win64_Shipping!FD3D11Viewport::PresentChecked() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\windows\d3d11rhi\private\d3d11viewport.cpp:325]
+FactoryGame_Win64_Shipping!FD3D11DynamicRHI::RHIEndDrawingViewport() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\windows\d3d11rhi\private\d3d11viewport.cpp:666]
+FactoryGame_Win64_Shipping!FRHICommandListExecutor::ExecuteInner_DoExecute() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\rhi\private\rhicommandlist.cpp:325]
+FactoryGame_Win64_Shipping!FRHICommandListExecutor::ExecuteInner() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\rhi\private\rhicommandlist.cpp:592]
+FactoryGame_Win64_Shipping!FRHICommandList::EndDrawingViewport() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\rhi\private\rhicommandlist.cpp:1528]
+FactoryGame_Win64_Shipping!FSlateRHIRenderer::DrawWindow_RenderThread() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\slaterhirenderer\private\slaterhirenderer.cpp:987]
+FactoryGame_Win64_Shipping!TGraphTask&lt;TEnqueueUniqueRenderCommandType&lt;`FSlateRHIRenderer::DrawWindows_Private&#39;::`29&#39;::SlateDrawWindowsCommandName,&lt;lambda_5d0d9a64526f5e2439319adeb0854baf&gt; &gt; &gt;::ExecuteTask() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\core\public\async\taskgraphinterfaces.h:857]
+FactoryGame_Win64_Shipping!FNamedTaskThread::ProcessTasksUntilQuit() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\core\private\async\taskgraph.cpp:581]
+FactoryGame_Win64_Shipping!RenderingThreadMain() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\rendercore\private\renderingthread.cpp:333]
+FactoryGame_Win64_Shipping!FRenderingThread::Run() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\rendercore\private\renderingthread.cpp:464]
+FactoryGame_Win64_Shipping!FRunnableThreadWin::Run() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\core\private\windows\windowsrunnablethread.cpp:96]</description>
+    
+    <lastBuildDate>Mon, 13 Apr 2020 14:17:10 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forums.ficsit.app/t/bug-wersja-0-3-2-kronosmod/368.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Bug WERSJA 0.3.2 KronosMod</title>
+        <dc:creator><![CDATA[@Kalinkus Kalinkus]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/kalinkus">@Kalinkus</a> wrote:</p>
+          <blockquote>
+              <p>Version: 118201, IsPerforceBuild: false, BuildConfiguration: Shipping, NetMode: ListenServer</p>
+<p>Unhandled exception</p>
+<p>KronosMod<br>
+KronosMod<br>
+FactoryGame_Win64_Shipping!FD3D11Viewport::PresentChecked() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\windows\d3d11rhi\private\d3d11viewport.cpp:325]<br>
+FactoryGame_Win64_Shipping!FD3D11DynamicRHI::RHIEndDrawingViewport() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\windows\d3d11rhi\private\d3d11viewport.cpp:666]<br>
+FactoryGame_Win64_Shipping!FRHICommandListExecutor::ExecuteInner_DoExecute() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\rhi\private\rhicommandlist.cpp:325]<br>
+FactoryGame_Win64_Shipping!FRHICommandListExecutor::ExecuteInner() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\rhi\private\rhicommandlist.cpp:592]<br>
+FactoryGame_Win64_Shipping!FRHICommandList::EndDrawingViewport() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\rhi\private\rhicommandlist.cpp:1528]<br>
+FactoryGame_Win64_Shipping!FSlateRHIRenderer::DrawWindow_RenderThread() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\slaterhirenderer\private\slaterhirenderer.cpp:987]<br>
+FactoryGame_Win64_Shipping!TGraphTask&lt;TEnqueueUniqueRenderCommandType&lt;<code>FSlateRHIRenderer::DrawWindows_Private'::</code>29’::SlateDrawWindowsCommandName,&lt;lambda_5d0d9a64526f5e2439319adeb0854baf&gt; &gt; &gt;::ExecuteTask() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\core\public\async\taskgraphinterfaces.h:857]<br>
+FactoryGame_Win64_Shipping!FNamedTaskThread::ProcessTasksUntilQuit() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\core\private\async\taskgraph.cpp:581]<br>
+FactoryGame_Win64_Shipping!RenderingThreadMain() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\rendercore\private\renderingthread.cpp:333]<br>
+FactoryGame_Win64_Shipping!FRenderingThread::Run() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\rendercore\private\renderingthread.cpp:464]<br>
+FactoryGame_Win64_Shipping!FRunnableThreadWin::Run() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\core\private\windows\windowsrunnablethread.cpp:96]</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/bug-wersja-0-3-2-kronosmod/368/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/bug-wersja-0-3-2-kronosmod/368/1</link>
+        <pubDate>Mon, 13 Apr 2020 14:17:10 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-368-1</guid>
+        <source url="https://forums.ficsit.app/t/bug-wersja-0-3-2-kronosmod/368.rss">Bug WERSJA 0.3.2 KronosMod</source>
+      </item>
+  </channel>
+</rss>

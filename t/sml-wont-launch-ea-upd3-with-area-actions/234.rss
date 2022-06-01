@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>SML won&#39;t launch EA UPD3 with Area Actions</title>
+    <link>https://forums.ficsit.app/t/sml-wont-launch-ea-upd3-with-area-actions/234</link>
+    <description>After installing SML for UPD3, EA won&#39;t launch.
+I get a soft (quiet) crash from SML, Epic and the shortcut.
+I currently only have Area Actions installed. If I remove it and run Programmable Elevators EA does launch. SML and Programmable Elevators load properly.
+I tried a reboot.</description>
+    
+    <lastBuildDate>Sun, 15 Mar 2020 18:36:39 +0000</lastBuildDate>
+    <category>SML</category>
+    <atom:link href="https://forums.ficsit.app/t/sml-wont-launch-ea-upd3-with-area-actions/234.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>SML won&#39;t launch EA UPD3 with Area Actions</title>
+        <dc:creator><![CDATA[@Vic_Hibler Vic Hibler]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/vic_hibler">@Vic_Hibler</a> wrote:</p>
+          <blockquote>
+              <p>After installing SML for UPD3, EA won’t launch.<br>
+I get a soft (quiet) crash from SML, Epic and the shortcut.<br>
+I currently only have Area Actions installed. If I remove it and run Programmable Elevators EA does launch. SML and Programmable Elevators load properly.<br>
+I tried a reboot.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/sml-wont-launch-ea-upd3-with-area-actions/234/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/sml-wont-launch-ea-upd3-with-area-actions/234/1</link>
+        <pubDate>Sun, 15 Mar 2020 16:44:58 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-234-1</guid>
+        <source url="https://forums.ficsit.app/t/sml-wont-launch-ea-upd3-with-area-actions/234.rss">SML won&#39;t launch EA UPD3 with Area Actions</source>
+      </item>
+  </channel>
+</rss>

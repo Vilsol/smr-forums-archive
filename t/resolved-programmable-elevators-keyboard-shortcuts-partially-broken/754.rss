@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>[Resolved]Programmable Elevators - keyboard shortcuts partially broken</title>
+    <link>https://forums.ficsit.app/t/resolved-programmable-elevators-keyboard-shortcuts-partially-broken/754</link>
+    <description>After updating to v3.0.0 there seems to be an issue with the keyboard shortcuts for each floor. I used to be able to just open the CP and press, 1, 2, 3 etc for each floor and off it went. Now, I have to select within the CP, like edit the elevation, name or change speed, then the focus seems to be set and the shortcut starts working.
+
+I&#39;ve tried clearing the mod off and putting it back on, but still the same.</description>
+    
+    <lastBuildDate>Tue, 14 Jul 2020 20:55:43 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forums.ficsit.app/t/resolved-programmable-elevators-keyboard-shortcuts-partially-broken/754.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>[Resolved]Programmable Elevators - keyboard shortcuts partially broken</title>
+        <dc:creator><![CDATA[@Lamargo Lamargo]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/lamargo">@Lamargo</a> wrote:</p>
+          <blockquote>
+              <p>It turns out that removing Satisfactory Helper has fixed this. It must be doing something with modal focus for keyboard shortcuts? <img src="https://forums.ficsit.app/images/emoji/twitter/man_shrugging.png?v=9" title=":man_shrugging:" class="emoji" alt=":man_shrugging:"></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/resolved-programmable-elevators-keyboard-shortcuts-partially-broken/754/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/resolved-programmable-elevators-keyboard-shortcuts-partially-broken/754/2</link>
+        <pubDate>Tue, 14 Jul 2020 20:55:43 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-754-2</guid>
+        <source url="https://forums.ficsit.app/t/resolved-programmable-elevators-keyboard-shortcuts-partially-broken/754.rss">[Resolved]Programmable Elevators - keyboard shortcuts partially broken</source>
+      </item>
+      <item>
+        <title>[Resolved]Programmable Elevators - keyboard shortcuts partially broken</title>
+        <dc:creator><![CDATA[@Lamargo Lamargo]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/lamargo">@Lamargo</a> wrote:</p>
+          <blockquote>
+              <p>After updating to v3.0.0 there seems to be an issue with the keyboard shortcuts for each floor. I used to be able to just open the CP and press, 1, 2, 3 etc for each floor and off it went. Now, I have to select within the CP, like edit the elevation, name or change speed, then the focus seems to be set and the shortcut starts working.</p>
+<p>I’ve tried clearing the mod off and putting it back on, but still the same.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/resolved-programmable-elevators-keyboard-shortcuts-partially-broken/754/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/resolved-programmable-elevators-keyboard-shortcuts-partially-broken/754/1</link>
+        <pubDate>Tue, 14 Jul 2020 19:44:50 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-754-1</guid>
+        <source url="https://forums.ficsit.app/t/resolved-programmable-elevators-keyboard-shortcuts-partially-broken/754.rss">[Resolved]Programmable Elevators - keyboard shortcuts partially broken</source>
+      </item>
+  </channel>
+</rss>

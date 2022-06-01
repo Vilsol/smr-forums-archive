@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Satis-Factory Manager online tool</title>
+    <link>https://forums.ficsit.app/t/satis-factory-manager-online-tool/1198</link>
+    <description>Hello! 
+
+I have been using some satisfactory online tools for planning my factory, but I never really satisfied with them. So what&#39;s better then? A custom tool!
+
+[Satis-Factory Manager](https://zechy.cz/satisfactory/#/) is a online tool that allows you planning your factories from scratch. Grouping buildings together, see production and power overall statistics. And manage imports &amp; exports between your factories.
+
+Power management here is not only about production buildings, but about every thinkable building, that consumes power. From lights to Locos!
+
+You can try my [tool here](https://zechy.cz/satisfactory/#/).</description>
+    
+    <lastBuildDate>Mon, 09 Aug 2021 01:35:28 +0000</lastBuildDate>
+    <category>Showcase</category>
+    <atom:link href="https://forums.ficsit.app/t/satis-factory-manager-online-tool/1198.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Satis-Factory Manager online tool</title>
+        <dc:creator><![CDATA[@hbouma Hbouma]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/hbouma">@hbouma</a> wrote:</p>
+          <blockquote>
+              <p>Hi,</p>
+<p>I was wondering what happened with your website? It was really useful!</p>
+<p>Hal</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/satis-factory-manager-online-tool/1198/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/satis-factory-manager-online-tool/1198/2</link>
+        <pubDate>Mon, 09 Aug 2021 01:35:28 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1198-2</guid>
+        <source url="https://forums.ficsit.app/t/satis-factory-manager-online-tool/1198.rss">Satis-Factory Manager online tool</source>
+      </item>
+      <item>
+        <title>Satis-Factory Manager online tool</title>
+        <dc:creator><![CDATA[@JZechy J Zechy]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jzechy">@JZechy</a> wrote:</p>
+          <blockquote>
+              <p>Hello!</p>
+<p>I have been using some satisfactory online tools for planning my factory, but I never really satisfied with them. So what’s better then? A custom tool!</p>
+<p><a href="https://zechy.cz/satisfactory/#/" rel="nofollow noopener">Satis-Factory Manager</a> is a online tool that allows you planning your factories from scratch. Grouping buildings together, see production and power overall statistics. And manage imports &amp; exports between your factories.</p>
+<p>Power management here is not only about production buildings, but about every thinkable building, that consumes power. From lights to Locos!</p>
+<p>You can try my <a href="https://zechy.cz/satisfactory/#/" rel="nofollow noopener">tool here</a>.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/satis-factory-manager-online-tool/1198/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/satis-factory-manager-online-tool/1198/1</link>
+        <pubDate>Mon, 19 Apr 2021 14:35:41 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1198-1</guid>
+        <source url="https://forums.ficsit.app/t/satis-factory-manager-online-tool/1198.rss">Satis-Factory Manager online tool</source>
+      </item>
+  </channel>
+</rss>

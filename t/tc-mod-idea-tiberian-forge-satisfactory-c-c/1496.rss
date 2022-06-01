@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>TC MOD IDEA: Tiberian Forge (Satisfactory/C&amp;C)</title>
+    <link>https://forums.ficsit.app/t/tc-mod-idea-tiberian-forge-satisfactory-c-c/1496</link>
+    <description>So I&#39;m not a modder, for Satisfactory or otherwise. Unfortunately, a brainworm has crawled inside my skull and manifested into a mod idea that just won&#39;t leave me alone. So I commit it to digital text here, in the hopes that it will infest some other poor sod and leave me be.
+
+On the other hand, I need to put it out there in an interesting way, otherwise it won&#39;t be exorcised. So here we go:
+
+===================================
+SATISFACTORY / COMMAND &amp; CONQUER:
+                     TIBERIAN FORGE
+===================================
+
+&quot;Good afternoon, Engineers. You are all here because you volunteered for this detachment; on behalf of GDI, humanity and life itself, I salute you and thank you for your dedicated and loyal service.
+
+&quot;This mission is both severely divergent from operational procedure and hazardous in the extreme. Nevertheless, needs must; given the lack of options available at this point in time, this course affords the greatest chance of saving this world from the encroachment of Tiberium. While all of you have been briefed on the mission, I will reiterate the salient details for the record.
+
+&quot;At 0245 hours shipboard time two days ago, Scout vessel _Andronicus_ of the GDI Extrasolar Exploratory Corps moved into orbit around the life-bearing planet designated &quot;Massage-2(AB)B&quot; and began scans of the planet&#39;s surface. It was at this time that the saboteur struck; a Brotherhood of NOD infiltrator among the crew was captured in an attempt to destroy the ship by detonating a suborned missile within the armament bays. The bridge Weapons Officer was able to spot the access breach in time and disable the warhead remotely.
+
+&quot;I... almost wish the saboteur had succeeded in his attempt. His contingency plan was... is... far worse. While the warhead itself was disabled, the missile was not, and before he was captured, he launched it at the planet below... carrying a shard of active Tiberium. High-intensity scans are already showing weak Tiberium emission frequencies from the point of planetary impact. In other words, the planet has been contaminated... and if nothing is done, it will be consumed as Earth was.
+
+&quot;The _Andronicus_ is not equipped with the necessary materiel for full-scale Tiberium remediation; the only option is for the ship to return to GDI Command and report the need for a Reclamator detachment. However, every day&#39;s transit is a day in which Tiberium is free to spread through the biosphere of a virgin world. This is unacceptable. Hence, this mission, for which you, the brave men and women of GDI&#39;s Engineering Corps, have volunteered.
+
+&quot;Your mission is simple: abatement, containment and if possible eradication of Tiberium on the world below. You will deploy to the planet by orbital drop pods; unfortunately, we have no field units to deploy with you. You will have to make use of the tools available to you, especially your Field Constructors, to assemble the structures, hardware and materials needed to suppress the spread of Tiberium.
+
+&quot;Good luck, and may God be with you all.&quot;
+
+============================
+
+This is basically a proposal for a Total Conversion multiplayer mod that radically changes the game&#39;s objectives. The players are on a clock; the longer the game goes on, the more the Tiberium spreads and the more dangerous the world becomes. Players start with the majority of blueprints and gear unlocked, and their suits have built-in immunity to gas and radiation... but Tiberium is an environmental hazard all its own, and any fauna that survive Tib exposure become more deadly.
+
+I&#39;m under no illusions that a mod like this would be anything other than massively difficult to make; while some of the code in the game might be adaptable (e.g. the Radar Tower&#39;s scanning pattern could maybe be used to calculate the spread of Tiberium per hourly tick), overall it would probably be a complete nightmare to code something like this. Still, I hope this inspires somebody to build _something_.</description>
+    
+    <lastBuildDate>Sat, 04 Dec 2021 18:05:27 +0000</lastBuildDate>
+    <category>Suggestions &amp; Ideas</category>
+    <atom:link href="https://forums.ficsit.app/t/tc-mod-idea-tiberian-forge-satisfactory-c-c/1496.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>TC MOD IDEA: Tiberian Forge (Satisfactory/C&amp;C)</title>
+        <dc:creator><![CDATA[@Orphiex Orphiex]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/orphiex">@Orphiex</a> wrote:</p>
+          <blockquote>
+              <p>So I’m not a modder, for Satisfactory or otherwise. Unfortunately, a brainworm has crawled inside my skull and manifested into a mod idea that just won’t leave me alone. So I commit it to digital text here, in the hopes that it will infest some other poor sod and leave me be.</p>
+<p>On the other hand, I need to put it out there in an interesting way, otherwise it won’t be exorcised. So here we go:</p>
+<h1>===================================<br>
+SATISFACTORY / COMMAND &amp; CONQUER:<br>
+TIBERIAN FORGE</h1>
+<p>"Good afternoon, Engineers. You are all here because you volunteered for this detachment; on behalf of GDI, humanity and life itself, I salute you and thank you for your dedicated and loyal service.</p>
+<p>"This mission is both severely divergent from operational procedure and hazardous in the extreme. Nevertheless, needs must; given the lack of options available at this point in time, this course affords the greatest chance of saving this world from the encroachment of Tiberium. While all of you have been briefed on the mission, I will reiterate the salient details for the record.</p>
+<p>"At 0245 hours shipboard time two days ago, Scout vessel <em>Andronicus</em> of the GDI Extrasolar Exploratory Corps moved into orbit around the life-bearing planet designated “Massage-2(AB)B” and began scans of the planet’s surface. It was at this time that the saboteur struck; a Brotherhood of NOD infiltrator among the crew was captured in an attempt to destroy the ship by detonating a suborned missile within the armament bays. The bridge Weapons Officer was able to spot the access breach in time and disable the warhead remotely.</p>
+<p>"I… almost wish the saboteur had succeeded in his attempt. His contingency plan was… is… far worse. While the warhead itself was disabled, the missile was not, and before he was captured, he launched it at the planet below… carrying a shard of active Tiberium. High-intensity scans are already showing weak Tiberium emission frequencies from the point of planetary impact. In other words, the planet has been contaminated… and if nothing is done, it will be consumed as Earth was.</p>
+<p>"The <em>Andronicus</em> is not equipped with the necessary materiel for full-scale Tiberium remediation; the only option is for the ship to return to GDI Command and report the need for a Reclamator detachment. However, every day’s transit is a day in which Tiberium is free to spread through the biosphere of a virgin world. This is unacceptable. Hence, this mission, for which you, the brave men and women of GDI’s Engineering Corps, have volunteered.</p>
+<p>"Your mission is simple: abatement, containment and if possible eradication of Tiberium on the world below. You will deploy to the planet by orbital drop pods; unfortunately, we have no field units to deploy with you. You will have to make use of the tools available to you, especially your Field Constructors, to assemble the structures, hardware and materials needed to suppress the spread of Tiberium.</p>
+<p>“Good luck, and may God be with you all.”</p>
+<p>============================</p>
+<p>This is basically a proposal for a Total Conversion multiplayer mod that radically changes the game’s objectives. The players are on a clock; the longer the game goes on, the more the Tiberium spreads and the more dangerous the world becomes. Players start with the majority of blueprints and gear unlocked, and their suits have built-in immunity to gas and radiation… but Tiberium is an environmental hazard all its own, and any fauna that survive Tib exposure become more deadly.</p>
+<p>I’m under no illusions that a mod like this would be anything other than massively difficult to make; while some of the code in the game might be adaptable (e.g. the Radar Tower’s scanning pattern could maybe be used to calculate the spread of Tiberium per hourly tick), overall it would probably be a complete nightmare to code something like this. Still, I hope this inspires somebody to build <em>something</em>.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/tc-mod-idea-tiberian-forge-satisfactory-c-c/1496/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/tc-mod-idea-tiberian-forge-satisfactory-c-c/1496/1</link>
+        <pubDate>Sat, 04 Dec 2021 18:05:27 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1496-1</guid>
+        <source url="https://forums.ficsit.app/t/tc-mod-idea-tiberian-forge-satisfactory-c-c/1496.rss">TC MOD IDEA: Tiberian Forge (Satisfactory/C&amp;C)</source>
+      </item>
+  </channel>
+</rss>

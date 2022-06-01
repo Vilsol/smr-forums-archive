@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Throughput Counter</title>
+    <link>https://forums.ficsit.app/t/throughput-counter/451</link>
+    <description>Here&#39;s my first mod that displays the number of items passing through it per minute : 
+
+https://ficsit.app/mod/EBmtX1itvNsyDb
+
+![](upload://jBe09UXryHow3RgumhuoPT7nmXb.jpeg) 
+
+I&#39;ll try to make it look a bit more &quot;in universe&quot; by having an actual screen on it or using a hologram, but that&#39;s a first prototype ! Also it should work in multiplayer - but it needs extensive testing.</description>
+    
+    <lastBuildDate>Sun, 05 Jul 2020 22:48:03 +0000</lastBuildDate>
+    <category>Showcase</category>
+    <atom:link href="https://forums.ficsit.app/t/throughput-counter/451.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Throughput Counter</title>
+        <dc:creator><![CDATA[@Martin_Hughes Martin Hughes]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/martin_hughes">@Martin_Hughes</a> wrote:</p>
+          <blockquote>
+              <p>I love this mod, makes things a bit easier to calculate along the way.</p>
+<p>was wondering if this could be done on fluids as well?</p>
+<p>Maybe a future addition?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/throughput-counter/451/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/throughput-counter/451/3</link>
+        <pubDate>Sun, 05 Jul 2020 22:48:03 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-451-3</guid>
+        <source url="https://forums.ficsit.app/t/throughput-counter/451.rss">Throughput Counter</source>
+      </item>
+      <item>
+        <title>Throughput Counter</title>
+        <dc:creator><![CDATA[@isochronous Isochronous]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/isochronous">@isochronous</a> wrote:</p>
+          <blockquote>
+              <p>I absolutely love this, but the one thing that drives me crazy is that it’s just a tiny bit shorter than a regular-height conveyor pole, so that when I connect it up the belts are ever so slightly ramped down. This triggers my OCD tendencies terribly.</p>
+<p>It would also be great to be able to snap them to existing conveyors, and to have two versions, one with the numbers facing input, and one with the numbers facing the output.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/throughput-counter/451/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/throughput-counter/451/2</link>
+        <pubDate>Sun, 26 Apr 2020 02:39:08 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-451-2</guid>
+        <source url="https://forums.ficsit.app/t/throughput-counter/451.rss">Throughput Counter</source>
+      </item>
+      <item>
+        <title>Throughput Counter</title>
+        <dc:creator><![CDATA[@Esya Esya]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/esya">@Esya</a> wrote:</p>
+          <blockquote>
+              <p>Here’s my first mod that displays the number of items passing through it per minute :</p>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src="https://ficsit.app/favicon.ico" class="site-icon" width="32" height="32">
+      <a href="https://ficsit.app/mod/EBmtX1itvNsyDb" target="_blank" rel="nofollow noopener">ficsit.app</a>
+  </header>
+  <article class="onebox-body">
+    <img src="https://forums.ficsit.app/uploads/default/original/1X/f02da7f6991dd231eefed9e0b929b9f220067a67.png" class="thumbnail onebox-avatar" width="500" height="500">
+
+<h3><a href="https://ficsit.app/mod/EBmtX1itvNsyDb" target="_blank" rel="nofollow noopener">Mod - SMR</a></h3>
+
+<p>Satisfactory mods, tools, guides and forums. An extension to the FICSIT industries.</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/895e8ecb43f74410beac8e76efa75818dde33f45.jpeg" data-download-href="https://forums.ficsit.app/uploads/default/895e8ecb43f74410beac8e76efa75818dde33f45" title=""><img src="https://forums.ficsit.app/uploads/default/original/1X/895e8ecb43f74410beac8e76efa75818dde33f45.jpeg" alt data-base62-sha1="jBe09UXryHow3RgumhuoPT7nmXb" width="445" height="500" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/895e8ecb43f74410beac8e76efa75818dde33f45_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename"></span><span class="informations">878×986 109 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>I’ll try to make it look a bit more “in universe” by having an actual screen on it or using a hologram, but that’s a first prototype ! Also it should work in multiplayer - but it needs extensive testing.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/throughput-counter/451/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/throughput-counter/451/1</link>
+        <pubDate>Fri, 24 Apr 2020 20:58:11 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-451-1</guid>
+        <source url="https://forums.ficsit.app/t/throughput-counter/451.rss">Throughput Counter</source>
+      </item>
+  </channel>
+</rss>

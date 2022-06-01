@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>SMR Forums Search</ShortName>
+  <Description>Search for posts on SMR Forums</Description>
+  <Tags>discourse forum</Tags>
+    <Image type="image/png">https://forums.ficsit.app/uploads/default/optimized/1X/f02da7f6991dd231eefed9e0b929b9f220067a67_2_32x32.png</Image>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://forums.ficsit.app/opensearch.xml"/>
+  <Url type="text/html" template="https://forums.ficsit.app/search?q={searchTerms}"/>
+  <Query role="example" searchTerms="search term"/>
+</OpenSearchDescription>

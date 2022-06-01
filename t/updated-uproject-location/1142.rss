@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Updated uproject location?</title>
+    <link>https://forums.ficsit.app/t/updated-uproject-location/1142</link>
+    <description>Hi, i tried to run and compile the uproject but its asking for 4.21?  is there a more upto date starter project file ? says the alpapak thing is out of date too.</description>
+    
+    <lastBuildDate>Sat, 20 Mar 2021 09:30:57 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/updated-uproject-location/1142.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Updated uproject location?</title>
+        <dc:creator><![CDATA[@JesusPwnsYa Jesus Pwns Ya]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jesuspwnsya">@JesusPwnsYa</a> wrote:</p>
+          <blockquote>
+              <p>Isn’t there version 4.26.1 available from the epic games launcher?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/updated-uproject-location/1142/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/updated-uproject-location/1142/3</link>
+        <pubDate>Sat, 20 Mar 2021 09:30:57 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1142-3</guid>
+        <source url="https://forums.ficsit.app/t/updated-uproject-location/1142.rss">Updated uproject location?</source>
+      </item>
+      <item>
+        <title>Updated uproject location?</title>
+        <dc:creator><![CDATA[@RichyYoung Richy Young]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/richyyoung">@RichyYoung</a> wrote:</p>
+          <blockquote>
+              <p><img src="https://forums.ficsit.app/uploads/default/original/1X/77b8618098e71a48957d27dcf995de87fb58a837.png" alt="1_1" data-base62-sha1="h55QTAQvVKMiOkbd1P2e79iNN0X" width="414" height="147"></p>
+<p>i installed ue4 4.21 or the closest i could find and i get this error.   Ive just loaded up a fresh ue4 project to play about with in the mean time, but what i ideally wanted was to mod satisfactory.   seems like this modding resource is about 2 years out of date.   if someone else has had this error and knows why please let me know.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/updated-uproject-location/1142/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/updated-uproject-location/1142/2</link>
+        <pubDate>Sun, 14 Mar 2021 17:49:50 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1142-2</guid>
+        <source url="https://forums.ficsit.app/t/updated-uproject-location/1142.rss">Updated uproject location?</source>
+      </item>
+      <item>
+        <title>Updated uproject location?</title>
+        <dc:creator><![CDATA[@RichyYoung Richy Young]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/richyyoung">@RichyYoung</a> wrote:</p>
+          <blockquote>
+              <p>Hi, i tried to run and compile the uproject but its asking for 4.21?  is there a more upto date starter project file ? says the alpapak thing is out of date too.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/updated-uproject-location/1142/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/updated-uproject-location/1142/1</link>
+        <pubDate>Sun, 14 Mar 2021 09:56:07 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1142-1</guid>
+        <source url="https://forums.ficsit.app/t/updated-uproject-location/1142.rss">Updated uproject location?</source>
+      </item>
+  </channel>
+</rss>

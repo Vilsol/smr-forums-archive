@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>PAK utility mod 0.3.1</title>
+    <link>https://forums.ficsit.app/t/pak-utility-mod-0-3-1/402</link>
+    <description>
+hello yesterday I save while being in the airs with the pak mod except that my save crash
+here is the code display
+
+&gt; Version: 118201, IsPerforceBuild: false, BuildConfiguration: Shipping, NetMode: Standalone
+&gt; 
+&gt; Assertion failed: (Index &gt;= 0) &amp; (Index &lt; ArrayNum) [File:d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\core\public\Containers/Array.h] [Line: 611] Array index out of bounds: 0 from an array of size 0
+&gt; 
+&gt; FactoryGame_Win64_Shipping!FWindowsErrorOutputDevice::Serialize() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\core\private\windows\windowserroroutputdevice.cpp:79]
+&gt; FactoryGame_Win64_Shipping!FOutputDevice::LogfImpl() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\core\private\misc\outputdevice.cpp:71]
+&gt; FactoryGame_Win64_Shipping!AssertFailedImplV() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\core\private\misc\assertionmacros.cpp:101]
+&gt; FactoryGame_Win64_Shipping!FDebug::CheckVerifyFailedImpl() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\core\private\misc\assertionmacros.cpp:439]
+&gt; FactoryGame_Win64_Shipping!DispatchCheckVerify&lt;void,&lt;lambda_7c76834a4ebbcfe5aa8e9d189a8aa170&gt; &gt;() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\core\public\misc\assertionmacros.h:162]
+&gt; FactoryGame_Win64_Shipping!AFGCircuitSubsystem::Tick() [d:\ws\sb-200303103109-c8c\ue4\games\factorygame\source\factorygame\private\fgcircuitsubsystem.cpp:200]
+&gt; FactoryGame_Win64_Shipping!AActor::TickActor() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\engine\private\actor.cpp:1020]
+&gt; FactoryGame_Win64_Shipping!FActorTickFunction::ExecuteTick() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\engine\private\actor.cpp:167]
+&gt; FactoryGame_Win64_Shipping!FTickFunctionTask::DoTask() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\engine\private\ticktaskmanager.cpp:290]
+&gt; FactoryGame_Win64_Shipping!TGraphTask&lt;FTickFunctionTask&gt;::ExecuteTask() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\core\public\async\taskgraphinterfaces.h:847]
+&gt; FactoryGame_Win64_Shipping!FNamedTaskThread::ProcessTasksUntilQuit() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\core\private\async\taskgraph.cpp:581]
+&gt; FactoryGame_Win64_Shipping!FTaskGraphImplementation::WaitUntilTasksComplete() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\core\private\async\taskgraph.cpp:1457]
+&gt; FactoryGame_Win64_Shipping!FTickTaskSequencer::ReleaseTickGroup() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\engine\private\ticktaskmanager.cpp:561]
+&gt; FactoryGame_Win64_Shipping!FTickTaskManager::RunTickGroup() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\engine\private\ticktaskmanager.cpp:1517]
+&gt; FactoryGame_Win64_Shipping!UWorld::Tick() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\engine\private\leveltick.cpp:1568]
+&gt; FactoryGame_Win64_Shipping!UGameEngine::Tick() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\engine\private\gameengine.cpp:1366]
+&gt; FactoryGame_Win64_Shipping!UFGGameEngine::Tick() [d:\ws\sb-200303103109-c8c\ue4\games\factorygame\source\factorygame\private\fggameengine.cpp:9]
+&gt; FactoryGame_Win64_Shipping!FEngineLoop::Tick() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\launch\private\launchengineloop.cpp:3976]
+&gt; FactoryGame_Win64_Shipping!GuardedMain() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\launch\private\launch.cpp:168]
+&gt; FactoryGame_Win64_Shipping!GuardedMainWrapper() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\launch\private\windows\launchwindows.cpp:145]
+&gt; FactoryGame_Win64_Shipping!WinMain() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\launch\private\windows\launchwindows.cpp:275]
+&gt; FactoryGame_Win64_Shipping!__scrt_common_main_seh() [d:\agent\_work\2\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+&gt; kernel32
+&gt; ntdll</description>
+    
+    <lastBuildDate>Mon, 27 Apr 2020 19:05:44 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forums.ficsit.app/t/pak-utility-mod-0-3-1/402.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>PAK utility mod 0.3.1</title>
+        <dc:creator><![CDATA[@isochronous Isochronous]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/isochronous">@isochronous</a> wrote:</p>
+          <blockquote>
+              <p>Was the pak utility mod the only mod you had installed?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/pak-utility-mod-0-3-1/402/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/pak-utility-mod-0-3-1/402/2</link>
+        <pubDate>Mon, 27 Apr 2020 19:05:44 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-402-2</guid>
+        <source url="https://forums.ficsit.app/t/pak-utility-mod-0-3-1/402.rss">PAK utility mod 0.3.1</source>
+      </item>
+      <item>
+        <title>PAK utility mod 0.3.1</title>
+        <dc:creator><![CDATA[@Kris_Leroy Kris Leroy]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/kris_leroy">@Kris_Leroy</a> wrote:</p>
+          <blockquote>
+              <p>hello yesterday I save while being in the airs with the pak mod except that my save crash<br>
+here is the code display</p>
+<blockquote>
+<p>Version: 118201, IsPerforceBuild: false, BuildConfiguration: Shipping, NetMode: Standalone</p>
+<p>Assertion failed: (Index &gt;= 0) &amp; (Index &lt; ArrayNum) [File:d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\core\public\Containers/Array.h] [Line: 611] Array index out of bounds: 0 from an array of size 0</p>
+<p>FactoryGame_Win64_Shipping!FWindowsErrorOutputDevice::Serialize() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\core\private\windows\windowserroroutputdevice.cpp:79]<br>
+FactoryGame_Win64_Shipping!FOutputDevice::LogfImpl() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\core\private\misc\outputdevice.cpp:71]<br>
+FactoryGame_Win64_Shipping!AssertFailedImplV() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\core\private\misc\assertionmacros.cpp:101]<br>
+FactoryGame_Win64_Shipping!FDebug::CheckVerifyFailedImpl() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\core\private\misc\assertionmacros.cpp:439]<br>
+FactoryGame_Win64_Shipping!DispatchCheckVerify&lt;void,&lt;lambda_7c76834a4ebbcfe5aa8e9d189a8aa170&gt; &gt;() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\core\public\misc\assertionmacros.h:162]<br>
+FactoryGame_Win64_Shipping!AFGCircuitSubsystem::Tick() [d:\ws\sb-200303103109-c8c\ue4\games\factorygame\source\factorygame\private\fgcircuitsubsystem.cpp:200]<br>
+FactoryGame_Win64_Shipping!AActor::TickActor() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\engine\private\actor.cpp:1020]<br>
+FactoryGame_Win64_Shipping!FActorTickFunction::ExecuteTick() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\engine\private\actor.cpp:167]<br>
+FactoryGame_Win64_Shipping!FTickFunctionTask::DoTask() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\engine\private\ticktaskmanager.cpp:290]<br>
+FactoryGame_Win64_Shipping!TGraphTask::ExecuteTask() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\core\public\async\taskgraphinterfaces.h:847]<br>
+FactoryGame_Win64_Shipping!FNamedTaskThread::ProcessTasksUntilQuit() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\core\private\async\taskgraph.cpp:581]<br>
+FactoryGame_Win64_Shipping!FTaskGraphImplementation::WaitUntilTasksComplete() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\core\private\async\taskgraph.cpp:1457]<br>
+FactoryGame_Win64_Shipping!FTickTaskSequencer::ReleaseTickGroup() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\engine\private\ticktaskmanager.cpp:561]<br>
+FactoryGame_Win64_Shipping!FTickTaskManager::RunTickGroup() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\engine\private\ticktaskmanager.cpp:1517]<br>
+FactoryGame_Win64_Shipping!UWorld::Tick() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\engine\private\leveltick.cpp:1568]<br>
+FactoryGame_Win64_Shipping!UGameEngine::Tick() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\engine\private\gameengine.cpp:1366]<br>
+FactoryGame_Win64_Shipping!UFGGameEngine::Tick() [d:\ws\sb-200303103109-c8c\ue4\games\factorygame\source\factorygame\private\fggameengine.cpp:9]<br>
+FactoryGame_Win64_Shipping!FEngineLoop::Tick() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\launch\private\launchengineloop.cpp:3976]<br>
+FactoryGame_Win64_Shipping!GuardedMain() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\launch\private\launch.cpp:168]<br>
+FactoryGame_Win64_Shipping!GuardedMainWrapper() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\launch\private\windows\launchwindows.cpp:145]<br>
+FactoryGame_Win64_Shipping!WinMain() [d:\ws\sb-200303103109-c8c\ue4\engine\source\runtime\launch\private\windows\launchwindows.cpp:275]<br>
+FactoryGame_Win64_Shipping!__scrt_common_main_seh() [d:\agent_work\2\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]<br>
+kernel32<br>
+ntdll</p>
+</blockquote>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/pak-utility-mod-0-3-1/402/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/pak-utility-mod-0-3-1/402/1</link>
+        <pubDate>Sat, 18 Apr 2020 09:04:58 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-402-1</guid>
+        <source url="https://forums.ficsit.app/t/pak-utility-mod-0-3-1/402.rss">PAK utility mod 0.3.1</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Powersuit Modules missing item</title>
+    <link>https://forums.ficsit.app/t/powersuit-modules-missing-item/1030</link>
+    <description>I have version 2.0.1 and have completed the biofuel suit milestone. The suit and the modules appear in the equipment bench, but need a Base Module Component, which I cannot find anywhere - it is not in my recipe book. Am I missing something obvious, or has it gone missing?</description>
+    
+    <lastBuildDate>Sun, 13 Dec 2020 17:55:48 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forums.ficsit.app/t/powersuit-modules-missing-item/1030.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Powersuit Modules missing item</title>
+        <dc:creator><![CDATA[@Aoini Aoini]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/aoini">@Aoini</a> wrote:</p>
+          <blockquote>
+              <p>OK. After another check on Tier 2, finally found the two sections for armour modules aand now have access. Sure I had looked further over, but I must have missed these for some reason. Sorry to have been a pain. Thanks</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/powersuit-modules-missing-item/1030/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/powersuit-modules-missing-item/1030/2</link>
+        <pubDate>Sun, 13 Dec 2020 17:55:48 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1030-2</guid>
+        <source url="https://forums.ficsit.app/t/powersuit-modules-missing-item/1030.rss">Powersuit Modules missing item</source>
+      </item>
+      <item>
+        <title>Powersuit Modules missing item</title>
+        <dc:creator><![CDATA[@Aoini Aoini]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/aoini">@Aoini</a> wrote:</p>
+          <blockquote>
+              <p>I have version 2.0.1 and have completed the biofuel suit milestone. The suit and the modules appear in the equipment bench, but need a Base Module Component, which I cannot find anywhere - it is not in my recipe book. Am I missing something obvious, or has it gone missing?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/powersuit-modules-missing-item/1030/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/powersuit-modules-missing-item/1030/1</link>
+        <pubDate>Sun, 13 Dec 2020 16:15:39 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1030-1</guid>
+        <source url="https://forums.ficsit.app/t/powersuit-modules-missing-item/1030.rss">Powersuit Modules missing item</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>New to Modding, Wanting to make a Minecarts Mod</title>
+    <link>https://forums.ficsit.app/t/new-to-modding-wanting-to-make-a-minecarts-mod/101</link>
+    <description>I can&#39;t get anyone to make a Minecarts mod for EA. So I wanted to find out if I could get a lot of help. I have done coding in C#, and very little in C++. Someone offered to help with models for it. I just need a lot of help with the coding. is anyone willing to take out like 8 or 10 hours a week to help. I need to help to get started, what I need, to download and install. I have VS Com 2017 all ready installed.</description>
+    
+    <lastBuildDate>Wed, 11 Dec 2019 03:26:08 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/new-to-modding-wanting-to-make-a-minecarts-mod/101.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>New to Modding, Wanting to make a Minecarts Mod</title>
+        <dc:creator><![CDATA[@iceman11a Iceman11a *]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/iceman11a">@iceman11a</a> wrote:</p>
+          <blockquote>
+              <p>Thanks Pan. I will need some help with your tutorial. You left out details. A lot of missing. I’m trying to make a machine or add one to my mod. I been having some tutorial issue. Ping me on discord when you get a chance and have some time. Thx,</p>
+<p>Ice</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/new-to-modding-wanting-to-make-a-minecarts-mod/101/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/new-to-modding-wanting-to-make-a-minecarts-mod/101/5</link>
+        <pubDate>Wed, 11 Dec 2019 03:26:08 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-101-5</guid>
+        <source url="https://forums.ficsit.app/t/new-to-modding-wanting-to-make-a-minecarts-mod/101.rss">New to Modding, Wanting to make a Minecarts Mod</source>
+      </item>
+      <item>
+        <title>New to Modding, Wanting to make a Minecarts Mod</title>
+        <dc:creator><![CDATA[@Vilsol]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/vilsol">@Vilsol</a> wrote:</p>
+          <blockquote>
+              <p>Click “Getting Started” on the left side.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/new-to-modding-wanting-to-make-a-minecarts-mod/101/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/new-to-modding-wanting-to-make-a-minecarts-mod/101/4</link>
+        <pubDate>Wed, 04 Dec 2019 05:54:33 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-101-4</guid>
+        <source url="https://forums.ficsit.app/t/new-to-modding-wanting-to-make-a-minecarts-mod/101.rss">New to Modding, Wanting to make a Minecarts Mod</source>
+      </item>
+      <item>
+        <title>New to Modding, Wanting to make a Minecarts Mod</title>
+        <dc:creator><![CDATA[@iceman11a Iceman11a *]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/iceman11a">@iceman11a</a> wrote:</p>
+          <blockquote>
+              <p>Thx, how ever the link you gave me is just how to install mods. I’m confused at how that helps me to make mods.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/new-to-modding-wanting-to-make-a-minecarts-mod/101/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/new-to-modding-wanting-to-make-a-minecarts-mod/101/3</link>
+        <pubDate>Tue, 03 Dec 2019 22:49:59 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-101-3</guid>
+        <source url="https://forums.ficsit.app/t/new-to-modding-wanting-to-make-a-minecarts-mod/101.rss">New to Modding, Wanting to make a Minecarts Mod</source>
+      </item>
+      <item>
+        <title>New to Modding, Wanting to make a Minecarts Mod</title>
+        <dc:creator><![CDATA[@Panakotta00 Panakotta00]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/panakotta00">@Panakotta00</a> wrote:</p>
+          <blockquote>
+              <p>We made a Doc to help you out with that. Getting started in SF Modding. Its basicaly making stuff in UE4.<br>
+<a href="https://satisfactorymodding.github.io/Documentation/" class="onebox" target="_blank" rel="nofollow noopener">https://satisfactorymodding.github.io/Documentation/</a><br>
+I hope this will help you ^^</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/new-to-modding-wanting-to-make-a-minecarts-mod/101/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/new-to-modding-wanting-to-make-a-minecarts-mod/101/2</link>
+        <pubDate>Tue, 03 Dec 2019 21:28:44 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-101-2</guid>
+        <source url="https://forums.ficsit.app/t/new-to-modding-wanting-to-make-a-minecarts-mod/101.rss">New to Modding, Wanting to make a Minecarts Mod</source>
+      </item>
+      <item>
+        <title>New to Modding, Wanting to make a Minecarts Mod</title>
+        <dc:creator><![CDATA[@iceman11a Iceman11a *]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/iceman11a">@iceman11a</a> wrote:</p>
+          <blockquote>
+              <p>I can’t get anyone to make a Minecarts mod for EA. So I wanted to find out if I could get a lot of help. I have done coding in C#, and very little in C++. Someone offered to help with models for it. I just need a lot of help with the coding. is anyone willing to take out like 8 or 10 hours a week to help. I need to help to get started, what I need, to download and install. I have VS Com 2017 all ready installed.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/new-to-modding-wanting-to-make-a-minecarts-mod/101/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/new-to-modding-wanting-to-make-a-minecarts-mod/101/1</link>
+        <pubDate>Tue, 03 Dec 2019 19:50:40 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-101-1</guid>
+        <source url="https://forums.ficsit.app/t/new-to-modding-wanting-to-make-a-minecarts-mod/101.rss">New to Modding, Wanting to make a Minecarts Mod</source>
+      </item>
+  </channel>
+</rss>

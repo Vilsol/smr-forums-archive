@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>“Smart Beacons” Mod?</title>
+    <link>https://forums.ficsit.app/t/smart-beacons-mod/952</link>
+    <description>I know this wouldn’t be a gigantic world-shaking thing, but what about a “Smart Beacons” mod that had some similar capability as, say, X-3 Signs mod? More a smoother QOL type of function.
+
+Like I mean: imagine you want to make a surveying trip to explore a new biome and mark out all the Copper and Iron Nodes to start getting a rough plan of what’s out there and where to start building.
+
+You lay down a beacon, and instead of having to go into its UI and manually title and color-code or manually go about equipping it to a hand slot To drop it, you could hit a key (like “M” for “marker”) and call up the Smart Beacon UI. 
+
+There you’d have your little library drop down menu of previously created formats, select the type of beacon you want to leave (maybe “Copper Pure”), hit “OK” and then just click on the node and boom—formatted beacon is placed and humming.
+
+Similar UI options could be as you see in other typical mods—editable key bindings, option to ignore build cost—but maybe you could also have an option to add certain auto-format to the beacon’s name (like how when you alter mass files in Photoshop and it asks if you want to automatically add numeric increments to the default name for all the files).
+
+Perhaps the mod could offer an alternate color selector—plug in an RGB or Hex code and it‘ll do the tricky conversion to HSV for you, no more fiddling with the selector that can sometimes be such a pain to narrow down to a decimal value using the slide bar. No more guesswork, you type in and boom it does the rest of that task for you.
+
+So you go and select your previously saved “Copper Pure” setting, and the mod now will place a beacon that is already color coded, says “Copper (Pure) -01” and the next one you place will be auto-numbered “-02” and so on. You might never have to individually edit the beacons at placement ever again.
+
+Further refinement could be to auto format and append the game world coords into the beacon name of you select that option as well. “Copper (Pure) 01 (x/y/z values)” so you also get that much more functional use out of beacon information (“Look, those two pure coppers are similar elevation, let’s plan for a raised build platform to bridge them.”)
+
+Imagine just tweaking your perfect beacon formats back at base, and from there on anytime you find the node you click, select, click, and boom you’re done and move on. It could be a matter of minutes to beacon-marker an entire biome.
+
+Let’s say further that you want to instead use beacons as a way to very preliminarily ‘sketch’ out the possible path for a later road or railway and you want the path kept as straight as possible but without messing with laying down a bunch of foundations that may snap the beacons to less than ideal points. You want to build a path that works with the terrain but still kept fairly orderly and efficiently laid down. 
+
+The beacons could have a hologram option in the UI (call it “Next Beacon Hologram Path”). Click it, and now every beacon you place will have a faint hologram arrow pointing to it extended from the last beacon you placed, up to say 50m. This gives you a simple indicator to help keep your placements in a decent orderly fashion even though you’re working with the natural terrain (the hologram shuts off immediately upon placing the next node). 
+
+Now when you go back and check the Map, a clear path of these designated beacons helps you further plan your attack on constructing the next big transport line
+
+Maybe even a further option you can turn on/off for “one click pickup” so just clicking on the beacon picks it up; a quick “click and done” ‘method similar to how you can one-click interact with Item Hopper or Dispenser mods. 
+
+Get back to base and open up your map, and there are all your nodes with proper coords (especially altitude), their purity, and a quick scan to tell you how many of each there are.
+
+The mod could work fine with just vanilla beacons, but I guess if a dev *wanted* to go really crazy they could create a new beacon model (Mk2, call it a Proximity Beacon) to complement the mod, maybe with an optional KMart blue light special flasher on its top that comes on when you come within x meters (great for if you leave fog on). 
+
+Have an “Approach Warning” setting in the UI that if an enemy spawns within range of it, the light flashes red instead of blue. Maybe with a thicker or taller shaft that is auto-painted to match its color. This way when you’re approaching at night or other low-visibility conditions, you can still spot the blue flash telling you where your destination is...and a red flash will tell you to expect some fluffy tailed bulls or alpha spitters waiting nearby.
+
+Build cost could be adjusted to keep it balanced (Proximity Beacon requires steel beam, rubber and an AI limiter or High Speed Connector but creates a 2m high color-coded beacon with high-visibility flashing light dome top, no power source required.
+
+Or could it be possible to add the Mk2 beacons to the Object Scanner’s list of scannable things if you haven’t unlocked Map yet? 
+
+That way you don’t have to blind ping, you could select “Pure Nodes” on the Scanner and if it shows a high indicator in the same direction as your latest ping, even without a map you can at least tell if it’s a Pure or Normal node you’re marching towards, if you’ve previously beacon marked it.
+
+The more I think on it, a “Smart Beacons” mod could be one of those little ones that doesn’t shake the whole game but at least just helps you spend a little less time messing with a useful but monotonous function. Takes beacons from a rather awkward little stick in the mud to dynamic, active tools for surveys and resource management on the large scale.</description>
+    
+    <lastBuildDate>Fri, 30 Oct 2020 05:47:46 +0000</lastBuildDate>
+    <category>Suggestions &amp; Ideas</category>
+    <atom:link href="https://forums.ficsit.app/t/smart-beacons-mod/952.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>“Smart Beacons” Mod?</title>
+        <dc:creator><![CDATA[@SextonKing Sexton King]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/sextonking">@SextonKing</a> wrote:</p>
+          <blockquote>
+              <p>I know this wouldn’t be a gigantic world-shaking thing, but what about a “Smart Beacons” mod that had some similar capability as, say, X-3 Signs mod? More a smoother QOL type of function.</p>
+<p>Like I mean: imagine you want to make a surveying trip to explore a new biome and mark out all the Copper and Iron Nodes to start getting a rough plan of what’s out there and where to start building.</p>
+<p>You lay down a beacon, and instead of having to go into its UI and manually title and color-code or manually go about equipping it to a hand slot To drop it, you could hit a key (like “M” for “marker”) and call up the Smart Beacon UI.</p>
+<p>There you’d have your little library drop down menu of previously created formats, select the type of beacon you want to leave (maybe “Copper Pure”), hit “OK” and then just click on the node and boom—formatted beacon is placed and humming.</p>
+<p>Similar UI options could be as you see in other typical mods—editable key bindings, option to ignore build cost—but maybe you could also have an option to add certain auto-format to the beacon’s name (like how when you alter mass files in Photoshop and it asks if you want to automatically add numeric increments to the default name for all the files).</p>
+<p>Perhaps the mod could offer an alternate color selector—plug in an RGB or Hex code and it‘ll do the tricky conversion to HSV for you, no more fiddling with the selector that can sometimes be such a pain to narrow down to a decimal value using the slide bar. No more guesswork, you type in and boom it does the rest of that task for you.</p>
+<p>So you go and select your previously saved “Copper Pure” setting, and the mod now will place a beacon that is already color coded, says “Copper (Pure) -01” and the next one you place will be auto-numbered “-02” and so on. You might never have to individually edit the beacons at placement ever again.</p>
+<p>Further refinement could be to auto format and append the game world coords into the beacon name of you select that option as well. “Copper (Pure) 01 (x/y/z values)” so you also get that much more functional use out of beacon information (“Look, those two pure coppers are similar elevation, let’s plan for a raised build platform to bridge them.”)</p>
+<p>Imagine just tweaking your perfect beacon formats back at base, and from there on anytime you find the node you click, select, click, and boom you’re done and move on. It could be a matter of minutes to beacon-marker an entire biome.</p>
+<p>Let’s say further that you want to instead use beacons as a way to very preliminarily ‘sketch’ out the possible path for a later road or railway and you want the path kept as straight as possible but without messing with laying down a bunch of foundations that may snap the beacons to less than ideal points. You want to build a path that works with the terrain but still kept fairly orderly and efficiently laid down.</p>
+<p>The beacons could have a hologram option in the UI (call it “Next Beacon Hologram Path”). Click it, and now every beacon you place will have a faint hologram arrow pointing to it extended from the last beacon you placed, up to say 50m. This gives you a simple indicator to help keep your placements in a decent orderly fashion even though you’re working with the natural terrain (the hologram shuts off immediately upon placing the next node).</p>
+<p>Now when you go back and check the Map, a clear path of these designated beacons helps you further plan your attack on constructing the next big transport line</p>
+<p>Maybe even a further option you can turn on/off for “one click pickup” so just clicking on the beacon picks it up; a quick “click and done” ‘method similar to how you can one-click interact with Item Hopper or Dispenser mods.</p>
+<p>Get back to base and open up your map, and there are all your nodes with proper coords (especially altitude), their purity, and a quick scan to tell you how many of each there are.</p>
+<p>The mod could work fine with just vanilla beacons, but I guess if a dev <em>wanted</em> to go really crazy they could create a new beacon model (Mk2, call it a Proximity Beacon) to complement the mod, maybe with an optional KMart blue light special flasher on its top that comes on when you come within x meters (great for if you leave fog on).</p>
+<p>Have an “Approach Warning” setting in the UI that if an enemy spawns within range of it, the light flashes red instead of blue. Maybe with a thicker or taller shaft that is auto-painted to match its color. This way when you’re approaching at night or other low-visibility conditions, you can still spot the blue flash telling you where your destination is…and a red flash will tell you to expect some fluffy tailed bulls or alpha spitters waiting nearby.</p>
+<p>Build cost could be adjusted to keep it balanced (Proximity Beacon requires steel beam, rubber and an AI limiter or High Speed Connector but creates a 2m high color-coded beacon with high-visibility flashing light dome top, no power source required.</p>
+<p>Or could it be possible to add the Mk2 beacons to the Object Scanner’s list of scannable things if you haven’t unlocked Map yet?</p>
+<p>That way you don’t have to blind ping, you could select “Pure Nodes” on the Scanner and if it shows a high indicator in the same direction as your latest ping, even without a map you can at least tell if it’s a Pure or Normal node you’re marching towards, if you’ve previously beacon marked it.</p>
+<p>The more I think on it, a “Smart Beacons” mod could be one of those little ones that doesn’t shake the whole game but at least just helps you spend a little less time messing with a useful but monotonous function. Takes beacons from a rather awkward little stick in the mud to dynamic, active tools for surveys and resource management on the large scale.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/smart-beacons-mod/952/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/smart-beacons-mod/952/1</link>
+        <pubDate>Fri, 30 Oct 2020 05:47:46 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-952-1</guid>
+        <source url="https://forums.ficsit.app/t/smart-beacons-mod/952.rss">“Smart Beacons” Mod?</source>
+      </item>
+  </channel>
+</rss>

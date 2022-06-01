@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>REQUEST: Resource Node Foundation Snapping</title>
+    <link>https://forums.ficsit.app/t/request-resource-node-foundation-snapping/1537</link>
+    <description>Hello:
+
+Is it possible to develop a mod that would allow foundations to snap to resource nodes?
+If so, is anyone willing to develop this mod?
+
+Unfortunately, I have a bit of OCD and like to keep things neat.</description>
+    
+    <lastBuildDate>Thu, 13 Jan 2022 16:06:12 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/request-resource-node-foundation-snapping/1537.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>REQUEST: Resource Node Foundation Snapping</title>
+        <dc:creator><![CDATA[@Jeffery_J_Sease Jeffery J Sease]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jeffery_j_sease">@Jeffery_J_Sease</a> wrote:</p>
+          <blockquote>
+              <p>Hello:</p>
+<p>Is it possible to develop a mod that would allow foundations to snap to resource nodes?<br>
+If so, is anyone willing to develop this mod?</p>
+<p>Unfortunately, I have a bit of OCD and like to keep things neat.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/request-resource-node-foundation-snapping/1537/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/request-resource-node-foundation-snapping/1537/1</link>
+        <pubDate>Thu, 13 Jan 2022 16:06:12 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1537-1</guid>
+        <source url="https://forums.ficsit.app/t/request-resource-node-foundation-snapping/1537.rss">REQUEST: Resource Node Foundation Snapping</source>
+      </item>
+  </channel>
+</rss>

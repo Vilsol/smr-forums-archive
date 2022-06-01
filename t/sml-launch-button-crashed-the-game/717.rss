@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>SML Launch Button Crashed the Game</title>
+    <link>https://forums.ficsit.app/t/sml-launch-button-crashed-the-game/717</link>
+    <description>SML Launch Button Crashed the Game.
+I can launch the Modded game with the normal icon on my desktop just not the launch button in SML (this started right after the new SML update.</description>
+    
+    <lastBuildDate>Mon, 06 Jul 2020 17:47:30 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forums.ficsit.app/t/sml-launch-button-crashed-the-game/717.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>SML Launch Button Crashed the Game</title>
+        <dc:creator><![CDATA[@LadyKathleen Lady Kathleen]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/ladykathleen">@LadyKathleen</a> wrote:</p>
+          <blockquote>
+              <p>SML Launch Button Crashed the Game.<br>
+I can launch the Modded game with the normal icon on my desktop just not the launch button in SML (this started right after the new SML update.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/sml-launch-button-crashed-the-game/717/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/sml-launch-button-crashed-the-game/717/1</link>
+        <pubDate>Mon, 06 Jul 2020 17:47:30 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-717-1</guid>
+        <source url="https://forums.ficsit.app/t/sml-launch-button-crashed-the-game/717.rss">SML Launch Button Crashed the Game</source>
+      </item>
+  </channel>
+</rss>

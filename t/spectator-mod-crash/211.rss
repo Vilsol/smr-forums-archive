@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Spectator mod crash</title>
+    <link>https://forums.ficsit.app/t/spectator-mod-crash/211</link>
+    <description>Hey.
+
+I&#39;ve just installed SML and the Spectator mod for SML.
+When I attempt to load into my world, this is what I get in the console:
+
+[SML] Initializing Paks!
+[SML] test
+[SML] test
+[SML] test
+LogStreaming: Error: Couldn&#39;t find file for package /Game/FactoryGame/SpectatorMod-1 requested by async loading code. NameToLoad: /Game/FactoryGame/SpectatorMod-1
+LogStreaming: Error: Found 0 dependent packages...
+LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+
+
+What am I doing wrong?</description>
+    
+    <lastBuildDate>Tue, 10 Mar 2020 14:54:50 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/spectator-mod-crash/211.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Spectator mod crash</title>
+        <dc:creator><![CDATA[@Marton_Meszaros Marton Meszaros]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/marton_meszaros">@Marton_Meszaros</a> wrote:</p>
+          <blockquote>
+              <p>Hey.</p>
+<p>I’ve just installed SML and the Spectator mod for SML.<br>
+When I attempt to load into my world, this is what I get in the console:</p>
+<p>[SML] Initializing Paks!<br>
+[SML] test<br>
+[SML] test<br>
+[SML] test<br>
+LogStreaming: Error: Couldn’t find file for package /Game/FactoryGame/SpectatorMod-1 requested by async loading code. NameToLoad: /Game/FactoryGame/SpectatorMod-1<br>
+LogStreaming: Error: Found 0 dependent packages…<br>
+LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)</p>
+<p>What am I doing wrong?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/spectator-mod-crash/211/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/spectator-mod-crash/211/1</link>
+        <pubDate>Tue, 10 Mar 2020 14:54:50 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-211-1</guid>
+        <source url="https://forums.ficsit.app/t/spectator-mod-crash/211.rss">Spectator mod crash</source>
+      </item>
+  </channel>
+</rss>

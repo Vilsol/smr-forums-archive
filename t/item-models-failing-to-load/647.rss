@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Item models failing to load</title>
+    <link>https://forums.ficsit.app/t/item-models-failing-to-load/647</link>
+    <description>![image|631x500](upload://8wDlT4Uje4SvUofNGfRZ6BRY2MJ.jpeg) 
+
+I have 12 mods installed currently: 
+StackMeMore 0.1.5
+Light it up 0.5.7
+Blade Runner Mk.2 0.0.1
+Floor hole 0.1.0
+ExoSuit Mod 0.0.10
+WFurniture 0.2.0
+Pak Utility Mod 0.4.0
+Calculator 0.0.3
+10 + Inventory Slots 0.0.1
+Utility Signs 1.0.0
+Area Actions 1.6.4
+
+I would like to know which mod might be causing it and how I can fix my current issues. They worked together before the steam update of satisfactory. I am running it from Epic games. SML 2.1.2</description>
+    
+    <lastBuildDate>Tue, 23 Jun 2020 20:56:17 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forums.ficsit.app/t/item-models-failing-to-load/647.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Item models failing to load</title>
+        <dc:creator><![CDATA[@JamieRCHI Jamie]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jamierchi">@JamieRCHI</a> wrote:</p>
+          <blockquote>
+              <p>The ‘work around’ does not work for me. The items are still streched too much in the inventory. Experimental build 124887.<br>
+FYI: I use 7z for zip files. I only need to right click the file, select ‘open as archive’, and drag and drop the files as needed. Much more convenient.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/item-models-failing-to-load/647/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/item-models-failing-to-load/647/5</link>
+        <pubDate>Tue, 23 Jun 2020 20:56:17 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-647-5</guid>
+        <source url="https://forums.ficsit.app/t/item-models-failing-to-load/647.rss">Item models failing to load</source>
+      </item>
+      <item>
+        <title>Item models failing to load</title>
+        <dc:creator><![CDATA[@Rudi_Boshoff Rudi Boshoff]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/rudi_boshoff">@Rudi_Boshoff</a> wrote:</p>
+          <blockquote>
+              <p>Okay, So you were right. It is the StackMeMore mode causing the issue. I forgot that long ago before I had the mod launcher I followed the instructions under the mod.</p>
+<p>“To install change the file to a zip and extract files to SatisfactoryEarlyAccess\FactoryGame\Content\Paks”<br>
+I just deleted the files there. BAM models are back.</p>
+<p>As per the mod’s instructions:<br>
+“This mod has issues with the UI stretching, theres a work around for it by going into Options-User Interface-Enable Large Inventory Slots”</p>
+<p>This fixed my issues with scaling issues for the UI.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/item-models-failing-to-load/647/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/item-models-failing-to-load/647/4</link>
+        <pubDate>Wed, 17 Jun 2020 14:37:32 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-647-4</guid>
+        <source url="https://forums.ficsit.app/t/item-models-failing-to-load/647.rss">Item models failing to load</source>
+      </item>
+      <item>
+        <title>Item models failing to load</title>
+        <dc:creator><![CDATA[@Rudi_Boshoff Rudi Boshoff]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/rudi_boshoff">@Rudi_Boshoff</a> wrote:</p>
+          <blockquote>
+              <p>Hey,</p>
+<p>Every item except ore.</p>
+<p>I did “verify” the game through epic games and no errors were found with my game files. I also opened another save in case it was the save that was corrupted. Also no luck.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/item-models-failing-to-load/647/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/item-models-failing-to-load/647/3</link>
+        <pubDate>Wed, 17 Jun 2020 14:25:20 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-647-3</guid>
+        <source url="https://forums.ficsit.app/t/item-models-failing-to-load/647.rss">Item models failing to load</source>
+      </item>
+      <item>
+        <title>Item models failing to load</title>
+        <dc:creator><![CDATA[@JamieRCHI Jamie]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jamierchi">@JamieRCHI</a> wrote:</p>
+          <blockquote>
+              <p>I had this issue once with rubber. What Item is this supposed to be in your picture?<br>
+My issue later went away. I don’t know why.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/item-models-failing-to-load/647/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/item-models-failing-to-load/647/2</link>
+        <pubDate>Sat, 13 Jun 2020 16:01:23 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-647-2</guid>
+        <source url="https://forums.ficsit.app/t/item-models-failing-to-load/647.rss">Item models failing to load</source>
+      </item>
+      <item>
+        <title>Item models failing to load</title>
+        <dc:creator><![CDATA[@Rudi_Boshoff Rudi Boshoff]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/rudi_boshoff">@Rudi_Boshoff</a> wrote:</p>
+          <blockquote>
+              <p><div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/3bc1c8f0af60355cc2a92cd7e31530fd207af0a5.jpeg" data-download-href="https://forums.ficsit.app/uploads/default/3bc1c8f0af60355cc2a92cd7e31530fd207af0a5" title="image"><img src="https://forums.ficsit.app/uploads/default/original/1X/3bc1c8f0af60355cc2a92cd7e31530fd207af0a5.jpeg" alt="image" data-base62-sha1="8wDlT4Uje4SvUofNGfRZ6BRY2MJ" width="631" height="500" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/3bc1c8f0af60355cc2a92cd7e31530fd207af0a5_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">709×561 155 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>I have 12 mods installed currently:<br>
+StackMeMore 0.1.5<br>
+Light it up 0.5.7<br>
+Blade Runner Mk.2 0.0.1<br>
+Floor hole 0.1.0<br>
+ExoSuit Mod 0.0.10<br>
+WFurniture 0.2.0<br>
+Pak Utility Mod 0.4.0<br>
+Calculator 0.0.3<br>
+10 + Inventory Slots 0.0.1<br>
+Utility Signs 1.0.0<br>
+Area Actions 1.6.4</p>
+<p>I would like to know which mod might be causing it and how I can fix my current issues. They worked together before the steam update of satisfactory. I am running it from Epic games. SML 2.1.2</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/item-models-failing-to-load/647/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/item-models-failing-to-load/647/1</link>
+        <pubDate>Fri, 12 Jun 2020 12:20:03 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-647-1</guid>
+        <source url="https://forums.ficsit.app/t/item-models-failing-to-load/647.rss">Item models failing to load</source>
+      </item>
+  </channel>
+</rss>

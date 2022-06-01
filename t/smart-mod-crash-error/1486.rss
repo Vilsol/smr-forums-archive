@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Smart Mod Crash Error</title>
+    <link>https://forums.ficsit.app/t/smart-mod-crash-error/1486</link>
+    <description>When I want to make a mk2 converter, I get a crash error. This problem goes away when the mod is deleted. How can I solve this problem?</description>
+    
+    <lastBuildDate>Sun, 12 Dec 2021 12:32:07 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forums.ficsit.app/t/smart-mod-crash-error/1486.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Smart Mod Crash Error</title>
+        <dc:creator><![CDATA[@Dennis Dennis]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/dennis">@Dennis</a> wrote:</p>
+          <blockquote>
+              <p>It also happens with big pillars…</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/smart-mod-crash-error/1486/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/smart-mod-crash-error/1486/6</link>
+        <pubDate>Sun, 12 Dec 2021 12:32:07 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1486-6</guid>
+        <source url="https://forums.ficsit.app/t/smart-mod-crash-error/1486.rss">Smart Mod Crash Error</source>
+      </item>
+      <item>
+        <title>Smart Mod Crash Error</title>
+        <dc:creator><![CDATA[@Marek_Hraba Marek Hraba]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/marek_hraba">@Marek_Hraba</a> wrote:</p>
+          <blockquote>
+              <p>The problem still persists, when I select bottom side of the pillar, it’s just crashes to desktop. I didn’t test other building parts, but I know it’s still broken… well… maybe an error from the log could help solve the problem?</p>
+<pre><code>Fatal error!
+
+Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0x00000000000004e8
+
+0x00007ff844f0f135 FactoryGame-FactoryGame-Win64-Shipping.dll!AFGFoundationHologram::BeginPlay() [d:\ws\sb-211116092526-440\ue4\games\factorygame\source\factorygame\private\hologram\fgfoundationhologram.cpp:63]
+0x00007ff843127164 FactoryGame-SmartFoundations-Win64-Shipping.dll!ASFFoundationHologram::BeginPlay() [C:\Users\IlonMaks\Desktop\SmartFoundationsU5\Plugins\SmartFoundations\Source\SmartFoundations\Holograms\SFFoundationHologram.cpp:27]
+0x00007ff84f268ba4 FactoryGame-Engine-Win64-Shipping.dll!AActor::DispatchBeginPlay() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\engine\private\actor.cpp:3569]
+0x00007ff84f27ff1e FactoryGame-Engine-Win64-Shipping.dll!AActor::PostActorConstruction() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\engine\private\actor.cpp:3403]
+0x00007ff84f2714c7 FactoryGame-Engine-Win64-Shipping.dll!AActor::FinishSpawning() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\engine\private\actor.cpp:3299]
+0x00007ff844f32314 FactoryGame-FactoryGame-Win64-Shipping.dll!AFGHologram::SpawnHologramFromRecipe() [d:\ws\sb-211116092526-440\ue4\games\factorygame\source\factorygame\private\hologram\fghologram.cpp:117]
+0x00007ff844cb41a5 FactoryGame-FactoryGame-Win64-Shipping.dll!UFGBuildGunStateBuild::InternalSpawnHologram() [d:\ws\sb-211116092526-440\ue4\games\factorygame\source\factorygame\private\equipment\fgbuildgunbuild.cpp:1369]
+0x00007ff844cc03de FactoryGame-FactoryGame-Win64-Shipping.dll!UFGBuildGunStateBuild::SetActiveRecipe() [d:\ws\sb-211116092526-440\ue4\games\factorygame\source\factorygame\private\equipment\fgbuildgunbuild.cpp:817]
+0x00007ff845069358 FactoryGame-FactoryGame-Win64-Shipping.dll!AFGBuildGun::execGotoBuildState() [d:\ws\sb-211116092526-440\ue4\games\factorygame\intermediate\build\win64\factorygame\inc\factorygame\fgbuildgun.gen.cpp:1674]
+0x00007ff865d14cd9 FactoryGame-CoreUObject-Win64-Shipping.dll!UFunction::Invoke() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\coreuobject\private\uobject\class.cpp:5589]
+0x00007ff865eb905a FactoryGame-CoreUObject-Win64-Shipping.dll!UObject::CallFunction() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\coreuobject\private\uobject\scriptcore.cpp:999]
+0x00007ff865ec7330 FactoryGame-CoreUObject-Win64-Shipping.dll!UObject::ProcessContextOpcode() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\coreuobject\private\uobject\scriptcore.cpp:2870]
+0x00007ff865ec864f FactoryGame-CoreUObject-Win64-Shipping.dll!ProcessLocalScriptFunction() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\coreuobject\private\uobject\scriptcore.cpp:1067]
+0x00007ff865ec854e FactoryGame-CoreUObject-Win64-Shipping.dll!UObject::ProcessInternal() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\coreuobject\private\uobject\scriptcore.cpp:1157]
+0x00007ff865d14cd9 FactoryGame-CoreUObject-Win64-Shipping.dll!UFunction::Invoke() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\coreuobject\private\uobject\class.cpp:5589]
+0x00007ff865ec7f18 FactoryGame-CoreUObject-Win64-Shipping.dll!UObject::ProcessEvent() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\coreuobject\private\uobject\scriptcore.cpp:1992]
+0x00007ff865eb04a9 FactoryGame-CoreUObject-Win64-Shipping.dll!TMulticastScriptDelegate&lt;FWeakObjectPtr&gt;::ProcessMulticastDelegate&lt;UObject&gt;() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\core\public\uobject\scriptdelegates.h:488]
+0x00007ff865eb9eb0 FactoryGame-CoreUObject-Win64-Shipping.dll!FCallDelegateHelper::CallMulticastDelegate() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\coreuobject\private\uobject\scriptcore.cpp:3046]
+0x00007ff865ec864f FactoryGame-CoreUObject-Win64-Shipping.dll!ProcessLocalScriptFunction() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\coreuobject\private\uobject\scriptcore.cpp:1067]
+0x00007ff865eb09ba FactoryGame-CoreUObject-Win64-Shipping.dll!ProcessScriptFunction&lt;void (__cdecl*)(UObject *,FFrame &amp;,void *)&gt;() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\coreuobject\private\uobject\scriptcore.cpp:898]
+0x00007ff865eddb8b FactoryGame-CoreUObject-Win64-Shipping.dll!UObject::execLocalFinalFunction() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\coreuobject\private\uobject\scriptcore.cpp:2997]
+0x00007ff865ec864f FactoryGame-CoreUObject-Win64-Shipping.dll!ProcessLocalScriptFunction() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\coreuobject\private\uobject\scriptcore.cpp:1067]
+0x00007ff865ec854e FactoryGame-CoreUObject-Win64-Shipping.dll!UObject::ProcessInternal() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\coreuobject\private\uobject\scriptcore.cpp:1157]
+0x00007ff865d14cd9 FactoryGame-CoreUObject-Win64-Shipping.dll!UFunction::Invoke() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\coreuobject\private\uobject\class.cpp:5589]
+0x00007ff865ec7f18 FactoryGame-CoreUObject-Win64-Shipping.dll!UObject::ProcessEvent() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\coreuobject\private\uobject\scriptcore.cpp:1992]
+0x00007ff852fd0bf7 FactoryGame-UMG-Win64-Shipping.dll!TMulticastScriptDelegate&lt;FWeakObjectPtr&gt;::ProcessMulticastDelegate&lt;UObject&gt;() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\core\public\uobject\scriptdelegates.h:488]
+0x00007ff85309a187 FactoryGame-UMG-Win64-Shipping.dll!UButton::SlateHandleClicked() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\umg\private\components\button.cpp:205]
+0x00007ff8530308ee FactoryGame-UMG-Win64-Shipping.dll!TBaseUObjectMethodDelegateInstance&lt;0,UButton,FReply __cdecl(void),FDefaultDelegateUserPolicy&gt;::Execute() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:593]
+0x00007ff8c73e385c FactoryGame-Slate-Win64-Shipping.dll!SButton::ExecuteOnClick() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\slate\private\widgets\input\sbutton.cpp:387]
+0x00007ff8c73f6755 FactoryGame-Slate-Win64-Shipping.dll!SButton::OnMouseButtonUp() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\slate\private\widgets\input\sbutton.cpp:304]
+0x00007ff8c72be618 FactoryGame-Slate-Win64-Shipping.dll!FEventRouter::Route&lt;FReply,FEventRouter::FToLeafmostPolicy,FPointerEvent,&lt;lambda_73bb70f2c9167b999fc601bc6c844bdb&gt; &gt;() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:388]
+0x00007ff8c731cbd6 FactoryGame-Slate-Win64-Shipping.dll!FSlateApplication::RoutePointerUpEvent() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:4815]
+0x00007ff8c730c35b FactoryGame-Slate-Win64-Shipping.dll!FSlateApplication::ProcessMouseButtonUpEvent() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5356]
+0x00007ff8c730408b FactoryGame-Slate-Win64-Shipping.dll!FSlateApplication::OnMouseUp() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5321]
+0x00007ff8f64aeeac FactoryGame-ApplicationCore-Win64-Shipping.dll!FWindowsApplication::ProcessDeferredMessage() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:2174]
+0x00007ff8f64a06f7 FactoryGame-ApplicationCore-Win64-Shipping.dll!FWindowsApplication::DeferMessage() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:2638]
+0x00007ff8f64b106b FactoryGame-ApplicationCore-Win64-Shipping.dll!FWindowsApplication::ProcessMessage() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:1850]
+0x00007ff8f649d18b FactoryGame-ApplicationCore-Win64-Shipping.dll!FWindowsApplication::AppWndProc() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:874]
+0x00007ff9188ae7e8 USER32.dll!UnknownFunction []
+0x00007ff9188ae229 USER32.dll!UnknownFunction []
+0x00007ff8f64b2039 FactoryGame-ApplicationCore-Win64-Shipping.dll!FWindowsPlatformApplicationMisc::PumpMessages() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\applicationcore\private\windows\windowsplatformapplicationmisc.cpp:130]
+0x00007ff68e592a5f FactoryGame-Win64-Shipping.exe!FEngineLoop::Tick() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\launch\private\launchengineloop.cpp:4817]
+0x00007ff68e598eac FactoryGame-Win64-Shipping.exe!GuardedMain() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\launch\private\launch.cpp:169]
+0x00007ff68e598f1a FactoryGame-Win64-Shipping.exe!GuardedMainWrapper() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\launch\private\windows\launchwindows.cpp:137]
+0x00007ff68e5a3e57 FactoryGame-Win64-Shipping.exe!WinMain() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\launch\private\windows\launchwindows.cpp:268]
+0x00007ff68e5a498e FactoryGame-Win64-Shipping.exe!__scrt_common_main_seh() [d:\agent\_work\2\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+0x00007ff9190c7034 KERNEL32.DLL!UnknownFunction []
+0x00007ff919202651 ntdll.dll!UnknownFunction []</code></pre>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/smart-mod-crash-error/1486/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/smart-mod-crash-error/1486/5</link>
+        <pubDate>Tue, 07 Dec 2021 00:52:49 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1486-5</guid>
+        <source url="https://forums.ficsit.app/t/smart-mod-crash-error/1486.rss">Smart Mod Crash Error</source>
+      </item>
+      <item>
+        <title>Smart Mod Crash Error</title>
+        <dc:creator><![CDATA[@Benjamin_McDaniel Benjamin Mc Daniel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/benjamin_mcdaniel">@Benjamin_McDaniel</a> wrote:</p>
+          <blockquote>
+              <p>Still broken when selecting a foundation or copying a building. Freeze crash every time.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/smart-mod-crash-error/1486/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/smart-mod-crash-error/1486/4</link>
+        <pubDate>Fri, 03 Dec 2021 06:29:12 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1486-4</guid>
+        <source url="https://forums.ficsit.app/t/smart-mod-crash-error/1486.rss">Smart Mod Crash Error</source>
+      </item>
+      <item>
+        <title>Smart Mod Crash Error</title>
+        <dc:creator><![CDATA[@Elime_De_La_Video Elimé De La Video]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/elime_de_la_video">@Elime_De_La_Video</a> wrote:</p>
+          <blockquote>
+              <p>Smart has been updated. I don’t really have time to test it out right now but if you do, please tell me if it works.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/smart-mod-crash-error/1486/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/smart-mod-crash-error/1486/3</link>
+        <pubDate>Thu, 02 Dec 2021 12:41:48 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1486-3</guid>
+        <source url="https://forums.ficsit.app/t/smart-mod-crash-error/1486.rss">Smart Mod Crash Error</source>
+      </item>
+      <item>
+        <title>Smart Mod Crash Error</title>
+        <dc:creator><![CDATA[@Elime_De_La_Video Elimé De La Video]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/elime_de_la_video">@Elime_De_La_Video</a> wrote:</p>
+          <blockquote>
+              <p>Yea same for me but the crashes occur whenever I try to select a foundation in the Builder tool. I figured that it was when Smart was installed. I guess it’s because of the patch that got released earlier today and the mod isn’t updated yet. The problem here is pretty similar so it’s probably just about waiting for the mods to get updated for this patch.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/smart-mod-crash-error/1486/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/smart-mod-crash-error/1486/2</link>
+        <pubDate>Thu, 02 Dec 2021 04:26:59 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1486-2</guid>
+        <source url="https://forums.ficsit.app/t/smart-mod-crash-error/1486.rss">Smart Mod Crash Error</source>
+      </item>
+      <item>
+        <title>Smart Mod Crash Error</title>
+        <dc:creator><![CDATA[@Adem_Furkan Adem Furkan]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/adem_furkan">@Adem_Furkan</a> wrote:</p>
+          <blockquote>
+              <p>When I want to make a mk2 converter, I get a crash error. This problem goes away when the mod is deleted. How can I solve this problem?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/smart-mod-crash-error/1486/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/smart-mod-crash-error/1486/1</link>
+        <pubDate>Wed, 01 Dec 2021 21:27:19 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1486-1</guid>
+        <source url="https://forums.ficsit.app/t/smart-mod-crash-error/1486.rss">Smart Mod Crash Error</source>
+      </item>
+  </channel>
+</rss>

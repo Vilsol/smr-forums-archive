@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Fluid Packager bug?</title>
+    <link>https://forums.ficsit.app/t/fluid-packager-bug/990</link>
+    <description>The fluid updates just came to the Early Access, but the Packager has no recipes for some reason. The Fluid Packager Mod has all the recipes, however, once researched on the M.A.M. 
+
+Is the mod disabling the official update building, or is something wrong on my install? What am I missing?
+
+TLDR The mod is working fine, but the original building is not. Is it reading the resources correctly?
+
+I will try to disable the mod and see if the packager receives its recipes.</description>
+    
+    <lastBuildDate>Wed, 11 Nov 2020 02:41:27 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forums.ficsit.app/t/fluid-packager-bug/990.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Fluid Packager bug?</title>
+        <dc:creator><![CDATA[@Luiz_Fernando_Abdala Luiz Fernando Abdala]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/luiz_fernando_abdala">@Luiz_Fernando_Abdala</a> wrote:</p>
+          <blockquote>
+              <p>Yes! Yes the mod took the place of the original building! The modded packager ceased to exist, and when creating a new packager, it  has all the recipes, except the diluted fuel!</p>
+<p>The fluid packager is trying to replace the original building, and “stole” all the recipes. If you try to create the original building, it will have no recipes.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/fluid-packager-bug/990/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/fluid-packager-bug/990/2</link>
+        <pubDate>Wed, 11 Nov 2020 02:41:27 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-990-2</guid>
+        <source url="https://forums.ficsit.app/t/fluid-packager-bug/990.rss">Fluid Packager bug?</source>
+      </item>
+      <item>
+        <title>Fluid Packager bug?</title>
+        <dc:creator><![CDATA[@Luiz_Fernando_Abdala Luiz Fernando Abdala]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/luiz_fernando_abdala">@Luiz_Fernando_Abdala</a> wrote:</p>
+          <blockquote>
+              <p>The fluid updates just came to the Early Access, but the Packager has no recipes for some reason. The Fluid Packager Mod has all the recipes, however, once researched on the M.A.M.</p>
+<p>Is the mod disabling the official update building, or is something wrong on my install? What am I missing?</p>
+<p>TLDR The mod is working fine, but the original building is not. Is it reading the resources correctly?</p>
+<p>I will try to disable the mod and see if the packager receives its recipes.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/fluid-packager-bug/990/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/fluid-packager-bug/990/1</link>
+        <pubDate>Wed, 11 Nov 2020 02:35:53 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-990-1</guid>
+        <source url="https://forums.ficsit.app/t/fluid-packager-bug/990.rss">Fluid Packager bug?</source>
+      </item>
+  </channel>
+</rss>

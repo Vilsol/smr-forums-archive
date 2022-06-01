@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Existing Mod &quot;slowItDown&quot;</title>
+    <link>https://forums.ficsit.app/t/existing-mod-slowitdown/636</link>
+    <description>Hi all
+I hope the Programmer could read this or some how know the programmer xDaris for the mod.
+
+if ist possible it would be nice to add a feature to the lovely toggler:
+currently its flowing items when the toggel is empty and stop when its full.
+may be it would be nice to make a negativ button.
+thats means  the throttle is closed by Default and will open if the toggel say belt is full (and not by if its empty):
+
+example by a big storage handling to Prevent a storage to over flow and block a mixed incoming belt before.
+
+thanks in advance</description>
+    
+    <lastBuildDate>Fri, 10 Jul 2020 20:54:55 +0000</lastBuildDate>
+    <category>Suggestions &amp; Ideas</category>
+    <atom:link href="https://forums.ficsit.app/t/existing-mod-slowitdown/636.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Existing Mod &quot;slowItDown&quot;</title>
+        <dc:creator><![CDATA[@shubnigg Shubnigg]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/shubnigg">@shubnigg</a> wrote:</p>
+          <blockquote>
+              <p>Use the Programmable Splitter and use the overflow option in it.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/existing-mod-slowitdown/636/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/existing-mod-slowitdown/636/2</link>
+        <pubDate>Fri, 10 Jul 2020 20:54:55 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-636-2</guid>
+        <source url="https://forums.ficsit.app/t/existing-mod-slowitdown/636.rss">Existing Mod &quot;slowItDown&quot;</source>
+      </item>
+      <item>
+        <title>Existing Mod &quot;slowItDown&quot;</title>
+        <dc:creator><![CDATA[@Shorty66666 Shorty66666]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/shorty66666">@Shorty66666</a> wrote:</p>
+          <blockquote>
+              <p>Hi all<br>
+I hope the Programmer could read this or some how know the programmer xDaris for the mod.</p>
+<p>if ist possible it would be nice to add a feature to the lovely toggler:<br>
+currently its flowing items when the toggel is empty and stop when its full.<br>
+may be it would be nice to make a negativ button.<br>
+thats means  the throttle is closed by Default and will open if the toggel say belt is full (and not by if its empty):</p>
+<p>example by a big storage handling to Prevent a storage to over flow and block a mixed incoming belt before.</p>
+<p>thanks in advance</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/existing-mod-slowitdown/636/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/existing-mod-slowitdown/636/1</link>
+        <pubDate>Wed, 10 Jun 2020 13:51:25 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-636-1</guid>
+        <source url="https://forums.ficsit.app/t/existing-mod-slowitdown/636.rss">Existing Mod &quot;slowItDown&quot;</source>
+      </item>
+  </channel>
+</rss>

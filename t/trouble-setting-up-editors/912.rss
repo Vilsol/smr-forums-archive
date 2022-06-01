@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Trouble setting up editors</title>
+    <link>https://forums.ficsit.app/t/trouble-setting-up-editors/912</link>
+    <description>I keep getting the following errors when I try to compile the starter project for the first time:
+
+Error 1 struct: &#39;SplinePointData&#39; conflicts with another type of the same name
+
+Error 2 MSB3075	The command &quot;&quot;C:\Program Files\Unreal Engine - CSS\Engine\Build\BatchFiles\Build.bat&quot; FactoryGameEditor Win64 Development -Project=&quot;C:\Users\&lt;Username&gt;\Documents\SatisfactoryMod1\StarterProject\FactoryGame.uproject&quot; -WaitMutex -FromMsBuild&quot; exited with code 5.
+
+I&#39;ve noticed that FSplinePointData.generated.h doesn&#39;t exist in the factorygame project.
+
+Has anyone else had this problem. I followed the setup instructions precisely.</description>
+    
+    <lastBuildDate>Thu, 08 Oct 2020 07:56:41 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/trouble-setting-up-editors/912.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Trouble setting up editors</title>
+        <dc:creator><![CDATA[@Robb Rob B]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/robb">@Robb</a> wrote:</p>
+          <blockquote>
+              <p>I haven’t heard of this issue before, but there was an update pretty recently after all. I suggest you ask in the <span class="hashtag">#help-making-mods</span> channel on the Discord, which is usually where people will hang out and answer setup questions like this.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/trouble-setting-up-editors/912/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/trouble-setting-up-editors/912/2</link>
+        <pubDate>Thu, 08 Oct 2020 07:56:41 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-912-2</guid>
+        <source url="https://forums.ficsit.app/t/trouble-setting-up-editors/912.rss">Trouble setting up editors</source>
+      </item>
+      <item>
+        <title>Trouble setting up editors</title>
+        <dc:creator><![CDATA[@kfpopeye Kfpopeye]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/kfpopeye">@kfpopeye</a> wrote:</p>
+          <blockquote>
+              <p>I keep getting the following errors when I try to compile the starter project for the first time:</p>
+<p>Error 1 struct: ‘SplinePointData’ conflicts with another type of the same name</p>
+<p>Error 2 MSB3075	The command ““C:\Program Files\Unreal Engine - CSS\Engine\Build\BatchFiles\Build.bat” FactoryGameEditor Win64 Development -Project=“C:\Users&lt;Username&gt;\Documents\SatisfactoryMod1\StarterProject\FactoryGame.uproject” -WaitMutex -FromMsBuild” exited with code 5.</p>
+<p>I’ve noticed that FSplinePointData.generated.h doesn’t exist in the factorygame project.</p>
+<p>Has anyone else had this problem. I followed the setup instructions precisely.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/trouble-setting-up-editors/912/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/trouble-setting-up-editors/912/1</link>
+        <pubDate>Sat, 03 Oct 2020 12:18:16 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-912-1</guid>
+        <source url="https://forums.ficsit.app/t/trouble-setting-up-editors/912.rss">Trouble setting up editors</source>
+      </item>
+  </channel>
+</rss>

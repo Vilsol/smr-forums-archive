@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:discourse="http://www.discourse.org/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Pak Modding - SMR Forums</title>
+    <link>https://forums.ficsit.app/c/modding-help/pak-modding</link>
+    <description>Topics in the &#39;Pak Modding&#39; category Any questions related to Pak Modding.</description>
+    
+      <lastBuildDate>Thu, 30 Sep 2021 12:45:19 +0000</lastBuildDate>
+      <atom:link href="https://forums.ficsit.app/c/modding-help/pak-modding.rss" rel="self" type="application/rss+xml" />
+        <item>
+          <title>Problem when Alpakit failes to cook</title>
+          <dc:creator><![CDATA[@Simonsej123_Gamermin Simonsej123 Gamerminecraft]]></dc:creator>
+          <category>Pak Modding</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/simonsej123_gamermin">@Simonsej123_Gamermin</a> wrote:</p>
+            <blockquote>
+              <p>Hi i am trying to make a mod, but when i hit Alpakit, after 30 seconds it will pop up saying it failed. I looked at the logs, but it looks like it has to do with some cooking of some sort. I will give you a log here: <a href="https://pastebin.com/2MLgmgyM" rel="nofollow noopener">here</a> or <a href="https://pastebin.com/5Fuu8K2e" rel="nofollow noopener">here</a></p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.ficsit.app/t/problem-when-alpakit-failes-to-cook/1405">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/problem-when-alpakit-failes-to-cook/1405</link>
+          <pubDate>Thu, 30 Sep 2021 12:45:19 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1405</guid>
+          <source url="https://forums.ficsit.app/t/problem-when-alpakit-failes-to-cook/1405.rss">Problem when Alpakit failes to cook</source>
+        </item>
+        <item>
+          <title>Help with Alpakit Error</title>
+          <dc:creator><![CDATA[@Watz WatzTheEngineer]]></dc:creator>
+          <category>Pak Modding</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/watz">@Watz</a> wrote:</p>
+            <blockquote>
+              <p>Hi, if someone know why i have this error when i’m trying to use alpakit, or what does this error mean ? (I’m new with Unreal Engine).</p>
+<p>I installed UE from jenkins-UE-4.25.3-CSS-40 on GitHub</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/ff425b65260eea8b0bfc49fc8576446bcf53b2f1.png" data-download-href="https://forums.ficsit.app/uploads/default/ff425b65260eea8b0bfc49fc8576446bcf53b2f1" title="image"><img src="https://forums.ficsit.app/uploads/default/optimized/1X/ff425b65260eea8b0bfc49fc8576446bcf53b2f1_2_690x57.png" alt="image" data-base62-sha1="Aq7ViEuIhjWcnAxznusduCiVPax" width="690" height="57" srcset="https://forums.ficsit.app/uploads/default/optimized/1X/ff425b65260eea8b0bfc49fc8576446bcf53b2f1_2_690x57.png, https://forums.ficsit.app/uploads/default/optimized/1X/ff425b65260eea8b0bfc49fc8576446bcf53b2f1_2_1035x85.png 1.5x, https://forums.ficsit.app/uploads/default/optimized/1X/ff425b65260eea8b0bfc49fc8576446bcf53b2f1_2_1380x114.png 2x" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/ff425b65260eea8b0bfc49fc8576446bcf53b2f1_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1896×158 33.3 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div><br>
+The complete error line is:</p>
+<pre><code>UATHelper: Package Mod Task (Windows): ERROR: Failed to load script DLL: D:\Dev\SML\Build\Alpakit.Automation\Scripts\Alpakit.Automation.dll: Impossible de charger le fichier ou l'assembly 'Alpakit.Automation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' ou une de ses dépendances. L'opération n'est pas prise en charge. (Exception de HRESULT : 0x8013
+1515)
+</code></pre>
+<p><em>Sorry if part of this output is in French, I think it’s because my Windows is too</em></p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.ficsit.app/t/help-with-alpakit-error/1360">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/help-with-alpakit-error/1360</link>
+          <pubDate>Wed, 07 Jul 2021 14:35:30 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1360</guid>
+          <source url="https://forums.ficsit.app/t/help-with-alpakit-error/1360.rss">Help with Alpakit Error</source>
+        </item>
+        <item>
+          <title>Need help with the Pak Utility Mod crashes</title>
+          <dc:creator><![CDATA[@Mayank_Raj Mayank Raj]]></dc:creator>
+          <category>Pak Modding</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/mayank_raj">@Mayank_Raj</a> wrote:</p>
+            <blockquote>
+              <p>So my friend hosts the game and we both play together. We both downloaded the Pak Utility Mod a few days ago only to ease up the building process.</p>
+<p>After playing with it for 10 hours or something, it started crashing the game. My friend can host the game using that mod and play just fine, but as soon as I connect to his server with the same mod the game crashes with an error on my client saying “Outgoing reliable buffer overflow”.</p>
+<p>The mod is not life and death and I can still play without it but the building process is just too tedious specially if you are building vertically, which I always do. I need to build scaffolding like structures around to be able to move around the building and it is just too much time consuming. Also makes me forget at times what my building plan was.</p>
+<p>Anyone here who has an idea as to how can I fix it? Or even better, can anyone suggest a different mod for flying which is multiplayer compatible?</p>
+<p>We don’t use any other mods.</p>
+<p>Thanks.</p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.ficsit.app/t/need-help-with-the-pak-utility-mod-crashes/1062">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/need-help-with-the-pak-utility-mod-crashes/1062</link>
+          <pubDate>Mon, 04 Jan 2021 18:17:36 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1062</guid>
+          <source url="https://forums.ficsit.app/t/need-help-with-the-pak-utility-mod-crashes/1062.rss">Need help with the Pak Utility Mod crashes</source>
+        </item>
+        <item>
+          <title>How do I include my .sig with my Pak mod?</title>
+          <dc:creator><![CDATA[@sh4d0w4RCH3R415 Sh4d0w4 Rch3 R415]]></dc:creator>
+          <category>Pak Modding</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/sh4d0w4rch3r415">@sh4d0w4RCH3R415</a> wrote:</p>
+            <blockquote>
+              <p>So I’ve made a <a href="https://github.com/sh4d0w4RCH3R415/BetterResources-FGMod" rel="nofollow noopener">mod</a>, but I don’t know how to make it so that SML loads the .sig <em>with</em> the .pak file.</p>
+<p>If anyone knows a solution to this, <em><strong>please help me</strong></em>, as I would <strong>greatly appreciate it</strong>.</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.ficsit.app/t/how-do-i-include-my-sig-with-my-pak-mod/974">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/how-do-i-include-my-sig-with-my-pak-mod/974</link>
+          <pubDate>Fri, 06 Nov 2020 20:55:19 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-974</guid>
+          <source url="https://forums.ficsit.app/t/how-do-i-include-my-sig-with-my-pak-mod/974.rss">How do I include my .sig with my Pak mod?</source>
+        </item>
+        <item>
+          <title>Game doesn&#39;t seem to load new mod</title>
+          <dc:creator><![CDATA[@iceman11a Iceman11a *]]></dc:creator>
+          <category>Pak Modding</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/iceman11a">@iceman11a</a> wrote:</p>
+            <blockquote>
+              <p>I just set it up last night. I have been watching the video on this and what a pain. anyway. I see the PAK and SIG files being made. It’s just when I go in-game. That the mod doesn’t show in-game in the milestone. anyone have an idea what would cause this and a fix for it.</p>
+            </blockquote>
+            <p>Posts: 5</p>
+            <p>Participants: 3</p>
+            <p><a href="https://forums.ficsit.app/t/game-doesnt-seem-to-load-new-mod/449">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/game-doesnt-seem-to-load-new-mod/449</link>
+          <pubDate>Fri, 24 Apr 2020 18:44:52 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-449</guid>
+          <source url="https://forums.ficsit.app/t/game-doesnt-seem-to-load-new-mod/449.rss">Game doesn&#39;t seem to load new mod</source>
+        </item>
+        <item>
+          <title>Getting AlpaKit Error?</title>
+          <dc:creator><![CDATA[@GreyWolfe64 GreyWolfe64]]></dc:creator>
+          <category>Pak Modding</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/greywolfe64">@GreyWolfe64</a> wrote:</p>
+            <blockquote>
+              <p>Does anyone know why this is Happening, It says Alpakit Version is old and then it tries to fix it. an error (attached Pic) comes up and ue4 crashes!<img src="https://forums.ficsit.app/uploads/default/original/1X/c9fca4b1f7f987f977c0d431c86b91ffa75c472f.png" alt="error2" data-base62-sha1="sORfXwEoEzSz8xEbTD1gE48l8vR" width="374" height="144"> OK  If i’m in the Source Folder Executing it why is it telling me to rebuild Manually and how do i do such a thing???</p>
+            </blockquote>
+            <p>Posts: 7</p>
+            <p>Participants: 4</p>
+            <p><a href="https://forums.ficsit.app/t/getting-alpakit-error/135">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/getting-alpakit-error/135</link>
+          <pubDate>Wed, 08 Jan 2020 00:44:04 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-135</guid>
+          <source url="https://forums.ficsit.app/t/getting-alpakit-error/135.rss">Getting AlpaKit Error?</source>
+        </item>
+        <item>
+          <title>AlpaKit not creating PAK&#39;s</title>
+          <dc:creator><![CDATA[@TheMightySpud The Mighty Spud]]></dc:creator>
+          <category>Pak Modding</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/themightyspud">@TheMightySpud</a> wrote:</p>
+            <blockquote>
+              <p>Hi all,</p>
+<p>Just starting to play around with modding (simple foundation type blocks to start with).</p>
+<p>To test my setup I’ve downloaded the source for the fences mod and tried compiling it etc. with Alpakit, but it refuses to create the pak (the sig file is created and put in the right place, it’s just the Pak that’s missing).</p>
+<p>Would anyone have any idea why that could be happening?  I can’t see anything that stands out in the UE output log.</p>
+<p>Thanks<br>
+Spud</p>
+            </blockquote>
+            <p>Posts: 8</p>
+            <p>Participants: 4</p>
+            <p><a href="https://forums.ficsit.app/t/alpakit-not-creating-paks/126">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/alpakit-not-creating-paks/126</link>
+          <pubDate>Sun, 29 Dec 2019 00:17:44 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-126</guid>
+          <source url="https://forums.ficsit.app/t/alpakit-not-creating-paks/126.rss">AlpaKit not creating PAK&#39;s</source>
+        </item>
+        <item>
+          <title>About the Pak Modding category</title>
+          <dc:creator><![CDATA[@Vilsol]]></dc:creator>
+          <category>Pak Modding</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/vilsol">@Vilsol</a> wrote:</p>
+            <blockquote>
+              <p>Any questions related to Pak Modding.</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.ficsit.app/t/about-the-pak-modding-category/21">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/about-the-pak-modding-category/21</link>
+          <pubDate>Thu, 07 Nov 2019 16:36:19 +0000</pubDate>
+          <discourse:topicPinned>Yes</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-21</guid>
+          <source url="https://forums.ficsit.app/t/about-the-pak-modding-category/21.rss">About the Pak Modding category</source>
+        </item>
+  </channel>
+</rss>

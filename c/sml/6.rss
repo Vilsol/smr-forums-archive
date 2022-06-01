@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:discourse="http://www.discourse.org/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>SML - SMR Forums</title>
+    <link>https://forums.ficsit.app/c/sml</link>
+    <description>Topics in the &#39;SML&#39; category Satisfactory Mod Loader related discussions.</description>
+    
+      <lastBuildDate>Thu, 25 Nov 2021 17:13:53 +0000</lastBuildDate>
+      <atom:link href="https://forums.ficsit.app/c/sml.rss" rel="self" type="application/rss+xml" />
+        <item>
+          <title>How will we know when mods are working again?</title>
+          <dc:creator><![CDATA[@Jazzlovr Jazzlovr]]></dc:creator>
+          <category>SML</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/jazzlovr">@Jazzlovr</a> wrote:</p>
+            <blockquote>
+              <p>I don’t see anything in the Launcher today indicating that my game’s about to crash on launch, but I do understand it’s a matter of waiting for mod updates (for me, it’s Passive Mode, More Milestones, and Kraigsta Milestones).  Is it simply “try it every few days and see”, or something more subtle than that?</p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.ficsit.app/t/how-will-we-know-when-mods-are-working-again/1469">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/how-will-we-know-when-mods-are-working-again/1469</link>
+          <pubDate>Thu, 25 Nov 2021 17:13:53 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1469</guid>
+          <source url="https://forums.ficsit.app/t/how-will-we-know-when-mods-are-working-again/1469.rss">How will we know when mods are working again?</source>
+        </item>
+        <item>
+          <title>SMM Pushing all the wrong buttons</title>
+          <dc:creator><![CDATA[@Roger_Dyer Roger Dyer]]></dc:creator>
+          <category>SML</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/roger_dyer">@Roger_Dyer</a> wrote:</p>
+            <blockquote>
+              <p>So, today I finally got this working after turning of one of my security programs and removing faulty mods, only for it to crash my game.</p>
+<p>It would seem that there is some sort of compatibility issue with UE4, as that is what is crashing when I try to launch the game.</p>
+<p>And so developers what are you going to about this, as I am getting very, very, very angry with this!!</p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.ficsit.app/t/smm-pushing-all-the-wrong-buttons/1466">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/smm-pushing-all-the-wrong-buttons/1466</link>
+          <pubDate>Thu, 25 Nov 2021 17:07:47 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1466</guid>
+          <source url="https://forums.ficsit.app/t/smm-pushing-all-the-wrong-buttons/1466.rss">SMM Pushing all the wrong buttons</source>
+        </item>
+        <item>
+          <title>SMM constant error message</title>
+          <dc:creator><![CDATA[@Roger_Dyer Roger Dyer]]></dc:creator>
+          <category>SML</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/roger_dyer">@Roger_Dyer</a> wrote:</p>
+            <blockquote>
+              <p>Hi all, well since the 28/6/2021 and the v2.5.0 update, I have not been able to use the mod manager and every time I try to use it I get the same message.</p>
+<p>I have uninstalled it, reinstalled so many times I gave up counting, I have even remove all my mods and game save, all to no effect it still keeps displaying the same message.</p>
+<p><img src="https://forums.ficsit.app/uploads/default/original/1X/2f09359d2542fa289797fd8ffbd5ae5b73447e7a.jpeg" alt="SML%20Error%20Message" data-base62-sha1="6I6aG1jtv4yqzmFre27VdmQCn8u" width="690" height="389"></p>
+<p>Also I am not able to access discord to find help their.</p>
+<p>I have finally found the cause of this and it is any incompatibility with with one of my security software programs ( Malwarebytes ).</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.ficsit.app/t/smm-constant-error-message/1465">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/smm-constant-error-message/1465</link>
+          <pubDate>Thu, 25 Nov 2021 09:56:30 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1465</guid>
+          <source url="https://forums.ficsit.app/t/smm-constant-error-message/1465.rss">SMM constant error message</source>
+        </item>
+        <item>
+          <title>SML not being loaded (again)</title>
+          <dc:creator><![CDATA[@Gennadiy_Poryev Gennadiy Poryev]]></dc:creator>
+          <category>SML</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/gennadiy_poryev">@Gennadiy_Poryev</a> wrote:</p>
+            <blockquote>
+              <p>I run Steam experimental build CL#165698. No mods works just fine.<br>
+I also downloaded latest SMM 2.5.0 and installed some mod (doesn’t matter which one, fails the same).<br>
+Judging from the contents of<br>
+<code>steamapps\common\Satisfactory\FactoryGame\Mods\SML\ResourcesSML.uplugin</code><br>
+which reads<br>
+<code>"VersionName": "3.1.1",</code><br>
+<code>"SemVersion": "3.1.1",</code><br>
+<code>"FriendlyName": "Satisfactory Mod Loader",</code><br>
+<code>"Description": "Mod loading and compatibility API for Satisfactory",</code><br>
+I guess SMM installed SML 3.1.1 which is latest as of the time of this writing.<br>
+Upon starting the game I see two sequential error message boxes as shown below:<br>
+<img src="https://forums.ficsit.app/uploads/default/original/1X/4b273eadc8dd895ce16fa67daa44b75cc09d6684.png" alt="sfbug" data-base62-sha1="aIPTiHZpUfbOXFFNa6MJluBfyFS" width="415" height="367"><br>
+Also of note is the fact that my friend runs the same versions on his machine just fine, so it must be something wrong with my system.<br>
+What do I do to amend the situation?</p>
+            </blockquote>
+            <p>Posts: 3</p>
+            <p>Participants: 3</p>
+            <p><a href="https://forums.ficsit.app/t/sml-not-being-loaded-again/1423">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/sml-not-being-loaded-again/1423</link>
+          <pubDate>Thu, 21 Oct 2021 20:39:57 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1423</guid>
+          <source url="https://forums.ficsit.app/t/sml-not-being-loaded-again/1423.rss">SML not being loaded (again)</source>
+        </item>
+        <item>
+          <title>Error Error while loading profile: Unexpected error while downloading file</title>
+          <dc:creator><![CDATA[@LinHaoNan98 Lin Hao Nan]]></dc:creator>
+          <category>SML</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/linhaonan98">@LinHaoNan98</a> wrote:</p>
+            <blockquote>
+              <p><div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/ac87c07f1a26bd92a49ce9529276013b1079b2ee.png" data-download-href="https://forums.ficsit.app/uploads/default/ac87c07f1a26bd92a49ce9529276013b1079b2ee" title="MWF4%606YG3%7B_OBHMY8DWS3ON"><img src="https://forums.ficsit.app/uploads/default/original/1X/ac87c07f1a26bd92a49ce9529276013b1079b2ee.png" alt="MWF4%606YG3%7B_OBHMY8DWS3ON" data-base62-sha1="oCgYgM666ePL4XaNgLYg3I3AFZQ" width="323" height="500" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/ac87c07f1a26bd92a49ce9529276013b1079b2ee_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">MWF4%606YG3%7B_OBHMY8DWS3ON</span><span class="informations">550×850 48.1 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>当你第一次打开MOD管理器，并且找到想要的MOD点击下载时！出现下载SML出错提示！<br>
+别担心！我找到了解决方法！</p>
+<p>①首先你应该让他弹出此错误一次！</p>
+<p>②win+R打开运行  输入这段神秘代码:%LOCALAPPDATA%  如图所示！</p>
+<p><img src="https://forums.ficsit.app/uploads/default/original/1X/a9ecbe3819dd4e4e909f3b7c788ab97ffc88335d.png" alt="O_6C1L1%7D%5D88%25XG3O%5B5H%40M7S" data-base62-sha1="ofdUyfSxERGTaI7WEvMOZwmhtwh" width="413" height="237"></p>
+<p>点击确定！</p>
+<p>③在打开的文件夹中找到 AppData\Local\SatisfactoryModManager\downloadCache\smlVersions\3.1.1文件夹，看看里面有没有东西，有的话就删除清空！</p>
+<p>④然后你可以找你的朋友把他的3.1.1文件夹里的 SML.smod 复制给你，粘贴进去就行了！<br>
+或者下载我提供的 SML.smod 但是这个网站好像没有办法上传文件并提供下载！以后再说</p>
+<p>⑤然后打开Satisfactory游戏文件夹，找到 Satisfactory\FactoryGame\Mods\SML 查看里面是否有文件 和图片一样的哦！</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/20dcd2f787a35096a64d850f92011bb64e916392.png" data-download-href="https://forums.ficsit.app/uploads/default/20dcd2f787a35096a64d850f92011bb64e916392" title="6%25%7D%40%60%5D2%5B%5D16N%604M0YO7EDI8"><img src="https://forums.ficsit.app/uploads/default/optimized/1X/20dcd2f787a35096a64d850f92011bb64e916392_2_690x386.png" alt="6%25%7D%40%60%5D2%5B%5D16N%604M0YO7EDI8" data-base62-sha1="4GIokHXOETx3ZvsAYEKghPzqnce" width="690" height="386" srcset="https://forums.ficsit.app/uploads/default/optimized/1X/20dcd2f787a35096a64d850f92011bb64e916392_2_690x386.png, https://forums.ficsit.app/uploads/default/optimized/1X/20dcd2f787a35096a64d850f92011bb64e916392_2_1035x579.png 1.5x, https://forums.ficsit.app/uploads/default/original/1X/20dcd2f787a35096a64d850f92011bb64e916392.png 2x" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/20dcd2f787a35096a64d850f92011bb64e916392_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">6%25%7D%40%60%5D2%5B%5D16N%604M0YO7EDI8</span><span class="informations">1119×626 30.8 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>如果没有  请到 <a href="https://github.com/satisfactorymodding/SatisfactoryModLoader/releases/tag/3.1.1" rel="nofollow noopener">https://github.com/satisfactorymodding/SatisfactoryModLoader/releases/tag/3.1.1</a> 下载sml.zip 并且解压到MOD文件夹里！</p>
+<p>⑥此时再重新打开MOD管理器  然后设置profile:为 development   恭喜你 大功告成！</p>
+<p><img src="https://forums.ficsit.app/uploads/default/original/1X/3a3778825e3521dbe4d15138e1e8c48eebe7701e.png" alt="LA2%24O)%258W3PY%25%40Q72)6RUAU" data-base62-sha1="8j0xp8mtUyLW7pkMI9u4d7BJBOC" width="550" height="232"></p>
+<p>你可以下载自己喜欢的MOD了  ！</p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.ficsit.app/t/error-error-while-loading-profile-unexpected-error-while-downloading-file/1409">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/error-error-while-loading-profile-unexpected-error-while-downloading-file/1409</link>
+          <pubDate>Thu, 07 Oct 2021 02:32:00 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1409</guid>
+          <source url="https://forums.ficsit.app/t/error-error-while-loading-profile-unexpected-error-while-downloading-file/1409.rss">Error Error while loading profile: Unexpected error while downloading file</source>
+        </item>
+        <item>
+          <title>Game crashed when trying to continue a save after adding a mod</title>
+          <dc:creator><![CDATA[@Eli_Remington Eli Remington]]></dc:creator>
+          <category>SML</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/eli_remington">@Eli_Remington</a> wrote:</p>
+            <blockquote>
+              <p>I have put many hours into a save and wanted to add another mod to that save but it keeps crashing when I try to continue from my last save.  The game launched perfectly fine but crashes when I try to continue.  I can create a new save perfectly fine and it doesn’t crash.  I’ve tried to delete the mod then continue but it still crashes.  It only does this when I try to add a mod to an existing game.  I really don’t want to start over again. PLS HELP!!  I’ll attach a pic of the crash report.  <div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/21f1476d66592ce69b049628533ef1de8d28aca1.png" data-download-href="https://forums.ficsit.app/uploads/default/21f1476d66592ce69b049628533ef1de8d28aca1" title="ERROR"><img src="https://forums.ficsit.app/uploads/default/original/1X/21f1476d66592ce69b049628533ef1de8d28aca1.png" alt="ERROR" data-base62-sha1="4QgH3ncVidGMnq3wawAQhwlR6DL" width="690" height="374" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/21f1476d66592ce69b049628533ef1de8d28aca1_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">ERROR</span><span class="informations">1914×1040 45.8 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+            </blockquote>
+            <p>Posts: 4</p>
+            <p>Participants: 3</p>
+            <p><a href="https://forums.ficsit.app/t/game-crashed-when-trying-to-continue-a-save-after-adding-a-mod/1301">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/game-crashed-when-trying-to-continue-a-save-after-adding-a-mod/1301</link>
+          <pubDate>Sun, 16 May 2021 05:44:40 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1301</guid>
+          <source url="https://forums.ficsit.app/t/game-crashed-when-trying-to-continue-a-save-after-adding-a-mod/1301.rss">Game crashed when trying to continue a save after adding a mod</source>
+        </item>
+        <item>
+          <title>Mod Launcher remains in the background</title>
+          <dc:creator><![CDATA[@EmilyJane033 Emily Jane033]]></dc:creator>
+          <category>SML</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/emilyjane033">@EmilyJane033</a> wrote:</p>
+            <blockquote>
+              <p>I’ve downloaded the installer for SML and installed it several times.  No matter how I install it the mod loader just sits in the taskbar and I can’t access the window. It won’t ever display.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/fcb39a7f695a0919e6b82fa1fdc68f95eead284e.jpeg" data-download-href="https://forums.ficsit.app/uploads/default/fcb39a7f695a0919e6b82fa1fdc68f95eead284e" title="SML_Issue"><img src="https://forums.ficsit.app/uploads/default/optimized/1X/fcb39a7f695a0919e6b82fa1fdc68f95eead284e_2_690x391.jpeg" alt="SML_Issue" data-base62-sha1="A3v7wf9Cf6Wd8VMXlt0EmGk0DtI" width="690" height="391" srcset="https://forums.ficsit.app/uploads/default/optimized/1X/fcb39a7f695a0919e6b82fa1fdc68f95eead284e_2_690x391.jpeg, https://forums.ficsit.app/uploads/default/optimized/1X/fcb39a7f695a0919e6b82fa1fdc68f95eead284e_2_1035x586.jpeg 1.5x, https://forums.ficsit.app/uploads/default/optimized/1X/fcb39a7f695a0919e6b82fa1fdc68f95eead284e_2_1380x782.jpeg 2x" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/fcb39a7f695a0919e6b82fa1fdc68f95eead284e_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">SML_Issue</span><span class="informations">1923×1090 358 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>Any help getting it to display and be interact able would be appreciated.  Thanks!</p>
+            </blockquote>
+            <p>Posts: 3</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.ficsit.app/t/mod-launcher-remains-in-the-background/1273">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/mod-launcher-remains-in-the-background/1273</link>
+          <pubDate>Fri, 07 May 2021 18:22:10 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1273</guid>
+          <source url="https://forums.ficsit.app/t/mod-launcher-remains-in-the-background/1273.rss">Mod Launcher remains in the background</source>
+        </item>
+        <item>
+          <title>Satisfactory not launching correctly. Error</title>
+          <dc:creator><![CDATA[@R4tt3xx R4tt3xx]]></dc:creator>
+          <category>SML</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/r4tt3xx">@R4tt3xx</a> wrote:</p>
+            <blockquote>
+              <p>The game returns an error when trying to run with any mod installed.</p>
+<p>“Plugin ‘SML’ failed to load because module ‘SML’ could not be found. Please ensure the plugin is properly installed, otherwise consider disabling the plugin for this project”</p>
+<p>I have cleared the cache, reinstalled the application, reinstalled Satisfactory and updated to the latest version.</p>
+            </blockquote>
+            <p>Posts: 7</p>
+            <p>Participants: 5</p>
+            <p><a href="https://forums.ficsit.app/t/satisfactory-not-launching-correctly-error/1225">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/satisfactory-not-launching-correctly-error/1225</link>
+          <pubDate>Mon, 26 Apr 2021 20:42:07 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1225</guid>
+          <source url="https://forums.ficsit.app/t/satisfactory-not-launching-correctly-error/1225.rss">Satisfactory not launching correctly. Error</source>
+        </item>
+        <item>
+          <title>Plugin &#39;SML&#39; failed to load because module &#39;SML&#39; could not be found</title>
+          <dc:creator><![CDATA[@Mine_Downloader Mine]]></dc:creator>
+          <category>SML</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/mine_downloader">@Mine_Downloader</a> wrote:</p>
+            <blockquote>
+              <p>So I’m testing this new mod, and manually installed SML following the instructions from <a href="https://docs.ficsit.app/satisfactory-modding/latest/ManualInstallDirections.html" rel="nofollow noopener">https://docs.ficsit.app/satisfactory-modding/latest/ManualInstallDirections.html</a></p>
+<p>Extracted SML to <code>&lt;game root&gt;/FactoryGame/Mods</code> now has ‘/FactoryGame/Mods/SML’<br>
+Placed my mod to /FactoryGame/Mods/<em>.smod</em></p>
+<p>After that I’m gettin’ an error that says:<br>
+Plugin ‘SML’ failed to load because module ‘SML’ could not be found.<br>
+Please ensure the plugin is properly installed, otherwise consider disabling the plugin for this project.</p>
+<p>Still with the same message without my mod. Am I missing something here?</p>
+            </blockquote>
+            <p>Posts: 31</p>
+            <p>Participants: 23</p>
+            <p><a href="https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191</link>
+          <pubDate>Sat, 17 Apr 2021 16:33:46 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1191</guid>
+          <source url="https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191.rss">Plugin &#39;SML&#39; failed to load because module &#39;SML&#39; could not be found</source>
+        </item>
+        <item>
+          <title>Mods are not loading into Satisfactory</title>
+          <dc:creator><![CDATA[@Henry_Tilton Henry Tilton]]></dc:creator>
+          <category>SML</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/henry_tilton">@Henry_Tilton</a> wrote:</p>
+            <blockquote>
+              <p>This was all working… Then I went to play again and I launch SMM and click launch. It launches the game but no mods…</p>
+<p>The game launches via SMM as well as via the normal icon…<br>
+The game goes in with no mods… Almost like the loader isnt loading<br>
+In my Satisfactory Experimental directory there is a mods and loader directory with the files expected in there.</p>
+<p>I have tried uninstalling SMM and reinstalling… Doesnt fix it… Same issue<br>
+I have uninstalled Satisfactory, fresh installed it… Doesnt fix it<br>
+Uninstalled Satisfactory, uninstalled SMM and reinstalled… Doesnt fix it</p>
+            </blockquote>
+            <p>Posts: 12</p>
+            <p>Participants: 8</p>
+            <p><a href="https://forums.ficsit.app/t/mods-are-not-loading-into-satisfactory/1155">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/mods-are-not-loading-into-satisfactory/1155</link>
+          <pubDate>Fri, 19 Mar 2021 20:49:15 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1155</guid>
+          <source url="https://forums.ficsit.app/t/mods-are-not-loading-into-satisfactory/1155.rss">Mods are not loading into Satisfactory</source>
+        </item>
+        <item>
+          <title>Experimental missing</title>
+          <dc:creator><![CDATA[@burninghey Burninghey]]></dc:creator>
+          <category>SML</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/burninghey">@burninghey</a> wrote:</p>
+            <blockquote>
+              <p>Well … extremely missleading here. I’m running Satisfactory experimental for some time now.<br>
+Yesterday recognized mods for the first time.</p>
+<ol>
+<li>downloaded the mod manager</li>
+<li>in mod manager, <strong>no</strong> warning here that experimental might not work. Instead I got 3 profiles:</li>
+</ol>
+<ul>
+<li>development: cannot start the game, not in SMM, not in Steam, not from exe, nothing works</li>
+<li>modded: does nothing again, tries to start, nope</li>
+<li>vanilla: why would i try that, I’m running experimental. Okay, let’s try - wtf, it does start the experimental. but no mods.</li>
+</ul>
+<p>PLEAASE please add a hint or warning sign, whatever, somewhere, that it does NOT support experimental</p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.ficsit.app/t/experimental-missing/1107">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/experimental-missing/1107</link>
+          <pubDate>Sun, 07 Feb 2021 19:36:20 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1107</guid>
+          <source url="https://forums.ficsit.app/t/experimental-missing/1107.rss">Experimental missing</source>
+        </item>
+        <item>
+          <title>Error after quitting the Game</title>
+          <dc:creator><![CDATA[@Kem_Reh Kem Reh]]></dc:creator>
+          <category>SML</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/kem_reh">@Kem_Reh</a> wrote:</p>
+            <blockquote>
+              <p>Hello I get an Errorlog everytime I close the Game, there are no Problems while playing.</p>
+<p>ErrorLog:<br>
+FactoryGame_Win64_Shipping!TSet&lt;TTuple&lt;FString,FConfigFile&gt;,TDefaultMapHashableKeyFuncs&lt;FString,FConfigFile,0&gt;,FDefaultSetAllocator&gt;::FindId() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\public\containers\set.h:643]<br>
+FactoryGame_Win64_Shipping!FConfigCacheIni::Find() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\private\misc\configcacheini.cpp:1658]<br>
+FactoryGame_Win64_Shipping!FConfigCacheIni::EmptySection() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\private\misc\configcacheini.cpp:2092]<br>
+FactoryGame_Win64_Shipping!FWindowsApplication::ShutDownAfterError() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:236]<br>
+FactoryGame_Win64_Shipping!TBaseRawMethodDelegateInstance&lt;1,SWaapiPicker,void __cdecl(void)&gt;::ExecuteIfSafe() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:518]<br>
+FactoryGame_Win64_Shipping!TBaseMulticastDelegate::Broadcast() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\public\delegates\delegatesignatureimpl.inl:977]<br>
+FactoryGame_Win64_Shipping!FWindowsErrorOutputDevice::HandleError() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\private\windows\windowserroroutputdevice.cpp:118]<br>
+FactoryGame_Win64_Shipping!FWindowsErrorOutputDevice::Serialize() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\private\windows\windowserroroutputdevice.cpp:83]<br>
+FactoryGame_Win64_Shipping!FOutputDevice::LogfImpl() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\private\misc\outputdevice.cpp:71]<br>
+FactoryGame_Win64_Shipping!AssertFailedImplV() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\private\misc\assertionmacros.cpp:101]<br>
+FactoryGame_Win64_Shipping!FDebug::CheckVerifyFailedImpl() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\private\misc\assertionmacros.cpp:439]<br>
+FactoryGame_Win64_Shipping!FOutputDeviceRedirector::TearDown() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\private\misc\outputdeviceredirector.cpp:265]<br>
+FactoryGame_Win64_Shipping!WinMain() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\launch\private\windows\launchwindows.cpp:299]<br>
+FactoryGame_Win64_Shipping!__scrt_common_main_seh() [d:\agent_work\2\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]<br>
+kernel32<br>
+ntdll</p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.ficsit.app/t/error-after-quitting-the-game/1058">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/error-after-quitting-the-game/1058</link>
+          <pubDate>Fri, 01 Jan 2021 13:24:25 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1058</guid>
+          <source url="https://forums.ficsit.app/t/error-after-quitting-the-game/1058.rss">Error after quitting the Game</source>
+        </item>
+        <item>
+          <title>Mod Manager No longer launches Game</title>
+          <dc:creator><![CDATA[@JamieRCHI Jamie]]></dc:creator>
+          <category>SML</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/jamierchi">@JamieRCHI</a> wrote:</p>
+            <blockquote>
+              <p>Mod Manager sets up the mods correctly, but the Launch button does not work. It appears to work for a few seconds, saying the game is running, and then the button changes back to Launch. After setting up my mods and updating everything, I can run the game with mods if I start with the Epic launcher. I see no errors from the Epic launcher. I am running experimental only. Have not tried it with Early Access enabled. It shouldn’t matter since both Early Access and Experimental are at the same build number currently.</p>
+            </blockquote>
+            <p>Posts: 16</p>
+            <p>Participants: 9</p>
+            <p><a href="https://forums.ficsit.app/t/mod-manager-no-longer-launches-game/1042">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/mod-manager-no-longer-launches-game/1042</link>
+          <pubDate>Fri, 25 Dec 2020 08:41:16 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1042</guid>
+          <source url="https://forums.ficsit.app/t/mod-manager-no-longer-launches-game/1042.rss">Mod Manager No longer launches Game</source>
+        </item>
+        <item>
+          <title>UE Engine fails</title>
+          <dc:creator><![CDATA[@jeg-fiftytwo Jeg Fiftytwo]]></dc:creator>
+          <category>SML</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/jeg-fiftytwo">@jeg-fiftytwo</a> wrote:</p>
+            <blockquote>
+              <p>When exiting the game I get a error message.<br>
+If I dont have any mods it does not give this message.</p>
+<p>I dont even need to go into the game. Just the menu is enough.</p>
+<p>Version: 139586, IsEditor: No, IsPerforceBuild: No, BuildConfiguration: Shipping, Launcher: Epic, NetMode: Unknown, IsUsingMods: Yes</p>
+<p>Unhandled exception</p>
+<p>FactoryGame_Win64_Shipping!TSet&lt;TTuple&lt;FString,FConfigFile&gt;,TDefaultMapHashableKeyFuncs&lt;FString,FConfigFile,0&gt;,FDefaultSetAllocator&gt;::FindId() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\public\containers\set.h:643]<br>
+FactoryGame_Win64_Shipping!FConfigCacheIni::Find() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\private\misc\configcacheini.cpp:1658]<br>
+FactoryGame_Win64_Shipping!FConfigCacheIni::EmptySection() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\private\misc\configcacheini.cpp:2092]<br>
+FactoryGame_Win64_Shipping!FWindowsApplication::ShutDownAfterError() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:236]<br>
+FactoryGame_Win64_Shipping!TBaseRawMethodDelegateInstance&lt;1,SWaapiPicker,void __cdecl(void)&gt;::ExecuteIfSafe() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:518]<br>
+FactoryGame_Win64_Shipping!TBaseMulticastDelegate::Broadcast() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\public\delegates\delegatesignatureimpl.inl:977]<br>
+FactoryGame_Win64_Shipping!FWindowsErrorOutputDevice::HandleError() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\private\windows\windowserroroutputdevice.cpp:118]<br>
+FactoryGame_Win64_Shipping!FWindowsErrorOutputDevice::Serialize() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\private\windows\windowserroroutputdevice.cpp:83]<br>
+FactoryGame_Win64_Shipping!FOutputDevice::LogfImpl() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\private\misc\outputdevice.cpp:71]<br>
+FactoryGame_Win64_Shipping!AssertFailedImplV() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\private\misc\assertionmacros.cpp:101]<br>
+FactoryGame_Win64_Shipping!FDebug::CheckVerifyFailedImpl() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\private\misc\assertionmacros.cpp:439]<br>
+FactoryGame_Win64_Shipping!FOutputDeviceRedirector::TearDown() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\private\misc\outputdeviceredirector.cpp:265]<br>
+FactoryGame_Win64_Shipping!WinMain() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\launch\private\windows\launchwindows.cpp:299]<br>
+FactoryGame_Win64_Shipping!__scrt_common_main_seh() [d:\agent_work\2\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]<br>
+kernel32<br>
+ntdll</p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.ficsit.app/t/ue-engine-fails/1035">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/ue-engine-fails/1035</link>
+          <pubDate>Sat, 19 Dec 2020 13:25:01 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1035</guid>
+          <source url="https://forums.ficsit.app/t/ue-engine-fails/1035.rss">UE Engine fails</source>
+        </item>
+        <item>
+          <title>Slow Download of Mod Manager</title>
+          <dc:creator><![CDATA[@Omni_Yeet Omni Yeet]]></dc:creator>
+          <category>SML</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/omni_yeet">@Omni_Yeet</a> wrote:</p>
+            <blockquote>
+              <p><em>(I don’t know if this is the correct category to say this but I’m gonna put it here. It’s also my first time in this forum so cut me some slack.)</em></p>
+<p>I’ve tried everything but it still downloads super slow, any fix? It looks like it only happens in the Mod Manager that I’m downloading. The download time goes from minutes to hours to the point that it errors. Is it my internet connection or the download itself?</p>
+            </blockquote>
+            <p>Posts: 4</p>
+            <p>Participants: 4</p>
+            <p><a href="https://forums.ficsit.app/t/slow-download-of-mod-manager/1004">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/slow-download-of-mod-manager/1004</link>
+          <pubDate>Wed, 25 Nov 2020 04:27:22 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1004</guid>
+          <source url="https://forums.ficsit.app/t/slow-download-of-mod-manager/1004.rss">Slow Download of Mod Manager</source>
+        </item>
+        <item>
+          <title>Add multiplayer compatible to mod</title>
+          <dc:creator><![CDATA[@zoscran Zoscran]]></dc:creator>
+          <category>SML</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/zoscran">@zoscran</a> wrote:</p>
+            <blockquote>
+              <p>some mod dsay they are muliplayer compatible bu is it possible to put an info on the SML list to know imediately if they are multiplayer compatible?</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.ficsit.app/t/add-multiplayer-compatible-to-mod/1002">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/add-multiplayer-compatible-to-mod/1002</link>
+          <pubDate>Tue, 24 Nov 2020 10:05:40 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1002</guid>
+          <source url="https://forums.ficsit.app/t/add-multiplayer-compatible-to-mod/1002.rss">Add multiplayer compatible to mod</source>
+        </item>
+        <item>
+          <title>There was a problem installing mod</title>
+          <dc:creator><![CDATA[@2720992467 2720992467]]></dc:creator>
+          <category>SML</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/2720992467">@2720992467</a> wrote:</p>
+            <blockquote>
+              <p><div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/21963f25fe44324bd954e451f38222a0f4c6d06d.png" data-download-href="https://forums.ficsit.app/uploads/default/21963f25fe44324bd954e451f38222a0f4c6d06d" title="image"><img src="https://forums.ficsit.app/uploads/default/optimized/1X/21963f25fe44324bd954e451f38222a0f4c6d06d_2_264x500.png" alt="image" data-base62-sha1="4N7EPq52OReYpNx17orzP8KSDGR" width="264" height="500" srcset="https://forums.ficsit.app/uploads/default/optimized/1X/21963f25fe44324bd954e451f38222a0f4c6d06d_2_264x500.png, https://forums.ficsit.app/uploads/default/optimized/1X/21963f25fe44324bd954e451f38222a0f4c6d06d_2_396x750.png 1.5x, https://forums.ficsit.app/uploads/default/optimized/1X/21963f25fe44324bd954e451f38222a0f4c6d06d_2_528x1000.png 2x" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/21963f25fe44324bd954e451f38222a0f4c6d06d_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">550×1040 64.1 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div> I encountered a problem when loading mod with satisfaction factory mod manager. I hope you can answer it for me as soon as possible. Thank you:咧着嘴笑:</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.ficsit.app/t/there-was-a-problem-installing-mod/784">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/there-was-a-problem-installing-mod/784</link>
+          <pubDate>Mon, 20 Jul 2020 09:51:16 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-784</guid>
+          <source url="https://forums.ficsit.app/t/there-was-a-problem-installing-mod/784.rss">There was a problem installing mod</source>
+        </item>
+        <item>
+          <title>SML can not launch the game</title>
+          <dc:creator><![CDATA[@Angelo_Canu CeloJore]]></dc:creator>
+          <category>SML</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/angelo_canu">@Angelo_Canu</a> wrote:</p>
+            <blockquote>
+              <p>Hey,</p>
+<p>i got an error on starting the game with SML; without SML ist normal working.</p>
+<p><img src="https://forums.ficsit.app/uploads/default/original/1X/22b47194161059d8ac8f373c5c7c7467dd315a9c.png" alt="Unbenannt" data-base62-sha1="4X0PD9yizbGBoQM9QQu00ogGhaY" width="404" height="176"></p>
+<p>Testing Satisfactory of datafiles has no effect; SML reinstallation has also no effect on the Problem.<br>
+The Problem is since updating five mods, deinstallation of the mods doesn’t solve the problem with starting the game via SML.</p>
+<p>Pleas help and thank you in advance! <img src="https://forums.ficsit.app/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+            </blockquote>
+            <p>Posts: 3</p>
+            <p>Participants: 3</p>
+            <p><a href="https://forums.ficsit.app/t/sml-can-not-launch-the-game/720">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/sml-can-not-launch-the-game/720</link>
+          <pubDate>Mon, 06 Jul 2020 20:20:55 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-720</guid>
+          <source url="https://forums.ficsit.app/t/sml-can-not-launch-the-game/720.rss">SML can not launch the game</source>
+        </item>
+        <item>
+          <title>Can’t launch mod</title>
+          <dc:creator><![CDATA[@Ales_Surina Ales Surina]]></dc:creator>
+          <category>SML</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/ales_surina">@Ales_Surina</a> wrote:</p>
+            <blockquote>
+              <p>Hi<br>
+I want to install some mods with the mod launcher but I just get this<br>
+<img src="https://forums.ficsit.app/uploads/default/original/1X/26364755dab0cc6edeada86d75792061eee5885e.jpeg" alt="mod%20error" data-base62-sha1="5s2qZvDm03tmBh4qHC4wWGtzuZE" width="587" height="344"></p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.ficsit.app/t/can-t-launch-mod/691">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/can-t-launch-mod/691</link>
+          <pubDate>Sun, 28 Jun 2020 19:26:08 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-691</guid>
+          <source url="https://forums.ficsit.app/t/can-t-launch-mod/691.rss">Can’t launch mod</source>
+        </item>
+        <item>
+          <title>I have an SML question</title>
+          <dc:creator><![CDATA[@Jeferson_Pinheli Jeferson Pinheli]]></dc:creator>
+          <category>SML</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/jeferson_pinheli">@Jeferson_Pinheli</a> wrote:</p>
+            <blockquote>
+              <p>Why the mod comes in version 2.1.0 if laucher is still in version 2.0.0. what I do not understand<br>
+ops: I don’t know for the launcher or mod the game is giving error when loading</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.ficsit.app/t/i-have-an-sml-question/570">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/i-have-an-sml-question/570</link>
+          <pubDate>Fri, 15 May 2020 00:23:39 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-570</guid>
+          <source url="https://forums.ficsit.app/t/i-have-an-sml-question/570.rss">I have an SML question</source>
+        </item>
+        <item>
+          <title>Confusing instructions for upgrade to SML</title>
+          <dc:creator><![CDATA[@Clive_Flint Clive Flint]]></dc:creator>
+          <category>SML</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/clive_flint">@Clive_Flint</a> wrote:</p>
+            <blockquote>
+              <p>Hi,</p>
+<p>When a new version of SML is available the instructions say we can get in from it’s url but also says we don’t have to. This can cause confusion.</p>
+<p>Can it be clear as to whether we have to download the install or if it’ll auto update itself when closed.</p>
+<p>Cheers</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.ficsit.app/t/confusing-instructions-for-upgrade-to-sml/505">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/confusing-instructions-for-upgrade-to-sml/505</link>
+          <pubDate>Thu, 30 Apr 2020 11:03:24 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-505</guid>
+          <source url="https://forums.ficsit.app/t/confusing-instructions-for-upgrade-to-sml/505.rss">Confusing instructions for upgrade to SML</source>
+        </item>
+        <item>
+          <title>When will it be launched SML version: 2.1.0?</title>
+          <dc:creator><![CDATA[@Jeferson_Pinheli Jeferson Pinheli]]></dc:creator>
+          <category>SML</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/jeferson_pinheli">@Jeferson_Pinheli</a> wrote:</p>
+            <blockquote>
+              <p>There are 3 mods ask for sml: 2.1.0…</p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.ficsit.app/t/when-will-it-be-launched-sml-version-2-1-0/492">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/when-will-it-be-launched-sml-version-2-1-0/492</link>
+          <pubDate>Tue, 28 Apr 2020 20:37:19 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-492</guid>
+          <source url="https://forums.ficsit.app/t/when-will-it-be-launched-sml-version-2-1-0/492.rss">When will it be launched SML version: 2.1.0?</source>
+        </item>
+        <item>
+          <title>Can&#39;t install mods with 1.0.10</title>
+          <dc:creator><![CDATA[@isochronous Isochronous]]></dc:creator>
+          <category>SML</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/isochronous">@isochronous</a> wrote:</p>
+            <blockquote>
+              <p>Just updated to the new version (1.0.10) and tried installing the Permaday mod, which IS compatible with the EA version I’m using, but when I click install I just get a spinner that spins and spins forever and the mod never gets installed.  I have to close SML to get my mouse cursor to stop strobing like a disco light between pointer and spinner modes, and once I reopen it the Permaday mod still shows as not being installed.</p>
+            </blockquote>
+            <p>Posts: 3</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.ficsit.app/t/cant-install-mods-with-1-0-10/488">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/cant-install-mods-with-1-0-10/488</link>
+          <pubDate>Tue, 28 Apr 2020 14:58:50 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-488</guid>
+          <source url="https://forums.ficsit.app/t/cant-install-mods-with-1-0-10/488.rss">Can&#39;t install mods with 1.0.10</source>
+        </item>
+        <item>
+          <title>SML preventing me from starting Satisfactory Early Access version</title>
+          <dc:creator><![CDATA[@Jonathan_Dupuis Jonathan Dupuis]]></dc:creator>
+          <category>SML</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/jonathan_dupuis">@Jonathan_Dupuis</a> wrote:</p>
+            <blockquote>
+              <p>I haven’t played Satisfactory in a few weeks and when I tried to play recently, the SML UI suddenly popped up this error:</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/60ffe2fbc7bb74f303616a0d160dbda05232701f.png" data-download-href="https://forums.ficsit.app/uploads/default/60ffe2fbc7bb74f303616a0d160dbda05232701f" title="image"><img src="https://forums.ficsit.app/uploads/default/optimized/1X/60ffe2fbc7bb74f303616a0d160dbda05232701f_2_666x500.png" alt="image" data-base62-sha1="dQ64rXXuvId7YjM2t6isbKPoplR" width="666" height="500" srcset="https://forums.ficsit.app/uploads/default/optimized/1X/60ffe2fbc7bb74f303616a0d160dbda05232701f_2_666x500.png, https://forums.ficsit.app/uploads/default/optimized/1X/60ffe2fbc7bb74f303616a0d160dbda05232701f_2_999x750.png 1.5x, https://forums.ficsit.app/uploads/default/original/1X/60ffe2fbc7bb74f303616a0d160dbda05232701f.png 2x" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/60ffe2fbc7bb74f303616a0d160dbda05232701f_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1004×753 59.9 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>I checked the version and 118201 is apparently the latest EA version available, so why would it be “outdated”?</p>
+<p>If I try to load the Experimental version, everything works fine.  Only the Early Access version seems bugged.</p>
+            </blockquote>
+            <p>Posts: 6</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.ficsit.app/t/sml-preventing-me-from-starting-satisfactory-early-access-version/439">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/sml-preventing-me-from-starting-satisfactory-early-access-version/439</link>
+          <pubDate>Tue, 21 Apr 2020 22:22:51 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-439</guid>
+          <source url="https://forums.ficsit.app/t/sml-preventing-me-from-starting-satisfactory-early-access-version/439.rss">SML preventing me from starting Satisfactory Early Access version</source>
+        </item>
+        <item>
+          <title>Mod loader and Game version?</title>
+          <dc:creator><![CDATA[@Robert_Walters Robert Walters]]></dc:creator>
+          <category>SML</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/robert_walters">@Robert_Walters</a> wrote:</p>
+            <blockquote>
+              <p>I gt an error below, i thought it was a mod at first, but after studying the message, i am thinking the error is from the mod loader expecting a different version of the game.  Suggestions?</p>
+<p>Error: Game version incompatible. Installed: 118201. bootstrapper requires &gt;=117050, SML requires &gt;=119805 All changes were discarded.</p>
+            </blockquote>
+            <p>Posts: 6</p>
+            <p>Participants: 4</p>
+            <p><a href="https://forums.ficsit.app/t/mod-loader-and-game-version/437">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/mod-loader-and-game-version/437</link>
+          <pubDate>Tue, 21 Apr 2020 20:40:30 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-437</guid>
+          <source url="https://forums.ficsit.app/t/mod-loader-and-game-version/437.rss">Mod loader and Game version?</source>
+        </item>
+  </channel>
+</rss>

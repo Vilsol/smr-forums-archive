@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Installing multiple mods</title>
+    <link>https://forums.ficsit.app/t/installing-multiple-mods/130</link>
+    <description>I am having trouble getting mods to work. I got the xinput1_3 put into binaries\win64 and the console appears, so the mods are loading, but they are not working correctly. All mods come with 3 type files: .pak ; .sig and data.json. So I am copying .pak and .sig files into the content\paks folder. But what do I do with the data.json file? it is the same name and the same extension in all of the mods and they just overwrite each other. I am guessing thats why the mods do not work properly. How do I fix this issue?</description>
+    
+    <lastBuildDate>Sun, 05 Jan 2020 17:59:26 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/installing-multiple-mods/130.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Installing multiple mods</title>
+        <dc:creator><![CDATA[@Bryce_Lumpkin Bryce Lumpkin]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/bryce_lumpkin">@Bryce_Lumpkin</a> wrote:</p>
+          <blockquote>
+              <p>Which version was this?  Version 5 or so had a bug with improperly initializing new portals that has been fixed in version 6 or 8 or so.</p>
+<p>Edit: Also, jump on in the Discord since I check that semi-often (I only saw this since someone posted it in the discord <img src="https://forums.ficsit.app/images/emoji/twitter/stuck_out_tongue.png?v=9" title=":stuck_out_tongue:" class="emoji" alt=":stuck_out_tongue:"> )<br>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src="https://forums.ficsit.app/uploads/default/original/1X/1af3759a49bc1dcf17a8b0a305d5ccbee17d0944.png" class="site-icon" width="32" height="32">
+      <a href="https://discordapp.com/invite/fKJuP7" target="_blank" rel="nofollow noopener">Discord</a>
+  </header>
+  <article class="onebox-body">
+    <img src="https://forums.ficsit.app/uploads/default/original/1X/6ed3aa9b3978e0587f02476bc4b59dad279b8b64.jpeg" class="thumbnail onebox-avatar" width="256" height="256">
+
+<h3><a href="https://discordapp.com/invite/fKJuP7" target="_blank" rel="nofollow noopener">Join the Satisfactory Modding Discord Server!</a></h3>
+
+<p>Check out the Satisfactory Modding community on Discord - hang out with 7,524 other members and enjoy free voice and text chat.</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/installing-multiple-mods/130/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/installing-multiple-mods/130/4</link>
+        <pubDate>Sun, 05 Jan 2020 17:57:19 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-130-4</guid>
+        <source url="https://forums.ficsit.app/t/installing-multiple-mods/130.rss">Installing multiple mods</source>
+      </item>
+      <item>
+        <title>Installing multiple mods</title>
+        <dc:creator><![CDATA[@leo_b Leo B]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/leo_b">@leo_b</a> wrote:</p>
+          <blockquote>
+              <p>Well the issue i’m having is with the transportals mod. I have unlocked it in the hub, built 2 of them just for testing / figuring out purpose. They are powered, conveyor connected input/output, but they still won’t teleport until I reload the save. Moreover, every time I exit to main menu, the game just crashes and I have to restart. Then and only then the mod works.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/installing-multiple-mods/130/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/installing-multiple-mods/130/3</link>
+        <pubDate>Sun, 05 Jan 2020 00:12:53 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-130-3</guid>
+        <source url="https://forums.ficsit.app/t/installing-multiple-mods/130.rss">Installing multiple mods</source>
+      </item>
+      <item>
+        <title>Installing multiple mods</title>
+        <dc:creator><![CDATA[@Panakotta00 Panakotta00]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/panakotta00">@Panakotta00</a> wrote:</p>
+          <blockquote>
+              <p>Welcome to the modding forums ^^</p>
+<p>Those files are just for SMR important, that means you can ignore the data.json files. You would need to explain what not works. If you mean stuff is not visible in the building menu, you need to unlock the HUB upgrades first.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/installing-multiple-mods/130/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/installing-multiple-mods/130/2</link>
+        <pubDate>Sat, 04 Jan 2020 12:24:00 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-130-2</guid>
+        <source url="https://forums.ficsit.app/t/installing-multiple-mods/130.rss">Installing multiple mods</source>
+      </item>
+      <item>
+        <title>Installing multiple mods</title>
+        <dc:creator><![CDATA[@leo_b Leo B]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/leo_b">@leo_b</a> wrote:</p>
+          <blockquote>
+              <p>I am having trouble getting mods to work. I got the xinput1_3 put into binaries\win64 and the console appears, so the mods are loading, but they are not working correctly. All mods come with 3 type files: .pak ; .sig and data.json. So I am copying .pak and .sig files into the content\paks folder. But what do I do with the data.json file? it is the same name and the same extension in all of the mods and they just overwrite each other. I am guessing thats why the mods do not work properly. How do I fix this issue?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/installing-multiple-mods/130/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/installing-multiple-mods/130/1</link>
+        <pubDate>Sat, 04 Jan 2020 10:39:41 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-130-1</guid>
+        <source url="https://forums.ficsit.app/t/installing-multiple-mods/130.rss">Installing multiple mods</source>
+      </item>
+  </channel>
+</rss>

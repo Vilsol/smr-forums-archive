@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Upside Down Foundations and more</title>
+    <link>https://forums.ficsit.app/t/upside-down-foundations-and-more/375</link>
+    <description>Foundation 8x1, 8x2, 8x4 and Glass but upside down. Some nature foundation from decoration mods too.
+
+
+Adds 4 more foundations that are the vanilla foundation upside down. 
+
+Optional: (Unlocked at Tier 0)
+Adds 12 more foundations from Decoration Mod.</description>
+    
+    <lastBuildDate>Fri, 04 Dec 2020 06:45:13 +0000</lastBuildDate>
+    <category>Showcase</category>
+    <atom:link href="https://forums.ficsit.app/t/upside-down-foundations-and-more/375.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Upside Down Foundations and more</title>
+        <dc:creator><![CDATA[@mandasity Mandasity]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/mandasity">@mandasity</a> wrote:</p>
+          <blockquote>
+              <p>please consider adding more colors for emissive parts, especially purple</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/upside-down-foundations-and-more/375/43">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/upside-down-foundations-and-more/375/43</link>
+        <pubDate>Fri, 04 Dec 2020 06:45:13 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-375-43</guid>
+        <source url="https://forums.ficsit.app/t/upside-down-foundations-and-more/375.rss">Upside Down Foundations and more</source>
+      </item>
+      <item>
+        <title>Upside Down Foundations and more</title>
+        <dc:creator><![CDATA[@Yesod Yesod]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/yesod">@Yesod</a> wrote:</p>
+          <blockquote>
+              <p>The first color slot (upper left) is considered the default color scheme for most vanilla buildables. If a color scheme of a color slot is modified, then this will update all objects under that slot past and present…</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/upside-down-foundations-and-more/375/42">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/upside-down-foundations-and-more/375/42</link>
+        <pubDate>Sun, 19 Jul 2020 11:16:24 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-375-42</guid>
+        <source url="https://forums.ficsit.app/t/upside-down-foundations-and-more/375.rss">Upside Down Foundations and more</source>
+      </item>
+      <item>
+        <title>Upside Down Foundations and more</title>
+        <dc:creator><![CDATA[@Frank_Coon Frank Coon]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/frank_coon">@Frank_Coon</a> wrote:</p>
+          <blockquote>
+              <p>Hello I installed this mod and I painted a “Foundation Paintable” with a new color scheme and it painted every item in my map. all paintable walls, foundations, machines belts, etc.  Not sure if this is a conflict with another mod or a bug.</p>
+<p>Thanks. Good stuff in this mod!</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/upside-down-foundations-and-more/375/41">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/upside-down-foundations-and-more/375/41</link>
+        <pubDate>Sat, 18 Jul 2020 16:52:17 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-375-41</guid>
+        <source url="https://forums.ficsit.app/t/upside-down-foundations-and-more/375.rss">Upside Down Foundations and more</source>
+      </item>
+      <item>
+        <title>Upside Down Foundations and more</title>
+        <dc:creator><![CDATA[@Yesod Yesod]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/yesod">@Yesod</a> wrote:</p>
+          <blockquote>
+              <p>Thanks for reporting. Looking into this now.</p>
+<p>Edit: Fixed in updated 0.2.3.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/upside-down-foundations-and-more/375/40">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/upside-down-foundations-and-more/375/40</link>
+        <pubDate>Thu, 16 Jul 2020 21:52:32 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-375-40</guid>
+        <source url="https://forums.ficsit.app/t/upside-down-foundations-and-more/375.rss">Upside Down Foundations and more</source>
+      </item>
+      <item>
+        <title>Upside Down Foundations and more</title>
+        <dc:creator><![CDATA[@keckj Keckj]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/keckj">@keckj</a> wrote:</p>
+          <blockquote>
+              <p>Continuing the discussion from <a href="https://forums.ficsit.app/t/upside-down-foundations-and-more/375/38">Upside Down Foundations and more</a>:</p>
+<p>Hello everyone and thanks for your amazing mod.</p>
+<p>I came here just to report that I updated to version 0.2.2 of the mod and it broke all my glass ramps. There is an offset of one unit up for all already placed ramps, and newly placed ones also fit with this offset. This might also affect other ramps/foundations, I had to rollback to 0.2.1 to get it back working as intended.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/upside-down-foundations-and-more/375/39">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/upside-down-foundations-and-more/375/39</link>
+        <pubDate>Thu, 16 Jul 2020 16:35:25 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-375-39</guid>
+        <source url="https://forums.ficsit.app/t/upside-down-foundations-and-more/375.rss">Upside Down Foundations and more</source>
+      </item>
+      <item>
+        <title>Upside Down Foundations and more</title>
+        <dc:creator><![CDATA[@Yesod Yesod]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/yesod">@Yesod</a> wrote:</p>
+          <blockquote>
+              <p>You can unlock this foundation (Glass Foundation 8m x 1m) via that Awesome Shop in vanilla Satisfactory.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/upside-down-foundations-and-more/375/38">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/upside-down-foundations-and-more/375/38</link>
+        <pubDate>Wed, 15 Jul 2020 23:27:41 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-375-38</guid>
+        <source url="https://forums.ficsit.app/t/upside-down-foundations-and-more/375.rss">Upside Down Foundations and more</source>
+      </item>
+      <item>
+        <title>Upside Down Foundations and more</title>
+        <dc:creator><![CDATA[@Yesod Yesod]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/yesod">@Yesod</a> wrote:</p>
+          <blockquote>
+              <p>These spawn a world-grid-aligned vanilla foundation at their denoted angle. They can function as an alignment seed to aid world-grid-aligned construction. Any player hologram rotations are consequently ignored.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/upside-down-foundations-and-more/375/37">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/upside-down-foundations-and-more/375/37</link>
+        <pubDate>Wed, 15 Jul 2020 23:26:18 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-375-37</guid>
+        <source url="https://forums.ficsit.app/t/upside-down-foundations-and-more/375.rss">Upside Down Foundations and more</source>
+      </item>
+      <item>
+        <title>Upside Down Foundations and more</title>
+        <dc:creator><![CDATA[@Carsten_Bochnig Carsten Bochnig]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/carsten_bochnig">@Carsten_Bochnig</a> wrote:</p>
+          <blockquote>
+              <p>can I turn the foundation so that the glass side is on top?</p>
+<p>thx<br>
+Carsten</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/upside-down-foundations-and-more/375/36">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/upside-down-foundations-and-more/375/36</link>
+        <pubDate>Wed, 08 Jul 2020 18:59:15 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-375-36</guid>
+        <source url="https://forums.ficsit.app/t/upside-down-foundations-and-more/375.rss">Upside Down Foundations and more</source>
+      </item>
+      <item>
+        <title>Upside Down Foundations and more</title>
+        <dc:creator><![CDATA[@Gerald_Weatherall Gerald Weatherall]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/gerald_weatherall">@Gerald_Weatherall</a> wrote:</p>
+          <blockquote>
+              <p>Also a triangular foundation (half a square) and a one meter high wall (1/4 the height of a regular 4m high wall) thanks Andre.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/upside-down-foundations-and-more/375/35">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/upside-down-foundations-and-more/375/35</link>
+        <pubDate>Tue, 16 Jun 2020 14:43:21 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-375-35</guid>
+        <source url="https://forums.ficsit.app/t/upside-down-foundations-and-more/375.rss">Upside Down Foundations and more</source>
+      </item>
+      <item>
+        <title>Upside Down Foundations and more</title>
+        <dc:creator><![CDATA[@Gerald_Weatherall Gerald Weatherall]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/gerald_weatherall">@Gerald_Weatherall</a> wrote:</p>
+          <blockquote>
+              <p>Love your foundations, will you add flowing water, left river bank, right river bank, and waterfall foundations, vertical and horizontal for water gardens please Andre?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/upside-down-foundations-and-more/375/34">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/upside-down-foundations-and-more/375/34</link>
+        <pubDate>Tue, 16 Jun 2020 14:39:20 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-375-34</guid>
+        <source url="https://forums.ficsit.app/t/upside-down-foundations-and-more/375.rss">Upside Down Foundations and more</source>
+      </item>
+      <item>
+        <title>Upside Down Foundations and more</title>
+        <dc:creator><![CDATA[@XilefTech Xilef Tech]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/xileftech">@XilefTech</a> wrote:</p>
+          <blockquote>
+              <p>I’d love to see other types of foundations in the future. For example different radius and size halfpipes and maybe circular foundations in different sizes (2m, 4m, 8m, 12m, 16m, … diameter) with fitting walls that got the right angle to attach to the circle.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/upside-down-foundations-and-more/375/33">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/upside-down-foundations-and-more/375/33</link>
+        <pubDate>Sat, 13 Jun 2020 14:29:55 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-375-33</guid>
+        <source url="https://forums.ficsit.app/t/upside-down-foundations-and-more/375.rss">Upside Down Foundations and more</source>
+      </item>
+      <item>
+        <title>Upside Down Foundations and more</title>
+        <dc:creator><![CDATA[@Jonathan_Wallner Jonathan Wallner]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jonathan_wallner">@Jonathan_Wallner</a> wrote:</p>
+          <blockquote>
+              <p>Love the mod. Thanks for all your hard work.<br>
+There are two I’d like to see added. One is an 8x4 ramp with holes to pass pipes through. And regular 8x4 foundations you can pipes through. Cheers.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/upside-down-foundations-and-more/375/32">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/upside-down-foundations-and-more/375/32</link>
+        <pubDate>Mon, 08 Jun 2020 17:42:00 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-375-32</guid>
+        <source url="https://forums.ficsit.app/t/upside-down-foundations-and-more/375.rss">Upside Down Foundations and more</source>
+      </item>
+      <item>
+        <title>Upside Down Foundations and more</title>
+        <dc:creator><![CDATA[@Lonesome_Cowboy Lonesome Cowboy]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/lonesome_cowboy">@Lonesome_Cowboy</a> wrote:</p>
+          <blockquote>
+              <p>Thanks for the latest version of this mod. It become better and better. And, of course, there’re now a foundation with 45° available. But it has an issue. If I want to place it I see the correct preview but after the klick it’s the wrong foundation.<br>
+Please see the attachments.<img src="https://forums.ficsit.app/uploads/default/original/1X/784ea348596064c144344215ddf22548bf251d5e.png" alt="UpsideDownFound_preview_45" data-base62-sha1="hahMbBnUSR7HjgGWpNk14r7z6fI" width="402" height="373"> <img src="https://forums.ficsit.app/uploads/default/original/1X/f41716436f8d91cb810a5a1e186d304f260f7507.png" alt="UpsideDownFound_result_45" data-base62-sha1="yPjXUN7ayytKcMRN05EsD8d8qSX" width="343" height="419"></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/upside-down-foundations-and-more/375/31">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/upside-down-foundations-and-more/375/31</link>
+        <pubDate>Sun, 07 Jun 2020 16:01:00 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-375-31</guid>
+        <source url="https://forums.ficsit.app/t/upside-down-foundations-and-more/375.rss">Upside Down Foundations and more</source>
+      </item>
+      <item>
+        <title>Upside Down Foundations and more</title>
+        <dc:creator><![CDATA[@Lonesome_Cowboy Lonesome Cowboy]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/lonesome_cowboy">@Lonesome_Cowboy</a> wrote:</p>
+          <blockquote>
+              <p>Thanks for your reply.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/upside-down-foundations-and-more/375/30">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/upside-down-foundations-and-more/375/30</link>
+        <pubDate>Tue, 26 May 2020 19:38:23 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-375-30</guid>
+        <source url="https://forums.ficsit.app/t/upside-down-foundations-and-more/375.rss">Upside Down Foundations and more</source>
+      </item>
+      <item>
+        <title>Upside Down Foundations and more</title>
+        <dc:creator><![CDATA[@Andre_Aquila DellAquila]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/andre_aquila">@Andre_Aquila</a> wrote:</p>
+          <blockquote>
+              <p>Hmm… that would be nice, i heard that Andrei from Foundation Industries are trying something in this way.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/upside-down-foundations-and-more/375/29">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/upside-down-foundations-and-more/375/29</link>
+        <pubDate>Sat, 23 May 2020 12:06:40 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-375-29</guid>
+        <source url="https://forums.ficsit.app/t/upside-down-foundations-and-more/375.rss">Upside Down Foundations and more</source>
+      </item>
+      <item>
+        <title>Upside Down Foundations and more</title>
+        <dc:creator><![CDATA[@Lonesome_Cowboy Lonesome Cowboy]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/lonesome_cowboy">@Lonesome_Cowboy</a> wrote:</p>
+          <blockquote>
+              <p>This is one of the top mods I’m using. But it is really helpful to get the (Vanilla) Foundation in 45° and (maybe) 22,5° (horizontal). Or are there already some available?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/upside-down-foundations-and-more/375/28">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/upside-down-foundations-and-more/375/28</link>
+        <pubDate>Wed, 20 May 2020 17:10:59 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-375-28</guid>
+        <source url="https://forums.ficsit.app/t/upside-down-foundations-and-more/375.rss">Upside Down Foundations and more</source>
+      </item>
+      <item>
+        <title>Upside Down Foundations and more</title>
+        <dc:creator><![CDATA[@Andre_Aquila DellAquila]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/andre_aquila">@Andre_Aquila</a> wrote:</p>
+          <blockquote>
+              <p>Hi Eric… Im glad that you like the mods!!! <img src="https://forums.ficsit.app/images/emoji/twitter/smiley.png?v=9" title=":smiley:" class="emoji" alt=":smiley:"></p>
+<p>Im talking to Andrei from Foundation Industries, and we going to merge the two mods in one, its going to be much better.</p>
+<p>Until there, see if you can re-install the mod… Its supposed to have 3 new Milestones Unlocks on Tier 0,1 or 2 (Upside down Foundations, Nature Foundations, More Foundations)</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/upside-down-foundations-and-more/375/27">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/upside-down-foundations-and-more/375/27</link>
+        <pubDate>Mon, 11 May 2020 13:04:10 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-375-27</guid>
+        <source url="https://forums.ficsit.app/t/upside-down-foundations-and-more/375.rss">Upside Down Foundations and more</source>
+      </item>
+      <item>
+        <title>Upside Down Foundations and more</title>
+        <dc:creator><![CDATA[@ericwebster Ericwebster]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/ericwebster">@ericwebster</a> wrote:</p>
+          <blockquote>
+              <p>Yes, there it is. Did not see the scroll bar on Tier 0.</p>
+<p>Thanks for the great mods and support.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/upside-down-foundations-and-more/375/26">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/upside-down-foundations-and-more/375/26</link>
+        <pubDate>Mon, 11 May 2020 10:30:45 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-375-26</guid>
+        <source url="https://forums.ficsit.app/t/upside-down-foundations-and-more/375.rss">Upside Down Foundations and more</source>
+      </item>
+      <item>
+        <title>Upside Down Foundations and more</title>
+        <dc:creator><![CDATA[@Andre_Aquila DellAquila]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/andre_aquila">@Andre_Aquila</a> wrote:</p>
+          <blockquote>
+              <p>Hi Eric!<br>
+In the milestones on the hub, sometimes they are hidding and have to scroll to the right. Please, see if thats the case.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/upside-down-foundations-and-more/375/25">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/upside-down-foundations-and-more/375/25</link>
+        <pubDate>Sun, 10 May 2020 22:44:21 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-375-25</guid>
+        <source url="https://forums.ficsit.app/t/upside-down-foundations-and-more/375.rss">Upside Down Foundations and more</source>
+      </item>
+      <item>
+        <title>Upside Down Foundations and more</title>
+        <dc:creator><![CDATA[@ericwebster Ericwebster]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/ericwebster">@ericwebster</a> wrote:</p>
+          <blockquote>
+              <p>Greetings, I am having trouble running the mod. I am trying to run it on the latest experimental branch but it seems not to be available in my build gun.</p>
+<p>All my other mods are working as expected.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/upside-down-foundations-and-more/375/24">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/upside-down-foundations-and-more/375/24</link>
+        <pubDate>Sun, 10 May 2020 21:26:36 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-375-24</guid>
+        <source url="https://forums.ficsit.app/t/upside-down-foundations-and-more/375.rss">Upside Down Foundations and more</source>
+      </item>
+      <item>
+        <title>Upside Down Foundations and more</title>
+        <dc:creator><![CDATA[@Benny_Bols Benny Bols]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/benny_bols">@Benny_Bols</a> wrote:</p>
+          <blockquote>
+              <p>might be a good idea (if possible) to add them as unlock with tickets <img src="https://forums.ficsit.app/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/upside-down-foundations-and-more/375/23">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/upside-down-foundations-and-more/375/23</link>
+        <pubDate>Thu, 07 May 2020 20:59:16 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-375-23</guid>
+        <source url="https://forums.ficsit.app/t/upside-down-foundations-and-more/375.rss">Upside Down Foundations and more</source>
+      </item>
+      <item>
+        <title>Upside Down Foundations and more</title>
+        <dc:creator><![CDATA[@Andre_Aquila DellAquila]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/andre_aquila">@Andre_Aquila</a> wrote:</p>
+          <blockquote>
+              <p>Nice… I will make them in Ramp 8m x 4m. <img src="https://forums.ficsit.app/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"> Thanks</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/upside-down-foundations-and-more/375/22">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/upside-down-foundations-and-more/375/22</link>
+        <pubDate>Thu, 07 May 2020 12:16:57 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-375-22</guid>
+        <source url="https://forums.ficsit.app/t/upside-down-foundations-and-more/375.rss">Upside Down Foundations and more</source>
+      </item>
+      <item>
+        <title>Upside Down Foundations and more</title>
+        <dc:creator><![CDATA[@Benny_Bols Benny Bols]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/benny_bols">@Benny_Bols</a> wrote:</p>
+          <blockquote>
+              <p>I would love to have sloped versions of the natural foundatrions <img src="https://forums.ficsit.app/images/emoji/twitter/stuck_out_tongue.png?v=9" title=":stuck_out_tongue:" class="emoji" alt=":stuck_out_tongue:"> they provide pretty good decoration design <img src="https://forums.ficsit.app/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/upside-down-foundations-and-more/375/21">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/upside-down-foundations-and-more/375/21</link>
+        <pubDate>Thu, 07 May 2020 09:39:22 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-375-21</guid>
+        <source url="https://forums.ficsit.app/t/upside-down-foundations-and-more/375.rss">Upside Down Foundations and more</source>
+      </item>
+      <item>
+        <title>Upside Down Foundations and more</title>
+        <dc:creator><![CDATA[@Andre_Aquila DellAquila]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/andre_aquila">@Andre_Aquila</a> wrote:</p>
+          <blockquote>
+              <p>Hi Vincent… I`m making a fix to those foundations get back and launching the new version. If you not save yet, they will come back. Sorry, and thanks for this info!</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/upside-down-foundations-and-more/375/20">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/upside-down-foundations-and-more/375/20</link>
+        <pubDate>Sun, 03 May 2020 17:50:22 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-375-20</guid>
+        <source url="https://forums.ficsit.app/t/upside-down-foundations-and-more/375.rss">Upside Down Foundations and more</source>
+      </item>
+      <item>
+        <title>Upside Down Foundations and more</title>
+        <dc:creator><![CDATA[@Andre_Aquila DellAquila]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/andre_aquila">@Andre_Aquila</a> wrote:</p>
+          <blockquote>
+              <p>Oh Benny, i will work on that!!! Thanks for this info!</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/upside-down-foundations-and-more/375/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/upside-down-foundations-and-more/375/19</link>
+        <pubDate>Sun, 03 May 2020 17:49:37 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-375-19</guid>
+        <source url="https://forums.ficsit.app/t/upside-down-foundations-and-more/375.rss">Upside Down Foundations and more</source>
+      </item>
+  </channel>
+</rss>

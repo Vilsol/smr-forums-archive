@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Refined Power - broken?</title>
+    <link>https://forums.ficsit.app/t/refined-power-broken/1509</link>
+    <description>Previously with Refined Power, one wind turbine was enough to power up a Hypertube Entrance as long as it had good clearance. Now, that&#39;s no longer the case.
+
+This pretty much ruins the mod for me, since one of the big benefits to Refined Power was not having to carry biofuel everywhere, and not having to constantly refuel the biofuel plants supplying power to my hypertubes.</description>
+    
+    <lastBuildDate>Thu, 23 Dec 2021 04:30:56 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/refined-power-broken/1509.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Refined Power - broken?</title>
+        <dc:creator><![CDATA[@Kerry_Freeman Kerry Freeman]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/kerry_freeman">@Kerry_Freeman</a> wrote:</p>
+          <blockquote>
+              <p>Nope, still a problem. The closest comparison is to what would happen if conveyor belts suddenly required power, since it requies a radical change in my building plans.</p>
+<p>The wind turbines require a lot of space between them. “Just build more” is not the solution for powering up something that has limited space or requires something that can be put anywhere.</p>
+<p>Additionally, one wind turbine was enough to power up a Constructor, a pump, a water extractor or a hypertube entrance. Two were enough to power up an assembler or a drill rig. You didn’t need a massive open area for a single tiny piece of equipment. You could also have many different remote power grids instead of just one huge grid, and you wouldn’t have to maintain each of them by providing fuel.</p>
+<p>Now the turbine requirement is more than double the previous number. Four turbines for everything that previously required one. Eight for everything that previously required two.</p>
+<p>Previously, I liked being able to plunk down a hypertube entrance in the middle of nowhere and just building a single Mark 1 wind turbine in fairly close proximity provided enough power. It allowed for really nice designs, such as two hypertube entrances being built close to one another on diverging routes, providing a “junction” of sorts between hypertube routes. Changing routes was as easy as changing your body direction in flight when you were between hypertubes.</p>
+<p>On the outlying areas, I used to build outposts. On islands or at otherwise- remote places near the void where you didn’t have a lot of room to build a bunch of turbines. Three to five turbines were all I needed to power up a full set of basic pieces: Namely, a drill rig and two constructors.</p>
+<p>Now that I require two or more Mk. 1 wind turbines and the space between them to power a single hypertube entrance, the advantages previously afforded me by wind power, are now gone. I have to connect these outposts to my main power grid straight away.</p>
+<p>Wind power is now a lot less of a solution to many problems like this. It’s also a lot more of a hassle to keep those remote grids running and breakers not tripping.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/refined-power-broken/1509/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/refined-power-broken/1509/3</link>
+        <pubDate>Wed, 22 Dec 2021 19:08:00 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1509-3</guid>
+        <source url="https://forums.ficsit.app/t/refined-power-broken/1509.rss">Refined Power - broken?</source>
+      </item>
+      <item>
+        <title>Refined Power - broken?</title>
+        <dc:creator><![CDATA[@tmyrdal Tmyrdal]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/tmyrdal">@tmyrdal</a> wrote:</p>
+          <blockquote>
+              <p>Ust build more of them then. Np.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/refined-power-broken/1509/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/refined-power-broken/1509/2</link>
+        <pubDate>Wed, 22 Dec 2021 10:18:28 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1509-2</guid>
+        <source url="https://forums.ficsit.app/t/refined-power-broken/1509.rss">Refined Power - broken?</source>
+      </item>
+      <item>
+        <title>Refined Power - broken?</title>
+        <dc:creator><![CDATA[@Kerry_Freeman Kerry Freeman]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/kerry_freeman">@Kerry_Freeman</a> wrote:</p>
+          <blockquote>
+              <p>Previously with Refined Power, one wind turbine was enough to power up a Hypertube Entrance as long as it had good clearance. Now, that’s no longer the case.</p>
+<p>This pretty much ruins the mod for me, since one of the big benefits to Refined Power was not having to carry biofuel everywhere, and not having to constantly refuel the biofuel plants supplying power to my hypertubes.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/refined-power-broken/1509/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/refined-power-broken/1509/1</link>
+        <pubDate>Thu, 16 Dec 2021 01:32:54 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1509-1</guid>
+        <source url="https://forums.ficsit.app/t/refined-power-broken/1509.rss">Refined Power - broken?</source>
+      </item>
+  </channel>
+</rss>

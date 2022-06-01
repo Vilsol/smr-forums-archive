@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Is there any way to run Moar factory on update 3?</title>
+    <link>https://forums.ficsit.app/t/is-there-any-way-to-run-moar-factory-on-update-3/260</link>
+    <description>Its such a bummer that I can no longer use the assets in this wonderful mod even though most of it doesn&#39;t seem like it would conflict with the new update</description>
+    
+    <lastBuildDate>Mon, 29 Jun 2020 16:14:33 +0000</lastBuildDate>
+    <category>SML Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/is-there-any-way-to-run-moar-factory-on-update-3/260.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Is there any way to run Moar factory on update 3?</title>
+        <dc:creator><![CDATA[@Holger_W Holger W]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/holger_w">@Holger_W</a> wrote:</p>
+          <blockquote>
+              <p>I emptied the SMM download cache and cloned the current profile (without MOAR).<br>
+With this new profile without MOAR the game is runnig fine.<br>
+Then i added MOAR to this new profile.<br>
+SMM has downloaded all of the required files with all dependencies (Assets &amp; Device where added automatically).<br>
+Now it crashes again.</p>
+<p>Then i created an empty profile.<br>
+This time i added only MOAR.<br>
+It crashes again.</p>
+<p>Then i regognized that between switching of profiles, the files in FactoryGame\Content\Paks, FactoryGame\Binaries\Win64\mods and FactoryGame\Binaries\Win64\config are not changed.<br>
+I also see some files from MOAR in SatisfactoryEarlyAccess\mods.<br>
+It seems that SMM doesn’t work with these folders.<br>
+So I deleted their content and started over.<br>
+No it works!</p>
+<p>The game seems to be bothered by the files in these directories when using it with SMM.<br>
+After successful execution, these folders are still empty.<br>
+So how is SMM working?<br>
+There should be a function in SMM to delete all pre-SMM-mod installations and all game caches.<br>
+I found only a function in the debug menu to delete its own download cache.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/is-there-any-way-to-run-moar-factory-on-update-3/260/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/is-there-any-way-to-run-moar-factory-on-update-3/260/10</link>
+        <pubDate>Mon, 29 Jun 2020 15:32:00 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-260-10</guid>
+        <source url="https://forums.ficsit.app/t/is-there-any-way-to-run-moar-factory-on-update-3/260.rss">Is there any way to run Moar factory on update 3?</source>
+      </item>
+      <item>
+        <title>Is there any way to run Moar factory on update 3?</title>
+        <dc:creator><![CDATA[@Pierson_Hall Pierson Hall]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/pierson_hall">@Pierson_Hall</a> wrote:</p>
+          <blockquote>
+              <p>There were several parts the he removed in this latest version due to mod framework changes such as the alternate train cars, tracks and bendy road items but I don’t see how that would affect bootup</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/is-there-any-way-to-run-moar-factory-on-update-3/260/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/is-there-any-way-to-run-moar-factory-on-update-3/260/9</link>
+        <pubDate>Mon, 29 Jun 2020 00:35:46 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-260-9</guid>
+        <source url="https://forums.ficsit.app/t/is-there-any-way-to-run-moar-factory-on-update-3/260.rss">Is there any way to run Moar factory on update 3?</source>
+      </item>
+      <item>
+        <title>Is there any way to run Moar factory on update 3?</title>
+        <dc:creator><![CDATA[@Pierson_Hall Pierson Hall]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/pierson_hall">@Pierson_Hall</a> wrote:</p>
+          <blockquote>
+              <p>I have all three installed and I can boot up the game just fine with about 54 other mods</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/is-there-any-way-to-run-moar-factory-on-update-3/260/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/is-there-any-way-to-run-moar-factory-on-update-3/260/8</link>
+        <pubDate>Mon, 29 Jun 2020 00:33:31 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-260-8</guid>
+        <source url="https://forums.ficsit.app/t/is-there-any-way-to-run-moar-factory-on-update-3/260.rss">Is there any way to run Moar factory on update 3?</source>
+      </item>
+      <item>
+        <title>Is there any way to run Moar factory on update 3?</title>
+        <dc:creator><![CDATA[@Matt_Brown Matt Brown]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/matt_brown">@Matt_Brown</a> wrote:</p>
+          <blockquote>
+              <p>Strange, I have Moar factory loaded with SMM and it works fine on update 3.  Do you also have Moar Assets and Moar Device installed as well?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/is-there-any-way-to-run-moar-factory-on-update-3/260/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/is-there-any-way-to-run-moar-factory-on-update-3/260/7</link>
+        <pubDate>Mon, 29 Jun 2020 00:13:30 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-260-7</guid>
+        <source url="https://forums.ficsit.app/t/is-there-any-way-to-run-moar-factory-on-update-3/260.rss">Is there any way to run Moar factory on update 3?</source>
+      </item>
+      <item>
+        <title>Is there any way to run Moar factory on update 3?</title>
+        <dc:creator><![CDATA[@Holger_W Holger W]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/holger_w">@Holger_W</a> wrote:</p>
+          <blockquote>
+              <p>Ok, following is in the Crash reporter after the game crashes:<br>
+Seeked past end of file …/…/…/FactoryGame/Content/FactoryGame/MoarFactory_r/Material/Transparent/MF_DoorUI_master.uexp (1852407983 / 40887)<br>
+Could this be a broken file in the Moar package?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/is-there-any-way-to-run-moar-factory-on-update-3/260/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/is-there-any-way-to-run-moar-factory-on-update-3/260/6</link>
+        <pubDate>Sun, 28 Jun 2020 19:08:04 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-260-6</guid>
+        <source url="https://forums.ficsit.app/t/is-there-any-way-to-run-moar-factory-on-update-3/260.rss">Is there any way to run Moar factory on update 3?</source>
+      </item>
+      <item>
+        <title>Is there any way to run Moar factory on update 3?</title>
+        <dc:creator><![CDATA[@Holger_W Holger W]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/holger_w">@Holger_W</a> wrote:</p>
+          <blockquote>
+              <p>The Launcher is at latest version.<br>
+Is it possible that another mod is interfering?<br>
+I will test this.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/is-there-any-way-to-run-moar-factory-on-update-3/260/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/is-there-any-way-to-run-moar-factory-on-update-3/260/5</link>
+        <pubDate>Sun, 28 Jun 2020 18:54:43 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-260-5</guid>
+        <source url="https://forums.ficsit.app/t/is-there-any-way-to-run-moar-factory-on-update-3/260.rss">Is there any way to run Moar factory on update 3?</source>
+      </item>
+      <item>
+        <title>Is there any way to run Moar factory on update 3?</title>
+        <dc:creator><![CDATA[@Elaine_Barlow Elaine Barlow]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/elaine_barlow">@Elaine_Barlow</a> wrote:</p>
+          <blockquote>
+              <p>I have yet to get Moar Factory to work past 1.0.3 …<br>
+I have no idea why none of the versions after that one won’t work.<br>
+Game always crashes on launch no matter what.<br>
+I have the latest mod launcher as well.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/is-there-any-way-to-run-moar-factory-on-update-3/260/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/is-there-any-way-to-run-moar-factory-on-update-3/260/4</link>
+        <pubDate>Sun, 28 Jun 2020 15:27:10 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-260-4</guid>
+        <source url="https://forums.ficsit.app/t/is-there-any-way-to-run-moar-factory-on-update-3/260.rss">Is there any way to run Moar factory on update 3?</source>
+      </item>
+      <item>
+        <title>Is there any way to run Moar factory on update 3?</title>
+        <dc:creator><![CDATA[@Pierson_Hall Pierson Hall]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/pierson_hall">@Pierson_Hall</a> wrote:</p>
+          <blockquote>
+              <p>Have you installed the brand new Satisfactory mod launcher yet?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/is-there-any-way-to-run-moar-factory-on-update-3/260/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/is-there-any-way-to-run-moar-factory-on-update-3/260/3</link>
+        <pubDate>Sun, 28 Jun 2020 12:18:11 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-260-3</guid>
+        <source url="https://forums.ficsit.app/t/is-there-any-way-to-run-moar-factory-on-update-3/260.rss">Is there any way to run Moar factory on update 3?</source>
+      </item>
+      <item>
+        <title>Is there any way to run Moar factory on update 3?</title>
+        <dc:creator><![CDATA[@Holger_W Holger W]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/holger_w">@Holger_W</a> wrote:</p>
+          <blockquote>
+              <p>I get this at start of satisfactory when i install moar with SMM:<br>
+“Serialization error : Action needed!”<br>
+“Corrupt data found, please verify your installation.”</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/is-there-any-way-to-run-moar-factory-on-update-3/260/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/is-there-any-way-to-run-moar-factory-on-update-3/260/2</link>
+        <pubDate>Sun, 28 Jun 2020 08:39:29 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-260-2</guid>
+        <source url="https://forums.ficsit.app/t/is-there-any-way-to-run-moar-factory-on-update-3/260.rss">Is there any way to run Moar factory on update 3?</source>
+      </item>
+      <item>
+        <title>Is there any way to run Moar factory on update 3?</title>
+        <dc:creator><![CDATA[@Pierson_Hall Pierson Hall]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/pierson_hall">@Pierson_Hall</a> wrote:</p>
+          <blockquote>
+              <p>Its such a bummer that I can no longer use the assets in this wonderful mod even though most of it doesn’t seem like it would conflict with the new update</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/is-there-any-way-to-run-moar-factory-on-update-3/260/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/is-there-any-way-to-run-moar-factory-on-update-3/260/1</link>
+        <pubDate>Mon, 23 Mar 2020 07:18:57 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-260-1</guid>
+        <source url="https://forums.ficsit.app/t/is-there-any-way-to-run-moar-factory-on-update-3/260.rss">Is there any way to run Moar factory on update 3?</source>
+      </item>
+  </channel>
+</rss>

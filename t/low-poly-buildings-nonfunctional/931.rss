@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Low Poly Buildings nonfunctional?</title>
+    <link>https://forums.ficsit.app/t/low-poly-buildings-nonfunctional/931</link>
+    <description>I&#39;ve installed Low Poly Buildings, and it looks as though I have uncompleted milestones in Tier 0, but the only milestones visible in Tier 0 are the vanilla ones.
+
+Is this mod usable? How are the in-game low poly buildings unlocked/built?</description>
+    
+    <lastBuildDate>Mon, 26 Oct 2020 21:24:24 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forums.ficsit.app/t/low-poly-buildings-nonfunctional/931.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Low Poly Buildings nonfunctional?</title>
+        <dc:creator><![CDATA[@Carnaxus Carnaxus]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/carnaxus">@Carnaxus</a> wrote:</p>
+          <blockquote>
+              <p>Did you scroll to the right on the milestone list?</p>
+<p>If so it may be a small bug from another milestone elsewhere on the tiers.  I had that happen with a mod for a while; until I researched a certain milestone in I think it was Tier 2, Tier 0 wouldn’t register as being completed.  I have no idea what actually causes it.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/low-poly-buildings-nonfunctional/931/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/low-poly-buildings-nonfunctional/931/2</link>
+        <pubDate>Mon, 26 Oct 2020 21:24:24 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-931-2</guid>
+        <source url="https://forums.ficsit.app/t/low-poly-buildings-nonfunctional/931.rss">Low Poly Buildings nonfunctional?</source>
+      </item>
+      <item>
+        <title>Low Poly Buildings nonfunctional?</title>
+        <dc:creator><![CDATA[@Andy_Mills Andy Mills]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/andy_mills">@Andy_Mills</a> wrote:</p>
+          <blockquote>
+              <p>I’ve installed Low Poly Buildings, and it looks as though I have uncompleted milestones in Tier 0, but the only milestones visible in Tier 0 are the vanilla ones.</p>
+<p>Is this mod usable? How are the in-game low poly buildings unlocked/built?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/low-poly-buildings-nonfunctional/931/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/low-poly-buildings-nonfunctional/931/1</link>
+        <pubDate>Thu, 15 Oct 2020 02:19:10 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-931-1</guid>
+        <source url="https://forums.ficsit.app/t/low-poly-buildings-nonfunctional/931.rss">Low Poly Buildings nonfunctional?</source>
+      </item>
+  </channel>
+</rss>

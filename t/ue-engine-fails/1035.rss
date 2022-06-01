@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>UE Engine fails</title>
+    <link>https://forums.ficsit.app/t/ue-engine-fails/1035</link>
+    <description>When exiting the game I get a error message. 
+If I dont have any mods it does not give this message. 
+
+I dont even need to go into the game. Just the menu is enough. 
+
+Version: 139586, IsEditor: No, IsPerforceBuild: No, BuildConfiguration: Shipping, Launcher: Epic, NetMode: Unknown, IsUsingMods: Yes
+
+Unhandled exception
+
+FactoryGame_Win64_Shipping!TSet&lt;TTuple&lt;FString,FConfigFile&gt;,TDefaultMapHashableKeyFuncs&lt;FString,FConfigFile,0&gt;,FDefaultSetAllocator&gt;::FindId() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\public\containers\set.h:643]
+FactoryGame_Win64_Shipping!FConfigCacheIni::Find() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\private\misc\configcacheini.cpp:1658]
+FactoryGame_Win64_Shipping!FConfigCacheIni::EmptySection() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\private\misc\configcacheini.cpp:2092]
+FactoryGame_Win64_Shipping!FWindowsApplication::ShutDownAfterError() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:236]
+FactoryGame_Win64_Shipping!TBaseRawMethodDelegateInstance&lt;1,SWaapiPicker,void __cdecl(void)&gt;::ExecuteIfSafe() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:518]
+FactoryGame_Win64_Shipping!TBaseMulticastDelegate&lt;void&gt;::Broadcast() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\public\delegates\delegatesignatureimpl.inl:977]
+FactoryGame_Win64_Shipping!FWindowsErrorOutputDevice::HandleError() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\private\windows\windowserroroutputdevice.cpp:118]
+FactoryGame_Win64_Shipping!FWindowsErrorOutputDevice::Serialize() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\private\windows\windowserroroutputdevice.cpp:83]
+FactoryGame_Win64_Shipping!FOutputDevice::LogfImpl() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\private\misc\outputdevice.cpp:71]
+FactoryGame_Win64_Shipping!AssertFailedImplV() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\private\misc\assertionmacros.cpp:101]
+FactoryGame_Win64_Shipping!FDebug::CheckVerifyFailedImpl() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\private\misc\assertionmacros.cpp:439]
+FactoryGame_Win64_Shipping!FOutputDeviceRedirector::TearDown() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\private\misc\outputdeviceredirector.cpp:265]
+FactoryGame_Win64_Shipping!WinMain() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\launch\private\windows\launchwindows.cpp:299]
+FactoryGame_Win64_Shipping!__scrt_common_main_seh() [d:\agent\_work\2\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+kernel32
+ntdll</description>
+    
+    <lastBuildDate>Sat, 19 Dec 2020 14:02:34 +0000</lastBuildDate>
+    <category>SML</category>
+    <atom:link href="https://forums.ficsit.app/t/ue-engine-fails/1035.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>UE Engine fails</title>
+        <dc:creator><![CDATA[@I_m_a_chicken29 Im A Chicken29]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/i_m_a_chicken29">@I_m_a_chicken29</a> wrote:</p>
+          <blockquote>
+              <p>It’s normal don’t worry about it, just a small by-product of mods</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/ue-engine-fails/1035/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/ue-engine-fails/1035/2</link>
+        <pubDate>Sat, 19 Dec 2020 14:02:34 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1035-2</guid>
+        <source url="https://forums.ficsit.app/t/ue-engine-fails/1035.rss">UE Engine fails</source>
+      </item>
+      <item>
+        <title>UE Engine fails</title>
+        <dc:creator><![CDATA[@jeg-fiftytwo Jeg Fiftytwo]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jeg-fiftytwo">@jeg-fiftytwo</a> wrote:</p>
+          <blockquote>
+              <p>When exiting the game I get a error message.<br>
+If I dont have any mods it does not give this message.</p>
+<p>I dont even need to go into the game. Just the menu is enough.</p>
+<p>Version: 139586, IsEditor: No, IsPerforceBuild: No, BuildConfiguration: Shipping, Launcher: Epic, NetMode: Unknown, IsUsingMods: Yes</p>
+<p>Unhandled exception</p>
+<p>FactoryGame_Win64_Shipping!TSet&lt;TTuple&lt;FString,FConfigFile&gt;,TDefaultMapHashableKeyFuncs&lt;FString,FConfigFile,0&gt;,FDefaultSetAllocator&gt;::FindId() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\public\containers\set.h:643]<br>
+FactoryGame_Win64_Shipping!FConfigCacheIni::Find() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\private\misc\configcacheini.cpp:1658]<br>
+FactoryGame_Win64_Shipping!FConfigCacheIni::EmptySection() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\private\misc\configcacheini.cpp:2092]<br>
+FactoryGame_Win64_Shipping!FWindowsApplication::ShutDownAfterError() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:236]<br>
+FactoryGame_Win64_Shipping!TBaseRawMethodDelegateInstance&lt;1,SWaapiPicker,void __cdecl(void)&gt;::ExecuteIfSafe() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:518]<br>
+FactoryGame_Win64_Shipping!TBaseMulticastDelegate::Broadcast() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\public\delegates\delegatesignatureimpl.inl:977]<br>
+FactoryGame_Win64_Shipping!FWindowsErrorOutputDevice::HandleError() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\private\windows\windowserroroutputdevice.cpp:118]<br>
+FactoryGame_Win64_Shipping!FWindowsErrorOutputDevice::Serialize() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\private\windows\windowserroroutputdevice.cpp:83]<br>
+FactoryGame_Win64_Shipping!FOutputDevice::LogfImpl() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\private\misc\outputdevice.cpp:71]<br>
+FactoryGame_Win64_Shipping!AssertFailedImplV() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\private\misc\assertionmacros.cpp:101]<br>
+FactoryGame_Win64_Shipping!FDebug::CheckVerifyFailedImpl() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\private\misc\assertionmacros.cpp:439]<br>
+FactoryGame_Win64_Shipping!FOutputDeviceRedirector::TearDown() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\private\misc\outputdeviceredirector.cpp:265]<br>
+FactoryGame_Win64_Shipping!WinMain() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\launch\private\windows\launchwindows.cpp:299]<br>
+FactoryGame_Win64_Shipping!__scrt_common_main_seh() [d:\agent_work\2\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]<br>
+kernel32<br>
+ntdll</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/ue-engine-fails/1035/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/ue-engine-fails/1035/1</link>
+        <pubDate>Sat, 19 Dec 2020 13:25:01 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1035-1</guid>
+        <source url="https://forums.ficsit.app/t/ue-engine-fails/1035.rss">UE Engine fails</source>
+      </item>
+  </channel>
+</rss>

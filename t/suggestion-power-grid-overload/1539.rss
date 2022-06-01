@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>[Suggestion] Power grid overload</title>
+    <link>https://forums.ficsit.app/t/suggestion-power-grid-overload/1539</link>
+    <description>Scenario:
+Lights start to flicker. Machines slow down. Something is going on, but what?
+Oh?.. .wait... what&#39;s smoking over there? is one of the generators over at the coal power plant on fire?
+Oh dear, I shouldn&#39;t have overloaded the power grid. I knew loading the power grid to 105% was a bad idea. With one of the generators out the factory is now overloading the grid to 130% instead, and the other generators will take too much damage and catch fire too. I better turn machines off and save what&#39;s left of the power plant!
+
+Yea that&#39;s the idea I have for a mod: Grid overload. 
+Instead of tripping the fuse when hitting 100.000001% power consumption, I&#39;d imagine things to slow down and flicker. The more one overloads the grid, the slower things run.
+
+Say that one overloads the grid to 113%, the machine will only run at 87% of their set speed.  Machines efficiency on overloaded grid:  Machine_speed% - (Current_grid_load% - Max_grid_Load%) 
+
+If a connected generator is damaged (due to overheating as a result of being overloaded) it drops power output lowering the grid efficiency. (Reducing Max_grid_load%)
+Let&#39;s say the generators won&#39;t start to reduce their output until 25% damaged or more. After that, the output reduces as it gets more damaged until it reaches a critical failure point where it will be irreparable. The whole unit has to be replaced instead of repaired.
+
+Example on a machine at 100% speed: 100-(113-100) = 87% speed.
+Example on a machine at 66% speed (underclocked) 66-(113-100) = 53% speed.
+Example on a machine at 100% speed with only 80% grid efficiency: 100-(113-80) = 67% speed.
+If the result is zero or less, the machine grinds to a halt.
+If the grid load is less than Max_grid_load%, nothing applies. (Normal status)
+
+As one can see, overloading will have cascading effects. How long one can run overloaded depends on how much punishment generations can take. Maybe it is worth to overload 125% for a short while just to get that few extra steel pipes out a wee bit faster. One can repair the generators later on.
+
+What purpose would such a mod have? Benefits with added risks. Instead of suddenly tripping a fuse, things will still run, but at a cost.
+
+Those who played Factorio (another factory building game, but 2D) kinda recognise this behaviour. There the power grid overload causes everything to slow down. Although with no damaging results.
+
+Would this be doable as a mod?</description>
+    
+    <lastBuildDate>Sat, 15 Jan 2022 19:14:53 +0000</lastBuildDate>
+    <category>General</category>
+    <atom:link href="https://forums.ficsit.app/t/suggestion-power-grid-overload/1539.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>[Suggestion] Power grid overload</title>
+        <dc:creator><![CDATA[@Mika_Noren Mika Norén]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/mika_noren">@Mika_Noren</a> wrote:</p>
+          <blockquote>
+              <p>Scenario:<br>
+Lights start to flicker. Machines slow down. Something is going on, but what?<br>
+Oh?.. .wait… what’s smoking over there? is one of the generators over at the coal power plant on fire?<br>
+Oh dear, I shouldn’t have overloaded the power grid. I knew loading the power grid to 105% was a bad idea. With one of the generators out the factory is now overloading the grid to 130% instead, and the other generators will take too much damage and catch fire too. I better turn machines off and save what’s left of the power plant!</p>
+<p>Yea that’s the idea I have for a mod: Grid overload.<br>
+Instead of tripping the fuse when hitting 100.000001% power consumption, I’d imagine things to slow down and flicker. The more one overloads the grid, the slower things run.</p>
+<p>Say that one overloads the grid to 113%, the machine will only run at 87% of their set speed.  Machines efficiency on overloaded grid:  Machine_speed% - (Current_grid_load% - Max_grid_Load%)</p>
+<p>If a connected generator is damaged (due to overheating as a result of being overloaded) it drops power output lowering the grid efficiency. (Reducing Max_grid_load%)<br>
+Let’s say the generators won’t start to reduce their output until 25% damaged or more. After that, the output reduces as it gets more damaged until it reaches a critical failure point where it will be irreparable. The whole unit has to be replaced instead of repaired.</p>
+<p>Example on a machine at 100% speed: 100-(113-100) = 87% speed.<br>
+Example on a machine at 66% speed (underclocked) 66-(113-100) = 53% speed.<br>
+Example on a machine at 100% speed with only 80% grid efficiency: 100-(113-80) = 67% speed.<br>
+If the result is zero or less, the machine grinds to a halt.<br>
+If the grid load is less than Max_grid_load%, nothing applies. (Normal status)</p>
+<p>As one can see, overloading will have cascading effects. How long one can run overloaded depends on how much punishment generations can take. Maybe it is worth to overload 125% for a short while just to get that few extra steel pipes out a wee bit faster. One can repair the generators later on.</p>
+<p>What purpose would such a mod have? Benefits with added risks. Instead of suddenly tripping a fuse, things will still run, but at a cost.</p>
+<p>Those who played Factorio (another factory building game, but 2D) kinda recognise this behaviour. There the power grid overload causes everything to slow down. Although with no damaging results.</p>
+<p>Would this be doable as a mod?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/suggestion-power-grid-overload/1539/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/suggestion-power-grid-overload/1539/1</link>
+        <pubDate>Sat, 15 Jan 2022 19:14:53 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1539-1</guid>
+        <source url="https://forums.ficsit.app/t/suggestion-power-grid-overload/1539.rss">[Suggestion] Power grid overload</source>
+      </item>
+  </channel>
+</rss>

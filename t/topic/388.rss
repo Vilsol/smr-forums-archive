@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Не запускается мод версия</title>
+    <link>https://forums.ficsit.app/t/topic/388</link>
+    <description>Error: EBUSY: resource busy or locked, copyfile &#39;C:\Users\Сергей\AppData\Local\SatisfactoryModManager\downloadCache\smlVersions\2.0.0\UE4-SML-Win64-Shipping.dll&#39; -&gt; &#39;C:\СЕРЕГА\GAMES\SatisfactoryExperimental\loaders\UE4-SML-Win64-Shipping.dll&#39;</description>
+    
+    <lastBuildDate>Thu, 16 Apr 2020 08:21:04 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/topic/388.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Не запускается мод версия</title>
+        <dc:creator><![CDATA[@Serega_Svitovenko Serega Svitovenko]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/serega_svitovenko">@Serega_Svitovenko</a> wrote:</p>
+          <blockquote>
+              <p>Error: EBUSY: resource busy or locked, copyfile ‘C:\Users\Сергей\AppData\Local\SatisfactoryModManager\downloadCache\smlVersions\2.0.0\UE4-SML-Win64-Shipping.dll’ -&gt; ‘C:\СЕРЕГА\GAMES\SatisfactoryExperimental\loaders\UE4-SML-Win64-Shipping.dll’</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/topic/388/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/topic/388/1</link>
+        <pubDate>Thu, 16 Apr 2020 08:21:04 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-388-1</guid>
+        <source url="https://forums.ficsit.app/t/topic/388.rss">Не запускается мод версия</source>
+      </item>
+  </channel>
+</rss>

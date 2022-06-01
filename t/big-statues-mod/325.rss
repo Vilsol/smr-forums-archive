@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Big Statues Mod</title>
+    <link>https://forums.ficsit.app/t/big-statues-mod/325</link>
+    <description>Buildable trophies are 15x their sizes. Trophies still have the same costs in Coupons, but is buildable from Build menu.</description>
+    
+    <lastBuildDate>Mon, 06 Apr 2020 14:36:22 +0000</lastBuildDate>
+    <category>Showcase</category>
+    <atom:link href="https://forums.ficsit.app/t/big-statues-mod/325.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Big Statues Mod</title>
+        <dc:creator><![CDATA[@Andre_Aquila DellAquila]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/andre_aquila">@Andre_Aquila</a> wrote:</p>
+          <blockquote>
+              <p>Buildable trophies are 15x their sizes. Trophies still have the same costs in Coupons, but is buildable from Build menu.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/big-statues-mod/325/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/big-statues-mod/325/1</link>
+        <pubDate>Mon, 06 Apr 2020 14:36:22 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-325-1</guid>
+        <source url="https://forums.ficsit.app/t/big-statues-mod/325.rss">Big Statues Mod</source>
+      </item>
+  </channel>
+</rss>

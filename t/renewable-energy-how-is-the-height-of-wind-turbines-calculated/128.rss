@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>[Renewable Energy] How is the height of Wind Turbines calculated?</title>
+    <link>https://forums.ficsit.app/t/renewable-energy-how-is-the-height-of-wind-turbines-calculated/128</link>
+    <description>According to the mod&#39;s page, the Wind Turbine Mk1 &#39;will give a 10MW Base power production but will be more effective at greater heights (capped at 30MW).&#39;
+
+At first I thought height was relative to the ground level of the plains biome (since that seems to be the lowest above-ground point on the map) so I placed the turbine on a cliff overlooking the plains - it still just gave 10MW.
+
+Next I wondered if height was just relative to the ground underneath wherever the turbine is, so I stacked 30 1m foundations and placed the turbine atop that. Again, still just 10MW.
+
+Finally, I thought that perhaps I just wasn&#39;t going high enough, and that perhaps the height distances are much more drastic. So I ran north to the mountains and placed a turbine up there. But alas, still 10MW.
+
+What am I missing, please? I want to put this height feature to good use, but I can&#39;t seem to work out how height is calculated.</description>
+    
+    <lastBuildDate>Fri, 03 Jan 2020 23:46:20 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/renewable-energy-how-is-the-height-of-wind-turbines-calculated/128.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>[Renewable Energy] How is the height of Wind Turbines calculated?</title>
+        <dc:creator><![CDATA[@mrhid6 Mrhid6]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/mrhid6">@mrhid6</a> wrote:</p>
+          <blockquote>
+              <p>So it’s the height of where it’s placed eg the base of the turbine. the higher up you place It the more power it produces. So if you open the console in game and use ShowDebug it will show you the players location, I believe the height (Z) will have to be above 10,000 for it to produce more than 10mw.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/renewable-energy-how-is-the-height-of-wind-turbines-calculated/128/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/renewable-energy-how-is-the-height-of-wind-turbines-calculated/128/4</link>
+        <pubDate>Fri, 03 Jan 2020 23:46:20 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-128-4</guid>
+        <source url="https://forums.ficsit.app/t/renewable-energy-how-is-the-height-of-wind-turbines-calculated/128.rss">[Renewable Energy] How is the height of Wind Turbines calculated?</source>
+      </item>
+      <item>
+        <title>[Renewable Energy] How is the height of Wind Turbines calculated?</title>
+        <dc:creator><![CDATA[@David_Manton David Manton]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/david_manton">@David_Manton</a> wrote:</p>
+          <blockquote>
+              <p>Thanks for the reply! But I’m afraid I’m still very confused.</p>
+<p>Is height calculated as metres from the ground? Or how many walls high the foundation on which your tube stands is on? Or something else?</p>
+<p>Or are you saying that it’s the height of the turbine <em>itself</em>, and thus Mk1 turbines always give 10MW and no more?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/renewable-energy-how-is-the-height-of-wind-turbines-calculated/128/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/renewable-energy-how-is-the-height-of-wind-turbines-calculated/128/3</link>
+        <pubDate>Fri, 03 Jan 2020 23:42:12 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-128-3</guid>
+        <source url="https://forums.ficsit.app/t/renewable-energy-how-is-the-height-of-wind-turbines-calculated/128.rss">[Renewable Energy] How is the height of Wind Turbines calculated?</source>
+      </item>
+      <item>
+        <title>[Renewable Energy] How is the height of Wind Turbines calculated?</title>
+        <dc:creator><![CDATA[@mrhid6 Mrhid6]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/mrhid6">@mrhid6</a> wrote:</p>
+          <blockquote>
+              <p>Hi the power production value is based on the height of the building being placed. The calculation is height / 800 = value. if value is less than 10 it will be 10Mw else it will do ((value - 10MW) x 2.1) + 10MW</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/renewable-energy-how-is-the-height-of-wind-turbines-calculated/128/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/renewable-energy-how-is-the-height-of-wind-turbines-calculated/128/2</link>
+        <pubDate>Fri, 03 Jan 2020 22:08:39 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-128-2</guid>
+        <source url="https://forums.ficsit.app/t/renewable-energy-how-is-the-height-of-wind-turbines-calculated/128.rss">[Renewable Energy] How is the height of Wind Turbines calculated?</source>
+      </item>
+      <item>
+        <title>[Renewable Energy] How is the height of Wind Turbines calculated?</title>
+        <dc:creator><![CDATA[@David_Manton David Manton]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/david_manton">@David_Manton</a> wrote:</p>
+          <blockquote>
+              <p>According to the mod’s page, the Wind Turbine Mk1 ‘will give a 10MW Base power production but will be more effective at greater heights (capped at 30MW).’</p>
+<p>At first I thought height was relative to the ground level of the plains biome (since that seems to be the lowest above-ground point on the map) so I placed the turbine on a cliff overlooking the plains - it still just gave 10MW.</p>
+<p>Next I wondered if height was just relative to the ground underneath wherever the turbine is, so I stacked 30 1m foundations and placed the turbine atop that. Again, still just 10MW.</p>
+<p>Finally, I thought that perhaps I just wasn’t going high enough, and that perhaps the height distances are much more drastic. So I ran north to the mountains and placed a turbine up there. But alas, still 10MW.</p>
+<p>What am I missing, please? I want to put this height feature to good use, but I can’t seem to work out how height is calculated.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/renewable-energy-how-is-the-height-of-wind-turbines-calculated/128/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/renewable-energy-how-is-the-height-of-wind-turbines-calculated/128/1</link>
+        <pubDate>Sun, 29 Dec 2019 13:22:21 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-128-1</guid>
+        <source url="https://forums.ficsit.app/t/renewable-energy-how-is-the-height-of-wind-turbines-calculated/128.rss">[Renewable Energy] How is the height of Wind Turbines calculated?</source>
+      </item>
+  </channel>
+</rss>

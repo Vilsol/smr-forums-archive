@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Show Radar Tower Range</title>
+    <link>https://forums.ficsit.app/t/show-radar-tower-range/939</link>
+    <description>Dear Modders, 
+
+Is there a way to do a mod to show the range of a radar tower after its placed? 
+For example a circle or some kinde of green field arround the tower. 
+
+Thanks.</description>
+    
+    <lastBuildDate>Mon, 19 Oct 2020 19:46:47 +0000</lastBuildDate>
+    <category>Suggestions &amp; Ideas</category>
+    <atom:link href="https://forums.ficsit.app/t/show-radar-tower-range/939.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Show Radar Tower Range</title>
+        <dc:creator><![CDATA[@Florian_H Florian H ]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/florian_h">@Florian_H</a> wrote:</p>
+          <blockquote>
+              <p>Dear Modders,</p>
+<p>Is there a way to do a mod to show the range of a radar tower after its placed?<br>
+For example a circle or some kinde of green field arround the tower.</p>
+<p>Thanks.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/show-radar-tower-range/939/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/show-radar-tower-range/939/1</link>
+        <pubDate>Mon, 19 Oct 2020 19:46:47 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-939-1</guid>
+        <source url="https://forums.ficsit.app/t/show-radar-tower-range/939.rss">Show Radar Tower Range</source>
+      </item>
+  </channel>
+</rss>

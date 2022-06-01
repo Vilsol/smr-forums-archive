@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Satisfactory not launching correctly. Error</title>
+    <link>https://forums.ficsit.app/t/satisfactory-not-launching-correctly-error/1225</link>
+    <description>The game returns an error when trying to run with any mod installed. 
+
+&quot;Plugin &#39;SML&#39; failed to load because module &#39;SML&#39; could not be found. Please ensure the plugin is properly installed, otherwise consider disabling the plugin for this project&quot;
+
+I have cleared the cache, reinstalled the application, reinstalled Satisfactory and updated to the latest version.</description>
+    
+    <lastBuildDate>Wed, 05 May 2021 12:04:10 +0000</lastBuildDate>
+    <category>SML</category>
+    <atom:link href="https://forums.ficsit.app/t/satisfactory-not-launching-correctly-error/1225.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Satisfactory not launching correctly. Error</title>
+        <dc:creator><![CDATA[@Thomas_Fiedler Thomas Fiedler]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/thomas_fiedler">@Thomas_Fiedler</a> wrote:</p>
+          <blockquote>
+              <aside class="quote" data-post="10" data-topic="1191">
+  <div class="title">
+    <div class="quote-controls"></div>
+    <img alt="" width="20" height="20" src="/letter_avatar_proxy/v4/letter/t/5fc32e/40.png" class="avatar">
+    <a href="https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191/10">Plugin 'SML' failed to load because module 'SML' could not be found</a> <a class="badge-wrapper  bullet" href="/c/sml"><span class="badge-category-bg" style="background-color: #3AB54A;"></span><span style="" data-drop-close="true" class="badge-category clear-badge" title="Satisfactory Mod Loader related discussions.">SML</span></a>
+  </div>
+  <blockquote>
+    Hi, 
+i found way to solve the problem for me. 
+After installing SMM and the mods i want, i get the same error message. 
+CL151248 SML v3.0.0 
+Then i copied the SML binaries (*.dll, *.pdb) from 
+…\Satisfactory\FactoryGame\Mods\SML\Binaries\Win64 
+To 
+…\Satisfactory\FactoryGame\Binaries\Win64 
+After that i modified the file 
+UE4-Win64-Shipping.modules 
+and add the SML Modul 
+“SML”: “UE4-SML-Win64-Shipping.dll” 
+Cheers
+  </blockquote>
+</aside>
+
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/satisfactory-not-launching-correctly-error/1225/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/satisfactory-not-launching-correctly-error/1225/7</link>
+        <pubDate>Wed, 05 May 2021 12:04:10 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1225-7</guid>
+        <source url="https://forums.ficsit.app/t/satisfactory-not-launching-correctly-error/1225.rss">Satisfactory not launching correctly. Error</source>
+      </item>
+      <item>
+        <title>Satisfactory not launching correctly. Error</title>
+        <dc:creator><![CDATA[@Chris_Waite Chris Waite]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/chris_waite">@Chris_Waite</a> wrote:</p>
+          <blockquote>
+              <p>I had this issue and bizarrely I completely uninstalled SML and reinstalled it. Very weird because at first I must have been duped by the fact it says it updates automatically, yet when I put it back on everything was fine, although I had to redownload my mods.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/satisfactory-not-launching-correctly-error/1225/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/satisfactory-not-launching-correctly-error/1225/6</link>
+        <pubDate>Thu, 29 Apr 2021 17:32:48 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1225-6</guid>
+        <source url="https://forums.ficsit.app/t/satisfactory-not-launching-correctly-error/1225.rss">Satisfactory not launching correctly. Error</source>
+      </item>
+      <item>
+        <title>Satisfactory not launching correctly. Error</title>
+        <dc:creator><![CDATA[@Tugge_Thurgren Tugge Thurgren]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/tugge_thurgren">@Tugge_Thurgren</a> wrote:</p>
+          <blockquote>
+              <p>My suggesting is to go to the Discord-channel for this (<a href="https://discord.gg/tQEnhtHz" rel="nofollow noopener">https://discord.gg/tQEnhtHz</a>) and I KNOW that they will help you there. They are REALLY good att this kind of problem. =O)</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/satisfactory-not-launching-correctly-error/1225/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/satisfactory-not-launching-correctly-error/1225/5</link>
+        <pubDate>Wed, 28 Apr 2021 13:27:45 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1225-5</guid>
+        <source url="https://forums.ficsit.app/t/satisfactory-not-launching-correctly-error/1225.rss">Satisfactory not launching correctly. Error</source>
+      </item>
+      <item>
+        <title>Satisfactory not launching correctly. Error</title>
+        <dc:creator><![CDATA[@Aykut_Tasci Aykut Taşcı]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/aykut_tasci">@Aykut_Tasci</a> wrote:</p>
+          <blockquote>
+              <p>Does not work if you try to install it manually. The SML had to be updated by the developer. They suggest running it with the installer.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/satisfactory-not-launching-correctly-error/1225/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/satisfactory-not-launching-correctly-error/1225/4</link>
+        <pubDate>Tue, 27 Apr 2021 14:07:43 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1225-4</guid>
+        <source url="https://forums.ficsit.app/t/satisfactory-not-launching-correctly-error/1225.rss">Satisfactory not launching correctly. Error</source>
+      </item>
+      <item>
+        <title>Satisfactory not launching correctly. Error</title>
+        <dc:creator><![CDATA[@R4tt3xx R4tt3xx]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/r4tt3xx">@R4tt3xx</a> wrote:</p>
+          <blockquote>
+              <p>Really, no one even knows why this is occurring ?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/satisfactory-not-launching-correctly-error/1225/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/satisfactory-not-launching-correctly-error/1225/3</link>
+        <pubDate>Tue, 27 Apr 2021 07:53:06 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1225-3</guid>
+        <source url="https://forums.ficsit.app/t/satisfactory-not-launching-correctly-error/1225.rss">Satisfactory not launching correctly. Error</source>
+      </item>
+      <item>
+        <title>Satisfactory not launching correctly. Error</title>
+        <dc:creator><![CDATA[@R4tt3xx R4tt3xx]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/r4tt3xx">@R4tt3xx</a> wrote:</p>
+          <blockquote>
+              <p>Does anyone know of a way to resolve this issue ?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/satisfactory-not-launching-correctly-error/1225/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/satisfactory-not-launching-correctly-error/1225/2</link>
+        <pubDate>Mon, 26 Apr 2021 21:36:30 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1225-2</guid>
+        <source url="https://forums.ficsit.app/t/satisfactory-not-launching-correctly-error/1225.rss">Satisfactory not launching correctly. Error</source>
+      </item>
+      <item>
+        <title>Satisfactory not launching correctly. Error</title>
+        <dc:creator><![CDATA[@R4tt3xx R4tt3xx]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/r4tt3xx">@R4tt3xx</a> wrote:</p>
+          <blockquote>
+              <p>The game returns an error when trying to run with any mod installed.</p>
+<p>“Plugin ‘SML’ failed to load because module ‘SML’ could not be found. Please ensure the plugin is properly installed, otherwise consider disabling the plugin for this project”</p>
+<p>I have cleared the cache, reinstalled the application, reinstalled Satisfactory and updated to the latest version.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/satisfactory-not-launching-correctly-error/1225/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/satisfactory-not-launching-correctly-error/1225/1</link>
+        <pubDate>Mon, 26 Apr 2021 20:42:07 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1225-1</guid>
+        <source url="https://forums.ficsit.app/t/satisfactory-not-launching-correctly-error/1225.rss">Satisfactory not launching correctly. Error</source>
+      </item>
+  </channel>
+</rss>

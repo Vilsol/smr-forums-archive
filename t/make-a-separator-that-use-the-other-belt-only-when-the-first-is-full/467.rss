@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Make a separator that use the other belt only when the first is full</title>
+    <link>https://forums.ficsit.app/t/make-a-separator-that-use-the-other-belt-only-when-the-first-is-full/467</link>
+    <description>is it possible to create a separator tha make the item go on a second belt only when the main one is full
+
+and an inteligent separator with a new output that only work for the selected item output is full to not stop the incomming that can help to make the one belt stokage system work without one ressources block any other</description>
+    
+    <lastBuildDate>Sun, 26 Apr 2020 17:47:11 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/make-a-separator-that-use-the-other-belt-only-when-the-first-is-full/467.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Make a separator that use the other belt only when the first is full</title>
+        <dc:creator><![CDATA[@zoscran Zoscran]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/zoscran">@zoscran</a> wrote:</p>
+          <blockquote>
+              <p>hooo thx for that info i didn’t know it can work like that</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/make-a-separator-that-use-the-other-belt-only-when-the-first-is-full/467/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/make-a-separator-that-use-the-other-belt-only-when-the-first-is-full/467/3</link>
+        <pubDate>Sun, 26 Apr 2020 17:47:11 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-467-3</guid>
+        <source url="https://forums.ficsit.app/t/make-a-separator-that-use-the-other-belt-only-when-the-first-is-full/467.rss">Make a separator that use the other belt only when the first is full</source>
+      </item>
+      <item>
+        <title>Make a separator that use the other belt only when the first is full</title>
+        <dc:creator><![CDATA[@Joseph_C Joseph C]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/joseph_c">@Joseph_C</a> wrote:</p>
+          <blockquote>
+              <p>I’ve been using Advanced Logistics for that first part, with an adjustable splitter, set your main exit to 1 and your overflow to 0, and set them to send to each other when full.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/make-a-separator-that-use-the-other-belt-only-when-the-first-is-full/467/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/make-a-separator-that-use-the-other-belt-only-when-the-first-is-full/467/2</link>
+        <pubDate>Sun, 26 Apr 2020 15:46:05 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-467-2</guid>
+        <source url="https://forums.ficsit.app/t/make-a-separator-that-use-the-other-belt-only-when-the-first-is-full/467.rss">Make a separator that use the other belt only when the first is full</source>
+      </item>
+      <item>
+        <title>Make a separator that use the other belt only when the first is full</title>
+        <dc:creator><![CDATA[@zoscran Zoscran]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/zoscran">@zoscran</a> wrote:</p>
+          <blockquote>
+              <p>is it possible to create a separator tha make the item go on a second belt only when the main one is full</p>
+<p>and an inteligent separator with a new output that only work for the selected item output is full to not stop the incomming that can help to make the one belt stokage system work without one ressources block any other</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/make-a-separator-that-use-the-other-belt-only-when-the-first-is-full/467/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/make-a-separator-that-use-the-other-belt-only-when-the-first-is-full/467/1</link>
+        <pubDate>Sun, 26 Apr 2020 14:41:17 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-467-1</guid>
+        <source url="https://forums.ficsit.app/t/make-a-separator-that-use-the-other-belt-only-when-the-first-is-full/467.rss">Make a separator that use the other belt only when the first is full</source>
+      </item>
+  </channel>
+</rss>

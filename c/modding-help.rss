@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:discourse="http://www.discourse.org/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Modding - SMR Forums</title>
+    <link>https://forums.ficsit.app/c/modding-help</link>
+    <description>Topics in the &#39;Modding&#39; category Any discussion related to mods and their development.</description>
+    
+      <lastBuildDate>Thu, 13 Jan 2022 16:06:11 +0000</lastBuildDate>
+      <atom:link href="https://forums.ficsit.app/c/modding-help.rss" rel="self" type="application/rss+xml" />
+        <item>
+          <title>REQUEST: Resource Node Foundation Snapping</title>
+          <dc:creator><![CDATA[@Jeffery_J_Sease Jeffery J Sease]]></dc:creator>
+          <category>Modding</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/jeffery_j_sease">@Jeffery_J_Sease</a> wrote:</p>
+            <blockquote>
+              <p>Hello:</p>
+<p>Is it possible to develop a mod that would allow foundations to snap to resource nodes?<br>
+If so, is anyone willing to develop this mod?</p>
+<p>Unfortunately, I have a bit of OCD and like to keep things neat.</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.ficsit.app/t/request-resource-node-foundation-snapping/1537">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/request-resource-node-foundation-snapping/1537</link>
+          <pubDate>Thu, 13 Jan 2022 16:06:11 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1537</guid>
+          <source url="https://forums.ficsit.app/t/request-resource-node-foundation-snapping/1537.rss">REQUEST: Resource Node Foundation Snapping</source>
+        </item>
+        <item>
+          <title>Searching Alerting Mod</title>
+          <dc:creator><![CDATA[@Michael_Bulla Michael Bulla]]></dc:creator>
+          <category>Modding</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/michael_bulla">@Michael_Bulla</a> wrote:</p>
+            <blockquote>
+              <p>The more my factory grows the harder it is to keep track if everything is working as expected. In order to get informed in time when things start to go down, I’d love to have some alerting available: My simple idea is to add a watcher to a belt which counts the number of items passing by. When the amount of a given item per minute falls below a given threshold, an alert is displayed to me in GUI or in some kind of dashboard.</p>
+<p>I’ve searched existing mods for this functionality, but didn’t find anything. Do you know any mod doing something similar?</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.ficsit.app/t/searching-alerting-mod/1535">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/searching-alerting-mod/1535</link>
+          <pubDate>Fri, 07 Jan 2022 15:36:22 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1535</guid>
+          <source url="https://forums.ficsit.app/t/searching-alerting-mod/1535.rss">Searching Alerting Mod</source>
+        </item>
+        <item>
+          <title>Refined Power M.A.M</title>
+          <dc:creator><![CDATA[@Balefino_PT Balefino Pt]]></dc:creator>
+          <category>Modding</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/balefino_pt">@Balefino_PT</a> wrote:</p>
+            <blockquote>
+              <p>What i need to begin to research the Refined Power tree in the MAM inventory? Or are in development?</p>
+            </blockquote>
+            <p>Posts: 3</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.ficsit.app/t/refined-power-m-a-m/1531">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/refined-power-m-a-m/1531</link>
+          <pubDate>Sun, 02 Jan 2022 23:45:52 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1531</guid>
+          <source url="https://forums.ficsit.app/t/refined-power-m-a-m/1531.rss">Refined Power M.A.M</source>
+        </item>
+        <item>
+          <title>AHud example anywhere?</title>
+          <dc:creator><![CDATA[@kfpopeye Kfpopeye]]></dc:creator>
+          <category>Modding</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/kfpopeye">@kfpopeye</a> wrote:</p>
+            <blockquote>
+              <p>Is it possible to add a hud to your mod? I want to access the UCanvas class to do some line drawing and I can only seem to do that through a AHud class. I see Satisfactory has a hud for the object scanner but I can’t see the code they use to add this to the screen. I have found examples online but they involve setting the hud in the game mode and I don’t think I have access to that.</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.ficsit.app/t/ahud-example-anywhere/1529">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/ahud-example-anywhere/1529</link>
+          <pubDate>Sat, 01 Jan 2022 22:10:49 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1529</guid>
+          <source url="https://forums.ficsit.app/t/ahud-example-anywhere/1529.rss">AHud example anywhere?</source>
+        </item>
+        <item>
+          <title>SMART Mod doesn&#39;t work with truck stations</title>
+          <dc:creator><![CDATA[@Christopher_R Christopher R]]></dc:creator>
+          <category>Bug Reports</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/christopher_r">@Christopher_R</a> wrote:</p>
+            <blockquote>
+              <p>Was attempting to lay out a row of stations and it wasn’t responsive to the smart mod key commands.  I changed to building smelters just to verify if the mod was working right, and that worked correctly, but stations not so much.</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.ficsit.app/t/smart-mod-doesnt-work-with-truck-stations/1525">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/smart-mod-doesnt-work-with-truck-stations/1525</link>
+          <pubDate>Wed, 29 Dec 2021 22:00:16 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1525</guid>
+          <source url="https://forums.ficsit.app/t/smart-mod-doesnt-work-with-truck-stations/1525.rss">SMART Mod doesn&#39;t work with truck stations</source>
+        </item>
+        <item>
+          <title>Searching for Copy/Paste mod for beams?</title>
+          <dc:creator><![CDATA[@Pizza_252 Pizza252]]></dc:creator>
+          <category>Modding</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/pizza_252">@Pizza_252</a> wrote:</p>
+            <blockquote>
+              <p>Looking for copy/paste mod that works for beams - already tried AreaActions, but it won’t copy beams. Anyone know any others which work?</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.ficsit.app/t/searching-for-copy-paste-mod-for-beams/1522">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/searching-for-copy-paste-mod-for-beams/1522</link>
+          <pubDate>Tue, 28 Dec 2021 08:36:57 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1522</guid>
+          <source url="https://forums.ficsit.app/t/searching-for-copy-paste-mod-for-beams/1522.rss">Searching for Copy/Paste mod for beams?</source>
+        </item>
+        <item>
+          <title>REQUEST: Storage Inventory Filter</title>
+          <dc:creator><![CDATA[@Nicolas_Lawson Nicolas Lawson]]></dc:creator>
+          <category>Modding</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/nicolas_lawson">@Nicolas_Lawson</a> wrote:</p>
+            <blockquote>
+              <p>I’m looking for a specific functionality (if it already exists, please advise):</p>
+<p>My aim is to have a storage container that will contain one of each item that will refill if I remove said item from the container. To do this, I would need to specify a filter for an inventory slot of the container as well as a switch that tells the container to output any input it cannot fit inside. I don’t want an infinite storage, just the option to set what goes where and to scrap the excess after it has been processed.</p>
+<p>Does this exist? Is it hard to do?</p>
+<p>Thanks!</p>
+            </blockquote>
+            <p>Posts: 4</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.ficsit.app/t/request-storage-inventory-filter/1518">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/request-storage-inventory-filter/1518</link>
+          <pubDate>Fri, 24 Dec 2021 20:39:36 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1518</guid>
+          <source url="https://forums.ficsit.app/t/request-storage-inventory-filter/1518.rss">REQUEST: Storage Inventory Filter</source>
+        </item>
+        <item>
+          <title>Saves wont load</title>
+          <dc:creator><![CDATA[@Robert_West Robert West]]></dc:creator>
+          <category>Modding</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/robert_west">@Robert_West</a> wrote:</p>
+            <blockquote>
+              <p>Hello everyone,<br>
+I’ve been playing on the 100+ milestones mod pack for about 80 hours now, got the tier 29. Game would occasionally crash while playing, always assumed it was a GPU issue (I have a 2060 6GB of VRAM with 16GB of RAM). But now I went to launch it today and it wouldn’t load in and crash on start-up, 3 most recent autosaves same story, my last physical save from 12 hrs prior loaded, after no hope just played on that to work back up to where I was. After about 30 mins I saved and reloaded the save to verify it would work. After a few hours I fell off the side of the map and went to re-load the most recent autosave and same story. But this time that save also didn’t load, only the one from 12 hours prior. Please any input would be nice, I can post the crash log if desired since it only takes me a bout a min to re-create it. Thank you.</p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.ficsit.app/t/saves-wont-load/1516">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/saves-wont-load/1516</link>
+          <pubDate>Thu, 23 Dec 2021 04:17:50 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1516</guid>
+          <source url="https://forums.ficsit.app/t/saves-wont-load/1516.rss">Saves wont load</source>
+        </item>
+        <item>
+          <title>Refined Power - broken?</title>
+          <dc:creator><![CDATA[@Kerry_Freeman Kerry Freeman]]></dc:creator>
+          <category>Modding</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/kerry_freeman">@Kerry_Freeman</a> wrote:</p>
+            <blockquote>
+              <p>Previously with Refined Power, one wind turbine was enough to power up a Hypertube Entrance as long as it had good clearance. Now, that’s no longer the case.</p>
+<p>This pretty much ruins the mod for me, since one of the big benefits to Refined Power was not having to carry biofuel everywhere, and not having to constantly refuel the biofuel plants supplying power to my hypertubes.</p>
+            </blockquote>
+            <p>Posts: 3</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.ficsit.app/t/refined-power-broken/1509">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/refined-power-broken/1509</link>
+          <pubDate>Thu, 16 Dec 2021 01:32:54 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1509</guid>
+          <source url="https://forums.ficsit.app/t/refined-power-broken/1509.rss">Refined Power - broken?</source>
+        </item>
+        <item>
+          <title>Fluid AWESOME Sink - Game crash</title>
+          <dc:creator><![CDATA[@ZviHantsis Zvi Hantsis]]></dc:creator>
+          <category>Bug Reports</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/zvihantsis">@ZviHantsis</a> wrote:</p>
+            <blockquote>
+              <p>Hi!</p>
+<p>So lately I had issues with Fluid AWESOME Sink mod crashing the game on startup (after splash, not getting to main menu). I have eliminated all other options and it is only due to the Fluid AWESOME Sink mod.<br>
+It doesn’t seem to be related to some other mod (inter-mod compatibility), but just problematic on it’s own.</p>
+<p>I’ve got a crash report but couldn’t attach it here.</p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.ficsit.app/t/fluid-awesome-sink-game-crash/1508">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/fluid-awesome-sink-game-crash/1508</link>
+          <pubDate>Sun, 12 Dec 2021 20:21:47 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1508</guid>
+          <source url="https://forums.ficsit.app/t/fluid-awesome-sink-game-crash/1508.rss">Fluid AWESOME Sink - Game crash</source>
+        </item>
+        <item>
+          <title>Any changes from Update 4 to update 5</title>
+          <dc:creator><![CDATA[@iceman11a Iceman11a *]]></dc:creator>
+          <category>Modding</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/iceman11a">@iceman11a</a> wrote:</p>
+            <blockquote>
+              <p>I been able to get my mod to compile with no errors. And when I start Satisfactory, It crashes. It doesn’t seem to display anything at all on my mod.</p>
+<h2>Here’s the text from the crash report.</h2>
+<p>Version: 174799, IsEditor: No, IsPerforceBuild: No, BuildConfiguration: Shipping, Launcher: Epic, NetMode: Standalone, IsUsingMods: Yes</p>
+<p>Assertion failed: Texture-&gt;VolumeData.CompressedDistanceFieldVolume.Num() == Size.X * Size.Y * Size.Z * FormatSize [File:D:/ws/SB-211116092526-440/UE4/Engine/Source/Runtime/Engine/Private/DistanceFieldAtlas.cpp] [Line: 687]</p>
+<h2>FactoryGame_Core_Win64_Shipping!AssertFailedImplV() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\core\private\misc\assertionmacros.cpp:104]<br>
+FactoryGame_Core_Win64_Shipping!FDebug::CheckVerifyFailedImpl() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\core\private\misc\assertionmacros.cpp:461]<br>
+FactoryGame_Engine_Win64_Shipping!&lt;lambda_e8c8fb69694d978ccc8e892848d31a9b&gt;::operator()() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\engine\private\distancefieldatlas.cpp:687]<br>
+FactoryGame_Engine_Win64_Shipping!ParallelForImpl::TParallelForData&lt;TFunctionRef&lt;void __cdecl(int)&gt; &gt;::Process() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\core\public\async\parallelfor.h:177]<br>
+FactoryGame_Engine_Win64_Shipping!TGraphTask&lt;ParallelForImpl::TParallelForTask&lt;TFunctionRef&lt;void __cdecl(int)&gt; &gt; &gt;::ExecuteTask() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\core\public\async\taskgraphinterfaces.h:886]<br>
+FactoryGame_Core_Win64_Shipping!FTaskThreadAnyThread::ProcessTasksUntilQuit() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\core\private\async\taskgraph.cpp:887]<br>
+FactoryGame_Core_Win64_Shipping!FTaskThreadBase::Run() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\core\private\async\taskgraph.cpp:541]<br>
+FactoryGame_Core_Win64_Shipping!FRunnableThreadWin::Run() [d:\ws\sb-211116092526-440\ue4\engine\source\runtime\core\private\windows\windowsrunnablethread.cpp:86]</h2>
+<p>So my question is that has something else been added to the mod to get it to work so that the game will load. I been checking the documents every other day for any updates. And there doesn’t seem to be any changes made from update 4. Does anyone have any idea on what could be wrong?</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.ficsit.app/t/any-changes-from-update-4-to-update-5/1499">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/any-changes-from-update-4-to-update-5/1499</link>
+          <pubDate>Mon, 06 Dec 2021 17:43:40 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1499</guid>
+          <source url="https://forums.ficsit.app/t/any-changes-from-update-4-to-update-5/1499.rss">Any changes from Update 4 to update 5</source>
+        </item>
+        <item>
+          <title>Smart Mod wall placing bug - Update 5</title>
+          <dc:creator><![CDATA[@suppokettu Suppokettu]]></dc:creator>
+          <category>Bug Reports</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/suppokettu">@suppokettu</a> wrote:</p>
+            <blockquote>
+              <p>Hi</p>
+<p>Not sure if I’m only one having this, but there seems to be issue with placing walls after update 5.</p>
+<p>If I place for example 5 walls vertically one by one and next to that place 5 walls vertically using Smart Mod (scrolling mouse wheel), there is small cap/height difference of these 5 walls. It looks like spacing is little off, when using Smart Mod. Same happens also placing walls horizontally.</p>
+<p>Added screenshot that probably explains issue better.<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/3fc8f7a7415a276de525b67870e891c6fb59c95a.jpeg" data-download-href="https://forums.ficsit.app/uploads/default/3fc8f7a7415a276de525b67870e891c6fb59c95a" title="20211202175337_1"><img src="https://forums.ficsit.app/uploads/default/optimized/1X/3fc8f7a7415a276de525b67870e891c6fb59c95a_2_690x288.jpeg" alt="20211202175337_1" data-base62-sha1="96gEnAAotC1OSNcgvetYuySDvqG" width="690" height="288" srcset="https://forums.ficsit.app/uploads/default/optimized/1X/3fc8f7a7415a276de525b67870e891c6fb59c95a_2_690x288.jpeg, https://forums.ficsit.app/uploads/default/optimized/1X/3fc8f7a7415a276de525b67870e891c6fb59c95a_2_1035x432.jpeg 1.5x, https://forums.ficsit.app/uploads/default/optimized/1X/3fc8f7a7415a276de525b67870e891c6fb59c95a_2_1380x576.jpeg 2x" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/3fc8f7a7415a276de525b67870e891c6fb59c95a_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">20211202175337_1</span><span class="informations">3440×1440 806 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+            </blockquote>
+            <p>Posts: 4</p>
+            <p>Participants: 3</p>
+            <p><a href="https://forums.ficsit.app/t/smart-mod-wall-placing-bug-update-5/1490">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/smart-mod-wall-placing-bug-update-5/1490</link>
+          <pubDate>Thu, 02 Dec 2021 16:21:12 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1490</guid>
+          <source url="https://forums.ficsit.app/t/smart-mod-wall-placing-bug-update-5/1490.rss">Smart Mod wall placing bug - Update 5</source>
+        </item>
+        <item>
+          <title>Smart Mod Crash Error</title>
+          <dc:creator><![CDATA[@Adem_Furkan Adem Furkan]]></dc:creator>
+          <category>Bug Reports</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/adem_furkan">@Adem_Furkan</a> wrote:</p>
+            <blockquote>
+              <p>When I want to make a mk2 converter, I get a crash error. This problem goes away when the mod is deleted. How can I solve this problem?</p>
+            </blockquote>
+            <p>Posts: 6</p>
+            <p>Participants: 5</p>
+            <p><a href="https://forums.ficsit.app/t/smart-mod-crash-error/1486">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/smart-mod-crash-error/1486</link>
+          <pubDate>Wed, 01 Dec 2021 21:27:19 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1486</guid>
+          <source url="https://forums.ficsit.app/t/smart-mod-crash-error/1486.rss">Smart Mod Crash Error</source>
+        </item>
+        <item>
+          <title>REQUEST: Animal taming mod</title>
+          <dc:creator><![CDATA[@Kerry_Freeman Kerry Freeman]]></dc:creator>
+          <category>Modding</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/kerry_freeman">@Kerry_Freeman</a> wrote:</p>
+            <blockquote>
+              <p>I’ve been wanting the ability to tame the various creatures found on 4546B. The Lizard Doggo is fine, but imagine what you could do with a tamed Spitter or Hog?</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.ficsit.app/t/request-animal-taming-mod/1484">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/request-animal-taming-mod/1484</link>
+          <pubDate>Wed, 01 Dec 2021 20:22:42 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1484</guid>
+          <source url="https://forums.ficsit.app/t/request-animal-taming-mod/1484.rss">REQUEST: Animal taming mod</source>
+        </item>
+        <item>
+          <title>What happened to Ficsit Farming?</title>
+          <dc:creator><![CDATA[@Kerry_Freeman Kerry Freeman]]></dc:creator>
+          <category>Modding</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/kerry_freeman">@Kerry_Freeman</a> wrote:</p>
+            <blockquote>
+              <p>Title, Ficsit Farming hasn’t been updated for at least two updates now.</p>
+            </blockquote>
+            <p>Posts: 4</p>
+            <p>Participants: 3</p>
+            <p><a href="https://forums.ficsit.app/t/what-happened-to-ficsit-farming/1481">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/what-happened-to-ficsit-farming/1481</link>
+          <pubDate>Wed, 01 Dec 2021 07:58:50 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1481</guid>
+          <source url="https://forums.ficsit.app/t/what-happened-to-ficsit-farming/1481.rss">What happened to Ficsit Farming?</source>
+        </item>
+        <item>
+          <title>Refined Power causing crashes to desktop on launch</title>
+          <dc:creator><![CDATA[@Kerry_Freeman Kerry Freeman]]></dc:creator>
+          <category>Modding</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/kerry_freeman">@Kerry_Freeman</a> wrote:</p>
+            <blockquote>
+              <p>Title, the mod is causing crashes to desktop whenever I try to launch the game. Through the mod manager, through Steam, etcetera.</p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.ficsit.app/t/refined-power-causing-crashes-to-desktop-on-launch/1480">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/refined-power-causing-crashes-to-desktop-on-launch/1480</link>
+          <pubDate>Wed, 01 Dec 2021 07:56:02 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1480</guid>
+          <source url="https://forums.ficsit.app/t/refined-power-causing-crashes-to-desktop-on-launch/1480.rss">Refined Power causing crashes to desktop on launch</source>
+        </item>
+        <item>
+          <title>Update 5 Refined Power</title>
+          <dc:creator><![CDATA[@Larry_Ammon Larry Ammon]]></dc:creator>
+          <category>Modding</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/larry_ammon">@Larry_Ammon</a> wrote:</p>
+            <blockquote>
+              <p>Cannot make Coolant Powder nor Advanced Reactor Cores for the Arcs. No recipe for the Element 64 to make the Turbo Fuel. Guess the Mod , Refined Power, works but is incomplete. The Machines do not have the recipes.</p>
+            </blockquote>
+            <p>Posts: 5</p>
+            <p>Participants: 4</p>
+            <p><a href="https://forums.ficsit.app/t/update-5-refined-power/1477">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/update-5-refined-power/1477</link>
+          <pubDate>Mon, 29 Nov 2021 22:42:59 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1477</guid>
+          <source url="https://forums.ficsit.app/t/update-5-refined-power/1477.rss">Update 5 Refined Power</source>
+        </item>
+        <item>
+          <title>REQUEST: Custom buildables</title>
+          <dc:creator><![CDATA[@Xeridox Xeridox]]></dc:creator>
+          <category>Modding</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/xeridox">@Xeridox</a> wrote:</p>
+            <blockquote>
+              <p>I’m not sure how difficult something like this would be to do, but thought I should share it here as well, ya know, just in case lol</p>
+<p>Link, with images included:<br>
+<a href="https://questions.satisfactorygame.com/post/619369d8831c85205235e7be" rel="nofollow noopener">https://questions.satisfactorygame.com/post/619369d8831c85205235e7be</a></p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.ficsit.app/t/request-custom-buildables/1475">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/request-custom-buildables/1475</link>
+          <pubDate>Mon, 29 Nov 2021 02:41:06 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1475</guid>
+          <source url="https://forums.ficsit.app/t/request-custom-buildables/1475.rss">REQUEST: Custom buildables</source>
+        </item>
+        <item>
+          <title>Intro to modding - custom train horns and &quot;whistle posts&quot;</title>
+          <dc:creator><![CDATA[@P10B]]></dc:creator>
+          <category>Modding</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/p10b">@P10B</a> wrote:</p>
+            <blockquote>
+              <p>I’d like to learn how to create basic mods for Satisfactory.</p>
+<p>I’ve had the idea on my mind to create a mod which can change the train horn sound effects and introduce a new track signal which causes trains to sound their horns upon passage.</p>
+<p>The purpose being that my hub and mall are located at the middle of a very busy central rail hub which sees a lot of high speed train traffic.  (Up to 200 kph.)  It would be nice to be able to hear these screaming fast inbound trains well in advance over the game’s music and the ambient noise of the area.</p>
+<p>Would anyone be willing to walk me through the basic steps of setting up the modding environment and building something like this?  I’m sh*t when it comes to software so this sort of thing I’ll never be able to figure out without help.</p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.ficsit.app/t/intro-to-modding-custom-train-horns-and-whistle-posts/1473">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/intro-to-modding-custom-train-horns-and-whistle-posts/1473</link>
+          <pubDate>Sat, 27 Nov 2021 15:49:07 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1473</guid>
+          <source url="https://forums.ficsit.app/t/intro-to-modding-custom-train-horns-and-whistle-posts/1473.rss">Intro to modding - custom train horns and &quot;whistle posts&quot;</source>
+        </item>
+        <item>
+          <title>Updating old mod for newer game of Satisfactory</title>
+          <dc:creator><![CDATA[@iceman11a Iceman11a *]]></dc:creator>
+          <category>Modding</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/iceman11a">@iceman11a</a> wrote:</p>
+            <blockquote>
+              <p>I updated my mod to the newer version of UE4. for Satisfactory, I compiled and The game crashed. Now that I updated it. Some parts don’t look right. I used to be able to edit my project in here.</p>
+<p><img src="https://forums.ficsit.app/uploads/default/original/1X/faef3df22038dc996ead0ac6d037594eec8f6dce.png" alt="image" data-base62-sha1="zNRWlTTh6x8iQ7A5i1tZk95BRuK" width="408" height="335"></p>
+<p>For some reason now it installed it here.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/c9422512c1464085206aedc5c7672a018c3666f9.png" data-download-href="https://forums.ficsit.app/uploads/default/c9422512c1464085206aedc5c7672a018c3666f9" title="image"><img src="https://forums.ficsit.app/uploads/default/optimized/1X/c9422512c1464085206aedc5c7672a018c3666f9_2_690x221.png" alt="image" data-base62-sha1="sIpGxFqXFSmTafq2DJgjVo1vFuV" width="690" height="221" srcset="https://forums.ficsit.app/uploads/default/optimized/1X/c9422512c1464085206aedc5c7672a018c3666f9_2_690x221.png, https://forums.ficsit.app/uploads/default/optimized/1X/c9422512c1464085206aedc5c7672a018c3666f9_2_1035x331.png 1.5x, https://forums.ficsit.app/uploads/default/original/1X/c9422512c1464085206aedc5c7672a018c3666f9.png 2x" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/c9422512c1464085206aedc5c7672a018c3666f9_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1305×418 134 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>Is this right. Not sure. And this is what I get on the crash report.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/5c3d1ebbc9a7b7de1357d32f270b71dc9555eb35.png" data-download-href="https://forums.ficsit.app/uploads/default/5c3d1ebbc9a7b7de1357d32f270b71dc9555eb35" title="image"><img src="https://forums.ficsit.app/uploads/default/optimized/1X/5c3d1ebbc9a7b7de1357d32f270b71dc9555eb35_2_690x160.png" alt="image" data-base62-sha1="d9YSkQsajCcQ9oJbpkgAGIgpkQl" width="690" height="160" srcset="https://forums.ficsit.app/uploads/default/optimized/1X/5c3d1ebbc9a7b7de1357d32f270b71dc9555eb35_2_690x160.png, https://forums.ficsit.app/uploads/default/optimized/1X/5c3d1ebbc9a7b7de1357d32f270b71dc9555eb35_2_1035x240.png 1.5x, https://forums.ficsit.app/uploads/default/original/1X/5c3d1ebbc9a7b7de1357d32f270b71dc9555eb35.png 2x" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/5c3d1ebbc9a7b7de1357d32f270b71dc9555eb35_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1329×310 104 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>I don’t have access to the discord server anymore. Can someone add me to their discord? Use<br>
+iceman11a#1344</p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.ficsit.app/t/updating-old-mod-for-newer-game-of-satisfactory/1461">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/updating-old-mod-for-newer-game-of-satisfactory/1461</link>
+          <pubDate>Wed, 24 Nov 2021 18:09:39 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1461</guid>
+          <source url="https://forums.ficsit.app/t/updating-old-mod-for-newer-game-of-satisfactory/1461.rss">Updating old mod for newer game of Satisfactory</source>
+        </item>
+        <item>
+          <title>Satisfactory is crashing</title>
+          <dc:creator><![CDATA[@mlgcoolguy_120 Mlgcoolguy 120]]></dc:creator>
+          <category>Modding</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/mlgcoolguy_120">@mlgcoolguy_120</a> wrote:</p>
+            <blockquote>
+              <p>Fatal error: [File:D:/ws/SB-211116092526-440/UE4/Engine/Source/Runtime/Engine/Private/Materials/MaterialShared.cpp] [Line: 4125]<br>
+FMaterialResourceProxyReader: deserialized an invalid FName, NameIdx=1, Names.Num()=0 (Offset=2730, InnerArchive.Tell()=5112, OffsetToFirstResource=2382)</p>
+<p>Crash in runnable thread FAsyncLoadingThread</p>
+<p>i am using mods magic machines and 3d text and awesome points X100 and nuclear waste cheat and unlock all alternate recipes and fixmas forever and super chain saw and passive mode and huge storage and huge inventory +100 and no fog</p>
+            </blockquote>
+            <p>Posts: 3</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.ficsit.app/t/satisfactory-is-crashing/1460">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/satisfactory-is-crashing/1460</link>
+          <pubDate>Wed, 24 Nov 2021 18:08:31 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1460</guid>
+          <source url="https://forums.ficsit.app/t/satisfactory-is-crashing/1460.rss">Satisfactory is crashing</source>
+        </item>
+        <item>
+          <title>Mods and Dedicated Server</title>
+          <dc:creator><![CDATA[@jmderuty Jmderuty]]></dc:creator>
+          <category>Modding</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/jmderuty">@jmderuty</a> wrote:</p>
+            <blockquote>
+              <p>Hello!<br>
+I couldn’t find the info anywhere, so, really sorry if it’s the case and I missed it:</p>
+<p>Are mods currently expected to work on a SF dedicated server?</p>
+<p>I tried with the very naive approach of copying the mod directory from a working EA client, and the server failed to load the modules.</p>
+<p>Thank you</p>
+            </blockquote>
+            <p>Posts: 3</p>
+            <p>Participants: 3</p>
+            <p><a href="https://forums.ficsit.app/t/mods-and-dedicated-server/1459">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/mods-and-dedicated-server/1459</link>
+          <pubDate>Wed, 24 Nov 2021 13:33:24 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1459</guid>
+          <source url="https://forums.ficsit.app/t/mods-and-dedicated-server/1459.rss">Mods and Dedicated Server</source>
+        </item>
+        <item>
+          <title>Conveyor wall holes has a bug</title>
+          <dc:creator><![CDATA[@HEIDI_KOECHEL Heidi Koechel]]></dc:creator>
+          <category>Bug Reports</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/heidi_koechel">@HEIDI_KOECHEL</a> wrote:</p>
+            <blockquote>
+              <p>When i have this enabled the Ficsit foundations, walls &amp; roof in the customizer are missing. When I disable it they are back in the customizer.</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.ficsit.app/t/conveyor-wall-holes-has-a-bug/1456">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/conveyor-wall-holes-has-a-bug/1456</link>
+          <pubDate>Wed, 24 Nov 2021 10:39:20 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1456</guid>
+          <source url="https://forums.ficsit.app/t/conveyor-wall-holes-has-a-bug/1456.rss">Conveyor wall holes has a bug</source>
+        </item>
+        <item>
+          <title>REPOSTED REQUEST: Earlier/Tiered trains</title>
+          <dc:creator><![CDATA[@Kerry_Freeman Kerry Freeman]]></dc:creator>
+          <category>Modding</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/kerry_freeman">@Kerry_Freeman</a> wrote:</p>
+            <blockquote>
+              <p>With the recent changes to trains and tracks made in vanilla, I thought it was time to repost this thread.</p>
+<p>I do not like to use tractors and trucks for transporting resources; instead preferring to use them as scouts since they do not carry as much cargo as a train does; in addition to the glitchiness of truck/tractor wheels, where the tiniest bump sends it flying.</p>
+<p>Therefore I would like to request a tiered train system, much like IRL.</p>
+<p>The way I envision this happening is as follows:<br>
+Tier 1 of trains will be unlocked at Tier 3, on dual-rail tracks made with concrete and iron rods. They will be steam locomotives, requiring any burnable fuel + water. Locomotives, cars and infrastructure (train station, freight station, liquid freight station) will be made of iron plate and wood.</p>
+<p>Tier 2 trains will be unlocked at Tier 5, and upgrade steam engines to gas turbine engines. This will eliminate the use of water in trains, but retain the need for fuel. Same construction materials as Tier 1 for locomotives, track and railcars, except steel will replace iron.</p>
+<p>Tier 3 trains will be the current, all-electric monorail trains and track, unlocked at Tier 6.</p>
+<p>A fuel tender car will be used on the Tier 1 and Tier 2 trains to allow for longer run without the need for fuel and water stops. Auxiliary fuel tenders for additional fuel and water can be added as necessary. Loading of fuel into fuel tender will be done at the train station. Tier 1 and Tier 2 trains will also not transfer electricity along the track.</p>
+<p>I would also like to see the creation of maintenance facilities for vehicles. This would allow for the automatic upgrade of trains, track, infrastructure and cars to the latest tier, without having to manually do it. (It would also allow people to repair road vehicles.)</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.ficsit.app/t/reposted-request-earlier-tiered-trains/1454">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/reposted-request-earlier-tiered-trains/1454</link>
+          <pubDate>Wed, 24 Nov 2021 05:31:42 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1454</guid>
+          <source url="https://forums.ficsit.app/t/reposted-request-earlier-tiered-trains/1454.rss">REPOSTED REQUEST: Earlier/Tiered trains</source>
+        </item>
+        <item>
+          <title>Mods are loaded but do not start</title>
+          <dc:creator><![CDATA[@User_212 Darknes]]></dc:creator>
+          <category>SML Modding</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/user_212">@User_212</a> wrote:</p>
+            <blockquote>
+              <p>Hi everyone, I have a problem loading mods with SML 3.01 and 3.1.1<br>
+let me explain, I have an unofficial version of Satisfactory 151773. I installed both SML 3.1.0 and 3.1.1 and starting the game everything seems to be fine, bottom left under the Build version tells me how many mods are loaded and I can see them all but starting the game no mod is active except " SMART! " that works in part. that is, only the duplication of the blocks to be placed, not even the menu can be opened to configure it.<br>
+obviously I am not using SMM due to the fact that my version is not official, I wanted to know if there is a way to solve because with SML 2.2.1 everything works fine but there are many mods that I cannot install because they require SML 3.0.0</p>
+            </blockquote>
+            <p>Posts: 3</p>
+            <p>Participants: 3</p>
+            <p><a href="https://forums.ficsit.app/t/mods-are-loaded-but-do-not-start/1445">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/mods-are-loaded-but-do-not-start/1445</link>
+          <pubDate>Fri, 12 Nov 2021 10:02:17 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1445</guid>
+          <source url="https://forums.ficsit.app/t/mods-are-loaded-but-do-not-start/1445.rss">Mods are loaded but do not start</source>
+        </item>
+  </channel>
+</rss>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>SMM constant error message</title>
+    <link>https://forums.ficsit.app/t/smm-constant-error-message/1465</link>
+    <description>Hi all, well since the 28/6/2021 and the v2.5.0 update, I have not been able to use the mod manager and every time I try to use it I get the same message.
+
+I have uninstalled it, reinstalled so many times I gave up counting, I have even remove all my mods and game save, all to no effect it still keeps displaying the same message.
+
+![SML%20Error%20Message|690x389](upload://6I6aG1jtv4yqzmFre27VdmQCn8u.jpeg) 
+
+Also I am not able to access discord to find help their.
+
+I have finally found the cause of this and it is any incompatibility with with one of my security software programs ( Malwarebytes ).</description>
+    
+    <lastBuildDate>Thu, 25 Nov 2021 17:01:31 +0000</lastBuildDate>
+    <category>SML</category>
+    <atom:link href="https://forums.ficsit.app/t/smm-constant-error-message/1465.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>SMM constant error message</title>
+        <dc:creator><![CDATA[@Roger_Dyer Roger Dyer]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/roger_dyer">@Roger_Dyer</a> wrote:</p>
+          <blockquote>
+              <p>Hi all, well since the 28/6/2021 and the v2.5.0 update, I have not been able to use the mod manager and every time I try to use it I get the same message.</p>
+<p>I have uninstalled it, reinstalled so many times I gave up counting, I have even remove all my mods and game save, all to no effect it still keeps displaying the same message.</p>
+<p><img src="https://forums.ficsit.app/uploads/default/original/1X/2f09359d2542fa289797fd8ffbd5ae5b73447e7a.jpeg" alt="SML%20Error%20Message" data-base62-sha1="6I6aG1jtv4yqzmFre27VdmQCn8u" width="690" height="389"></p>
+<p>Also I am not able to access discord to find help their.</p>
+<p>I have finally found the cause of this and it is any incompatibility with with one of my security software programs ( Malwarebytes ).</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/smm-constant-error-message/1465/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/smm-constant-error-message/1465/1</link>
+        <pubDate>Thu, 25 Nov 2021 09:56:30 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1465-1</guid>
+        <source url="https://forums.ficsit.app/t/smm-constant-error-message/1465.rss">SMM constant error message</source>
+      </item>
+  </channel>
+</rss>

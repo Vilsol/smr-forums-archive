@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Can&#39;t start Project files. Not able to make new project</title>
+    <link>https://forums.ficsit.app/t/cant-start-project-files-not-able-to-make-new-project/1120</link>
+    <description>I have one old project in 4.21 and I have a newer mod in 4.22.3. For some strange reason, I can&#39;t load it in, It wants to me rebuild everything when I already did that last summer when I started on the mod. This year it asked me to do it again. So I downloaded the project starter files again and tried to start a new project. Same thing. It wants me to compile the source by name. I didn&#39;t know how to do that so I loaded up VS 2019 and tried to compile it. Well, I got plugins missing errors and so on. 
+
+So the question is how do I get my project to load in. I&#39;m all so on the mod support discord.</description>
+    
+    <lastBuildDate>Mon, 22 Feb 2021 23:18:41 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/cant-start-project-files-not-able-to-make-new-project/1120.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Can&#39;t start Project files. Not able to make new project</title>
+        <dc:creator><![CDATA[@iceman11a Iceman11a *]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/iceman11a">@iceman11a</a> wrote:</p>
+          <blockquote>
+              <p>I have one old project in 4.21 and I have a newer mod in 4.22.3. For some strange reason, I can’t load it in, It wants to me rebuild everything when I already did that last summer when I started on the mod. This year it asked me to do it again. So I downloaded the project starter files again and tried to start a new project. Same thing. It wants me to compile the source by name. I didn’t know how to do that so I loaded up VS 2019 and tried to compile it. Well, I got plugins missing errors and so on.</p>
+<p>So the question is how do I get my project to load in. I’m all so on the mod support discord.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/cant-start-project-files-not-able-to-make-new-project/1120/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/cant-start-project-files-not-able-to-make-new-project/1120/1</link>
+        <pubDate>Mon, 22 Feb 2021 23:18:41 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1120-1</guid>
+        <source url="https://forums.ficsit.app/t/cant-start-project-files-not-able-to-make-new-project/1120.rss">Can&#39;t start Project files. Not able to make new project</source>
+      </item>
+  </channel>
+</rss>

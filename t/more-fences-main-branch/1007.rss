@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>More Fences - Main Branch</title>
+    <link>https://forums.ficsit.app/t/more-fences-main-branch/1007</link>
+    <description>This mod isnt working properly and causes a crash to desktop, when you try to put a fence down. No models are showing up when you try to play them either.</description>
+    
+    <lastBuildDate>Sun, 28 Feb 2021 06:16:10 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forums.ficsit.app/t/more-fences-main-branch/1007.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>More Fences - Main Branch</title>
+        <dc:creator><![CDATA[@JamieRCHI Jamie]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jamierchi">@JamieRCHI</a> wrote:</p>
+          <blockquote>
+              <p>I guess this mod is dead. Still crashing. No fixes for several months.<br>
+Ramped fences by another author still works.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/more-fences-main-branch/1007/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/more-fences-main-branch/1007/4</link>
+        <pubDate>Sun, 28 Feb 2021 06:16:10 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1007-4</guid>
+        <source url="https://forums.ficsit.app/t/more-fences-main-branch/1007.rss">More Fences - Main Branch</source>
+      </item>
+      <item>
+        <title>More Fences - Main Branch</title>
+        <dc:creator><![CDATA[@Mike_Wolak Mike Wolak]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/mike_wolak">@Mike_Wolak</a> wrote:</p>
+          <blockquote>
+              <p>As of Feb 2021 this mod still doesn’t work. Same problem described in original post.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/more-fences-main-branch/1007/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/more-fences-main-branch/1007/3</link>
+        <pubDate>Fri, 05 Feb 2021 07:15:42 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1007-3</guid>
+        <source url="https://forums.ficsit.app/t/more-fences-main-branch/1007.rss">More Fences - Main Branch</source>
+      </item>
+      <item>
+        <title>More Fences - Main Branch</title>
+        <dc:creator><![CDATA[@Torsten_Kolling Torsten Kolling]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/torsten_kolling">@Torsten_Kolling</a> wrote:</p>
+          <blockquote>
+              <p>I can confirm the bug. In addition, sloped walls by the same author no longer work.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/more-fences-main-branch/1007/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/more-fences-main-branch/1007/2</link>
+        <pubDate>Fri, 27 Nov 2020 09:32:45 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1007-2</guid>
+        <source url="https://forums.ficsit.app/t/more-fences-main-branch/1007.rss">More Fences - Main Branch</source>
+      </item>
+      <item>
+        <title>More Fences - Main Branch</title>
+        <dc:creator><![CDATA[@N0lla N0lla]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/n0lla">@N0lla</a> wrote:</p>
+          <blockquote>
+              <p>This mod isnt working properly and causes a crash to desktop, when you try to put a fence down. No models are showing up when you try to play them either.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/more-fences-main-branch/1007/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/more-fences-main-branch/1007/1</link>
+        <pubDate>Thu, 26 Nov 2020 13:49:42 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1007-1</guid>
+        <source url="https://forums.ficsit.app/t/more-fences-main-branch/1007.rss">More Fences - Main Branch</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>May I ask a question?</title>
+    <link>https://forums.ficsit.app/t/may-i-ask-a-question/1316</link>
+    <description>How can I open and update a (.somd)file?
+I search the hole web , but I cant find a way to deal with my question!
+such as java can open a (js)file.
+please tell me!
+give my best wishes to you!</description>
+    
+    <lastBuildDate>Mon, 31 May 2021 02:30:46 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/may-i-ask-a-question/1316.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>May I ask a question?</title>
+        <dc:creator><![CDATA[@a1006771 A1006771]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/a1006771">@a1006771</a> wrote:</p>
+          <blockquote>
+              <p>How can I open and update a (.somd)file?<br>
+I search the hole web , but I cant find a way to deal with my question!<br>
+such as java can open a (js)file.<br>
+please tell me!<br>
+give my best wishes to you!</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/may-i-ask-a-question/1316/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/may-i-ask-a-question/1316/1</link>
+        <pubDate>Mon, 31 May 2021 02:21:54 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1316-1</guid>
+        <source url="https://forums.ficsit.app/t/may-i-ask-a-question/1316.rss">May I ask a question?</source>
+      </item>
+  </channel>
+</rss>

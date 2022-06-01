@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Searching Alerting Mod</title>
+    <link>https://forums.ficsit.app/t/searching-alerting-mod/1535</link>
+    <description>The more my factory grows the harder it is to keep track if everything is working as expected. In order to get informed in time when things start to go down, I&#39;d love to have some alerting available: My simple idea is to add a watcher to a belt which counts the number of items passing by. When the amount of a given item per minute falls below a given threshold, an alert is displayed to me in GUI or in some kind of dashboard.
+
+I&#39;ve searched existing mods for this functionality, but didn&#39;t find anything. Do you know any mod doing something similar?</description>
+    
+    <lastBuildDate>Fri, 07 Jan 2022 15:36:22 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/searching-alerting-mod/1535.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Searching Alerting Mod</title>
+        <dc:creator><![CDATA[@Michael_Bulla Michael Bulla]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/michael_bulla">@Michael_Bulla</a> wrote:</p>
+          <blockquote>
+              <p>The more my factory grows the harder it is to keep track if everything is working as expected. In order to get informed in time when things start to go down, I’d love to have some alerting available: My simple idea is to add a watcher to a belt which counts the number of items passing by. When the amount of a given item per minute falls below a given threshold, an alert is displayed to me in GUI or in some kind of dashboard.</p>
+<p>I’ve searched existing mods for this functionality, but didn’t find anything. Do you know any mod doing something similar?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/searching-alerting-mod/1535/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/searching-alerting-mod/1535/1</link>
+        <pubDate>Fri, 07 Jan 2022 15:36:22 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1535-1</guid>
+        <source url="https://forums.ficsit.app/t/searching-alerting-mod/1535.rss">Searching Alerting Mod</source>
+      </item>
+  </channel>
+</rss>

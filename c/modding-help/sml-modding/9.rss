@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:discourse="http://www.discourse.org/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>SML Modding - SMR Forums</title>
+    <link>https://forums.ficsit.app/c/modding-help/sml-modding</link>
+    <description>Topics in the &#39;SML Modding&#39; category Any questions related to SML Modding.</description>
+    
+      <lastBuildDate>Fri, 12 Nov 2021 10:02:17 +0000</lastBuildDate>
+      <atom:link href="https://forums.ficsit.app/c/modding-help/sml-modding.rss" rel="self" type="application/rss+xml" />
+        <item>
+          <title>Mods are loaded but do not start</title>
+          <dc:creator><![CDATA[@User_212 Darknes]]></dc:creator>
+          <category>SML Modding</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/user_212">@User_212</a> wrote:</p>
+            <blockquote>
+              <p>Hi everyone, I have a problem loading mods with SML 3.01 and 3.1.1<br>
+let me explain, I have an unofficial version of Satisfactory 151773. I installed both SML 3.1.0 and 3.1.1 and starting the game everything seems to be fine, bottom left under the Build version tells me how many mods are loaded and I can see them all but starting the game no mod is active except " SMART! " that works in part. that is, only the duplication of the blocks to be placed, not even the menu can be opened to configure it.<br>
+obviously I am not using SMM due to the fact that my version is not official, I wanted to know if there is a way to solve because with SML 2.2.1 everything works fine but there are many mods that I cannot install because they require SML 3.0.0</p>
+            </blockquote>
+            <p>Posts: 3</p>
+            <p>Participants: 3</p>
+            <p><a href="https://forums.ficsit.app/t/mods-are-loaded-but-do-not-start/1445">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/mods-are-loaded-but-do-not-start/1445</link>
+          <pubDate>Fri, 12 Nov 2021 10:02:17 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1445</guid>
+          <source url="https://forums.ficsit.app/t/mods-are-loaded-but-do-not-start/1445.rss">Mods are loaded but do not start</source>
+        </item>
+        <item>
+          <title>Is FoundationIndustries still being developed?</title>
+          <dc:creator><![CDATA[@CodeWarrior-Hawaii Code Warrior Hawaii]]></dc:creator>
+          <category>SML Modding</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/codewarrior-hawaii">@CodeWarrior-Hawaii</a> wrote:</p>
+            <blockquote>
+              <p><a class="mention" href="/u/happyjamcoding">@HappyJamCoding</a>, just dropping you a line to let you know I enjoyed using FoundationIndustries previously.  I have recently picked Satisfactory up again after Update 4 and wondered if you were still supporting FoundationIndustries and if there might be a compatible version soon.  Thanks for all your hard work, and I hope to see a new version!</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.ficsit.app/t/is-foundationindustries-still-being-developed/1364">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/is-foundationindustries-still-being-developed/1364</link>
+          <pubDate>Tue, 20 Jul 2021 01:50:01 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1364</guid>
+          <source url="https://forums.ficsit.app/t/is-foundationindustries-still-being-developed/1364.rss">Is FoundationIndustries still being developed?</source>
+        </item>
+        <item>
+          <title>When will Satisfactory Mod Manager for the new Enige of the game and Experimental</title>
+          <dc:creator><![CDATA[@Tom_Erik_Myrdal Tom Erik Myrdal]]></dc:creator>
+          <category>SML Modding</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/tom_erik_myrdal">@Tom_Erik_Myrdal</a> wrote:</p>
+            <blockquote>
+              <p>When will Satisfactory Mod Manager for the new Enige of the game and Experimental be ready?<br>
+IS it any Beta version that we can test out? Im happy to test a Beta version of the Manager if it is someone that are working with it. I know the New Game engie of unreal enige is on the experimental version and that version they have inplented a difrent way of adding mods to the game its even easier in that version so its strange if it is noone that is working on this alredy :)<img src="https://forums.ficsit.app/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"> And I and maybe alot of other people are willing to test it out also its np.</p>
+            </blockquote>
+            <p>Posts: 6</p>
+            <p>Participants: 5</p>
+            <p><a href="https://forums.ficsit.app/t/when-will-satisfactory-mod-manager-for-the-new-enige-of-the-game-and-experimental/1146">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/when-will-satisfactory-mod-manager-for-the-new-enige-of-the-game-and-experimental/1146</link>
+          <pubDate>Wed, 17 Mar 2021 03:52:15 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-1146</guid>
+          <source url="https://forums.ficsit.app/t/when-will-satisfactory-mod-manager-for-the-new-enige-of-the-game-and-experimental/1146.rss">When will Satisfactory Mod Manager for the new Enige of the game and Experimental</source>
+        </item>
+        <item>
+          <title>Refined Power, Modular Power Design Beta Testing</title>
+          <dc:creator><![CDATA[@I_m_a_chicken29 Im A Chicken29]]></dc:creator>
+          <category>SML Modding</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/i_m_a_chicken29">@I_m_a_chicken29</a> wrote:</p>
+            <blockquote>
+              <p><strong>Hello there everyone!</strong></p>
+<p>We have decided to try something new that is doing a private beta testing campaign and will do more in the future if it goes well. we are doing this so we can get a lot more feedback on the update than having to push it out than get the public feedback and bug reports and then have to change stuff leading to breaking people’s game or making someone redo buildings.<br>
+What this is, is that people can beta test the next update to Refined Power, Modular Power Design (MPD for short).</p>
+<p>Beta Testing will start on Monday, July 27th, 2020 10am BST or 11am CEST and ending on aug 8th<br>
+but will be open till the update drops for patreons only</p>
+<p>What you will be doing is playing an unreleased version of Refined Power with this new update (Mk1 stuff only atm) and give us feedback. You will give us feedback/bug reports on the update on the Refined Power <a href="https://discord.gg/CgMn3wQ" rel="nofollow noopener">Discord</a> with a custom role to have access to a private chat. For the people who do have access to beta test please do not share the version to other people without our consent. remember anything in this update is subject to change with the feedback that we get!</p>
+<p><strong>Important Info Below</strong></p>
+<p><strong>How do I get the discord role?</strong><br>
+Msg me I’m_a_chicken29#9014 on discord or Mrhid6#2851 and send us some sort of proof that you qualify for who can be a beta tester down below!</p>
+<p><strong>Who will have access to the private beta testing?</strong><br>
+Only Mod devs, All Patreon supporters, trusted friends, and YouTuber/streamers (Streaming only and no need to private/unlist it afterward). Please do not ask us for the custom version of the mod if you don’t fit any of the roles above! Please do understand our reasoning as to why down below as for why it’s not public.</p>
+<p><strong>Why is it only x people above who can do the beta testing?</strong><br>
+Making Beta testing public will just lead to a lot more issues if you think about it more and more F.e: teaching people how to install the mod, people thinking it’s some update they can play on while all of in it can be changed, etc</p>
+<p><strong>will this happen again?</strong><br>
+Maybe if it goes to plan, which we hope it does.</p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.ficsit.app/t/refined-power-modular-power-design-beta-testing/794">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/refined-power-modular-power-design-beta-testing/794</link>
+          <pubDate>Thu, 23 Jul 2020 23:46:21 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-794</guid>
+          <source url="https://forums.ficsit.app/t/refined-power-modular-power-design-beta-testing/794.rss">Refined Power, Modular Power Design Beta Testing</source>
+        </item>
+        <item>
+          <title>Vote on the update you want to see next coming to Refined Power!</title>
+          <dc:creator><![CDATA[@I_m_a_chicken29 Im A Chicken29]]></dc:creator>
+          <category>SML Modding</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/i_m_a_chicken29">@I_m_a_chicken29</a> wrote:</p>
+            <blockquote>
+              <p>Chose what update you want to come next to Refined Power! all up to you my dudes!<br>
+Have fun deciding which one you want next <img src="https://forums.ficsit.app/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+<p>Poll ended next updates will be Modular power design (MDP), Battery power, toxic gas power, Reservoir power, and mk2 water turbine!</p>
+<p>Happy building!</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.ficsit.app/t/vote-on-the-update-you-want-to-see-next-coming-to-refined-power/681">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/vote-on-the-update-you-want-to-see-next-coming-to-refined-power/681</link>
+          <pubDate>Thu, 25 Jun 2020 19:21:39 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-681</guid>
+          <source url="https://forums.ficsit.app/t/vote-on-the-update-you-want-to-see-next-coming-to-refined-power/681.rss">Vote on the update you want to see next coming to Refined Power!</source>
+        </item>
+        <item>
+          <title>What would you like to see in Refined Power?</title>
+          <dc:creator><![CDATA[@I_m_a_chicken29 Im A Chicken29]]></dc:creator>
+          <category>SML Modding</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/i_m_a_chicken29">@I_m_a_chicken29</a> wrote:</p>
+            <blockquote>
+              <p>We have an upcoming update to RP (Refined Power) that includes gas power and we thought what would you like to see coming to RP? We have never asked this question before other than taking suggestions and doing bug/balancing reports and we would like to see what you would want to see coming to the mod! We will take almost any idea if possible or we are up to do it so please do tell us what you would like to see come to the mod!</p>
+<p>IMPORTANT!: What “we” means is me and Mrhid6, and I got permission to post this about asking you guys what y’all want!.</p>
+            </blockquote>
+            <p>Posts: 56</p>
+            <p>Participants: 18</p>
+            <p><a href="https://forums.ficsit.app/t/what-would-you-like-to-see-in-refined-power/664">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/what-would-you-like-to-see-in-refined-power/664</link>
+          <pubDate>Sun, 21 Jun 2020 19:57:05 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-664</guid>
+          <source url="https://forums.ficsit.app/t/what-would-you-like-to-see-in-refined-power/664.rss">What would you like to see in Refined Power?</source>
+        </item>
+        <item>
+          <title>Is there any way to run Moar factory on update 3?</title>
+          <dc:creator><![CDATA[@Pierson_Hall Pierson Hall]]></dc:creator>
+          <category>SML Modding</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/pierson_hall">@Pierson_Hall</a> wrote:</p>
+            <blockquote>
+              <p>Its such a bummer that I can no longer use the assets in this wonderful mod even though most of it doesn’t seem like it would conflict with the new update</p>
+            </blockquote>
+            <p>Posts: 10</p>
+            <p>Participants: 4</p>
+            <p><a href="https://forums.ficsit.app/t/is-there-any-way-to-run-moar-factory-on-update-3/260">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/is-there-any-way-to-run-moar-factory-on-update-3/260</link>
+          <pubDate>Mon, 23 Mar 2020 07:18:57 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-260</guid>
+          <source url="https://forums.ficsit.app/t/is-there-any-way-to-run-moar-factory-on-update-3/260.rss">Is there any way to run Moar factory on update 3?</source>
+        </item>
+        <item>
+          <title>Mod making-questions</title>
+          <dc:creator><![CDATA[@weeaiden102_weilltur Weeaiden102 Weilltur]]></dc:creator>
+          <category>SML Modding</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/weeaiden102_weilltur">@weeaiden102_weilltur</a> wrote:</p>
+            <blockquote>
+              <p>is there a tutorial for making mods or a website?</p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.ficsit.app/t/mod-making-questions/87">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/mod-making-questions/87</link>
+          <pubDate>Mon, 25 Nov 2019 16:07:09 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-87</guid>
+          <source url="https://forums.ficsit.app/t/mod-making-questions/87.rss">Mod making-questions</source>
+        </item>
+        <item>
+          <title>About the SML Modding category</title>
+          <dc:creator><![CDATA[@Vilsol]]></dc:creator>
+          <category>SML Modding</category>
+          <description><![CDATA[
+            <p><a href="https://forums.ficsit.app/u/vilsol">@Vilsol</a> wrote:</p>
+            <blockquote>
+              <p>Any questions related to SML Modding.</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.ficsit.app/t/about-the-sml-modding-category/22">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.ficsit.app/t/about-the-sml-modding-category/22</link>
+          <pubDate>Thu, 07 Nov 2019 16:37:04 +0000</pubDate>
+          <discourse:topicPinned>Yes</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.ficsit.app-topic-22</guid>
+          <source url="https://forums.ficsit.app/t/about-the-sml-modding-category/22.rss">About the SML Modding category</source>
+        </item>
+  </channel>
+</rss>

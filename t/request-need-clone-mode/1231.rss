@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>REQUEST: NEED clone mode</title>
+    <link>https://forums.ficsit.app/t/request-need-clone-mode/1231</link>
+    <description>Played the game for over 100 hours, but then decided to build a large production facility but faced a very tedious construction process. For example, to build 1 processing unit out of 24 factories, you need to kill an hour of real time, and dozens of such mini-factories need to be built. Any creative mode will be boring for me, because there must be an element of survival and lack of resources. I would like to suggest an idea for a mod. Select the bottom left point and the top right one of improvised cube. We save everything that got into this virtual cube in templates, and then we simply choose to build when we need to, provided there are sufficient resources.</description>
+    
+    <lastBuildDate>Thu, 29 Apr 2021 21:55:11 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/request-need-clone-mode/1231.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>REQUEST: NEED clone mode</title>
+        <dc:creator><![CDATA[@1119 Андрей Железнов]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/1119">@1119</a> wrote:</p>
+          <blockquote>
+              <p>Played the game for over 100 hours, but then decided to build a large production facility but faced a very tedious construction process. For example, to build 1 processing unit out of 24 factories, you need to kill an hour of real time, and dozens of such mini-factories need to be built. Any creative mode will be boring for me, because there must be an element of survival and lack of resources. I would like to suggest an idea for a mod. Select the bottom left point and the top right one of improvised cube. We save everything that got into this virtual cube in templates, and then we simply choose to build when we need to, provided there are sufficient resources.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/request-need-clone-mode/1231/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/request-need-clone-mode/1231/1</link>
+        <pubDate>Thu, 29 Apr 2021 21:55:11 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1231-1</guid>
+        <source url="https://forums.ficsit.app/t/request-need-clone-mode/1231.rss">REQUEST: NEED clone mode</source>
+      </item>
+  </channel>
+</rss>

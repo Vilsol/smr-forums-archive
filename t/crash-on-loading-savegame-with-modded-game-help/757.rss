@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Crash on loading savegame with modded game. Help!</title>
+    <link>https://forums.ficsit.app/t/crash-on-loading-savegame-with-modded-game-help/757</link>
+    <description>Version: 125236, IsEditor: No, IsPerforceBuild: No, BuildConfiguration: Shipping, Launcher: Epic, NetMode: Standalone, IsUsingMods: Yes
+
+Assertion failed: O-&gt;GetClass()-&gt;ImplementsInterface(UFGSaveInterface::StaticClass()) [File:D:\ws\SB-200518130817-657\UE4\Games\FactoryGame\Intermediate\Build\Win64\FactoryGame\Inc\FactoryGame\FGSaveInterface.gen.cpp] [Line: 446]
+
+FactoryGame_Win64_Shipping!FWindowsErrorOutputDevice::Serialize() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\core\private\windows\windowserroroutputdevice.cpp:79]
+FactoryGame_Win64_Shipping!FOutputDevice::LogfImpl() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\core\private\misc\outputdevice.cpp:71]
+FactoryGame_Win64_Shipping!AssertFailedImplV() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\core\private\misc\assertionmacros.cpp:101]
+FactoryGame_Win64_Shipping!FDebug::CheckVerifyFailedImpl() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\core\private\misc\assertionmacros.cpp:439]
+FactoryGame_Win64_Shipping!IFGSaveInterface::Execute_PreLoadGame() [d:\ws\sb-200518130817-657\ue4\games\factorygame\intermediate\build\win64\factorygame\inc\factorygame\fgsaveinterface.gen.cpp:446]
+FactoryGame_Win64_Shipping!FArchiveObjectTOCProxy::operator&lt;&lt;() [d:\ws\sb-200518130817-657\ue4\games\factorygame\source\factorygame\private\fgsavesession.cpp:1280]
+FactoryGame_Win64_Shipping!operator&lt;&lt;() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\core\public\containers\array.h:1100]
+FactoryGame_Win64_Shipping!UFGSaveSession::SerializeLoadedObjects() [d:\ws\sb-200518130817-657\ue4\games\factorygame\source\factorygame\private\fgsavesession.cpp:1482]
+FactoryGame_Win64_Shipping!UFGSaveSession::LoadCompressedFileFromDisk() [d:\ws\sb-200518130817-657\ue4\games\factorygame\source\factorygame\private\fgsavesession.cpp:778]
+FactoryGame_Win64_Shipping!UFGSaveSession::LoadGame() [d:\ws\sb-200518130817-657\ue4\games\factorygame\source\factorygame\private\fgsavesession.cpp:920]
+FactoryGame_Win64_Shipping!AFGGameMode::InitGameState() [d:\ws\sb-200518130817-657\ue4\games\factorygame\source\factorygame\private\fggamemode.cpp:274]
+FactoryGame_Win64_Shipping!AGameModeBase::PreInitializeComponents() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\engine\private\gamemodebase.cpp:125]
+FactoryGame_Win64_Shipping!ULevel::RouteActorInitialize() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\engine\private\level.cpp:1823]
+FactoryGame_Win64_Shipping!UWorld::InitializeActorsForPlay() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\engine\private\world.cpp:3925]
+FactoryGame_Win64_Shipping!UEngine::LoadMap() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\engine\private\unrealengine.cpp:12518]
+FactoryGame_Win64_Shipping!UEngine::Browse() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\engine\private\unrealengine.cpp:11777]
+FactoryGame_Win64_Shipping!UEngine::TickWorldTravel() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\engine\private\unrealengine.cpp:11975]
+FactoryGame_Win64_Shipping!UGameEngine::Tick() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\engine\private\gameengine.cpp:1355]
+FactoryGame_Win64_Shipping!UFGGameEngine::Tick() [d:\ws\sb-200518130817-657\ue4\games\factorygame\source\factorygame\private\fggameengine.cpp:9]
+FactoryGame_Win64_Shipping!FEngineLoop::Tick() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\launch\private\launchengineloop.cpp:4028]
+FactoryGame_Win64_Shipping!GuardedMain() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\launch\private\launch.cpp:168]
+FactoryGame_Win64_Shipping!GuardedMainWrapper() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\launch\private\windows\launchwindows.cpp:145]
+FactoryGame_Win64_Shipping!WinMain() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\launch\private\windows\launchwindows.cpp:275]
+FactoryGame_Win64_Shipping!__scrt_common_main_seh() [d:\agent\_work\2\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+kernel32
+ntdll</description>
+    
+    <lastBuildDate>Tue, 21 Jul 2020 02:08:16 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forums.ficsit.app/t/crash-on-loading-savegame-with-modded-game-help/757.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Crash on loading savegame with modded game. Help!</title>
+        <dc:creator><![CDATA[@Dustin_Oliverius Dustin Oliverius]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/dustin_oliverius">@Dustin_Oliverius</a> wrote:</p>
+          <blockquote>
+              <p>i had this same error. I found it to be moar factory that caused the issue</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/crash-on-loading-savegame-with-modded-game-help/757/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/crash-on-loading-savegame-with-modded-game-help/757/3</link>
+        <pubDate>Tue, 21 Jul 2020 02:08:16 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-757-3</guid>
+        <source url="https://forums.ficsit.app/t/crash-on-loading-savegame-with-modded-game-help/757.rss">Crash on loading savegame with modded game. Help!</source>
+      </item>
+      <item>
+        <title>Crash on loading savegame with modded game. Help!</title>
+        <dc:creator><![CDATA[@andrew_gatenby ozmods]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/andrew_gatenby">@andrew_gatenby</a> wrote:</p>
+          <blockquote>
+              <p>try removing your mods one at a time, until you find what is causing it, i know it  sucks but it’s a process of elimination</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/crash-on-loading-savegame-with-modded-game-help/757/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/crash-on-loading-savegame-with-modded-game-help/757/2</link>
+        <pubDate>Thu, 16 Jul 2020 02:13:50 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-757-2</guid>
+        <source url="https://forums.ficsit.app/t/crash-on-loading-savegame-with-modded-game-help/757.rss">Crash on loading savegame with modded game. Help!</source>
+      </item>
+      <item>
+        <title>Crash on loading savegame with modded game. Help!</title>
+        <dc:creator><![CDATA[@Mikael_Hallangen Mikael Hallangen]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/mikael_hallangen">@Mikael_Hallangen</a> wrote:</p>
+          <blockquote>
+              <p>Version: 125236, IsEditor: No, IsPerforceBuild: No, BuildConfiguration: Shipping, Launcher: Epic, NetMode: Standalone, IsUsingMods: Yes</p>
+<p>Assertion failed: O-&gt;GetClass()-&gt;ImplementsInterface(UFGSaveInterface::StaticClass()) [File:D:\ws\SB-200518130817-657\UE4\Games\FactoryGame\Intermediate\Build\Win64\FactoryGame\Inc\FactoryGame\FGSaveInterface.gen.cpp] [Line: 446]</p>
+<p>FactoryGame_Win64_Shipping!FWindowsErrorOutputDevice::Serialize() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\core\private\windows\windowserroroutputdevice.cpp:79]<br>
+FactoryGame_Win64_Shipping!FOutputDevice::LogfImpl() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\core\private\misc\outputdevice.cpp:71]<br>
+FactoryGame_Win64_Shipping!AssertFailedImplV() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\core\private\misc\assertionmacros.cpp:101]<br>
+FactoryGame_Win64_Shipping!FDebug::CheckVerifyFailedImpl() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\core\private\misc\assertionmacros.cpp:439]<br>
+FactoryGame_Win64_Shipping!IFGSaveInterface::Execute_PreLoadGame() [d:\ws\sb-200518130817-657\ue4\games\factorygame\intermediate\build\win64\factorygame\inc\factorygame\fgsaveinterface.gen.cpp:446]<br>
+FactoryGame_Win64_Shipping!FArchiveObjectTOCProxy::operator&lt;&lt;() [d:\ws\sb-200518130817-657\ue4\games\factorygame\source\factorygame\private\fgsavesession.cpp:1280]<br>
+FactoryGame_Win64_Shipping!operator&lt;&lt;() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\core\public\containers\array.h:1100]<br>
+FactoryGame_Win64_Shipping!UFGSaveSession::SerializeLoadedObjects() [d:\ws\sb-200518130817-657\ue4\games\factorygame\source\factorygame\private\fgsavesession.cpp:1482]<br>
+FactoryGame_Win64_Shipping!UFGSaveSession::LoadCompressedFileFromDisk() [d:\ws\sb-200518130817-657\ue4\games\factorygame\source\factorygame\private\fgsavesession.cpp:778]<br>
+FactoryGame_Win64_Shipping!UFGSaveSession::LoadGame() [d:\ws\sb-200518130817-657\ue4\games\factorygame\source\factorygame\private\fgsavesession.cpp:920]<br>
+FactoryGame_Win64_Shipping!AFGGameMode::InitGameState() [d:\ws\sb-200518130817-657\ue4\games\factorygame\source\factorygame\private\fggamemode.cpp:274]<br>
+FactoryGame_Win64_Shipping!AGameModeBase::PreInitializeComponents() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\engine\private\gamemodebase.cpp:125]<br>
+FactoryGame_Win64_Shipping!ULevel::RouteActorInitialize() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\engine\private\level.cpp:1823]<br>
+FactoryGame_Win64_Shipping!UWorld::InitializeActorsForPlay() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\engine\private\world.cpp:3925]<br>
+FactoryGame_Win64_Shipping!UEngine::LoadMap() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\engine\private\unrealengine.cpp:12518]<br>
+FactoryGame_Win64_Shipping!UEngine::Browse() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\engine\private\unrealengine.cpp:11777]<br>
+FactoryGame_Win64_Shipping!UEngine::TickWorldTravel() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\engine\private\unrealengine.cpp:11975]<br>
+FactoryGame_Win64_Shipping!UGameEngine::Tick() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\engine\private\gameengine.cpp:1355]<br>
+FactoryGame_Win64_Shipping!UFGGameEngine::Tick() [d:\ws\sb-200518130817-657\ue4\games\factorygame\source\factorygame\private\fggameengine.cpp:9]<br>
+FactoryGame_Win64_Shipping!FEngineLoop::Tick() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\launch\private\launchengineloop.cpp:4028]<br>
+FactoryGame_Win64_Shipping!GuardedMain() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\launch\private\launch.cpp:168]<br>
+FactoryGame_Win64_Shipping!GuardedMainWrapper() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\launch\private\windows\launchwindows.cpp:145]<br>
+FactoryGame_Win64_Shipping!WinMain() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\launch\private\windows\launchwindows.cpp:275]<br>
+FactoryGame_Win64_Shipping!__scrt_common_main_seh() [d:\agent_work\2\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]<br>
+kernel32<br>
+ntdll</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/crash-on-loading-savegame-with-modded-game-help/757/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/crash-on-loading-savegame-with-modded-game-help/757/1</link>
+        <pubDate>Wed, 15 Jul 2020 08:47:26 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-757-1</guid>
+        <source url="https://forums.ficsit.app/t/crash-on-loading-savegame-with-modded-game-help/757.rss">Crash on loading savegame with modded game. Help!</source>
+      </item>
+  </channel>
+</rss>

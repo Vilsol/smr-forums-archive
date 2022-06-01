@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Game crash on startup</title>
+    <link>https://forums.ficsit.app/t/game-crash-on-startup/1394</link>
+    <description>when i try to start the game it instantly comes up with a error this is what the crash report says
+Fatal error!
+
+Unhandled Exception: EXCEPTION_ACCESS_VIOLATION writing address 0x62613e68
+
+0x00007ffc622b2d00 FactoryGame-Core-Win64-Shipping.dll!TBaseFunctorDelegateInstance&lt;TTypeWrapper&lt;void&gt; __cdecl(void),&lt;lambda_5aef1f7c17e382ac4c3c191be03776d5&gt; &gt;::`scalar deleting destructor&#39;() []
+0x00007ffc622c079e FactoryGame-Core-Win64-Shipping.dll!FGenericCrashContext::Initialize() [d:\ws\sb-lowprio\ue4\engine\source\runtime\core\private\genericplatform\genericplatformcrashcontext.cpp:231]
+0x00007ffc6249ac41 FactoryGame-Core-Win64-Shipping.dll!FWindowsPlatformMisc::PlatformPreInit() [d:\ws\sb-lowprio\ue4\engine\source\runtime\core\private\windows\windowsplatformmisc.cpp:560]
+0x00007ff6563d4f6a FactoryGame-Win64-Shipping.exe!FEngineLoop::AppInit() [d:\ws\sb-lowprio\ue4\engine\source\runtime\launch\private\launchengineloop.cpp:5363]
+0x00007ff6563df67d FactoryGame-Win64-Shipping.exe!FEngineLoop::PreInitPreStartupScreen() [d:\ws\sb-lowprio\ue4\engine\source\runtime\launch\private\launchengineloop.cpp:2264]
+0x00007ff6563d8a56 FactoryGame-Win64-Shipping.exe!GuardedMain() [d:\ws\sb-lowprio\ue4\engine\source\runtime\launch\private\launch.cpp:127]
+0x00007ff6563d8c7a FactoryGame-Win64-Shipping.exe!GuardedMainWrapper() [d:\ws\sb-lowprio\ue4\engine\source\runtime\launch\private\windows\launchwindows.cpp:137]
+0x00007ff6563e3a27 FactoryGame-Win64-Shipping.exe!WinMain() [d:\ws\sb-lowprio\ue4\engine\source\runtime\launch\private\windows\launchwindows.cpp:268]
+0x00007ff6563e45ce FactoryGame-Win64-Shipping.exe!__scrt_common_main_seh() [d:\agent\_work\2\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+0x00007ffccdc87034 KERNEL32.DLL!UnknownFunction []
+0x00007ffccea42651 ntdll.dll!UnknownFunction []
+does anyone know how to fix it?
+im using the mods: speedometer, efficiency checker, spysat, ficsit farming, chapter 1 slug principles, smart and save on quit.</description>
+    
+    <lastBuildDate>Fri, 10 Sep 2021 19:42:54 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forums.ficsit.app/t/game-crash-on-startup/1394.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Game crash on startup</title>
+        <dc:creator><![CDATA[@i_like_it_cut_g I Like It Cut G]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/i_like_it_cut_g">@i_like_it_cut_g</a> wrote:</p>
+          <blockquote>
+              <p>when i try to start the game it instantly comes up with a error this is what the crash report says<br>
+Fatal error!</p>
+<p>Unhandled Exception: EXCEPTION_ACCESS_VIOLATION writing address 0x62613e68</p>
+<p>0x00007ffc622b2d00 FactoryGame-Core-Win64-Shipping.dll!TBaseFunctorDelegateInstance&lt;TTypeWrapper __cdecl(void),&lt;lambda_5aef1f7c17e382ac4c3c191be03776d5&gt; &gt;::`scalar deleting destructor’() []<br>
+0x00007ffc622c079e FactoryGame-Core-Win64-Shipping.dll!FGenericCrashContext::Initialize() [d:\ws\sb-lowprio\ue4\engine\source\runtime\core\private\genericplatform\genericplatformcrashcontext.cpp:231]<br>
+0x00007ffc6249ac41 FactoryGame-Core-Win64-Shipping.dll!FWindowsPlatformMisc::PlatformPreInit() [d:\ws\sb-lowprio\ue4\engine\source\runtime\core\private\windows\windowsplatformmisc.cpp:560]<br>
+0x00007ff6563d4f6a FactoryGame-Win64-Shipping.exe!FEngineLoop::AppInit() [d:\ws\sb-lowprio\ue4\engine\source\runtime\launch\private\launchengineloop.cpp:5363]<br>
+0x00007ff6563df67d FactoryGame-Win64-Shipping.exe!FEngineLoop::PreInitPreStartupScreen() [d:\ws\sb-lowprio\ue4\engine\source\runtime\launch\private\launchengineloop.cpp:2264]<br>
+0x00007ff6563d8a56 FactoryGame-Win64-Shipping.exe!GuardedMain() [d:\ws\sb-lowprio\ue4\engine\source\runtime\launch\private\launch.cpp:127]<br>
+0x00007ff6563d8c7a FactoryGame-Win64-Shipping.exe!GuardedMainWrapper() [d:\ws\sb-lowprio\ue4\engine\source\runtime\launch\private\windows\launchwindows.cpp:137]<br>
+0x00007ff6563e3a27 FactoryGame-Win64-Shipping.exe!WinMain() [d:\ws\sb-lowprio\ue4\engine\source\runtime\launch\private\windows\launchwindows.cpp:268]<br>
+0x00007ff6563e45ce FactoryGame-Win64-Shipping.exe!__scrt_common_main_seh() [d:\agent_work\2\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]<br>
+0x00007ffccdc87034 KERNEL32.DLL!UnknownFunction []<br>
+0x00007ffccea42651 ntdll.dll!UnknownFunction []<br>
+does anyone know how to fix it?<br>
+im using the mods: speedometer, efficiency checker, spysat, ficsit farming, chapter 1 slug principles, smart and save on quit.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/game-crash-on-startup/1394/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/game-crash-on-startup/1394/1</link>
+        <pubDate>Fri, 10 Sep 2021 19:42:54 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1394-1</guid>
+        <source url="https://forums.ficsit.app/t/game-crash-on-startup/1394.rss">Game crash on startup</source>
+      </item>
+  </channel>
+</rss>

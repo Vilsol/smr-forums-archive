@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Advanced logistic burn CPU and kill FPS</title>
+    <link>https://forums.ficsit.app/t/advanced-logistic-burn-cpu-and-kill-fps/772</link>
+    <description>First is PC config
+i9-9900KF + 2070S + 64GB RAM
+
+Only Advanced logistic installed. (For find out the root cause I uninstall all mods 1 by 1)
+
+Here a some testing. with 80 Splitters and 40 mergers that placed with foundrys
+
+When not do any settings in the splitters/mergers, the performance is same as normal.
+If don&#39;t enter the area that has Advanced logistic splitters/merges, the performance is same as normal too.
+
+While doing settings in the splitters/merges, the CPU starts to burn, the cpu usage is raise accumulately - increasing slowly at the beginning and keep increasing very fast.
+
+Tried to clear all items in the belt and machines, it didn&#39;t help.
+
+Leaving the area will not recover the CPU usage and FPS drops.
+
+RAM and GPU usage is normal, it burns the CPU only.
+
+I really love this mod, it solved the load balancing problem while building a huge factory. I guess it maybe a problem about the counter keep accumulating. Hope it will has a fix soon.</description>
+    
+    <lastBuildDate>Fri, 17 Jul 2020 21:41:54 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forums.ficsit.app/t/advanced-logistic-burn-cpu-and-kill-fps/772.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Advanced logistic burn CPU and kill FPS</title>
+        <dc:creator><![CDATA[@Hugo_les_bons_tuyaux Hugo Les Bons Tuyaux]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/hugo_les_bons_tuyaux">@Hugo_les_bons_tuyaux</a> wrote:</p>
+          <blockquote>
+              <p>I’m happy that i’m not the only one.<br>
+See my topic of yesterday</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/advanced-logistic-burn-cpu-and-kill-fps/772/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/advanced-logistic-burn-cpu-and-kill-fps/772/2</link>
+        <pubDate>Fri, 17 Jul 2020 21:41:54 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-772-2</guid>
+        <source url="https://forums.ficsit.app/t/advanced-logistic-burn-cpu-and-kill-fps/772.rss">Advanced logistic burn CPU and kill FPS</source>
+      </item>
+      <item>
+        <title>Advanced logistic burn CPU and kill FPS</title>
+        <dc:creator><![CDATA[@Ant_Y Ant Y]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/ant_y">@Ant_Y</a> wrote:</p>
+          <blockquote>
+              <p>First is PC config<br>
+i9-9900KF + 2070S + 64GB RAM</p>
+<p>Only Advanced logistic installed. (For find out the root cause I uninstall all mods 1 by 1)</p>
+<p>Here a some testing. with 80 Splitters and 40 mergers that placed with foundrys</p>
+<p>When not do any settings in the splitters/mergers, the performance is same as normal.<br>
+If don’t enter the area that has Advanced logistic splitters/merges, the performance is same as normal too.</p>
+<p>While doing settings in the splitters/merges, the CPU starts to burn, the cpu usage is raise accumulately - increasing slowly at the beginning and keep increasing very fast.</p>
+<p>Tried to clear all items in the belt and machines, it didn’t help.</p>
+<p>Leaving the area will not recover the CPU usage and FPS drops.</p>
+<p>RAM and GPU usage is normal, it burns the CPU only.</p>
+<p>I really love this mod, it solved the load balancing problem while building a huge factory. I guess it maybe a problem about the counter keep accumulating. Hope it will has a fix soon.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/advanced-logistic-burn-cpu-and-kill-fps/772/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/advanced-logistic-burn-cpu-and-kill-fps/772/1</link>
+        <pubDate>Fri, 17 Jul 2020 20:29:54 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-772-1</guid>
+        <source url="https://forums.ficsit.app/t/advanced-logistic-burn-cpu-and-kill-fps/772.rss">Advanced logistic burn CPU and kill FPS</source>
+      </item>
+  </channel>
+</rss>

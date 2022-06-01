@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>NogsLights Issues</title>
+    <link>https://forums.ficsit.app/t/nogslights-issues/434</link>
+    <description>Nice concept but needs some work. 
+
+Many of the entries not accessable. I can only see part of the slider.
+
+The N key does nothing. I assume it should open an invisibl dialog to release the cursor so that I may click on the Icon that opens the main menu to change things. 
+Opening any other menu works but covers up the screen so I can&#39;t see the changes I am trying to make.
+
+It appears I should be able to enter the number values correctly. This does not work.
+I cannot enter numbers on the keypad or on the main keyboard. (Yes the numlock is on.)
+
+Some of the sliders should change values in an exponential or logarithmic fashion. That is how we percieve many light issues anyway.
+
+Need a better explanation somewhere on some of the icons and usage. For instance it is not really obvious to me that one of the Icons resets all settings. I don&#39;t know if tooltips are possible at this stage or not. 
+
+Reset doesn&#39;t seem to reset everything.
+
+Not sure if one of your settings is toggling the r.fog console value correctly from 0 to 1 and 1 to 0. Seems to me that doing this myself in the console worked better than trying to toggle the value in your dialog. Maybe it&#39;s just me.
+
+Thank you for the effort in any case. This can develop into a really awesome mod.</description>
+    
+    <lastBuildDate>Tue, 21 Apr 2020 15:49:24 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/nogslights-issues/434.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>NogsLights Issues</title>
+        <dc:creator><![CDATA[@JamieRCHI Jamie]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jamierchi">@JamieRCHI</a> wrote:</p>
+          <blockquote>
+              <p>Nice concept but needs some work.</p>
+<p>Many of the entries not accessable. I can only see part of the slider.</p>
+<p>The N key does nothing. I assume it should open an invisibl dialog to release the cursor so that I may click on the Icon that opens the main menu to change things.<br>
+Opening any other menu works but covers up the screen so I can’t see the changes I am trying to make.</p>
+<p>It appears I should be able to enter the number values correctly. This does not work.<br>
+I cannot enter numbers on the keypad or on the main keyboard. (Yes the numlock is on.)</p>
+<p>Some of the sliders should change values in an exponential or logarithmic fashion. That is how we percieve many light issues anyway.</p>
+<p>Need a better explanation somewhere on some of the icons and usage. For instance it is not really obvious to me that one of the Icons resets all settings. I don’t know if tooltips are possible at this stage or not.</p>
+<p>Reset doesn’t seem to reset everything.</p>
+<p>Not sure if one of your settings is toggling the r.fog console value correctly from 0 to 1 and 1 to 0. Seems to me that doing this myself in the console worked better than trying to toggle the value in your dialog. Maybe it’s just me.</p>
+<p>Thank you for the effort in any case. This can develop into a really awesome mod.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/nogslights-issues/434/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/nogslights-issues/434/1</link>
+        <pubDate>Tue, 21 Apr 2020 15:49:24 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-434-1</guid>
+        <source url="https://forums.ficsit.app/t/nogslights-issues/434.rss">NogsLights Issues</source>
+      </item>
+  </channel>
+</rss>

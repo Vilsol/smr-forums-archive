@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Decoration Mod -</title>
+    <link>https://forums.ficsit.app/t/decoration-mod/290</link>
+    <description>Environment items that you can place on your Factory.
+
+**To Do List**
+
+* Make it possible to construct on the decorations you build (Mountains)
+* Make the Clean Foundation and Letter Boxes Paintable
+* Need different icons
+* Better names for items
+* More functionalities for the items
+* More subdivisions/categories
+* Nature Ramps 8x1
+* Foundation 8x1 wood / Ramp 8x1 wood
+* Wooden Walls / Grass Walls / Desert Sand Walls / Rock Walls
+* Turn all products in decorations</description>
+    
+    <lastBuildDate>Thu, 02 Dec 2021 12:05:12 +0000</lastBuildDate>
+    <category>Showcase</category>
+    <atom:link href="https://forums.ficsit.app/t/decoration-mod/290.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Decoration Mod -</title>
+        <dc:creator><![CDATA[@Mark_Jansen Mark Jansen]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/mark_jansen">@Mark_Jansen</a> wrote:</p>
+          <blockquote>
+              <p><a class="mention" href="/u/andre_aquila">@Andre_Aquila</a> I love this mod, but I was wondering if you were planning on adding the new plants added in Update 5? I’d love to make some northern forest terraria or replant some of the pines I had to cut down for my road network.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/decoration-mod/290/20">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/decoration-mod/290/20</link>
+        <pubDate>Thu, 02 Dec 2021 12:05:12 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-290-20</guid>
+        <source url="https://forums.ficsit.app/t/decoration-mod/290.rss">Decoration Mod -</source>
+      </item>
+      <item>
+        <title>Decoration Mod -</title>
+        <dc:creator><![CDATA[@JamieRCHI Jamie]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jamierchi">@JamieRCHI</a> wrote:</p>
+          <blockquote>
+              <p>I’ll do some research on that as I learn how to use Unreal. Maybe the resources could be placed in the .smod file (which is a zip file renamed) and accessed somehow without putting them in the .pak or other binary files in the .smod archive.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/decoration-mod/290/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/decoration-mod/290/19</link>
+        <pubDate>Mon, 20 Apr 2020 14:22:32 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-290-19</guid>
+        <source url="https://forums.ficsit.app/t/decoration-mod/290.rss">Decoration Mod -</source>
+      </item>
+      <item>
+        <title>Decoration Mod -</title>
+        <dc:creator><![CDATA[@Andre_Aquila DellAquila]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/andre_aquila">@Andre_Aquila</a> wrote:</p>
+          <blockquote>
+              <p>I remember a mod that i made for factorio, you can put an png in a folder, and you have it on your game… Its really nice idea to have it for texture the foundations, but i think we have to compile always with UE4… <img src="https://forums.ficsit.app/images/emoji/twitter/frowning.png?v=9" title=":frowning:" class="emoji" alt=":frowning:">    maybe one day it would be possible!</p>
+<p>I like the idea of ramps with nature texture… An UI pressing with E and choosing the texture will be perfect</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/decoration-mod/290/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/decoration-mod/290/18</link>
+        <pubDate>Mon, 20 Apr 2020 13:55:57 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-290-18</guid>
+        <source url="https://forums.ficsit.app/t/decoration-mod/290.rss">Decoration Mod -</source>
+      </item>
+      <item>
+        <title>Decoration Mod -</title>
+        <dc:creator><![CDATA[@JamieRCHI Jamie]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jamierchi">@JamieRCHI</a> wrote:</p>
+          <blockquote>
+              <p>If the mesh and texture was available in a folder somewhere, the possibilities would be endless.<br>
+I would like to be able to experiment with my own textures without having to compile and install my own mods. I do like having 10 or 12 different foundations though. And we do need some ramps. And maybe an option to decide how many foundation variations to display.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/decoration-mod/290/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/decoration-mod/290/17</link>
+        <pubDate>Mon, 20 Apr 2020 06:27:35 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-290-17</guid>
+        <source url="https://forums.ficsit.app/t/decoration-mod/290.rss">Decoration Mod -</source>
+      </item>
+      <item>
+        <title>Decoration Mod -</title>
+        <dc:creator><![CDATA[@ngppgn Ngppgn]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/ngppgn">@ngppgn</a> wrote:</p>
+          <blockquote>
+              <p>I would love if those foundations came also in ramp variety. Or better yet, have a “textureable foundation” where we can change its material with a Ui - that’d de-clutter the build menu quite a bit.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/decoration-mod/290/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/decoration-mod/290/16</link>
+        <pubDate>Sun, 19 Apr 2020 21:28:15 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-290-16</guid>
+        <source url="https://forums.ficsit.app/t/decoration-mod/290.rss">Decoration Mod -</source>
+      </item>
+      <item>
+        <title>Decoration Mod -</title>
+        <dc:creator><![CDATA[@JamieRCHI Jamie]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jamierchi">@JamieRCHI</a> wrote:</p>
+          <blockquote>
+              <p>No problem. I am sure you will figure it out. I am good for now. And thank you.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/decoration-mod/290/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/decoration-mod/290/15</link>
+        <pubDate>Tue, 14 Apr 2020 22:05:46 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-290-15</guid>
+        <source url="https://forums.ficsit.app/t/decoration-mod/290.rss">Decoration Mod -</source>
+      </item>
+      <item>
+        <title>Decoration Mod -</title>
+        <dc:creator><![CDATA[@Andre_Aquila DellAquila]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/andre_aquila">@Andre_Aquila</a> wrote:</p>
+          <blockquote>
+              <p>Hi Jamie… Hmmm …  Sorry!!!  I think i mess with some compatibility thing when we already used one of them.</p>
+<p>When loaded with a save that never used none of them, and only has the new mod, appear normal<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/bdee8e7e5d9fc85bbc48c61d45ad0df2a31f615d.jpeg" data-download-href="https://forums.ficsit.app/uploads/default/bdee8e7e5d9fc85bbc48c61d45ad0df2a31f615d" title=""><img src="https://forums.ficsit.app/uploads/default/optimized/1X/bdee8e7e5d9fc85bbc48c61d45ad0df2a31f615d_2_690x388.jpeg" alt data-base62-sha1="r6dlwhgyS3dqdwJlrcgxbihZQ9T" width="690" height="388" srcset="https://forums.ficsit.app/uploads/default/optimized/1X/bdee8e7e5d9fc85bbc48c61d45ad0df2a31f615d_2_690x388.jpeg, https://forums.ficsit.app/uploads/default/optimized/1X/bdee8e7e5d9fc85bbc48c61d45ad0df2a31f615d_2_1035x582.jpeg 1.5x, https://forums.ficsit.app/uploads/default/optimized/1X/bdee8e7e5d9fc85bbc48c61d45ad0df2a31f615d_2_1380x776.jpeg 2x" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/bdee8e7e5d9fc85bbc48c61d45ad0df2a31f615d_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename"></span><span class="informations">1600×901 850 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/623063bf38e6c6277950132599e060840c17a059.jpeg" data-download-href="https://forums.ficsit.app/uploads/default/623063bf38e6c6277950132599e060840c17a059" title=""><img src="https://forums.ficsit.app/uploads/default/optimized/1X/623063bf38e6c6277950132599e060840c17a059_2_496x500.jpeg" alt data-base62-sha1="e0CsUVtpH08sreedlfy0G46Emk9" width="496" height="500" srcset="https://forums.ficsit.app/uploads/default/optimized/1X/623063bf38e6c6277950132599e060840c17a059_2_496x500.jpeg, https://forums.ficsit.app/uploads/default/original/1X/623063bf38e6c6277950132599e060840c17a059.jpeg 1.5x, https://forums.ficsit.app/uploads/default/original/1X/623063bf38e6c6277950132599e060840c17a059.jpeg 2x" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/623063bf38e6c6277950132599e060840c17a059_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename"></span><span class="informations">655×660 141 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>But i opened in another game that are using the decoration mod and was bugged…</p>
+<p>I dont know whats wrong!!! <img src="https://forums.ficsit.app/images/emoji/twitter/frowning.png?v=9" title=":frowning:" class="emoji" alt=":frowning:"></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/decoration-mod/290/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/decoration-mod/290/14</link>
+        <pubDate>Tue, 14 Apr 2020 21:51:33 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-290-14</guid>
+        <source url="https://forums.ficsit.app/t/decoration-mod/290.rss">Decoration Mod -</source>
+      </item>
+      <item>
+        <title>Decoration Mod -</title>
+        <dc:creator><![CDATA[@JamieRCHI Jamie]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jamierchi">@JamieRCHI</a> wrote:</p>
+          <blockquote>
+              <p>Thanks a lot. I loaded your new mod by itself and the textures for the Nature foundations are not working properly.<br>
+By also loading the Decoration mod (without researching) fixed the textures.<br>
+Also, in the building dialog, the order they are displayed is backwards from the order they are displayed in the Decoration mod. Not too big a deal. I just have to add my foundations back again.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/decoration-mod/290/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/decoration-mod/290/13</link>
+        <pubDate>Tue, 14 Apr 2020 20:43:06 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-290-13</guid>
+        <source url="https://forums.ficsit.app/t/decoration-mod/290.rss">Decoration Mod -</source>
+      </item>
+      <item>
+        <title>Decoration Mod -</title>
+        <dc:creator><![CDATA[@Andre_Aquila DellAquila]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/andre_aquila">@Andre_Aquila</a> wrote:</p>
+          <blockquote>
+              <p>Hi Jamie.<br>
+I just release a mod with foundations, and include the nature ones. <a href="https://ficsit.app/mod/3rcAXTmuuSsNSa" rel="nofollow noopener">https://ficsit.app/mod/3rcAXTmuuSsNSa</a></p>
+<p>About replacing the tiles, i think its possible but i dont know how to “Change” anything in the game yet. Im only adding things for now. I really wanna do a Marathon mod with all requiring much more resources, but for this i hope learn to really change the game.</p>
+<p>Follow the documentation on mod page, they explain very well how to get started doing mods and is very fun to do it!! <img src="https://forums.ficsit.app/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/decoration-mod/290/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/decoration-mod/290/12</link>
+        <pubDate>Tue, 14 Apr 2020 13:20:43 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-290-12</guid>
+        <source url="https://forums.ficsit.app/t/decoration-mod/290.rss">Decoration Mod -</source>
+      </item>
+      <item>
+        <title>Decoration Mod -</title>
+        <dc:creator><![CDATA[@Andre_Aquila DellAquila]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/andre_aquila">@Andre_Aquila</a> wrote:</p>
+          <blockquote>
+              <p>Hi Maurice! I think multiplayer will be ok with this mod! But i never tried.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/decoration-mod/290/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/decoration-mod/290/11</link>
+        <pubDate>Tue, 14 Apr 2020 13:10:19 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-290-11</guid>
+        <source url="https://forums.ficsit.app/t/decoration-mod/290.rss">Decoration Mod -</source>
+      </item>
+      <item>
+        <title>Decoration Mod -</title>
+        <dc:creator><![CDATA[@Maurice_Olivier Maurice Olivier]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/maurice_olivier">@Maurice_Olivier</a> wrote:</p>
+          <blockquote>
+              <p>Hi there. I would like to know if multiplayer is supported?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/decoration-mod/290/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/decoration-mod/290/10</link>
+        <pubDate>Sun, 12 Apr 2020 17:03:24 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-290-10</guid>
+        <source url="https://forums.ficsit.app/t/decoration-mod/290.rss">Decoration Mod -</source>
+      </item>
+      <item>
+        <title>Decoration Mod -</title>
+        <dc:creator><![CDATA[@JamieRCHI Jamie]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jamierchi">@JamieRCHI</a> wrote:</p>
+          <blockquote>
+              <p>I like the foundations. But don’t care much for the rest. Would it be possible to add the capability to disable the other stuff? Or have different groups of items researched separately. I could then have the option to only research items that I want.</p>
+<p>Another thing. Is it possible to create a mod that replaces the textures on the games foundations, without adding more tiles? I like the extra foundation textures but I also want to change the basic game textures to something that will work better for me.<br>
+Thanks for your consideration. (Once I figure out how to make my own mod, this is something I might try to figure out. I can program and am familiar with Unity, but I am new to Unreal.)</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/decoration-mod/290/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/decoration-mod/290/9</link>
+        <pubDate>Sun, 12 Apr 2020 16:34:09 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-290-9</guid>
+        <source url="https://forums.ficsit.app/t/decoration-mod/290.rss">Decoration Mod -</source>
+      </item>
+      <item>
+        <title>Decoration Mod -</title>
+        <dc:creator><![CDATA[@Andre_Aquila DellAquila]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/andre_aquila">@Andre_Aquila</a> wrote:</p>
+          <blockquote>
+              <p>Hi!!! Nice!! Im trying to make the texture on the new foundations better… And now you gave me that idea to make a big Vase, maybe a foundation in a vase shape to put some trees looking better on our factory!!!  <img src="https://forums.ficsit.app/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/decoration-mod/290/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/decoration-mod/290/8</link>
+        <pubDate>Sat, 11 Apr 2020 12:43:31 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-290-8</guid>
+        <source url="https://forums.ficsit.app/t/decoration-mod/290.rss">Decoration Mod -</source>
+      </item>
+      <item>
+        <title>Decoration Mod -</title>
+        <dc:creator><![CDATA[@Leggo_25 Leggo 25]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/leggo_25">@Leggo_25</a> wrote:</p>
+          <blockquote>
+              <p>never mind i found what i was looking for in foundations what you made. amazing mod  thank you</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/decoration-mod/290/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/decoration-mod/290/7</link>
+        <pubDate>Sat, 11 Apr 2020 07:03:52 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-290-7</guid>
+        <source url="https://forums.ficsit.app/t/decoration-mod/290.rss">Decoration Mod -</source>
+      </item>
+      <item>
+        <title>Decoration Mod -</title>
+        <dc:creator><![CDATA[@Leggo_25 Leggo 25]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/leggo_25">@Leggo_25</a> wrote:</p>
+          <blockquote>
+              <p>really cool mod. I would imagine you probably thought of this but it would be nice if there was like a planter box we could put some trees/bushes in, maybe some different sizes plant boxes because placing a tree on a foundation looks a bit odd.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/decoration-mod/290/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/decoration-mod/290/6</link>
+        <pubDate>Sat, 11 Apr 2020 06:51:57 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-290-6</guid>
+        <source url="https://forums.ficsit.app/t/decoration-mod/290.rss">Decoration Mod -</source>
+      </item>
+      <item>
+        <title>Decoration Mod -</title>
+        <dc:creator><![CDATA[@Andre_Aquila DellAquila]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/andre_aquila">@Andre_Aquila</a> wrote:</p>
+          <blockquote>
+              <p>I really dont know, maybe the modders from here can help you. You could install the new version of the SML Launcher?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/decoration-mod/290/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/decoration-mod/290/5</link>
+        <pubDate>Sun, 05 Apr 2020 10:05:51 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-290-5</guid>
+        <source url="https://forums.ficsit.app/t/decoration-mod/290.rss">Decoration Mod -</source>
+      </item>
+      <item>
+        <title>Decoration Mod -</title>
+        <dc:creator><![CDATA[@Sr_Tm Sr Tm]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/sr_tm">@Sr_Tm</a> wrote:</p>
+          <blockquote>
+              <p>I installed the mod but i cant see it in game, i use SML and it says that it is installed. Also i checked in the mod folder and it is installed. Do you know what am i doing wrong??? Tyyy so much</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/decoration-mod/290/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/decoration-mod/290/4</link>
+        <pubDate>Wed, 01 Apr 2020 19:29:45 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-290-4</guid>
+        <source url="https://forums.ficsit.app/t/decoration-mod/290.rss">Decoration Mod -</source>
+      </item>
+      <item>
+        <title>Decoration Mod -</title>
+        <dc:creator><![CDATA[@Andre_Aquila DellAquila]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/andre_aquila">@Andre_Aquila</a> wrote:</p>
+          <blockquote>
+              <p>Very Nice Budak! I really appreciate this!</p>
+<p>Thanks for all suggestions and the bug report, i just wrote them all down here and I’m going to work on that as soon as I can. I am also going to open a Github repository now!</p>
+<p>Im still a noob modding in UE4, and if some more experienced modder want to assume this mod i will be very help to give it.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/decoration-mod/290/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/decoration-mod/290/3</link>
+        <pubDate>Wed, 01 Apr 2020 17:26:59 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-290-3</guid>
+        <source url="https://forums.ficsit.app/t/decoration-mod/290.rss">Decoration Mod -</source>
+      </item>
+      <item>
+        <title>Decoration Mod -</title>
+        <dc:creator><![CDATA[@Robb Rob B]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/robb">@Robb</a> wrote:</p>
+          <blockquote>
+              <p>Great mod! It’s very useful to be able to place all of these otherwise unmovable environment decor items. I can finally decorate my doggo parks.</p>
+<p>A few suggestions:</p>
+<ul>
+<li>You might want to make a custom hologram class for the rocks and cliff faces so that they can be placed on steeper surfaces. Right now they can only be placed on ‘flat’ ground</li>
+<li>It would be cool if you could make it so that rocks, cliffs, etc. could be place ‘off of’ each other, for example placing two boulders stacked on top of or partially intersecting each other.</li>
+<li>Distinct icons for each plant/rock/etc would be nice, but it sure would be a lot of work to make them.</li>
+<li>I would consider making this mod open source and hosting it on GitHub or similar so that other people can contribute icons/names/descriptions for the buildables</li>
+</ul>
+<p>A few bugs:</p>
+<ul>
+<li>The ninja is not textured and can’t be removed once placed</li>
+<li>The helmet cannot be removed once placed</li>
+<li>Arc Small 3 can sometimes turn bright red…not quite sure what causes this</li>
+<li>Space Elevator LOD’s collision box is much bigger than the model and unusually shaped</li>
+<li>Most of the foundations, such as the grass foundation, have a reflective sheen to them that doesn’t make sense given they’re made out of grass and such.</li>
+</ul>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/decoration-mod/290/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/decoration-mod/290/2</link>
+        <pubDate>Wed, 01 Apr 2020 17:15:45 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-290-2</guid>
+        <source url="https://forums.ficsit.app/t/decoration-mod/290.rss">Decoration Mod -</source>
+      </item>
+      <item>
+        <title>Decoration Mod -</title>
+        <dc:creator><![CDATA[@Andre_Aquila DellAquila]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/andre_aquila">@Andre_Aquila</a> wrote:</p>
+          <blockquote>
+              <p>Environment items that you can place on your Factory.</p>
+<p><strong>To Do List</strong></p>
+<ul>
+<li>Make it possible to construct on the decorations you build (Mountains)</li>
+<li>Make the Clean Foundation and Letter Boxes Paintable</li>
+<li>Need different icons</li>
+<li>Better names for items</li>
+<li>More functionalities for the items</li>
+<li>More subdivisions/categories</li>
+<li>Nature Ramps 8x1</li>
+<li>Foundation 8x1 wood / Ramp 8x1 wood</li>
+<li>Wooden Walls / Grass Walls / Desert Sand Walls / Rock Walls</li>
+<li>Turn all products in decorations</li>
+</ul>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/decoration-mod/290/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/decoration-mod/290/1</link>
+        <pubDate>Tue, 31 Mar 2020 22:03:27 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-290-1</guid>
+        <source url="https://forums.ficsit.app/t/decoration-mod/290.rss">Decoration Mod -</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Refined Power causing crashes to desktop on launch</title>
+    <link>https://forums.ficsit.app/t/refined-power-causing-crashes-to-desktop-on-launch/1480</link>
+    <description>Title, the mod is causing crashes to desktop whenever I try to launch the game. Through the mod manager, through Steam, etcetera.</description>
+    
+    <lastBuildDate>Wed, 01 Dec 2021 15:52:56 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/refined-power-causing-crashes-to-desktop-on-launch/1480.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Refined Power causing crashes to desktop on launch</title>
+        <dc:creator><![CDATA[@I_m_a_chicken29 Im A Chicken29]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/i_m_a_chicken29">@I_m_a_chicken29</a> wrote:</p>
+          <blockquote>
+              <p>mod is being updated latest patch broke it</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/refined-power-causing-crashes-to-desktop-on-launch/1480/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/refined-power-causing-crashes-to-desktop-on-launch/1480/2</link>
+        <pubDate>Wed, 01 Dec 2021 15:52:56 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1480-2</guid>
+        <source url="https://forums.ficsit.app/t/refined-power-causing-crashes-to-desktop-on-launch/1480.rss">Refined Power causing crashes to desktop on launch</source>
+      </item>
+      <item>
+        <title>Refined Power causing crashes to desktop on launch</title>
+        <dc:creator><![CDATA[@Kerry_Freeman Kerry Freeman]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/kerry_freeman">@Kerry_Freeman</a> wrote:</p>
+          <blockquote>
+              <p>Title, the mod is causing crashes to desktop whenever I try to launch the game. Through the mod manager, through Steam, etcetera.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/refined-power-causing-crashes-to-desktop-on-launch/1480/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/refined-power-causing-crashes-to-desktop-on-launch/1480/1</link>
+        <pubDate>Wed, 01 Dec 2021 07:56:02 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1480-1</guid>
+        <source url="https://forums.ficsit.app/t/refined-power-causing-crashes-to-desktop-on-launch/1480.rss">Refined Power causing crashes to desktop on launch</source>
+      </item>
+  </channel>
+</rss>

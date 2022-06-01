@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Global Grid Placment</title>
+    <link>https://forums.ficsit.app/t/global-grid-placment/1134</link>
+    <description>One of the most anoying things when i build my factories is aligning all the foundations. I like to build all over the place, but I really dislike when I try to link to factories together and the foundations do not slot together correctly. So I tend to build these massive &quot;construction lines&quot;. 
+
+What I do is place my 1st block.... then if I want to build elsewhere I build from that block all the way to the other place, then delete the &quot;construction line&quot;. Now the factory I am building at the new location will link up if I ever do that as it is built off the same &quot;grid&quot;.
+
+![111|690x388](upload://yPLtrbfA5KITce8hpUWwwyMPztW.jpeg) ![222|690x388](upload://kRNrq7JKsHpRRasPUNamBQgG7ck.jpeg) 
+
+Here is my new save were I am working on my Iron Mines. I built a base on top of the cliff and then draw my &quot;construction lines&quot;.... build down... and now I have built my new foundations in a way so every factory I build will be aligned to the same foundations.. so they can all link up perfectly if I build a road or a buss or w/e.
+
+Anyway....
+
+**The Suggestion**
+
+I think a great mod would be a way to automate this. You could build a foundation and select it.... now when you build it uses that foundation to &quot;set the grid&quot;. So your new foundation you place all alone somewhere &quot;snaps&quot; as if it is next to a foundation.
+
+You could make it a tool you hold maybe so the global snapping thing only happens if you are holding it.... and it saves the &quot;source block&quot; so you do not need to select a source block each time.
+
+I&#39;m not a modder, I am sure you guys would know the best way to implement it... the goal would be to remove the need for all these construction lines. Which are a pain to buld and annoying to remove.
+
+Thanks...  for your consideration!
+
+PS - I am not the best communicator, if you have any questions please let em know and I can clear things up.</description>
+    
+    <lastBuildDate>Mon, 17 Jan 2022 12:16:26 +0000</lastBuildDate>
+    <category>Suggestions &amp; Ideas</category>
+    <atom:link href="https://forums.ficsit.app/t/global-grid-placment/1134.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Global Grid Placment</title>
+        <dc:creator><![CDATA[@Leon_Wilk Leon Wilk]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/leon_wilk">@Leon_Wilk</a> wrote:</p>
+          <blockquote>
+              <p>Warning about the stock Global Grid: While horizontal alignment is flawless, foundations snap to global grid vertically with their center, not surface. That means if you have one build aligned to a 2m or 4m foundation, and another to 1m foundation, they will be off by half a meter relative to each other vertically and when the two meet you’ll be dealing with a nasty step, exactly half a notch between ‘ground level’ conveyors and ‘single stackable pole’ height.</p>
+<p>Always start a new build from a global grid aligned even-height foundation (2 or 4m), you can then proceed with 1m snapping it to the top or bottom of the ‘original’ (and can even delete the original) and you’ll maintain the global grid’s height.</p>
+<p>If you dun goofed and built too much at the mismatching heights, you can use conveyor lift floor holes to generate lifts that connect the uneven heights without generating sloped conveyors - start one lift at conveyor of one grid underneath, the other at conveyor of the other above and link them up to the same conveyor hole.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/global-grid-placment/1134/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/global-grid-placment/1134/4</link>
+        <pubDate>Mon, 17 Jan 2022 12:16:26 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1134-4</guid>
+        <source url="https://forums.ficsit.app/t/global-grid-placment/1134.rss">Global Grid Placment</source>
+      </item>
+      <item>
+        <title>Global Grid Placment</title>
+        <dc:creator><![CDATA[@Mika_Noren Mika Norén]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/mika_noren">@Mika_Noren</a> wrote:</p>
+          <blockquote>
+              <p>For the records, and for those searching and finding this thread.<br>
+There is now a global grid in the game as of the latest update. Hold “ctrl” while placing the first foundation and it will snap to the global grid.<br>
+Then build off from that.</p>
+<p>Mods might however disrupt this feature, so if you can’t get the foundation to snap to the global grid, check your mods. Try disabling the offending ones and try again.</p>
+<p>See:<br>
+</p><div class="lazyYT" data-youtube-id="cn3e-m4a-hU" data-youtube-title="NEW Features we've added to Update 5 since release" data-width="480" data-height="270" data-parameters="feature=oembed&amp;wmode=opaque"></div><br>
+And:<br>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src="https://forums.ficsit.app/uploads/default/original/1X/a70ab5d077374748901898cfcd9c7a09b8a303a9.png" class="site-icon" width="192" height="192">
+      <a href="https://www.reddit.com/r/SatisfactoryGame/comments/qr0msq/patch_notes_early_access_experimental_v0508_build/" target="_blank" rel="nofollow noopener">reddit</a>
+  </header>
+  <article class="onebox-body">
+    <img src="" class="thumbnail">
+
+<h3><a href="https://www.reddit.com/r/SatisfactoryGame/comments/qr0msq/patch_notes_early_access_experimental_v0508_build/" target="_blank" rel="nofollow noopener">r/SatisfactoryGame - Patch Notes: Early Access (EXPERIMENTAL) - v0.5.0.8 –...</a></h3>
+
+<p>653 votes et 247 commentaires sur Reddit jusque là</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/global-grid-placment/1134/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/global-grid-placment/1134/3</link>
+        <pubDate>Mon, 17 Jan 2022 00:56:52 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1134-3</guid>
+        <source url="https://forums.ficsit.app/t/global-grid-placment/1134.rss">Global Grid Placment</source>
+      </item>
+      <item>
+        <title>Global Grid Placment</title>
+        <dc:creator><![CDATA[@JamieRCHI Jamie]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jamierchi">@JamieRCHI</a> wrote:</p>
+          <blockquote>
+              <p>If you haven’t already, go to this link and upvote this. Enough upvotes, and we might convince the Devs to put it into the game.</p>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src="https://forums.ficsit.app/uploads/default/original/1X/5ad6d57e77917a96e26e4e506e8a4b86e011458e.png" class="site-icon" width="100" height="100">
+      <a href="https://questions.satisfactorygame.com/post/5e59e984c672159e0cdf836b" target="_blank" rel="nofollow noopener">questions.satisfactorygame.com</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:250/60;"><img src="https://forums.ficsit.app/uploads/default/original/1X/45e706c725f944acc15f4206d825499fcbcfd667.png" class="thumbnail"></div>
+
+<h3><a href="https://questions.satisfactorygame.com/post/5e59e984c672159e0cdf836b" target="_blank" rel="nofollow noopener">Satisfactory Q&amp;A</a></h3>
+
+<p>The Satisfactory Questions and Answers website is a place to report bugs, suggest features, and look for fixes to any issues you run into.</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/global-grid-placment/1134/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/global-grid-placment/1134/2</link>
+        <pubDate>Mon, 22 Mar 2021 10:47:05 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1134-2</guid>
+        <source url="https://forums.ficsit.app/t/global-grid-placment/1134.rss">Global Grid Placment</source>
+      </item>
+      <item>
+        <title>Global Grid Placment</title>
+        <dc:creator><![CDATA[@Adventure4Life Adventure4 Life]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/adventure4life">@Adventure4Life</a> wrote:</p>
+          <blockquote>
+              <p>One of the most anoying things when i build my factories is aligning all the foundations. I like to build all over the place, but I really dislike when I try to link to factories together and the foundations do not slot together correctly. So I tend to build these massive “construction lines”.</p>
+<p>What I do is place my 1st block… then if I want to build elsewhere I build from that block all the way to the other place, then delete the “construction line”. Now the factory I am building at the new location will link up if I ever do that as it is built off the same “grid”.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/f423ed2a95a583d63b9294658ebb8df866f690f4.jpeg" data-download-href="https://forums.ficsit.app/uploads/default/f423ed2a95a583d63b9294658ebb8df866f690f4" title="111"><img src="https://forums.ficsit.app/uploads/default/optimized/1X/f423ed2a95a583d63b9294658ebb8df866f690f4_2_690x388.jpeg" alt="111" data-base62-sha1="yPLtrbfA5KITce8hpUWwwyMPztW" width="690" height="388" srcset="https://forums.ficsit.app/uploads/default/optimized/1X/f423ed2a95a583d63b9294658ebb8df866f690f4_2_690x388.jpeg, https://forums.ficsit.app/uploads/default/optimized/1X/f423ed2a95a583d63b9294658ebb8df866f690f4_2_1035x582.jpeg 1.5x, https://forums.ficsit.app/uploads/default/optimized/1X/f423ed2a95a583d63b9294658ebb8df866f690f4_2_1380x776.jpeg 2x" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/f423ed2a95a583d63b9294658ebb8df866f690f4_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">111</span><span class="informations">2304×1296 348 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/924049273aea949fc90cd590839cd00300acd188.jpeg" data-download-href="https://forums.ficsit.app/uploads/default/924049273aea949fc90cd590839cd00300acd188" title="222"><img src="https://forums.ficsit.app/uploads/default/optimized/1X/924049273aea949fc90cd590839cd00300acd188_2_690x388.jpeg" alt="222" data-base62-sha1="kRNrq7JKsHpRRasPUNamBQgG7ck" width="690" height="388" srcset="https://forums.ficsit.app/uploads/default/optimized/1X/924049273aea949fc90cd590839cd00300acd188_2_690x388.jpeg, https://forums.ficsit.app/uploads/default/optimized/1X/924049273aea949fc90cd590839cd00300acd188_2_1035x582.jpeg 1.5x, https://forums.ficsit.app/uploads/default/optimized/1X/924049273aea949fc90cd590839cd00300acd188_2_1380x776.jpeg 2x" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/924049273aea949fc90cd590839cd00300acd188_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">222</span><span class="informations">2304×1296 291 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>Here is my new save were I am working on my Iron Mines. I built a base on top of the cliff and then draw my “construction lines”… build down… and now I have built my new foundations in a way so every factory I build will be aligned to the same foundations… so they can all link up perfectly if I build a road or a buss or w/e.</p>
+<p>Anyway…</p>
+<p><strong>The Suggestion</strong></p>
+<p>I think a great mod would be a way to automate this. You could build a foundation and select it… now when you build it uses that foundation to “set the grid”. So your new foundation you place all alone somewhere “snaps” as if it is next to a foundation.</p>
+<p>You could make it a tool you hold maybe so the global snapping thing only happens if you are holding it… and it saves the “source block” so you do not need to select a source block each time.</p>
+<p>I’m not a modder, I am sure you guys would know the best way to implement it… the goal would be to remove the need for all these construction lines. Which are a pain to buld and annoying to remove.</p>
+<p>Thanks…  for your consideration!</p>
+<p>PS - I am not the best communicator, if you have any questions please let em know and I can clear things up.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/global-grid-placment/1134/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/global-grid-placment/1134/1</link>
+        <pubDate>Mon, 08 Mar 2021 00:41:05 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1134-1</guid>
+        <source url="https://forums.ficsit.app/t/global-grid-placment/1134.rss">Global Grid Placment</source>
+      </item>
+  </channel>
+</rss>

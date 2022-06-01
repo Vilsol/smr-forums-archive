@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Can’t launch mod</title>
+    <link>https://forums.ficsit.app/t/can-t-launch-mod/691</link>
+    <description>Hi
+I want to install some mods with the mod launcher but I just get this
+![mod%20error|587x344](upload://5s2qZvDm03tmBh4qHC4wWGtzuZE.jpeg)</description>
+    
+    <lastBuildDate>Sun, 28 Jun 2020 19:26:08 +0000</lastBuildDate>
+    <category>SML</category>
+    <atom:link href="https://forums.ficsit.app/t/can-t-launch-mod/691.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Can’t launch mod</title>
+        <dc:creator><![CDATA[@Ales_Surina Ales Surina]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/ales_surina">@Ales_Surina</a> wrote:</p>
+          <blockquote>
+              <p>Hi<br>
+I want to install some mods with the mod launcher but I just get this<br>
+<img src="https://forums.ficsit.app/uploads/default/original/1X/26364755dab0cc6edeada86d75792061eee5885e.jpeg" alt="mod%20error" data-base62-sha1="5s2qZvDm03tmBh4qHC4wWGtzuZE" width="587" height="344"></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/can-t-launch-mod/691/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/can-t-launch-mod/691/1</link>
+        <pubDate>Sun, 28 Jun 2020 19:26:08 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-691-1</guid>
+        <source url="https://forums.ficsit.app/t/can-t-launch-mod/691.rss">Can’t launch mod</source>
+      </item>
+  </channel>
+</rss>

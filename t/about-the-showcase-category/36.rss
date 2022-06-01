@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>About the Showcase category</title>
+    <link>https://forums.ficsit.app/t/about-the-showcase-category/36</link>
+    <description>Show off your builds, mods, world, or just about anything related to Satisfactory.</description>
+    
+    <lastBuildDate>Sat, 09 Nov 2019 03:33:29 +0000</lastBuildDate>
+    <category>Showcase</category>
+    <atom:link href="https://forums.ficsit.app/t/about-the-showcase-category/36.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>About the Showcase category</title>
+        <dc:creator><![CDATA[@Robb Rob B]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/robb">@Robb</a> wrote:</p>
+          <blockquote>
+              
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/about-the-showcase-category/36/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/about-the-showcase-category/36/2</link>
+        <pubDate>Sat, 09 Nov 2019 15:49:47 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-36-2</guid>
+        <source url="https://forums.ficsit.app/t/about-the-showcase-category/36.rss">About the Showcase category</source>
+      </item>
+      <item>
+        <title>About the Showcase category</title>
+        <dc:creator><![CDATA[@Vilsol]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/vilsol">@Vilsol</a> wrote:</p>
+          <blockquote>
+              <p>Show off your builds, mods, world, or just about anything related to Satisfactory.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/about-the-showcase-category/36/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/about-the-showcase-category/36/1</link>
+        <pubDate>Fri, 08 Nov 2019 17:13:54 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-36-1</guid>
+        <source url="https://forums.ficsit.app/t/about-the-showcase-category/36.rss">About the Showcase category</source>
+      </item>
+  </channel>
+</rss>

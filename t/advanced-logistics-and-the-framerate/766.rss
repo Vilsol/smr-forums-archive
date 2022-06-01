@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Advanced Logistics and the framerate</title>
+    <link>https://forums.ficsit.app/t/advanced-logistics-and-the-framerate/766</link>
+    <description>Hi all,
+I&#39;ll try to explain my problem with my poor english.
+I&#39;m playing on the EA 125236, Core I7 8700 RTX2060 16Go ... ... ... it&#39;s OK
+I have about 15 mods installed (moar, farmer, refined power, etc etc).
+Since i use advanced logistics for all my splitting system, when I laugh the game, i lose 10 fps all 2 minutes and my computer&#39;s fans screams. if i  reload the game, idem, the good framerate fall 
+inexorably.
+I tried remove and add all my mods one by one, so i&#39;m sure it&#39;s this mod the problem.
+I&#39;m disappointed... Imagine, the efficiency of parallel splitting with the serial building. It was perfect!
+Im surprised that no one talk about this problem before. i though that i&#39;m not alone.
+So this is my bug report.
+Have a nice day
+
+Ps: I forgot something maybe important with this problem, when the framerate falls and the cpu burn, the satisfactory task use 95% of the CPU, without the advanced logistics mod, it usually turns around 20%</description>
+    
+    <lastBuildDate>Fri, 17 Jul 2020 06:03:39 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forums.ficsit.app/t/advanced-logistics-and-the-framerate/766.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Advanced Logistics and the framerate</title>
+        <dc:creator><![CDATA[@Hugo_les_bons_tuyaux Hugo Les Bons Tuyaux]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/hugo_les_bons_tuyaux">@Hugo_les_bons_tuyaux</a> wrote:</p>
+          <blockquote>
+              <p>Hi all,<br>
+I’ll try to explain my problem with my poor english.<br>
+I’m playing on the EA 125236, Core I7 8700 RTX2060 16Go … … … it’s OK<br>
+I have about 15 mods installed (moar, farmer, refined power, etc etc).<br>
+Since i use advanced logistics for all my splitting system, when I laugh the game, i lose 10 fps all 2 minutes and my computer’s fans screams. if i  reload the game, idem, the good framerate fall<br>
+inexorably.<br>
+I tried remove and add all my mods one by one, so i’m sure it’s this mod the problem.<br>
+I’m disappointed… Imagine, the efficiency of parallel splitting with the serial building. It was perfect!<br>
+Im surprised that no one talk about this problem before. i though that i’m not alone.<br>
+So this is my bug report.<br>
+Have a nice day</p>
+<p>Ps: I forgot something maybe important with this problem, when the framerate falls and the cpu burn, the satisfactory task use 95% of the CPU, without the advanced logistics mod, it usually turns around 20%</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/advanced-logistics-and-the-framerate/766/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/advanced-logistics-and-the-framerate/766/1</link>
+        <pubDate>Thu, 16 Jul 2020 21:45:11 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-766-1</guid>
+        <source url="https://forums.ficsit.app/t/advanced-logistics-and-the-framerate/766.rss">Advanced Logistics and the framerate</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Powersuit Crash</title>
+    <link>https://forums.ficsit.app/t/powersuit-crash/1016</link>
+    <description>Satisfactory Version:  Experimental CL#127909
+Mod Version: 0.3.2
+Repeatable:  Yes
+
+Equipping the powersuit V1 my game imediately freezes and ctd&#39;s.  I get no crash log on any crash with this crash.  Going to try for version 2 but unable to atm.</description>
+    
+    <lastBuildDate>Sat, 12 Dec 2020 05:26:39 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forums.ficsit.app/t/powersuit-crash/1016.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Powersuit Crash</title>
+        <dc:creator><![CDATA[@Robb Rob B]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/robb">@Robb</a> wrote:</p>
+          <blockquote>
+              <p>Thanks for the report!</p>
+<p>This should be fixed as of the latest PowerSuit and PowerSuit modules update (uploaded today). Please let me or Nog know if it continues to occur.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/powersuit-crash/1016/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/powersuit-crash/1016/3</link>
+        <pubDate>Sat, 12 Dec 2020 05:26:39 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1016-3</guid>
+        <source url="https://forums.ficsit.app/t/powersuit-crash/1016.rss">Powersuit Crash</source>
+      </item>
+      <item>
+        <title>Powersuit Crash</title>
+        <dc:creator><![CDATA[@Degeneracy Degeneracy]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/degeneracy">@Degeneracy</a> wrote:</p>
+          <blockquote>
+              <p>Update:<br>
+Made the Version 2 and equipped it, works without crashing.</p>
+<p>Tested V1 again and it works without crashing.  Might of been a client side incompatible error that was fixed in the last couple Xmas updates.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/powersuit-crash/1016/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/powersuit-crash/1016/2</link>
+        <pubDate>Mon, 07 Dec 2020 02:34:20 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1016-2</guid>
+        <source url="https://forums.ficsit.app/t/powersuit-crash/1016.rss">Powersuit Crash</source>
+      </item>
+      <item>
+        <title>Powersuit Crash</title>
+        <dc:creator><![CDATA[@Degeneracy Degeneracy]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/degeneracy">@Degeneracy</a> wrote:</p>
+          <blockquote>
+              <p>Satisfactory Version:  Experimental CL#127909<br>
+Mod Version: 0.3.2<br>
+Repeatable:  Yes</p>
+<p>Equipping the powersuit V1 my game imediately freezes and ctd’s.  I get no crash log on any crash with this crash.  Going to try for version 2 but unable to atm.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/powersuit-crash/1016/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/powersuit-crash/1016/1</link>
+        <pubDate>Tue, 01 Dec 2020 16:15:41 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1016-1</guid>
+        <source url="https://forums.ficsit.app/t/powersuit-crash/1016.rss">Powersuit Crash</source>
+      </item>
+  </channel>
+</rss>

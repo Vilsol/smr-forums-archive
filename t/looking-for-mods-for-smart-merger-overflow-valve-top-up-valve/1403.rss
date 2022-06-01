@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Looking for mods for smart merger, overflow valve, top-up valve</title>
+    <link>https://forums.ficsit.app/t/looking-for-mods-for-smart-merger-overflow-valve-top-up-valve/1403</link>
+    <description>While browsing the Official Satisfactory Q&amp;A board, I saw multiple posts from people requesting the following components be added:
+
+* &#39;Smart&#39; conveyor merger which can prioritize taking from one input over another
+* Overflow valve which releases fluid only when a pipe is full
+* Top-up valve which adds fluid only when the destination is not full
+
+In several cases, these posts had replies which claimed that there were mods that added such parts. However, none of those posts linked to specific mods, and I haven&#39;t been able to find any in the SMR myself. Does anyone know of any mods which add such things?</description>
+    
+    <lastBuildDate>Thu, 30 Sep 2021 06:25:08 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/looking-for-mods-for-smart-merger-overflow-valve-top-up-valve/1403.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Looking for mods for smart merger, overflow valve, top-up valve</title>
+        <dc:creator><![CDATA[@macdjord Macdjord]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/macdjord">@macdjord</a> wrote:</p>
+          <blockquote>
+              <p>While browsing the Official Satisfactory Q&amp;A board, I saw multiple posts from people requesting the following components be added:</p>
+<ul>
+<li>‘Smart’ conveyor merger which can prioritize taking from one input over another</li>
+<li>Overflow valve which releases fluid only when a pipe is full</li>
+<li>Top-up valve which adds fluid only when the destination is not full</li>
+</ul>
+<p>In several cases, these posts had replies which claimed that there were mods that added such parts. However, none of those posts linked to specific mods, and I haven’t been able to find any in the SMR myself. Does anyone know of any mods which add such things?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/looking-for-mods-for-smart-merger-overflow-valve-top-up-valve/1403/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/looking-for-mods-for-smart-merger-overflow-valve-top-up-valve/1403/1</link>
+        <pubDate>Thu, 30 Sep 2021 06:25:08 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1403-1</guid>
+        <source url="https://forums.ficsit.app/t/looking-for-mods-for-smart-merger-overflow-valve-top-up-valve/1403.rss">Looking for mods for smart merger, overflow valve, top-up valve</source>
+      </item>
+  </channel>
+</rss>

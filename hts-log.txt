@@ -1,0 +1,23 @@
+HTTrack3.49-2 launched on Wed, 01 Jun 2022 17:22:43 at https://forums.ficsit.app/ −−keep−alive
+(httrack https://forums.ficsit.app/ -O /home/vilsol/forum-backup/fbackup -%v -r1000 -N100 -c99 -%c99 -A0 -%! −−keep−alive )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:22:43	Warning: 	* security warning: !!! BYPASSING SECURITY LIMITS - MONITOR THIS SESSION WITH EXTREME CARE !!!
+17:23:02	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link xn--keepalive-kcaae8jbf48jcag/robots.txt (from primary/primary)
+17:23:02	Warning: 	Retry after error -5 (Unable to get server's address: Name or service not known) at link xn--keepalive-kcaae8jbf48jcag/ (from primary/primary)
+17:25:30	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link xn--keepalive-kcaae8jbf48jcag/ (from primary/primary)
+17:35:44	Error: 	"Not Found" (404) at link https://forums.ficsit.app/c/site-feedback (from https://forums.ficsit.app/guidelines)
+17:35:44	Warning: 	Link https://forums.ficsit.app/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+17:35:44	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link xn--keepalive-kcaae8jbf48jcag/ (from primary/primary)
+17:45:38	Error: 	"Not Found" (404) at link https://forums.ficsit.app/t/very-important-post/32 (from https://forums.ficsit.app/t/comments-when/26)
+17:45:45	Error: 	"Not Found" (404) at link https://forums.ficsit.app/u/1 (from https://forums.ficsit.app/about)
+17:45:45	Error: 	"Not Found" (404) at link https://forums.ficsit.app/u/2 (from https://forums.ficsit.app/about)
+17:45:45	Error: 	"Not Found" (404) at link https://forums.ficsit.app/u/7 (from https://forums.ficsit.app/about)
+17:45:45	Error: 	"Not Found" (404) at link https://forums.ficsit.app/u/3 (from https://forums.ficsit.app/about)
+
+HTTrack Website Copier/3.49-2 mirror complete in 43 minutes 49 seconds : 2631 links scanned, 2620 files written (48930364 bytes overall) [45471236 bytes received at 17296 bytes/sec], 10596648 bytes transferred using HTTP compression in 1156 files, ratio 26%, 77.3 requests per connection
+(8 errors, 4 warnings, 0 messages)

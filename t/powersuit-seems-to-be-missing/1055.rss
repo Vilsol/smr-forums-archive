@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>PowerSuit seems to be missing</title>
+    <link>https://forums.ficsit.app/t/powersuit-seems-to-be-missing/1055</link>
+    <description>Hello everyone
+
+I tried to download the PowerSuit mod, ans the Powersuit Modules mods, throug the Satisfacory Mod Manager, but I can&#39;t find anything in my game. 
+
+Thnaks in advance</description>
+    
+    <lastBuildDate>Thu, 28 Jan 2021 18:06:51 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forums.ficsit.app/t/powersuit-seems-to-be-missing/1055.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>PowerSuit seems to be missing</title>
+        <dc:creator><![CDATA[@Robb Rob B]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/robb">@Robb</a> wrote:</p>
+          <blockquote>
+              <p>Check the Mods list on the main menu to see if they appear. If they don’t, then try swapping profiles on the mod manager.</p>
+<p>If they are loaded (in the list), then check the <a href="https://github.com/budak7273/ArmorModules#faq---please-read-if-you-have-an-issue">FAQ</a> for why. If that still doesn’t work, please post again on here or this discord.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/powersuit-seems-to-be-missing/1055/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/powersuit-seems-to-be-missing/1055/2</link>
+        <pubDate>Thu, 28 Jan 2021 18:06:51 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1055-2</guid>
+        <source url="https://forums.ficsit.app/t/powersuit-seems-to-be-missing/1055.rss">PowerSuit seems to be missing</source>
+      </item>
+      <item>
+        <title>PowerSuit seems to be missing</title>
+        <dc:creator><![CDATA[@Thibaut_Remond Thibaut Remond]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/thibaut_remond">@Thibaut_Remond</a> wrote:</p>
+          <blockquote>
+              <p>Hello everyone</p>
+<p>I tried to download the PowerSuit mod, ans the Powersuit Modules mods, throug the Satisfacory Mod Manager, but I can’t find anything in my game.</p>
+<p>Thnaks in advance</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/powersuit-seems-to-be-missing/1055/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/powersuit-seems-to-be-missing/1055/1</link>
+        <pubDate>Wed, 30 Dec 2020 20:58:27 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1055-1</guid>
+        <source url="https://forums.ficsit.app/t/powersuit-seems-to-be-missing/1055.rss">PowerSuit seems to be missing</source>
+      </item>
+  </channel>
+</rss>

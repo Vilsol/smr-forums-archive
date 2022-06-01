@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Upgrading my Project to a new verion of UR</title>
+    <link>https://forums.ficsit.app/t/upgrading-my-project-to-a-new-verion-of-ur/287</link>
+    <description>I been running 4.21 for a while until patch 3 came out and they changed a lot of it. I need to know how to upgrade my project to 4.22.3 from 4.21.x in Wwise. I tried the Wwise web site and google and didn&#39;t find anything about how to upgrade my mod.</description>
+    
+    <lastBuildDate>Tue, 31 Mar 2020 17:44:53 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/upgrading-my-project-to-a-new-verion-of-ur/287.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Upgrading my Project to a new verion of UR</title>
+        <dc:creator><![CDATA[@iceman11a Iceman11a *]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/iceman11a">@iceman11a</a> wrote:</p>
+          <blockquote>
+              <p>I been running 4.21 for a while until patch 3 came out and they changed a lot of it. I need to know how to upgrade my project to 4.22.3 from 4.21.x in Wwise. I tried the Wwise web site and google and didn’t find anything about how to upgrade my mod.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/upgrading-my-project-to-a-new-verion-of-ur/287/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/upgrading-my-project-to-a-new-verion-of-ur/287/1</link>
+        <pubDate>Tue, 31 Mar 2020 17:44:53 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-287-1</guid>
+        <source url="https://forums.ficsit.app/t/upgrading-my-project-to-a-new-verion-of-ur/287.rss">Upgrading my Project to a new verion of UR</source>
+      </item>
+  </channel>
+</rss>

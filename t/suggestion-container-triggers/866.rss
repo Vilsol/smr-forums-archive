@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>[Suggestion] Container triggers</title>
+    <link>https://forums.ficsit.app/t/suggestion-container-triggers/866</link>
+    <description>I have been looking for a mod that would limit the release of product and be triggered by an absence or reduction in flow of a splitter.
+
+My idea would be a square fitting similar to a hypertube entrance that could be fitted on an individual container exit (or any belt entrance/exit).  It would have to be powered.  It would theoretically use the power line to communicate with other devices.  You could uniquely name them.  Some optional controls might be based around what happens when triggered.  Full-on for 10sec, Release-25, etc.
+
+An example of a use-case would be a container holding steel plates being throttled by a splitter in a different section of the factory that would release a set amount of plates if triggered, like for steel screws or something.  It would ease the complexity of single belt systems with multiple items and prevent clogging.</description>
+    
+    <lastBuildDate>Wed, 26 Aug 2020 22:45:04 +0000</lastBuildDate>
+    <category>General</category>
+    <atom:link href="https://forums.ficsit.app/t/suggestion-container-triggers/866.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>[Suggestion] Container triggers</title>
+        <dc:creator><![CDATA[@trunkyredstone Trunkyredstone]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/trunkyredstone">@trunkyredstone</a> wrote:</p>
+          <blockquote>
+              <p>Not sure how exactly, but may be possible with ficsit networks based off container contents and programmable splitters</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/suggestion-container-triggers/866/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/suggestion-container-triggers/866/2</link>
+        <pubDate>Wed, 26 Aug 2020 22:45:04 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-866-2</guid>
+        <source url="https://forums.ficsit.app/t/suggestion-container-triggers/866.rss">[Suggestion] Container triggers</source>
+      </item>
+      <item>
+        <title>[Suggestion] Container triggers</title>
+        <dc:creator><![CDATA[@Mauldrich Mauldrich]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/mauldrich">@Mauldrich</a> wrote:</p>
+          <blockquote>
+              <p>I have been looking for a mod that would limit the release of product and be triggered by an absence or reduction in flow of a splitter.</p>
+<p>My idea would be a square fitting similar to a hypertube entrance that could be fitted on an individual container exit (or any belt entrance/exit).  It would have to be powered.  It would theoretically use the power line to communicate with other devices.  You could uniquely name them.  Some optional controls might be based around what happens when triggered.  Full-on for 10sec, Release-25, etc.</p>
+<p>An example of a use-case would be a container holding steel plates being throttled by a splitter in a different section of the factory that would release a set amount of plates if triggered, like for steel screws or something.  It would ease the complexity of single belt systems with multiple items and prevent clogging.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/suggestion-container-triggers/866/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/suggestion-container-triggers/866/1</link>
+        <pubDate>Mon, 24 Aug 2020 20:59:34 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-866-1</guid>
+        <source url="https://forums.ficsit.app/t/suggestion-container-triggers/866.rss">[Suggestion] Container triggers</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Pak Utility Mod v0.3.1, SML 2.1.0, Experimental 120739</title>
+    <link>https://forums.ficsit.app/t/pak-utility-mod-v0-3-1-sml-2-1-0-experimental-120739/520</link>
+    <description>Hi, I&#39;m having an issue with the Pak Utility Mod only when other family members try to join my world (local LAN).  The client consistently crashes to desktop, but the host does not.  I&#39;ve tried this with the mod as the only mod loaded, I&#39;ve tried it where the other computer is the host and I am the client.  It only crashes the client immediately after attempting to join game.
+
+I can provide a copy of the Unreal error screen if this isn&#39;t easily replicated.
+
+Thanks!</description>
+    
+    <lastBuildDate>Mon, 04 May 2020 14:43:50 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forums.ficsit.app/t/pak-utility-mod-v0-3-1-sml-2-1-0-experimental-120739/520.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Pak Utility Mod v0.3.1, SML 2.1.0, Experimental 120739</title>
+        <dc:creator><![CDATA[@isochronous Isochronous]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/isochronous">@isochronous</a> wrote:</p>
+          <blockquote>
+              <p>Ah, didn’t realize that the build restrictions would be so much more difficult to implement, but I’m glad to hear it’s being worked on regardless <img src="https://forums.ficsit.app/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/pak-utility-mod-v0-3-1-sml-2-1-0-experimental-120739/520/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/pak-utility-mod-v0-3-1-sml-2-1-0-experimental-120739/520/6</link>
+        <pubDate>Mon, 04 May 2020 14:43:50 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-520-6</guid>
+        <source url="https://forums.ficsit.app/t/pak-utility-mod-v0-3-1-sml-2-1-0-experimental-120739/520.rss">Pak Utility Mod v0.3.1, SML 2.1.0, Experimental 120739</source>
+      </item>
+      <item>
+        <title>Pak Utility Mod v0.3.1, SML 2.1.0, Experimental 120739</title>
+        <dc:creator><![CDATA[@mircearoata Mircearoata]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/mircearoata">@mircearoata</a> wrote:</p>
+          <blockquote>
+              <p>The purpose of the Pak UtilityMod is to be pak only, so that it is very unlikely to break, or need updates often, while removing build restrictions requires overwriting some of the base game functions, which can only be done from c++.</p>
+<p>That being said, I am working on a separate no build restrictions mod, also with chat commands for enable/disable, and it is almost done, except that it requires SML 2.1.1, which isn’t released just yet.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/pak-utility-mod-v0-3-1-sml-2-1-0-experimental-120739/520/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/pak-utility-mod-v0-3-1-sml-2-1-0-experimental-120739/520/5</link>
+        <pubDate>Sun, 03 May 2020 19:51:48 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-520-5</guid>
+        <source url="https://forums.ficsit.app/t/pak-utility-mod-v0-3-1-sml-2-1-0-experimental-120739/520.rss">Pak Utility Mod v0.3.1, SML 2.1.0, Experimental 120739</source>
+      </item>
+      <item>
+        <title>Pak Utility Mod v0.3.1, SML 2.1.0, Experimental 120739</title>
+        <dc:creator><![CDATA[@isochronous Isochronous]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/isochronous">@isochronous</a> wrote:</p>
+          <blockquote>
+              <p>Since the issue from this thread is already resolved, I figured I’d ask this here instead of starting a new thread, since it doesn’t really need a whole discussion: would it be possible to add a “toggle build restrictions” feature like Kronos Mod has? I find it to be incredibly useful to work around the sometimes-weird hitboxes on machines.</p>
+<p>If you’re somehow not familiar, I’m basically talking about removing collision detection when building. The Kronos Mod version also removed the wire length limit for power poles, which could also be cool for playing around in creative, but I’d personally be satisfied with toggling collision detection when building.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/pak-utility-mod-v0-3-1-sml-2-1-0-experimental-120739/520/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/pak-utility-mod-v0-3-1-sml-2-1-0-experimental-120739/520/4</link>
+        <pubDate>Sun, 03 May 2020 19:19:32 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-520-4</guid>
+        <source url="https://forums.ficsit.app/t/pak-utility-mod-v0-3-1-sml-2-1-0-experimental-120739/520.rss">Pak Utility Mod v0.3.1, SML 2.1.0, Experimental 120739</source>
+      </item>
+      <item>
+        <title>Pak Utility Mod v0.3.1, SML 2.1.0, Experimental 120739</title>
+        <dc:creator><![CDATA[@Senseidragon Senseidragon]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/senseidragon">@Senseidragon</a> wrote:</p>
+          <blockquote>
+              <p>Thanks for the quick response!</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/pak-utility-mod-v0-3-1-sml-2-1-0-experimental-120739/520/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/pak-utility-mod-v0-3-1-sml-2-1-0-experimental-120739/520/3</link>
+        <pubDate>Sun, 03 May 2020 17:31:38 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-520-3</guid>
+        <source url="https://forums.ficsit.app/t/pak-utility-mod-v0-3-1-sml-2-1-0-experimental-120739/520.rss">Pak Utility Mod v0.3.1, SML 2.1.0, Experimental 120739</source>
+      </item>
+      <item>
+        <title>Pak Utility Mod v0.3.1, SML 2.1.0, Experimental 120739</title>
+        <dc:creator><![CDATA[@mircearoata Mircearoata]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/mircearoata">@mircearoata</a> wrote:</p>
+          <blockquote>
+              <p>Just uploaded a version that fixes it (it is only compatible with SML 2.1.0+, so only Experimental for now)</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/pak-utility-mod-v0-3-1-sml-2-1-0-experimental-120739/520/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/pak-utility-mod-v0-3-1-sml-2-1-0-experimental-120739/520/2</link>
+        <pubDate>Sun, 03 May 2020 14:11:30 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-520-2</guid>
+        <source url="https://forums.ficsit.app/t/pak-utility-mod-v0-3-1-sml-2-1-0-experimental-120739/520.rss">Pak Utility Mod v0.3.1, SML 2.1.0, Experimental 120739</source>
+      </item>
+      <item>
+        <title>Pak Utility Mod v0.3.1, SML 2.1.0, Experimental 120739</title>
+        <dc:creator><![CDATA[@Senseidragon Senseidragon]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/senseidragon">@Senseidragon</a> wrote:</p>
+          <blockquote>
+              <p>Hi, I’m having an issue with the Pak Utility Mod only when other family members try to join my world (local LAN).  The client consistently crashes to desktop, but the host does not.  I’ve tried this with the mod as the only mod loaded, I’ve tried it where the other computer is the host and I am the client.  It only crashes the client immediately after attempting to join game.</p>
+<p>I can provide a copy of the Unreal error screen if this isn’t easily replicated.</p>
+<p>Thanks!</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/pak-utility-mod-v0-3-1-sml-2-1-0-experimental-120739/520/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/pak-utility-mod-v0-3-1-sml-2-1-0-experimental-120739/520/1</link>
+        <pubDate>Sun, 03 May 2020 13:24:46 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-520-1</guid>
+        <source url="https://forums.ficsit.app/t/pak-utility-mod-v0-3-1-sml-2-1-0-experimental-120739/520.rss">Pak Utility Mod v0.3.1, SML 2.1.0, Experimental 120739</source>
+      </item>
+  </channel>
+</rss>

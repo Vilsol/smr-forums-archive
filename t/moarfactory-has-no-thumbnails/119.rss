@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>MoarFactory has no thumbnails</title>
+    <link>https://forums.ficsit.app/t/moarfactory-has-no-thumbnails/119</link>
+    <description>I just loaded the MoarFactory mod, and it is mostly working. When I open the build menu, all the MoarFactory items are there, but there are no thumbnails for them, and the recipe for most of the items shows only the number required, not what items are required.
+Also, I just noticed....the install instructions say to move the moarfactory_p and moarfactory_r pak and sig files.....when I unzipped the download, there is no moarfactory_r pak or sig.</description>
+    
+    <lastBuildDate>Mon, 23 Dec 2019 19:16:06 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/moarfactory-has-no-thumbnails/119.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>MoarFactory has no thumbnails</title>
+        <dc:creator><![CDATA[@nzfreemo Badger]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/nzfreemo">@nzfreemo</a> wrote:</p>
+          <blockquote>
+              <p>Ah. Thank you very much!</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/moarfactory-has-no-thumbnails/119/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/moarfactory-has-no-thumbnails/119/4</link>
+        <pubDate>Mon, 23 Dec 2019 19:16:06 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-119-4</guid>
+        <source url="https://forums.ficsit.app/t/moarfactory-has-no-thumbnails/119.rss">MoarFactory has no thumbnails</source>
+      </item>
+      <item>
+        <title>MoarFactory has no thumbnails</title>
+        <dc:creator><![CDATA[@klangzwang Klangzwang]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/klangzwang">@klangzwang</a> wrote:</p>
+          <blockquote>
+              <p>download this <a href="https://ficsit.app/mod/Ev6vA8A45NfgPk" rel="nofollow noopener">https://ficsit.app/mod/Ev6vA8A45NfgPk</a></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/moarfactory-has-no-thumbnails/119/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/moarfactory-has-no-thumbnails/119/3</link>
+        <pubDate>Mon, 23 Dec 2019 12:14:12 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-119-3</guid>
+        <source url="https://forums.ficsit.app/t/moarfactory-has-no-thumbnails/119.rss">MoarFactory has no thumbnails</source>
+      </item>
+      <item>
+        <title>MoarFactory has no thumbnails</title>
+        <dc:creator><![CDATA[@nzfreemo Badger]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/nzfreemo">@nzfreemo</a> wrote:</p>
+          <blockquote>
+              <p>Okay…just downloaded several versions of the save file, back to v.7.0…none of them appear to contain the moarfactory-r pak and sig files.<br>
+And when I launch the game, the console tells me I don’t  have the moarfactory_r files, and won’t load the game.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/moarfactory-has-no-thumbnails/119/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/moarfactory-has-no-thumbnails/119/2</link>
+        <pubDate>Mon, 23 Dec 2019 04:11:51 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-119-2</guid>
+        <source url="https://forums.ficsit.app/t/moarfactory-has-no-thumbnails/119.rss">MoarFactory has no thumbnails</source>
+      </item>
+      <item>
+        <title>MoarFactory has no thumbnails</title>
+        <dc:creator><![CDATA[@nzfreemo Badger]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/nzfreemo">@nzfreemo</a> wrote:</p>
+          <blockquote>
+              <p>I just loaded the MoarFactory mod, and it is mostly working. When I open the build menu, all the MoarFactory items are there, but there are no thumbnails for them, and the recipe for most of the items shows only the number required, not what items are required.<br>
+Also, I just noticed…the install instructions say to move the moarfactory_p and moarfactory_r pak and sig files…when I unzipped the download, there is no moarfactory_r pak or sig.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/moarfactory-has-no-thumbnails/119/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/moarfactory-has-no-thumbnails/119/1</link>
+        <pubDate>Mon, 23 Dec 2019 03:49:53 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-119-1</guid>
+        <source url="https://forums.ficsit.app/t/moarfactory-has-no-thumbnails/119.rss">MoarFactory has no thumbnails</source>
+      </item>
+  </channel>
+</rss>

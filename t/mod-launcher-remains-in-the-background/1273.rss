@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Mod Launcher remains in the background</title>
+    <link>https://forums.ficsit.app/t/mod-launcher-remains-in-the-background/1273</link>
+    <description>I&#39;ve downloaded the installer for SML and installed it several times.  No matter how I install it the mod loader just sits in the taskbar and I can&#39;t access the window. It won&#39;t ever display.
+
+![SML_Issue|690x391](upload://A3v7wf9Cf6Wd8VMXlt0EmGk0DtI.jpeg) 
+
+Any help getting it to display and be interact able would be appreciated.  Thanks!</description>
+    
+    <lastBuildDate>Fri, 07 May 2021 19:35:49 +0000</lastBuildDate>
+    <category>SML</category>
+    <atom:link href="https://forums.ficsit.app/t/mod-launcher-remains-in-the-background/1273.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Mod Launcher remains in the background</title>
+        <dc:creator><![CDATA[@EmilyJane033 Emily Jane033]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/emilyjane033">@EmilyJane033</a> wrote:</p>
+          <blockquote>
+              <p>Awesome!  Thank You soo much!!</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mod-launcher-remains-in-the-background/1273/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mod-launcher-remains-in-the-background/1273/3</link>
+        <pubDate>Fri, 07 May 2021 19:35:49 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1273-3</guid>
+        <source url="https://forums.ficsit.app/t/mod-launcher-remains-in-the-background/1273.rss">Mod Launcher remains in the background</source>
+      </item>
+      <item>
+        <title>Mod Launcher remains in the background</title>
+        <dc:creator><![CDATA[@mircearoata Mircearoata]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/mircearoata">@mircearoata</a> wrote:</p>
+          <blockquote>
+              <p>The issue is that the window somehow got offscreen. To fix it you need to go in <code>%appdata%\SatisfactoryModManager\settings.json</code> and in <code>windowLocation</code> set the x and y to 0 to bring the window back on the screen. Restart SMM after you do that</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mod-launcher-remains-in-the-background/1273/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mod-launcher-remains-in-the-background/1273/2</link>
+        <pubDate>Fri, 07 May 2021 19:26:44 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1273-2</guid>
+        <source url="https://forums.ficsit.app/t/mod-launcher-remains-in-the-background/1273.rss">Mod Launcher remains in the background</source>
+      </item>
+      <item>
+        <title>Mod Launcher remains in the background</title>
+        <dc:creator><![CDATA[@EmilyJane033 Emily Jane033]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/emilyjane033">@EmilyJane033</a> wrote:</p>
+          <blockquote>
+              <p>I’ve downloaded the installer for SML and installed it several times.  No matter how I install it the mod loader just sits in the taskbar and I can’t access the window. It won’t ever display.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/fcb39a7f695a0919e6b82fa1fdc68f95eead284e.jpeg" data-download-href="https://forums.ficsit.app/uploads/default/fcb39a7f695a0919e6b82fa1fdc68f95eead284e" title="SML_Issue"><img src="https://forums.ficsit.app/uploads/default/optimized/1X/fcb39a7f695a0919e6b82fa1fdc68f95eead284e_2_690x391.jpeg" alt="SML_Issue" data-base62-sha1="A3v7wf9Cf6Wd8VMXlt0EmGk0DtI" width="690" height="391" srcset="https://forums.ficsit.app/uploads/default/optimized/1X/fcb39a7f695a0919e6b82fa1fdc68f95eead284e_2_690x391.jpeg, https://forums.ficsit.app/uploads/default/optimized/1X/fcb39a7f695a0919e6b82fa1fdc68f95eead284e_2_1035x586.jpeg 1.5x, https://forums.ficsit.app/uploads/default/optimized/1X/fcb39a7f695a0919e6b82fa1fdc68f95eead284e_2_1380x782.jpeg 2x" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/fcb39a7f695a0919e6b82fa1fdc68f95eead284e_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">SML_Issue</span><span class="informations">1923×1090 358 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>Any help getting it to display and be interact able would be appreciated.  Thanks!</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mod-launcher-remains-in-the-background/1273/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mod-launcher-remains-in-the-background/1273/1</link>
+        <pubDate>Fri, 07 May 2021 18:22:10 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1273-1</guid>
+        <source url="https://forums.ficsit.app/t/mod-launcher-remains-in-the-background/1273.rss">Mod Launcher remains in the background</source>
+      </item>
+  </channel>
+</rss>

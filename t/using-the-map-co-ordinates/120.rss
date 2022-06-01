@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Using the map co-ordinates</title>
+    <link>https://forums.ficsit.app/t/using-the-map-co-ordinates/120</link>
+    <description>There&#39;s a couple of maps out there that give the locations of resources/items/etc by map co-ordinate.
+Does anybody know how to make use of those co-ordinates in-game?</description>
+    
+    <lastBuildDate>Sat, 07 Mar 2020 13:35:53 +0000</lastBuildDate>
+    <category>General</category>
+    <atom:link href="https://forums.ficsit.app/t/using-the-map-co-ordinates/120.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Using the map co-ordinates</title>
+        <dc:creator><![CDATA[@Vincent_Bevort Vincent Bevort]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/vincent_bevort">@Vincent_Bevort</a> wrote:</p>
+          <blockquote>
+              <p>To be complete in this:<br>
+on other country/langage specific keyboards the ~ key may be located on other keys than on the international keyboard. If the tilde ~ is not located on the key next to the 1 key the ~ will not work.<br>
+Try the key left of the 1 key. This may have a § sign  on it.<br>
+Satisfactory seems to listen to that specific key. Keyboards send the coordinates of a key to the keyboard driver that then translate it, depending on the language, to a character.<br>
+This works for my Swedish keyboard.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/using-the-map-co-ordinates/120/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/using-the-map-co-ordinates/120/4</link>
+        <pubDate>Sat, 07 Mar 2020 13:32:20 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-120-4</guid>
+        <source url="https://forums.ficsit.app/t/using-the-map-co-ordinates/120.rss">Using the map co-ordinates</source>
+      </item>
+      <item>
+        <title>Using the map co-ordinates</title>
+        <dc:creator><![CDATA[@nzfreemo Badger]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/nzfreemo">@nzfreemo</a> wrote:</p>
+          <blockquote>
+              <p>Ah, ok, thanks for that!</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/using-the-map-co-ordinates/120/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/using-the-map-co-ordinates/120/3</link>
+        <pubDate>Sat, 28 Dec 2019 20:35:31 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-120-3</guid>
+        <source url="https://forums.ficsit.app/t/using-the-map-co-ordinates/120.rss">Using the map co-ordinates</source>
+      </item>
+      <item>
+        <title>Using the map co-ordinates</title>
+        <dc:creator><![CDATA[@mircearoata Mircearoata]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/mircearoata">@mircearoata</a> wrote:</p>
+          <blockquote>
+              <p>Press Ctrl+Shift+L then ~ then type ShowDebug to enable the debug overlay which in the top left corner shows your coordinates</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/using-the-map-co-ordinates/120/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/using-the-map-co-ordinates/120/2</link>
+        <pubDate>Sat, 28 Dec 2019 19:53:17 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-120-2</guid>
+        <source url="https://forums.ficsit.app/t/using-the-map-co-ordinates/120.rss">Using the map co-ordinates</source>
+      </item>
+      <item>
+        <title>Using the map co-ordinates</title>
+        <dc:creator><![CDATA[@nzfreemo Badger]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/nzfreemo">@nzfreemo</a> wrote:</p>
+          <blockquote>
+              <p>There’s a couple of maps out there that give the locations of resources/items/etc by map co-ordinate.<br>
+Does anybody know how to make use of those co-ordinates in-game?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/using-the-map-co-ordinates/120/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/using-the-map-co-ordinates/120/1</link>
+        <pubDate>Tue, 24 Dec 2019 02:01:43 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-120-1</guid>
+        <source url="https://forums.ficsit.app/t/using-the-map-co-ordinates/120.rss">Using the map co-ordinates</source>
+      </item>
+  </channel>
+</rss>

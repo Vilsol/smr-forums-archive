@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Experimental missing</title>
+    <link>https://forums.ficsit.app/t/experimental-missing/1107</link>
+    <description>Well ... extremely missleading here. I&#39;m running Satisfactory experimental for some time now. 
+Yesterday recognized mods for the first time. 
+
+1) downloaded the mod manager
+2) in mod manager, **no** warning here that experimental might not work. Instead I got 3 profiles: 
+- development: cannot start the game, not in SMM, not in Steam, not from exe, nothing works
+- modded: does nothing again, tries to start, nope
+- vanilla: why would i try that, I&#39;m running experimental. Okay, let&#39;s try - wtf, it does start the experimental. but no mods. 
+
+PLEAASE please add a hint or warning sign, whatever, somewhere, that it does NOT support experimental</description>
+    
+    <lastBuildDate>Thu, 11 Feb 2021 17:09:46 +0000</lastBuildDate>
+    <category>SML</category>
+    <atom:link href="https://forums.ficsit.app/t/experimental-missing/1107.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Experimental missing</title>
+        <dc:creator><![CDATA[@graphics_nerd Graphics Nerd]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/graphics_nerd">@graphics_nerd</a> wrote:</p>
+          <blockquote>
+              <p>Hello,</p>
+<p>for your modded profile see this link: <a href="https://forums.ficsit.app/t/mod-manager-no-longer-launches-game/1042" class="inline-onebox">Mod Manager No longer launches Game</a></p>
+<p>BTW: Running experimental does not contradict using no mods: with experimental you sign in for a well experimental version of the game, you see new features first but sign in for bugs not necessarily mods. And maintaining mods for experimental is harder than early access because of its more unstable nature and more frequent updates and there for shorter update-cycles for mods</p>
+<p>vanilla: means game without mods<br>
+modded: your profile where you can activate mods (just check them and they will be downloaded)<br>
+dev: for modders I guess</p>
+<p>Nice greetings<br>
+Zehke</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/experimental-missing/1107/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/experimental-missing/1107/2</link>
+        <pubDate>Thu, 11 Feb 2021 16:52:08 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1107-2</guid>
+        <source url="https://forums.ficsit.app/t/experimental-missing/1107.rss">Experimental missing</source>
+      </item>
+      <item>
+        <title>Experimental missing</title>
+        <dc:creator><![CDATA[@burninghey Burninghey]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/burninghey">@burninghey</a> wrote:</p>
+          <blockquote>
+              <p>Well … extremely missleading here. I’m running Satisfactory experimental for some time now.<br>
+Yesterday recognized mods for the first time.</p>
+<ol>
+<li>downloaded the mod manager</li>
+<li>in mod manager, <strong>no</strong> warning here that experimental might not work. Instead I got 3 profiles:</li>
+</ol>
+<ul>
+<li>development: cannot start the game, not in SMM, not in Steam, not from exe, nothing works</li>
+<li>modded: does nothing again, tries to start, nope</li>
+<li>vanilla: why would i try that, I’m running experimental. Okay, let’s try - wtf, it does start the experimental. but no mods.</li>
+</ul>
+<p>PLEAASE please add a hint or warning sign, whatever, somewhere, that it does NOT support experimental</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/experimental-missing/1107/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/experimental-missing/1107/1</link>
+        <pubDate>Sun, 07 Feb 2021 19:36:20 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1107-1</guid>
+        <source url="https://forums.ficsit.app/t/experimental-missing/1107.rss">Experimental missing</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Smart Mod wall placing bug - Update 5</title>
+    <link>https://forums.ficsit.app/t/smart-mod-wall-placing-bug-update-5/1490</link>
+    <description>Hi 
+
+Not sure if I&#39;m only one having this, but there seems to be issue with placing walls after update 5.
+
+If I place for example 5 walls vertically one by one and next to that place 5 walls vertically using Smart Mod (scrolling mouse wheel), there is small cap/height difference of these 5 walls. It looks like spacing is little off, when using Smart Mod. Same happens also placing walls horizontally. 
+
+Added screenshot that probably explains issue better. 
+![20211202175337_1|690x288](upload://96gEnAAotC1OSNcgvetYuySDvqG.jpeg)</description>
+    
+    <lastBuildDate>Mon, 20 Dec 2021 16:17:34 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forums.ficsit.app/t/smart-mod-wall-placing-bug-update-5/1490.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Smart Mod wall placing bug - Update 5</title>
+        <dc:creator><![CDATA[@suppokettu Suppokettu]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/suppokettu">@suppokettu</a> wrote:</p>
+          <blockquote>
+              <p>This seems to be working now with latest version. <img src="https://forums.ficsit.app/images/emoji/twitter/slightly_smiling_face.png?v=9" title=":slightly_smiling_face:" class="emoji" alt=":slightly_smiling_face:"></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/smart-mod-wall-placing-bug-update-5/1490/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/smart-mod-wall-placing-bug-update-5/1490/4</link>
+        <pubDate>Mon, 20 Dec 2021 16:17:34 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1490-4</guid>
+        <source url="https://forums.ficsit.app/t/smart-mod-wall-placing-bug-update-5/1490.rss">Smart Mod wall placing bug - Update 5</source>
+      </item>
+      <item>
+        <title>Smart Mod wall placing bug - Update 5</title>
+        <dc:creator><![CDATA[@New_Horizons New Horizons]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/new_horizons">@New_Horizons</a> wrote:</p>
+          <blockquote>
+              <p>Yep. Can confirm. Above is smart “zooping”. Below is individually placed. Can see the misalignment in the wall detail lines.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/d93b397dd9baf33c136c7c2980138edcba90fc2c.jpeg" data-download-href="https://forums.ficsit.app/uploads/default/d93b397dd9baf33c136c7c2980138edcba90fc2c" title="123"><img src="https://forums.ficsit.app/uploads/default/optimized/1X/d93b397dd9baf33c136c7c2980138edcba90fc2c_2_690x351.jpeg" alt="123" data-base62-sha1="uZIuWLdN4TIvCbpazb0EmKXBLty" width="690" height="351" srcset="https://forums.ficsit.app/uploads/default/optimized/1X/d93b397dd9baf33c136c7c2980138edcba90fc2c_2_690x351.jpeg, https://forums.ficsit.app/uploads/default/optimized/1X/d93b397dd9baf33c136c7c2980138edcba90fc2c_2_1035x526.jpeg 1.5x, https://forums.ficsit.app/uploads/default/optimized/1X/d93b397dd9baf33c136c7c2980138edcba90fc2c_2_1380x702.jpeg 2x" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/d93b397dd9baf33c136c7c2980138edcba90fc2c_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">123</span><span class="informations">2061×1049 348 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/smart-mod-wall-placing-bug-update-5/1490/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/smart-mod-wall-placing-bug-update-5/1490/3</link>
+        <pubDate>Sun, 05 Dec 2021 06:56:20 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1490-3</guid>
+        <source url="https://forums.ficsit.app/t/smart-mod-wall-placing-bug-update-5/1490.rss">Smart Mod wall placing bug - Update 5</source>
+      </item>
+      <item>
+        <title>Smart Mod wall placing bug - Update 5</title>
+        <dc:creator><![CDATA[@Chris_Gordon Chris Gordon]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/chris_gordon">@Chris_Gordon</a> wrote:</p>
+          <blockquote>
+              <p>Same problem here.<br>
+(Note: On Experimental)<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/38341d9ab87c1ca1e76f173596b2b539a5da99aa.jpeg" data-download-href="https://forums.ficsit.app/uploads/default/38341d9ab87c1ca1e76f173596b2b539a5da99aa" title="image"><img src="https://forums.ficsit.app/uploads/default/optimized/1X/38341d9ab87c1ca1e76f173596b2b539a5da99aa_2_690x347.jpeg" alt="image" data-base62-sha1="81cowEYOGdMp59Aj9JJNQobqf8u" width="690" height="347" srcset="https://forums.ficsit.app/uploads/default/optimized/1X/38341d9ab87c1ca1e76f173596b2b539a5da99aa_2_690x347.jpeg, https://forums.ficsit.app/uploads/default/optimized/1X/38341d9ab87c1ca1e76f173596b2b539a5da99aa_2_1035x520.jpeg 1.5x, https://forums.ficsit.app/uploads/default/original/1X/38341d9ab87c1ca1e76f173596b2b539a5da99aa.jpeg 2x" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/38341d9ab87c1ca1e76f173596b2b539a5da99aa_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1169×589 204 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/smart-mod-wall-placing-bug-update-5/1490/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/smart-mod-wall-placing-bug-update-5/1490/2</link>
+        <pubDate>Fri, 03 Dec 2021 08:24:56 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1490-2</guid>
+        <source url="https://forums.ficsit.app/t/smart-mod-wall-placing-bug-update-5/1490.rss">Smart Mod wall placing bug - Update 5</source>
+      </item>
+      <item>
+        <title>Smart Mod wall placing bug - Update 5</title>
+        <dc:creator><![CDATA[@suppokettu Suppokettu]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/suppokettu">@suppokettu</a> wrote:</p>
+          <blockquote>
+              <p>Hi</p>
+<p>Not sure if I’m only one having this, but there seems to be issue with placing walls after update 5.</p>
+<p>If I place for example 5 walls vertically one by one and next to that place 5 walls vertically using Smart Mod (scrolling mouse wheel), there is small cap/height difference of these 5 walls. It looks like spacing is little off, when using Smart Mod. Same happens also placing walls horizontally.</p>
+<p>Added screenshot that probably explains issue better.<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/3fc8f7a7415a276de525b67870e891c6fb59c95a.jpeg" data-download-href="https://forums.ficsit.app/uploads/default/3fc8f7a7415a276de525b67870e891c6fb59c95a" title="20211202175337_1"><img src="https://forums.ficsit.app/uploads/default/optimized/1X/3fc8f7a7415a276de525b67870e891c6fb59c95a_2_690x288.jpeg" alt="20211202175337_1" data-base62-sha1="96gEnAAotC1OSNcgvetYuySDvqG" width="690" height="288" srcset="https://forums.ficsit.app/uploads/default/optimized/1X/3fc8f7a7415a276de525b67870e891c6fb59c95a_2_690x288.jpeg, https://forums.ficsit.app/uploads/default/optimized/1X/3fc8f7a7415a276de525b67870e891c6fb59c95a_2_1035x432.jpeg 1.5x, https://forums.ficsit.app/uploads/default/optimized/1X/3fc8f7a7415a276de525b67870e891c6fb59c95a_2_1380x576.jpeg 2x" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/3fc8f7a7415a276de525b67870e891c6fb59c95a_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">20211202175337_1</span><span class="informations">3440×1440 806 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/smart-mod-wall-placing-bug-update-5/1490/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/smart-mod-wall-placing-bug-update-5/1490/1</link>
+        <pubDate>Thu, 02 Dec 2021 16:21:12 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1490-1</guid>
+        <source url="https://forums.ficsit.app/t/smart-mod-wall-placing-bug-update-5/1490.rss">Smart Mod wall placing bug - Update 5</source>
+      </item>
+  </channel>
+</rss>

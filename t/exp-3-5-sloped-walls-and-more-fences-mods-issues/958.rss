@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Exp 3.5 - &#39;Sloped Walls&#39; and &#39;More Fences&#39; Mods Issues</title>
+    <link>https://forums.ficsit.app/t/exp-3-5-sloped-walls-and-more-fences-mods-issues/958</link>
+    <description>Those 2 mods made by &#39;&#39;andrew - w&#39;&#39; don&#39;t work properly with the last pipes update (CL135035 - Experimental), the placement is buggy and at the end the game crash if you missplace  the sloped wall or the fences.
+
+Edit: The issue only occurs in experimental branch</description>
+    
+    <lastBuildDate>Sun, 28 Feb 2021 06:17:47 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forums.ficsit.app/t/exp-3-5-sloped-walls-and-more-fences-mods-issues/958.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Exp 3.5 - &#39;Sloped Walls&#39; and &#39;More Fences&#39; Mods Issues</title>
+        <dc:creator><![CDATA[@JamieRCHI Jamie]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jamierchi">@JamieRCHI</a> wrote:</p>
+          <blockquote>
+              <p>Yes. Crashing in the latest build 140083.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/exp-3-5-sloped-walls-and-more-fences-mods-issues/958/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/exp-3-5-sloped-walls-and-more-fences-mods-issues/958/4</link>
+        <pubDate>Sun, 28 Feb 2021 06:17:47 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-958-4</guid>
+        <source url="https://forums.ficsit.app/t/exp-3-5-sloped-walls-and-more-fences-mods-issues/958.rss">Exp 3.5 - &#39;Sloped Walls&#39; and &#39;More Fences&#39; Mods Issues</source>
+      </item>
+      <item>
+        <title>Exp 3.5 - &#39;Sloped Walls&#39; and &#39;More Fences&#39; Mods Issues</title>
+        <dc:creator><![CDATA[@Dorian_Grey Dorian Grey]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/dorian_grey">@Dorian_Grey</a> wrote:</p>
+          <blockquote>
+              <p>Same problem here. But not in Experimental. Hope it will be fixed, I started mods only for these 2 mods sloped walls and more fences. More fences has the same problem too. Placement and crash…</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/exp-3-5-sloped-walls-and-more-fences-mods-issues/958/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/exp-3-5-sloped-walls-and-more-fences-mods-issues/958/3</link>
+        <pubDate>Fri, 01 Jan 2021 15:22:45 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-958-3</guid>
+        <source url="https://forums.ficsit.app/t/exp-3-5-sloped-walls-and-more-fences-mods-issues/958.rss">Exp 3.5 - &#39;Sloped Walls&#39; and &#39;More Fences&#39; Mods Issues</source>
+      </item>
+      <item>
+        <title>Exp 3.5 - &#39;Sloped Walls&#39; and &#39;More Fences&#39; Mods Issues</title>
+        <dc:creator><![CDATA[@ShinjiSakanami Shin Sakanami]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/shinjisakanami">@ShinjiSakanami</a> wrote:</p>
+          <blockquote>
+              <p>I’m experimenting the same issues. I hope the author will soon update these mods. More Fences (and Slopped Fences) should be in the vanilla game !</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/exp-3-5-sloped-walls-and-more-fences-mods-issues/958/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/exp-3-5-sloped-walls-and-more-fences-mods-issues/958/2</link>
+        <pubDate>Sun, 01 Nov 2020 19:05:11 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-958-2</guid>
+        <source url="https://forums.ficsit.app/t/exp-3-5-sloped-walls-and-more-fences-mods-issues/958.rss">Exp 3.5 - &#39;Sloped Walls&#39; and &#39;More Fences&#39; Mods Issues</source>
+      </item>
+      <item>
+        <title>Exp 3.5 - &#39;Sloped Walls&#39; and &#39;More Fences&#39; Mods Issues</title>
+        <dc:creator><![CDATA[@Totomio Totomio]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/totomio">@Totomio</a> wrote:</p>
+          <blockquote>
+              <p>Those 2 mods made by ‘‘andrew - w’’ don’t work properly with the last pipes update (CL135035 - Experimental), the placement is buggy and at the end the game crash if you missplace  the sloped wall or the fences.</p>
+<p>Edit: The issue only occurs in experimental branch</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/exp-3-5-sloped-walls-and-more-fences-mods-issues/958/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/exp-3-5-sloped-walls-and-more-fences-mods-issues/958/1</link>
+        <pubDate>Fri, 30 Oct 2020 20:49:53 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-958-1</guid>
+        <source url="https://forums.ficsit.app/t/exp-3-5-sloped-walls-and-more-fences-mods-issues/958.rss">Exp 3.5 - &#39;Sloped Walls&#39; and &#39;More Fences&#39; Mods Issues</source>
+      </item>
+  </channel>
+</rss>

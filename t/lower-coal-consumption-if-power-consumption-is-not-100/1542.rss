@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Lower coal consumption, if power consumption is not 100%</title>
+    <link>https://forums.ficsit.app/t/lower-coal-consumption-if-power-consumption-is-not-100/1542</link>
+    <description>The Biomass Burner has &quot;the resource consumption is automatically lowered&quot;.
+I was wondering:
+- Is there any mod that enables you to build a setup that simulates this behavior?
+Say a belt splitter that stops if the accumulator charge is above 90% and starts if it&#39;s below 105?
+
+Or
+
+- Is there a mod that has generators with this property? (&quot;the resource consumption is automatically lowered&quot;)</description>
+    
+    <lastBuildDate>Mon, 17 Jan 2022 13:53:34 +0000</lastBuildDate>
+    <category>Suggestions &amp; Ideas</category>
+    <atom:link href="https://forums.ficsit.app/t/lower-coal-consumption-if-power-consumption-is-not-100/1542.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Lower coal consumption, if power consumption is not 100%</title>
+        <dc:creator><![CDATA[@yuyaryshev Yuyaryshev]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/yuyaryshev">@yuyaryshev</a> wrote:</p>
+          <blockquote>
+              <p>The Biomass Burner has “the resource consumption is automatically lowered”.<br>
+I was wondering:</p>
+<ul>
+<li>Is there any mod that enables you to build a setup that simulates this behavior?<br>
+Say a belt splitter that stops if the accumulator charge is above 90% and starts if it’s below 105?</li>
+</ul>
+<p>Or</p>
+<ul>
+<li>Is there a mod that has generators with this property? (“the resource consumption is automatically lowered”)</li>
+</ul>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/lower-coal-consumption-if-power-consumption-is-not-100/1542/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/lower-coal-consumption-if-power-consumption-is-not-100/1542/1</link>
+        <pubDate>Mon, 17 Jan 2022 13:53:34 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1542-1</guid>
+        <source url="https://forums.ficsit.app/t/lower-coal-consumption-if-power-consumption-is-not-100/1542.rss">Lower coal consumption, if power consumption is not 100%</source>
+      </item>
+  </channel>
+</rss>

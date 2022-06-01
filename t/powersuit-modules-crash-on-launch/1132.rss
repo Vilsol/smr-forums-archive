@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Powersuit Modules: crash on launch</title>
+    <link>https://forums.ficsit.app/t/powersuit-modules-crash-on-launch/1132</link>
+    <description>Hello,
+I&#39;m trying to load Powersuit Modules (powersuit already installed and working) and I get a crash everytime I load my savegame.
+
+Here&#39;s the crash log:
+
+Version: 140083, IsEditor: No, IsPerforceBuild: No, BuildConfiguration: Shipping, Launcher: Steam, NetMode: Standalone, IsUsingMods: Yes
+
+Assertion failed: O-&gt;GetClass()-&gt;ImplementsInterface(UFGSaveInterface::StaticClass()) [File:D:\ws\SB-201123102323-c9f\UE4\Games\FactoryGame\Intermediate\Build\Win64\FactoryGame\Inc\FactoryGame\FGSaveInterface.gen.cpp] [Line: 446]
+
+FactoryGame_Win64_Shipping!FWindowsErrorOutputDevice::Serialize() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\private\windows\windowserroroutputdevice.cpp:79]
+FactoryGame_Win64_Shipping!FOutputDevice::LogfImpl() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\private\misc\outputdevice.cpp:71]
+FactoryGame_Win64_Shipping!AssertFailedImplV() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\private\misc\assertionmacros.cpp:101]
+FactoryGame_Win64_Shipping!FDebug::CheckVerifyFailedImpl() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\private\misc\assertionmacros.cpp:439]
+FactoryGame_Win64_Shipping!IFGSaveInterface::Execute_PreLoadGame() [d:\ws\sb-201123102323-c9f\ue4\games\factorygame\intermediate\build\win64\factorygame\inc\factorygame\fgsaveinterface.gen.cpp:446]
+FactoryGame_Win64_Shipping!FArchiveObjectTOCProxy::operator&lt;&lt;() [d:\ws\sb-201123102323-c9f\ue4\games\factorygame\source\factorygame\private\fgsavesession.cpp:1280]
+FactoryGame_Win64_Shipping!operator&lt;&lt;() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\public\containers\array.h:1100]
+FactoryGame_Win64_Shipping!UFGSaveSession::SerializeLoadedObjects() [d:\ws\sb-201123102323-c9f\ue4\games\factorygame\source\factorygame\private\fgsavesession.cpp:1482]
+FactoryGame_Win64_Shipping!UFGSaveSession::LoadCompressedFileFromDisk() [d:\ws\sb-201123102323-c9f\ue4\games\factorygame\source\factorygame\private\fgsavesession.cpp:778]
+FactoryGame_Win64_Shipping!UFGSaveSession::LoadGame() [d:\ws\sb-201123102323-c9f\ue4\games\factorygame\source\factorygame\private\fgsavesession.cpp:920]
+FactoryGame_Win64_Shipping!AFGGameMode::InitGameState() [d:\ws\sb-201123102323-c9f\ue4\games\factorygame\source\factorygame\private\fggamemode.cpp:274]
+FactoryGame_Win64_Shipping!AGameModeBase::PreInitializeComponents() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\engine\private\gamemodebase.cpp:125]
+FactoryGame_Win64_Shipping!ULevel::RouteActorInitialize() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\engine\private\level.cpp:1823]
+FactoryGame_Win64_Shipping!UWorld::InitializeActorsForPlay() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\engine\private\world.cpp:3925]
+FactoryGame_Win64_Shipping!UEngine::LoadMap() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\engine\private\unrealengine.cpp:12518]
+FactoryGame_Win64_Shipping!UEngine::Browse() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\engine\private\unrealengine.cpp:11777]
+FactoryGame_Win64_Shipping!UEngine::TickWorldTravel() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\engine\private\unrealengine.cpp:11975]
+FactoryGame_Win64_Shipping!UGameEngine::Tick() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\engine\private\gameengine.cpp:1355]
+FactoryGame_Win64_Shipping!UFGGameEngine::Tick() [d:\ws\sb-201123102323-c9f\ue4\games\factorygame\source\factorygame\private\fggameengine.cpp:9]
+FactoryGame_Win64_Shipping!FEngineLoop::Tick() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\launch\private\launchengineloop.cpp:4032]
+FactoryGame_Win64_Shipping!GuardedMain() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\launch\private\launch.cpp:168]
+FactoryGame_Win64_Shipping!GuardedMainWrapper() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\launch\private\windows\launchwindows.cpp:145]
+FactoryGame_Win64_Shipping!WinMain() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\launch\private\windows\launchwindows.cpp:275]
+FactoryGame_Win64_Shipping!__scrt_common_main_seh() [d:\agent\_work\2\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+kernel32
+ntdll
+
+I tried uninstalling nearly every other mod to check for incompatibilities, no luck.
+Any suggestions?</description>
+    
+    <lastBuildDate>Tue, 23 Mar 2021 16:46:55 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/powersuit-modules-crash-on-launch/1132.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Powersuit Modules: crash on launch</title>
+        <dc:creator><![CDATA[@Robb Rob B]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/robb">@Robb</a> wrote:</p>
+          <blockquote>
+              <p>This was an issue with Crash Site Beacons that has since been fixed.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/powersuit-modules-crash-on-launch/1132/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/powersuit-modules-crash-on-launch/1132/2</link>
+        <pubDate>Tue, 23 Mar 2021 16:46:55 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1132-2</guid>
+        <source url="https://forums.ficsit.app/t/powersuit-modules-crash-on-launch/1132.rss">Powersuit Modules: crash on launch</source>
+      </item>
+      <item>
+        <title>Powersuit Modules: crash on launch</title>
+        <dc:creator><![CDATA[@AlphaTauGH Alpha Tau Gh]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/alphataugh">@AlphaTauGH</a> wrote:</p>
+          <blockquote>
+              <p>Hello,<br>
+I’m trying to load Powersuit Modules (powersuit already installed and working) and I get a crash everytime I load my savegame.</p>
+<p>Here’s the crash log:</p>
+<p>Version: 140083, IsEditor: No, IsPerforceBuild: No, BuildConfiguration: Shipping, Launcher: Steam, NetMode: Standalone, IsUsingMods: Yes</p>
+<p>Assertion failed: O-&gt;GetClass()-&gt;ImplementsInterface(UFGSaveInterface::StaticClass()) [File:D:\ws\SB-201123102323-c9f\UE4\Games\FactoryGame\Intermediate\Build\Win64\FactoryGame\Inc\FactoryGame\FGSaveInterface.gen.cpp] [Line: 446]</p>
+<p>FactoryGame_Win64_Shipping!FWindowsErrorOutputDevice::Serialize() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\private\windows\windowserroroutputdevice.cpp:79]<br>
+FactoryGame_Win64_Shipping!FOutputDevice::LogfImpl() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\private\misc\outputdevice.cpp:71]<br>
+FactoryGame_Win64_Shipping!AssertFailedImplV() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\private\misc\assertionmacros.cpp:101]<br>
+FactoryGame_Win64_Shipping!FDebug::CheckVerifyFailedImpl() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\private\misc\assertionmacros.cpp:439]<br>
+FactoryGame_Win64_Shipping!IFGSaveInterface::Execute_PreLoadGame() [d:\ws\sb-201123102323-c9f\ue4\games\factorygame\intermediate\build\win64\factorygame\inc\factorygame\fgsaveinterface.gen.cpp:446]<br>
+FactoryGame_Win64_Shipping!FArchiveObjectTOCProxy::operator&lt;&lt;() [d:\ws\sb-201123102323-c9f\ue4\games\factorygame\source\factorygame\private\fgsavesession.cpp:1280]<br>
+FactoryGame_Win64_Shipping!operator&lt;&lt;() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\public\containers\array.h:1100]<br>
+FactoryGame_Win64_Shipping!UFGSaveSession::SerializeLoadedObjects() [d:\ws\sb-201123102323-c9f\ue4\games\factorygame\source\factorygame\private\fgsavesession.cpp:1482]<br>
+FactoryGame_Win64_Shipping!UFGSaveSession::LoadCompressedFileFromDisk() [d:\ws\sb-201123102323-c9f\ue4\games\factorygame\source\factorygame\private\fgsavesession.cpp:778]<br>
+FactoryGame_Win64_Shipping!UFGSaveSession::LoadGame() [d:\ws\sb-201123102323-c9f\ue4\games\factorygame\source\factorygame\private\fgsavesession.cpp:920]<br>
+FactoryGame_Win64_Shipping!AFGGameMode::InitGameState() [d:\ws\sb-201123102323-c9f\ue4\games\factorygame\source\factorygame\private\fggamemode.cpp:274]<br>
+FactoryGame_Win64_Shipping!AGameModeBase::PreInitializeComponents() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\engine\private\gamemodebase.cpp:125]<br>
+FactoryGame_Win64_Shipping!ULevel::RouteActorInitialize() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\engine\private\level.cpp:1823]<br>
+FactoryGame_Win64_Shipping!UWorld::InitializeActorsForPlay() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\engine\private\world.cpp:3925]<br>
+FactoryGame_Win64_Shipping!UEngine::LoadMap() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\engine\private\unrealengine.cpp:12518]<br>
+FactoryGame_Win64_Shipping!UEngine::Browse() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\engine\private\unrealengine.cpp:11777]<br>
+FactoryGame_Win64_Shipping!UEngine::TickWorldTravel() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\engine\private\unrealengine.cpp:11975]<br>
+FactoryGame_Win64_Shipping!UGameEngine::Tick() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\engine\private\gameengine.cpp:1355]<br>
+FactoryGame_Win64_Shipping!UFGGameEngine::Tick() [d:\ws\sb-201123102323-c9f\ue4\games\factorygame\source\factorygame\private\fggameengine.cpp:9]<br>
+FactoryGame_Win64_Shipping!FEngineLoop::Tick() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\launch\private\launchengineloop.cpp:4032]<br>
+FactoryGame_Win64_Shipping!GuardedMain() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\launch\private\launch.cpp:168]<br>
+FactoryGame_Win64_Shipping!GuardedMainWrapper() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\launch\private\windows\launchwindows.cpp:145]<br>
+FactoryGame_Win64_Shipping!WinMain() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\launch\private\windows\launchwindows.cpp:275]<br>
+FactoryGame_Win64_Shipping!__scrt_common_main_seh() [d:\agent_work\2\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]<br>
+kernel32<br>
+ntdll</p>
+<p>I tried uninstalling nearly every other mod to check for incompatibilities, no luck.<br>
+Any suggestions?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/powersuit-modules-crash-on-launch/1132/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/powersuit-modules-crash-on-launch/1132/1</link>
+        <pubDate>Sat, 06 Mar 2021 11:45:43 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1132-1</guid>
+        <source url="https://forums.ficsit.app/t/powersuit-modules-crash-on-launch/1132.rss">Powersuit Modules: crash on launch</source>
+      </item>
+  </channel>
+</rss>

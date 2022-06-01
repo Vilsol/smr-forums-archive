@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>/content/PAK mods - New SML doesnt open</title>
+    <link>https://forums.ficsit.app/t/content-pak-mods-new-sml-doesnt-open/248</link>
+    <description>Im interested in modding and im reading the documentations, but when i try to run a pak the game says there is one mod loaded, but it doesn&#39;t show in the game
+
+I downloaded the last version of the SML (19march) and the last version of pak file of the Flags mod 0.3.2.
+
+![image|690x143](upload://8QGfvVDYAzzD8OQqqfXUgvaV7hy.png) 
+
+![image|298x208](upload://vjBJkxMUq5QbAFRcpTrJSCerrCn.jpeg) 
+
+![image|228x244](upload://ttoZlAmjYTtSaw70x3FknSaxsmO.png) 
+
+![image|391x277](upload://nFNykcJA9qhLE7B0XNd5e9PIKGr.jpeg) 
+
+I can t understand what im doing wrong.</description>
+    
+    <lastBuildDate>Thu, 19 Mar 2020 19:59:07 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/content-pak-mods-new-sml-doesnt-open/248.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>/content/PAK mods - New SML doesnt open</title>
+        <dc:creator><![CDATA[@Andre_Aquila DellAquila]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/andre_aquila">@Andre_Aquila</a> wrote:</p>
+          <blockquote>
+              <p>Nice… Thank you very much!!  I will follow up the news, and try this way.</p>
+<p>Congrats for the great work you guys are doing  <img src="https://forums.ficsit.app/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/content-pak-mods-new-sml-doesnt-open/248/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/content-pak-mods-new-sml-doesnt-open/248/9</link>
+        <pubDate>Thu, 19 Mar 2020 19:59:07 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-248-9</guid>
+        <source url="https://forums.ficsit.app/t/content-pak-mods-new-sml-doesnt-open/248.rss">/content/PAK mods - New SML doesnt open</source>
+      </item>
+      <item>
+        <title>/content/PAK mods - New SML doesnt open</title>
+        <dc:creator><![CDATA[@Robb Rob B]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/robb">@Robb</a> wrote:</p>
+          <blockquote>
+              <p>We are currently rewriting the docs for the new SML 2.0 systems. A few key things with pak mod loading have changed. We are currently rewriting the docs for the new SML 2.0 systems. A few key things with pak mod loading have changed. We’ll announce on the discord when the new docs are out. For now, you can try marking ‘For Mod Developers &gt; Toggle SML Always Installed’ in the launcher to make sure that SML is always loaded when you’re testing your mods. This may or may not fix your issue depending on how your Unreal project is set up.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/content-pak-mods-new-sml-doesnt-open/248/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/content-pak-mods-new-sml-doesnt-open/248/8</link>
+        <pubDate>Thu, 19 Mar 2020 19:56:01 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-248-8</guid>
+        <source url="https://forums.ficsit.app/t/content-pak-mods-new-sml-doesnt-open/248.rss">/content/PAK mods - New SML doesnt open</source>
+      </item>
+      <item>
+        <title>/content/PAK mods - New SML doesnt open</title>
+        <dc:creator><![CDATA[@Andre_Aquila DellAquila]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/andre_aquila">@Andre_Aquila</a> wrote:</p>
+          <blockquote>
+              <p>Im starting doing some tests, there is a way for me to test before upload? or upload in a private way?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/content-pak-mods-new-sml-doesnt-open/248/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/content-pak-mods-new-sml-doesnt-open/248/7</link>
+        <pubDate>Thu, 19 Mar 2020 19:07:08 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-248-7</guid>
+        <source url="https://forums.ficsit.app/t/content-pak-mods-new-sml-doesnt-open/248.rss">/content/PAK mods - New SML doesnt open</source>
+      </item>
+      <item>
+        <title>/content/PAK mods - New SML doesnt open</title>
+        <dc:creator><![CDATA[@weeaiden102_weilltur Weeaiden102 Weilltur]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/weeaiden102_weilltur">@weeaiden102_weilltur</a> wrote:</p>
+          <blockquote>
+              <p>you would have to upload it to the smr to use your mod</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/content-pak-mods-new-sml-doesnt-open/248/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/content-pak-mods-new-sml-doesnt-open/248/6</link>
+        <pubDate>Thu, 19 Mar 2020 19:04:29 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-248-6</guid>
+        <source url="https://forums.ficsit.app/t/content-pak-mods-new-sml-doesnt-open/248.rss">/content/PAK mods - New SML doesnt open</source>
+      </item>
+      <item>
+        <title>/content/PAK mods - New SML doesnt open</title>
+        <dc:creator><![CDATA[@Andre_Aquila DellAquila]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/andre_aquila">@Andre_Aquila</a> wrote:</p>
+          <blockquote>
+              <p>Through the download by the SML application works correctly.</p>
+<p>But since I’m trying to create PAK files, I was wondering if they are working properly. So I took this file from the portal and put it in the directory of the paks. But as it is not running, I think maybe that’s why it is not running the ones I am creating as well. Im doing the doc tutorial but doesnt seems to be loading the files. (appear as mod loaded in menu screen but dont shows in-game)</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/content-pak-mods-new-sml-doesnt-open/248/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/content-pak-mods-new-sml-doesnt-open/248/5</link>
+        <pubDate>Thu, 19 Mar 2020 18:59:46 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-248-5</guid>
+        <source url="https://forums.ficsit.app/t/content-pak-mods-new-sml-doesnt-open/248.rss">/content/PAK mods - New SML doesnt open</source>
+      </item>
+      <item>
+        <title>/content/PAK mods - New SML doesnt open</title>
+        <dc:creator><![CDATA[@weeaiden102_weilltur Weeaiden102 Weilltur]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/weeaiden102_weilltur">@weeaiden102_weilltur</a> wrote:</p>
+          <blockquote>
+              <p>try deleting those files in that folder and download it with the new sml 2.0</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/content-pak-mods-new-sml-doesnt-open/248/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/content-pak-mods-new-sml-doesnt-open/248/4</link>
+        <pubDate>Thu, 19 Mar 2020 18:53:35 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-248-4</guid>
+        <source url="https://forums.ficsit.app/t/content-pak-mods-new-sml-doesnt-open/248.rss">/content/PAK mods - New SML doesnt open</source>
+      </item>
+      <item>
+        <title>/content/PAK mods - New SML doesnt open</title>
+        <dc:creator><![CDATA[@Andre_Aquila DellAquila]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/andre_aquila">@Andre_Aquila</a> wrote:</p>
+          <blockquote>
+              <p>Its from the portal… This mod <a href="https://ficsit.app/mod/XLuK6Ci158x4G" rel="nofollow noopener">https://ficsit.app/mod/XLuK6Ci158x4G</a><br>
+version 0.3.2<br>
+I put the paks on SatisfactoryEarlyAccess\FactoryGame\Content\Paks<br>
+Thanks!</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/content-pak-mods-new-sml-doesnt-open/248/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/content-pak-mods-new-sml-doesnt-open/248/3</link>
+        <pubDate>Thu, 19 Mar 2020 18:51:44 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-248-3</guid>
+        <source url="https://forums.ficsit.app/t/content-pak-mods-new-sml-doesnt-open/248.rss">/content/PAK mods - New SML doesnt open</source>
+      </item>
+      <item>
+        <title>/content/PAK mods - New SML doesnt open</title>
+        <dc:creator><![CDATA[@weeaiden102_weilltur Weeaiden102 Weilltur]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/weeaiden102_weilltur">@weeaiden102_weilltur</a> wrote:</p>
+          <blockquote>
+              <p>what mod is it? if it is your own mod please dm me on discord weeaiden102#8512</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/content-pak-mods-new-sml-doesnt-open/248/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/content-pak-mods-new-sml-doesnt-open/248/2</link>
+        <pubDate>Thu, 19 Mar 2020 18:50:18 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-248-2</guid>
+        <source url="https://forums.ficsit.app/t/content-pak-mods-new-sml-doesnt-open/248.rss">/content/PAK mods - New SML doesnt open</source>
+      </item>
+      <item>
+        <title>/content/PAK mods - New SML doesnt open</title>
+        <dc:creator><![CDATA[@Andre_Aquila DellAquila]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/andre_aquila">@Andre_Aquila</a> wrote:</p>
+          <blockquote>
+              <p>Im interested in modding and im reading the documentations, but when i try to run a pak the game says there is one mod loaded, but it doesn’t show in the game</p>
+<p>I downloaded the last version of the SML (19march) and the last version of pak file of the Flags mod 0.3.2.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/3e05e729a08e732d202b3b90ddafb788132e2c54.png" data-download-href="https://forums.ficsit.app/uploads/default/3e05e729a08e732d202b3b90ddafb788132e2c54" title="image"><img src="https://forums.ficsit.app/uploads/default/original/1X/3e05e729a08e732d202b3b90ddafb788132e2c54.png" alt="image" data-base62-sha1="8QGfvVDYAzzD8OQqqfXUgvaV7hy" width="690" height="143" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/3e05e729a08e732d202b3b90ddafb788132e2c54_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1157×240 9.15 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p><img src="https://forums.ficsit.app/uploads/default/original/1X/db7ad4d886e6097b3dbf84a8d1b1515d3655faff.jpeg" alt="image" data-base62-sha1="vjBJkxMUq5QbAFRcpTrJSCerrCn" width="298" height="208"></p>
+<p><img src="https://forums.ficsit.app/uploads/default/original/1X/ce91eb54aa52b923a680880b0f5957c8dc10508e.png" alt="image" data-base62-sha1="ttoZlAmjYTtSaw70x3FknSaxsmO" width="228" height="244"></p>
+<p><img src="https://forums.ficsit.app/uploads/default/original/1X/a5eb99a4397007458da3121581c3914d0024b5af.jpeg" alt="image" data-base62-sha1="nFNykcJA9qhLE7B0XNd5e9PIKGr" width="391" height="277"></p>
+<p>I can t understand what im doing wrong.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/content-pak-mods-new-sml-doesnt-open/248/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/content-pak-mods-new-sml-doesnt-open/248/1</link>
+        <pubDate>Thu, 19 Mar 2020 18:32:33 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-248-1</guid>
+        <source url="https://forums.ficsit.app/t/content-pak-mods-new-sml-doesnt-open/248.rss">/content/PAK mods - New SML doesnt open</source>
+      </item>
+  </channel>
+</rss>

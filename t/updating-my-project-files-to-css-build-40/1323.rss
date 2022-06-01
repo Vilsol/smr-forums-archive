@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Updating my Project files to CSS build 40</title>
+    <link>https://forums.ficsit.app/t/updating-my-project-files-to-css-build-40/1323</link>
+    <description>I download both the project files and the CSS build 40. I ran Wwise and set it up. Then I run VS and do a shipping build on it and then I start the editor and started the Init Build. I keep getting an error that wanted me to rebuild again manually. Well, I tried that and got the same results. 
+
+I already got kicked or banned from the discord server when asking for help on this matter. I&#39;m just about ready to quit playing this game and getting my money back on it and filing a discord complaint. I read through the docs again and again and I still get the same issue. My Discord in iceman11a#1344</description>
+    
+    <lastBuildDate>Sun, 06 Jun 2021 17:24:59 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/updating-my-project-files-to-css-build-40/1323.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Updating my Project files to CSS build 40</title>
+        <dc:creator><![CDATA[@iceman11a Iceman11a *]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/iceman11a">@iceman11a</a> wrote:</p>
+          <blockquote>
+              <p>I download both the project files and the CSS build 40. I ran Wwise and set it up. Then I run VS and do a shipping build on it and then I start the editor and started the Init Build. I keep getting an error that wanted me to rebuild again manually. Well, I tried that and got the same results.</p>
+<p>I already got kicked or banned from the discord server when asking for help on this matter. I’m just about ready to quit playing this game and getting my money back on it and filing a discord complaint. I read through the docs again and again and I still get the same issue. My Discord in iceman11a#1344</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/updating-my-project-files-to-css-build-40/1323/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/updating-my-project-files-to-css-build-40/1323/1</link>
+        <pubDate>Sun, 06 Jun 2021 17:24:59 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1323-1</guid>
+        <source url="https://forums.ficsit.app/t/updating-my-project-files-to-css-build-40/1323.rss">Updating my Project files to CSS build 40</source>
+      </item>
+  </channel>
+</rss>

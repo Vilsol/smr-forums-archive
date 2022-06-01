@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>.bat template for automatically loading KronosMod &amp; SML</title>
+    <link>https://forums.ficsit.app/t/bat-template-for-automatically-loading-kronosmod-sml/252</link>
+    <description>In order to get the mod loader and Kronos Mod to load automatically, i created a batch file:
+
+&gt; start factorygame.exe
+&gt; timeout 20
+&gt; START /D .\KronosMod .\KronosMod\KronosMod-Launcher.exe
+
+it should be put inside the install directory of Satisfactory, where you find FactoryGame.exe
+Then create a shortcut to the batch file on your desktop or somewhere for easy access.
+
+If you have slow load times you might have to increase the line &quot;timeout&quot; from 20 seconds to a higher value.</description>
+    
+    <lastBuildDate>Sun, 26 Apr 2020 12:27:29 +0000</lastBuildDate>
+    <category>Showcase</category>
+    <atom:link href="https://forums.ficsit.app/t/bat-template-for-automatically-loading-kronosmod-sml/252.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>.bat template for automatically loading KronosMod &amp; SML</title>
+        <dc:creator><![CDATA[@Ryder17z Ryder17z]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/ryder17z">@Ryder17z</a> wrote:</p>
+          <blockquote>
+              <p>Not at the moment. and i’m not sure if this method will apply on the new version of KronosMod. It is not needed if the new KronosMod doesn’t use an extra exe file like the old version did</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/bat-template-for-automatically-loading-kronosmod-sml/252/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/bat-template-for-automatically-loading-kronosmod-sml/252/3</link>
+        <pubDate>Sun, 26 Apr 2020 12:27:29 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-252-3</guid>
+        <source url="https://forums.ficsit.app/t/bat-template-for-automatically-loading-kronosmod-sml/252.rss">.bat template for automatically loading KronosMod &amp; SML</source>
+      </item>
+      <item>
+        <title>.bat template for automatically loading KronosMod &amp; SML</title>
+        <dc:creator><![CDATA[@isochronous Isochronous]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/isochronous">@isochronous</a> wrote:</p>
+          <blockquote>
+              <p>Does kronos mod work with update 3?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/bat-template-for-automatically-loading-kronosmod-sml/252/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/bat-template-for-automatically-loading-kronosmod-sml/252/2</link>
+        <pubDate>Sun, 26 Apr 2020 02:43:18 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-252-2</guid>
+        <source url="https://forums.ficsit.app/t/bat-template-for-automatically-loading-kronosmod-sml/252.rss">.bat template for automatically loading KronosMod &amp; SML</source>
+      </item>
+      <item>
+        <title>.bat template for automatically loading KronosMod &amp; SML</title>
+        <dc:creator><![CDATA[@Ryder17z Ryder17z]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/ryder17z">@Ryder17z</a> wrote:</p>
+          <blockquote>
+              <p>In order to get the mod loader and Kronos Mod to load automatically, i created a batch file:</p>
+<blockquote>
+<p>start factorygame.exe<br>
+timeout 20<br>
+START /D .\KronosMod .\KronosMod\KronosMod-Launcher.exe</p>
+</blockquote>
+<p>it should be put inside the install directory of Satisfactory, where you find FactoryGame.exe<br>
+Then create a shortcut to the batch file on your desktop or somewhere for easy access.</p>
+<p>If you have slow load times you might have to increase the line “timeout” from 20 seconds to a higher value.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/bat-template-for-automatically-loading-kronosmod-sml/252/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/bat-template-for-automatically-loading-kronosmod-sml/252/1</link>
+        <pubDate>Sat, 21 Mar 2020 18:47:20 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-252-1</guid>
+        <source url="https://forums.ficsit.app/t/bat-template-for-automatically-loading-kronosmod-sml/252.rss">.bat template for automatically loading KronosMod &amp; SML</source>
+      </item>
+  </channel>
+</rss>

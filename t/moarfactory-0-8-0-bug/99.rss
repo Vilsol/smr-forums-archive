@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>MoarFactory 0.8.0 Bug</title>
+    <link>https://forums.ficsit.app/t/moarfactory-0-8-0-bug/99</link>
+    <description>MoarFactory 0.8.0
+
+The catwalks have an error, the straight connection can not fit with the other has something wrong.
+
+https://imgur.com/Yy3Kukn
+https://imgur.com/sqrr7SX
+https://imgur.com/sHYxMIQ
+https://imgur.com/undefined</description>
+    
+    <lastBuildDate>Mon, 02 Dec 2019 15:02:46 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forums.ficsit.app/t/moarfactory-0-8-0-bug/99.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>MoarFactory 0.8.0 Bug</title>
+        <dc:creator><![CDATA[@Alessandro_Picoli Alessandro Picoli]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/alessandro_picoli">@Alessandro_Picoli</a> wrote:</p>
+          <blockquote>
+              <p>MoarFactory 0.8.0</p>
+<p>The catwalks have an error, the straight connection can not fit with the other has something wrong.</p>
+<p>                        <a href="https://imgur.com/Yy3Kukn" target="_blank" class="onebox" rel="nofollow noopener">
+              <img src="https://forums.ficsit.app/uploads/default/original/1X/c00dc75b5dce21e4dfbeba77044c00b8b9187e56.jpeg" title="Imgur" alt="Imgur" height="315" width="600">
+            </a>
+
+<br>
+                        <a href="https://imgur.com/sqrr7SX" target="_blank" class="onebox" rel="nofollow noopener">
+              <img src="https://forums.ficsit.app/uploads/default/original/1X/66690aa6042019b6747142509217537ecad5e001.jpeg" title="Imgur" alt="Imgur" height="315" width="600">
+            </a>
+
+<br>
+                        <a href="https://imgur.com/sHYxMIQ" target="_blank" class="onebox" rel="nofollow noopener">
+              <img src="https://forums.ficsit.app/uploads/default/original/1X/d0cc81c44c6e6c033f8deb02263ed7eb239fcac8.jpeg" title="Imgur" alt="Imgur" height="315" width="600">
+            </a>
+
+<br>
+<a href="https://imgur.com/undefined" class="onebox" target="_blank" rel="nofollow noopener">https://imgur.com/undefined</a></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/moarfactory-0-8-0-bug/99/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/moarfactory-0-8-0-bug/99/1</link>
+        <pubDate>Mon, 02 Dec 2019 15:02:46 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-99-1</guid>
+        <source url="https://forums.ficsit.app/t/moarfactory-0-8-0-bug/99.rss">MoarFactory 0.8.0 Bug</source>
+      </item>
+  </channel>
+</rss>

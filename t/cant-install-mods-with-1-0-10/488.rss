@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Can&#39;t install mods with 1.0.10</title>
+    <link>https://forums.ficsit.app/t/cant-install-mods-with-1-0-10/488</link>
+    <description>Just updated to the new version (1.0.10) and tried installing the Permaday mod, which IS compatible with the EA version I&#39;m using, but when I click install I just get a spinner that spins and spins forever and the mod never gets installed.  I have to close SML to get my mouse cursor to stop strobing like a disco light between pointer and spinner modes, and once I reopen it the Permaday mod still shows as not being installed.</description>
+    
+    <lastBuildDate>Tue, 28 Apr 2020 21:10:33 +0000</lastBuildDate>
+    <category>SML</category>
+    <atom:link href="https://forums.ficsit.app/t/cant-install-mods-with-1-0-10/488.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Can&#39;t install mods with 1.0.10</title>
+        <dc:creator><![CDATA[@mircearoata Mircearoata]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/mircearoata">@mircearoata</a> wrote:</p>
+          <blockquote>
+              <p>It was an issue with one of the app’s dependencies. v1.0.11 fixes that</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/cant-install-mods-with-1-0-10/488/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/cant-install-mods-with-1-0-10/488/3</link>
+        <pubDate>Tue, 28 Apr 2020 21:10:33 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-488-3</guid>
+        <source url="https://forums.ficsit.app/t/cant-install-mods-with-1-0-10/488.rss">Can&#39;t install mods with 1.0.10</source>
+      </item>
+      <item>
+        <title>Can&#39;t install mods with 1.0.10</title>
+        <dc:creator><![CDATA[@isochronous Isochronous]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/isochronous">@isochronous</a> wrote:</p>
+          <blockquote>
+              <p>Yeah, I just waited for literally 10 minutes for it to install the permaday mod, and it’s still not working. Tried clearing the cache and it didn’t help.  When I look at the debug console, it’s just repeating these lines over and over and over again:</p>
+<pre><code>|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:865|[DEBUG]|Adding SatisfactoryGame@118201.0.0|
+|---|---|---|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:865|[DEBUG]|Added SatisfactoryGame@118201.0.0|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:865|[DEBUG]|Adding manifest_2AWp6zEkDQBsnu@0.0.0|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:865|[DEBUG]|Added manifest_2AWp6zEkDQBsnu@0.0.0|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:865|[DEBUG]|Adding manifest_8o2SDJomK6yiDv@0.0.0|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:865|[DEBUG]|Added manifest_8o2SDJomK6yiDv@0.0.0|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:866|[DEBUG]|Adding manifest_6vQ6ckVYFiidDh@0.0.0|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:866|[DEBUG]|Added manifest_6vQ6ckVYFiidDh@0.0.0|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:866|[DEBUG]|Adding manifest_7nJjznKg8KrXrK@0.0.0|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:866|[DEBUG]|Added manifest_7nJjznKg8KrXrK@0.0.0|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:866|[DEBUG]|Adding manifest_DGiLzB3ZErWu2V@0.0.0|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:866|[DEBUG]|Added manifest_DGiLzB3ZErWu2V@0.0.0|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:866|[DEBUG]|Adding manifest_6nKYZmGkoJmx9Z@0.0.0|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:866|[DEBUG]|Added manifest_6nKYZmGkoJmx9Z@0.0.0|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:866|[DEBUG]|Adding manifest_79pnoNBX91vpGK@0.0.0|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:866|[DEBUG]|Added manifest_79pnoNBX91vpGK@0.0.0|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:866|[DEBUG]|Adding manifest_EvreCbL2wrtpGG@0.0.0|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:867|[DEBUG]|Added manifest_EvreCbL2wrtpGG@0.0.0|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:867|[DEBUG]|Adding manifest_oapk7n37fGskj@0.0.0|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:867|[DEBUG]|Added manifest_oapk7n37fGskj@0.0.0|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:867|[DEBUG]|Adding manifest_2dZqY8fZ4tQ9kg@0.0.0|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:867|[DEBUG]|Added manifest_2dZqY8fZ4tQ9kg@0.0.0|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:867|[DEBUG]|Adding manifest_Cw4sNaCJ4oHqXE@0.0.0|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:867|[DEBUG]|Added manifest_Cw4sNaCJ4oHqXE@0.0.0|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:867|[DEBUG]|Adding manifest_Cw8ifbPxFTnhu8@0.0.0|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:867|[DEBUG]|Added manifest_Cw8ifbPxFTnhu8@0.0.0|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:867|[DEBUG]|Adding manifest_Czne9oqDvu9xVu@0.0.0|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:868|[DEBUG]|Added manifest_Czne9oqDvu9xVu@0.0.0|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:868|[DEBUG]|Adding manifest_AHRKqyodbBkGG1@0.0.0|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:868|[DEBUG]|Added manifest_AHRKqyodbBkGG1@0.0.0|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:868|[DEBUG]|Adding manifest_FDbifQ2WdwJaQB@0.0.0|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:868|[DEBUG]|Added manifest_FDbifQ2WdwJaQB@0.0.0|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:868|[DEBUG]|Adding manifest_21TjhG1mpxxfz2@0.0.0|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:868|[DEBUG]|Added manifest_21TjhG1mpxxfz2@0.0.0|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:868|[DEBUG]|Adding manifest_F1osm4KEz7KvDT@0.0.0|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:868|[DEBUG]|Added manifest_F1osm4KEz7KvDT@0.0.0|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:868|[DEBUG]|Adding manifest_XLuK6Ci158x4G@0.0.0|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:868|[DEBUG]|Added manifest_XLuK6Ci158x4G@0.0.0|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:869|[DEBUG]|Adding manifest_7JGM2j8b4FFbAk@0.0.0|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:869|[DEBUG]|Added manifest_7JGM2j8b4FFbAk@0.0.0|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:869|[DEBUG]|Validating SatisfactoryGame|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:869|[DEBUG]|Validating bootstrapper|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:870|[DEBUG]|Validating SML|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:876|[DEBUG]|Validating 2AWp6zEkDQBsnu|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:877|[DEBUG]|Validating 8o2SDJomK6yiDv|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:878|[DEBUG]|Validating 6vQ6ckVYFiidDh|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:879|[DEBUG]|Validating 7nJjznKg8KrXrK|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:880|[DEBUG]|Validating DGiLzB3ZErWu2V|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:881|[DEBUG]|Validating 6nKYZmGkoJmx9Z|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:882|[DEBUG]|Validating 79pnoNBX91vpGK|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:883|[DEBUG]|Validating EvreCbL2wrtpGG|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:884|[DEBUG]|Validating oapk7n37fGskj|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:885|[DEBUG]|Validating 2dZqY8fZ4tQ9kg|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:886|[DEBUG]|Validating Cw4sNaCJ4oHqXE|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:887|[DEBUG]|Validating Cw8ifbPxFTnhu8|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:888|[DEBUG]|Validating Czne9oqDvu9xVu|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:889|[DEBUG]|Validating AHRKqyodbBkGG1|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:890|[DEBUG]|Validating FDbifQ2WdwJaQB|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:891|[DEBUG]|Validating 21TjhG1mpxxfz2|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:894|[DEBUG]|Validating F1osm4KEz7KvDT|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:895|[DEBUG]|Validating XLuK6Ci158x4G|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:896|[DEBUG]|Validating 7JGM2j8b4FFbAk|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:898|[DEBUG]|7JGM2j8b4FFbAk@0.1.2 is not downloaded. Downloading now.|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:900|[DEBUG]|7JGM2j8b4FFbAk@0.1.1 is not downloaded. Downloading now.|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:902|[DEBUG]|7JGM2j8b4FFbAk@0.1.0 is not downloaded. Downloading now.|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:905|[DEBUG]|7JGM2j8b4FFbAk@0.0.3 is not downloaded. Downloading now.|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:907|[DEBUG]|7JGM2j8b4FFbAk@0.0.2 is not downloaded. Downloading now.|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:909|[DEBUG]|7JGM2j8b4FFbAk@0.0.1 is not downloaded. Downloading now.|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:87 2020-04-28 11:09:20:913|[INFO]|Trying to update mod 7JGM2j8b4FFbAk, the installed version was removed from ficsit.app|
+|C:\Users\thegr\AppData\Local\Programs\satisfactory-mod-launcher-gui\resources\app.asar\node_modules\satisfactory-mod-manager-api\lib\logging.js:77 2020-04-28 11:09:20:965|[DEBUG]|install: [7JGM2j8b4FFbAk], uninstall: [7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7JGM2j8b4FFbAk, 7|</code></pre>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/cant-install-mods-with-1-0-10/488/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/cant-install-mods-with-1-0-10/488/2</link>
+        <pubDate>Tue, 28 Apr 2020 15:11:21 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-488-2</guid>
+        <source url="https://forums.ficsit.app/t/cant-install-mods-with-1-0-10/488.rss">Can&#39;t install mods with 1.0.10</source>
+      </item>
+      <item>
+        <title>Can&#39;t install mods with 1.0.10</title>
+        <dc:creator><![CDATA[@isochronous Isochronous]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/isochronous">@isochronous</a> wrote:</p>
+          <blockquote>
+              <p>Just updated to the new version (1.0.10) and tried installing the Permaday mod, which IS compatible with the EA version I’m using, but when I click install I just get a spinner that spins and spins forever and the mod never gets installed.  I have to close SML to get my mouse cursor to stop strobing like a disco light between pointer and spinner modes, and once I reopen it the Permaday mod still shows as not being installed.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/cant-install-mods-with-1-0-10/488/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/cant-install-mods-with-1-0-10/488/1</link>
+        <pubDate>Tue, 28 Apr 2020 14:58:50 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-488-1</guid>
+        <source url="https://forums.ficsit.app/t/cant-install-mods-with-1-0-10/488.rss">Can&#39;t install mods with 1.0.10</source>
+      </item>
+  </channel>
+</rss>

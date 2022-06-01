@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Mod loader and Game version?</title>
+    <link>https://forums.ficsit.app/t/mod-loader-and-game-version/437</link>
+    <description>I gt an error below, i thought it was a mod at first, but after studying the message, i am thinking the error is from the mod loader expecting a different version of the game.  Suggestions?
+
+Error: Game version incompatible. Installed: 118201. bootstrapper requires &gt;=117050, SML requires &gt;=119805 All changes were discarded.</description>
+    
+    <lastBuildDate>Sat, 25 Apr 2020 11:32:59 +0000</lastBuildDate>
+    <category>SML</category>
+    <atom:link href="https://forums.ficsit.app/t/mod-loader-and-game-version/437.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Mod loader and Game version?</title>
+        <dc:creator><![CDATA[@mircearoata Mircearoata]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/mircearoata">@mircearoata</a> wrote:</p>
+          <blockquote>
+              <p>Switch to vanilla config and back to modded config so that it installs the correct SML version</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mod-loader-and-game-version/437/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mod-loader-and-game-version/437/6</link>
+        <pubDate>Sat, 25 Apr 2020 11:32:59 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-437-6</guid>
+        <source url="https://forums.ficsit.app/t/mod-loader-and-game-version/437.rss">Mod loader and Game version?</source>
+      </item>
+      <item>
+        <title>Mod loader and Game version?</title>
+        <dc:creator><![CDATA[@Jonathan_Dupuis Jonathan Dupuis]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jonathan_dupuis">@Jonathan_Dupuis</a> wrote:</p>
+          <blockquote>
+              <p>Same issue as my own post then:</p>
+<aside class="quote" data-post="2" data-topic="439">
+  <div class="title">
+    <div class="quote-controls"></div>
+    <img alt="" width="20" height="20" src="/letter_avatar_proxy/v4/letter/j/7993a0/40.png" class="avatar">
+    <a href="https://forums.ficsit.app/t/sml-preventing-me-from-starting-satisfactory-early-access-version/439/2">SML preventing me from starting Satisfactory Early Access version</a> <a class="badge-wrapper  bullet" href="/c/sml"><span class="badge-category-bg" style="background-color: #3AB54A;"></span><span style="" data-drop-close="true" class="badge-category clear-badge" title="Satisfactory Mod Loader related discussions.">SML</span></a>
+  </div>
+  <blockquote>
+    For reference, I also tried disabling SML and starting Satisfactory without SML to try and see if the game would update, but no.  Everything is still at release 118201. 
+Game loads fine without SML too.
+  </blockquote>
+</aside>
+
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mod-loader-and-game-version/437/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mod-loader-and-game-version/437/5</link>
+        <pubDate>Thu, 23 Apr 2020 13:25:55 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-437-5</guid>
+        <source url="https://forums.ficsit.app/t/mod-loader-and-game-version/437.rss">Mod loader and Game version?</source>
+      </item>
+      <item>
+        <title>Mod loader and Game version?</title>
+        <dc:creator><![CDATA[@CJ_Clarkson Cj Clarkson]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/cj_clarkson">@CJ_Clarkson</a> wrote:</p>
+          <blockquote>
+              <p><img src="https://forums.ficsit.app/uploads/default/original/1X/6a8600c06030617d589aedb365c61e1eb6cd276d.png" alt="error" data-base62-sha1="fclI8hEnARuuyB1vMDtzHpIPZxP" width="395" height="170"><br>
+I’ve got the same problem. I had this before, and I solved it by verifying the game via the epic games launcher. That doesn’t work for me now, though.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mod-loader-and-game-version/437/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mod-loader-and-game-version/437/4</link>
+        <pubDate>Wed, 22 Apr 2020 23:27:37 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-437-4</guid>
+        <source url="https://forums.ficsit.app/t/mod-loader-and-game-version/437.rss">Mod loader and Game version?</source>
+      </item>
+      <item>
+        <title>Mod loader and Game version?</title>
+        <dc:creator><![CDATA[@Robert_Walters Robert Walters]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/robert_walters">@Robert_Walters</a> wrote:</p>
+          <blockquote>
+              <p>but, up until yesterday, the SML worked on the early release version.  i appears to be broken for early release.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mod-loader-and-game-version/437/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mod-loader-and-game-version/437/3</link>
+        <pubDate>Wed, 22 Apr 2020 14:50:23 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-437-3</guid>
+        <source url="https://forums.ficsit.app/t/mod-loader-and-game-version/437.rss">Mod loader and Game version?</source>
+      </item>
+      <item>
+        <title>Mod loader and Game version?</title>
+        <dc:creator><![CDATA[@Jonathan_Dupuis Jonathan Dupuis]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jonathan_dupuis">@Jonathan_Dupuis</a> wrote:</p>
+          <blockquote>
+              <p>This happens when you try to update SML when the “Early Access” version of Satisfactory is selected in SML.</p>
+<p>I’ve had the same error pop up for me when I tried, but it works fine if you switch to the Experimental version.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mod-loader-and-game-version/437/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mod-loader-and-game-version/437/2</link>
+        <pubDate>Tue, 21 Apr 2020 22:16:15 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-437-2</guid>
+        <source url="https://forums.ficsit.app/t/mod-loader-and-game-version/437.rss">Mod loader and Game version?</source>
+      </item>
+      <item>
+        <title>Mod loader and Game version?</title>
+        <dc:creator><![CDATA[@Robert_Walters Robert Walters]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/robert_walters">@Robert_Walters</a> wrote:</p>
+          <blockquote>
+              <p>I gt an error below, i thought it was a mod at first, but after studying the message, i am thinking the error is from the mod loader expecting a different version of the game.  Suggestions?</p>
+<p>Error: Game version incompatible. Installed: 118201. bootstrapper requires &gt;=117050, SML requires &gt;=119805 All changes were discarded.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mod-loader-and-game-version/437/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mod-loader-and-game-version/437/1</link>
+        <pubDate>Tue, 21 Apr 2020 20:40:30 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-437-1</guid>
+        <source url="https://forums.ficsit.app/t/mod-loader-and-game-version/437.rss">Mod loader and Game version?</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Slow Download of Mod Manager</title>
+    <link>https://forums.ficsit.app/t/slow-download-of-mod-manager/1004</link>
+    <description>*(I don&#39;t know if this is the correct category to say this but I&#39;m gonna put it here. It&#39;s also my first time in this forum so cut me some slack.)*
+
+I&#39;ve tried everything but it still downloads super slow, any fix? It looks like it only happens in the Mod Manager that I&#39;m downloading. The download time goes from minutes to hours to the point that it errors. Is it my internet connection or the download itself?</description>
+    
+    <lastBuildDate>Thu, 28 Jan 2021 18:03:41 +0000</lastBuildDate>
+    <category>SML</category>
+    <atom:link href="https://forums.ficsit.app/t/slow-download-of-mod-manager/1004.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Slow Download of Mod Manager</title>
+        <dc:creator><![CDATA[@Robb Rob B]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/robb">@Robb</a> wrote:</p>
+          <blockquote>
+              <p>The download is hosted by Github, and whatever the issue is appears to be on their end. Some people have had better success downloading it over a VPN connection or over cellular data instead of their usual connection.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/slow-download-of-mod-manager/1004/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/slow-download-of-mod-manager/1004/4</link>
+        <pubDate>Thu, 28 Jan 2021 18:03:41 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1004-4</guid>
+        <source url="https://forums.ficsit.app/t/slow-download-of-mod-manager/1004.rss">Slow Download of Mod Manager</source>
+      </item>
+      <item>
+        <title>Slow Download of Mod Manager</title>
+        <dc:creator><![CDATA[@Master_Roshi Master Roshi]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/master_roshi">@Master_Roshi</a> wrote:</p>
+          <blockquote>
+              <p>Super SLOW… its now at 1,1KB/s lol</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/slow-download-of-mod-manager/1004/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/slow-download-of-mod-manager/1004/3</link>
+        <pubDate>Fri, 25 Dec 2020 19:52:58 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1004-3</guid>
+        <source url="https://forums.ficsit.app/t/slow-download-of-mod-manager/1004.rss">Slow Download of Mod Manager</source>
+      </item>
+      <item>
+        <title>Slow Download of Mod Manager</title>
+        <dc:creator><![CDATA[@Jonas_Gutermuth Jonas Gutermuth]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jonas_gutermuth">@Jonas_Gutermuth</a> wrote:</p>
+          <blockquote>
+              <p>I have the same proplem in Germany. I don`t what the problem is.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/slow-download-of-mod-manager/1004/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/slow-download-of-mod-manager/1004/2</link>
+        <pubDate>Thu, 24 Dec 2020 14:54:42 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1004-2</guid>
+        <source url="https://forums.ficsit.app/t/slow-download-of-mod-manager/1004.rss">Slow Download of Mod Manager</source>
+      </item>
+      <item>
+        <title>Slow Download of Mod Manager</title>
+        <dc:creator><![CDATA[@Omni_Yeet Omni Yeet]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/omni_yeet">@Omni_Yeet</a> wrote:</p>
+          <blockquote>
+              <p><em>(I don’t know if this is the correct category to say this but I’m gonna put it here. It’s also my first time in this forum so cut me some slack.)</em></p>
+<p>I’ve tried everything but it still downloads super slow, any fix? It looks like it only happens in the Mod Manager that I’m downloading. The download time goes from minutes to hours to the point that it errors. Is it my internet connection or the download itself?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/slow-download-of-mod-manager/1004/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/slow-download-of-mod-manager/1004/1</link>
+        <pubDate>Wed, 25 Nov 2020 04:27:23 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1004-1</guid>
+        <source url="https://forums.ficsit.app/t/slow-download-of-mod-manager/1004.rss">Slow Download of Mod Manager</source>
+      </item>
+  </channel>
+</rss>

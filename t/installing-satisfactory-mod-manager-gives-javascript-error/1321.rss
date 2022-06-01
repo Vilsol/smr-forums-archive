@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Installing Satisfactory Mod Manager gives Javascript error</title>
+    <link>https://forums.ficsit.app/t/installing-satisfactory-mod-manager-gives-javascript-error/1321</link>
+    <description>Hi there. I have recently started playing Satisfactory and I was trying to install the Satisfactory Mod Manager off the home page of ficsit.app and ran into a little problem... This is the very first time that I am trying to install mods and or mod managers onto Satisfactory and after an hour or so of googling and youtube-ing I still haven&#39;t found any forum or video related to my issue.
+
+This is the error that I get, without the Mod Manager actually opening. I just installed it (for the 5 billionth time) again and this is what I get when I click finish when the &#39;launch Satisfactory Mod Manager&#39; checkbox is checked:
+![Schermafbeelding%202021-06-03%20182452|558x354](upload://zYIk1WuXWrvyoeFMvUPmVg2UkKz.png) 
+
+I hope someone can help...
+
+These were the steps I took after downloading the latest Mod Manager from the homepage link:
+
+* List item Opened Mod Manager &#39;.exe&#39; file as admin
+* List item Selected &#39;anyone who uses this computer&#39; option
+* List item Left folder as it was (same disk as Steam directory for Satisfactory)
+* List item Hit &#39;Install&#39;
+* List item Hit &#39;Finish&#39; with checkbox &#39;Run Satisfactory Mod Manager&#39; checked
+
+After this the error shows up, same for any version of the manager I try to install.</description>
+    
+    <lastBuildDate>Thu, 03 Jun 2021 16:29:15 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forums.ficsit.app/t/installing-satisfactory-mod-manager-gives-javascript-error/1321.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Installing Satisfactory Mod Manager gives Javascript error</title>
+        <dc:creator><![CDATA[@Tommy_Tytgat Tommy]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/tommy_tytgat">@Tommy_Tytgat</a> wrote:</p>
+          <blockquote>
+              <p>Hi there. I have recently started playing Satisfactory and I was trying to install the Satisfactory Mod Manager off the home page of ficsit.app and ran into a little problem… This is the very first time that I am trying to install mods and or mod managers onto Satisfactory and after an hour or so of googling and youtube-ing I still haven’t found any forum or video related to my issue.</p>
+<p>This is the error that I get, without the Mod Manager actually opening. I just installed it (for the 5 billionth time) again and this is what I get when I click finish when the ‘launch Satisfactory Mod Manager’ checkbox is checked:<br>
+<img src="https://forums.ficsit.app/uploads/default/original/1X/fc2912ee6b7955fd47b859cbf8a459970aa88e37.png" alt="Schermafbeelding%202021-06-03%20182452" data-base62-sha1="zYIk1WuXWrvyoeFMvUPmVg2UkKz" width="558" height="354"></p>
+<p>I hope someone can help…</p>
+<p>These were the steps I took after downloading the latest Mod Manager from the homepage link:</p>
+<ul>
+<li>List item Opened Mod Manager ‘.exe’ file as admin</li>
+<li>List item Selected ‘anyone who uses this computer’ option</li>
+<li>List item Left folder as it was (same disk as Steam directory for Satisfactory)</li>
+<li>List item Hit ‘Install’</li>
+<li>List item Hit ‘Finish’ with checkbox ‘Run Satisfactory Mod Manager’ checked</li>
+</ul>
+<p>After this the error shows up, same for any version of the manager I try to install.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/installing-satisfactory-mod-manager-gives-javascript-error/1321/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/installing-satisfactory-mod-manager-gives-javascript-error/1321/1</link>
+        <pubDate>Thu, 03 Jun 2021 16:29:15 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1321-1</guid>
+        <source url="https://forums.ficsit.app/t/installing-satisfactory-mod-manager-gives-javascript-error/1321.rss">Installing Satisfactory Mod Manager gives Javascript error</source>
+      </item>
+  </channel>
+</rss>

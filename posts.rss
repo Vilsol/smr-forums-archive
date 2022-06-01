@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:discourse="http://www.discourse.org/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>SMR Forums - Latest posts</title>
+    <link>https://forums.ficsit.app</link>
+    <description>Latest posts</description>
+      <item>
+        <title>Lower coal consumption, if power consumption is not 100%</title>
+        <dc:creator><![CDATA[@yuyaryshev Yuyaryshev]]></dc:creator>
+        <description><![CDATA[ <p>The Biomass Burner has “the resource consumption is automatically lowered”.<br>
+I was wondering:</p>
+<ul>
+<li>Is there any mod that enables you to build a setup that simulates this behavior?<br>
+Say a belt splitter that stops if the accumulator charge is above 90% and starts if it’s below 105?</li>
+</ul>
+<p>Or</p>
+<ul>
+<li>Is there a mod that has generators with this property? (“the resource consumption is automatically lowered”)</li>
+</ul> ]]></description>
+        <link>https://forums.ficsit.app/t/lower-coal-consumption-if-power-consumption-is-not-100/1542/1</link>
+        <pubDate>Mon, 17 Jan 2022 13:53:34 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-3883</guid>
+      </item>
+      <item>
+        <title>Global Grid Placment</title>
+        <dc:creator><![CDATA[@Leon_Wilk Leon Wilk]]></dc:creator>
+        <description><![CDATA[ <p>Warning about the stock Global Grid: While horizontal alignment is flawless, foundations snap to global grid vertically with their center, not surface. That means if you have one build aligned to a 2m or 4m foundation, and another to 1m foundation, they will be off by half a meter relative to each other vertically and when the two meet you’ll be dealing with a nasty step, exactly half a notch between ‘ground level’ conveyors and ‘single stackable pole’ height.</p>
+<p>Always start a new build from a global grid aligned even-height foundation (2 or 4m), you can then proceed with 1m snapping it to the top or bottom of the ‘original’ (and can even delete the original) and you’ll maintain the global grid’s height.</p>
+<p>If you dun goofed and built too much at the mismatching heights, you can use conveyor lift floor holes to generate lifts that connect the uneven heights without generating sloped conveyors - start one lift at conveyor of one grid underneath, the other at conveyor of the other above and link them up to the same conveyor hole.</p> ]]></description>
+        <link>https://forums.ficsit.app/t/global-grid-placment/1134/4</link>
+        <pubDate>Mon, 17 Jan 2022 12:16:26 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-3881</guid>
+      </item>
+      <item>
+        <title>Global Grid Placment</title>
+        <dc:creator><![CDATA[@Mika_Noren Mika Norén]]></dc:creator>
+        <description><![CDATA[ <p>For the records, and for those searching and finding this thread.<br>
+There is now a global grid in the game as of the latest update. Hold “ctrl” while placing the first foundation and it will snap to the global grid.<br>
+Then build off from that.</p>
+<p>Mods might however disrupt this feature, so if you can’t get the foundation to snap to the global grid, check your mods. Try disabling the offending ones and try again.</p>
+<p>See:<br>
+</p><div class="lazyYT" data-youtube-id="cn3e-m4a-hU" data-youtube-title="NEW Features we've added to Update 5 since release" data-width="480" data-height="270" data-parameters="feature=oembed&amp;wmode=opaque"></div><br>
+And:<br>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src="https://forums.ficsit.app/uploads/default/original/1X/a70ab5d077374748901898cfcd9c7a09b8a303a9.png" class="site-icon" width="192" height="192">
+      <a href="https://www.reddit.com/r/SatisfactoryGame/comments/qr0msq/patch_notes_early_access_experimental_v0508_build/" target="_blank" rel="nofollow noopener">reddit</a>
+  </header>
+  <article class="onebox-body">
+    <img src="" class="thumbnail">
+
+<h3><a href="https://www.reddit.com/r/SatisfactoryGame/comments/qr0msq/patch_notes_early_access_experimental_v0508_build/" target="_blank" rel="nofollow noopener">r/SatisfactoryGame - Patch Notes: Early Access (EXPERIMENTAL) - v0.5.0.8 –...</a></h3>
+
+<p>653 votes et 247 commentaires sur Reddit jusque là</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+ ]]></description>
+        <link>https://forums.ficsit.app/t/global-grid-placment/1134/3</link>
+        <pubDate>Mon, 17 Jan 2022 00:56:52 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-3879</guid>
+      </item>
+      <item>
+        <title>[Suggestion] Power grid overload</title>
+        <dc:creator><![CDATA[@Mika_Noren Mika Norén]]></dc:creator>
+        <description><![CDATA[ <p>Scenario:<br>
+Lights start to flicker. Machines slow down. Something is going on, but what?<br>
+Oh?.. .wait… what’s smoking over there? is one of the generators over at the coal power plant on fire?<br>
+Oh dear, I shouldn’t have overloaded the power grid. I knew loading the power grid to 105% was a bad idea. With one of the generators out the factory is now overloading the grid to 130% instead, and the other generators will take too much damage and catch fire too. I better turn machines off and save what’s left of the power plant!</p>
+<p>Yea that’s the idea I have for a mod: Grid overload.<br>
+Instead of tripping the fuse when hitting 100.000001% power consumption, I’d imagine things to slow down and flicker. The more one overloads the grid, the slower things run.</p>
+<p>Say that one overloads the grid to 113%, the machine will only run at 87% of their set speed.  Machines efficiency on overloaded grid:  Machine_speed% - (Current_grid_load% - Max_grid_Load%)</p>
+<p>If a connected generator is damaged (due to overheating as a result of being overloaded) it drops power output lowering the grid efficiency. (Reducing Max_grid_load%)<br>
+Let’s say the generators won’t start to reduce their output until 25% damaged or more. After that, the output reduces as it gets more damaged until it reaches a critical failure point where it will be irreparable. The whole unit has to be replaced instead of repaired.</p>
+<p>Example on a machine at 100% speed: 100-(113-100) = 87% speed.<br>
+Example on a machine at 66% speed (underclocked) 66-(113-100) = 53% speed.<br>
+Example on a machine at 100% speed with only 80% grid efficiency: 100-(113-80) = 67% speed.<br>
+If the result is zero or less, the machine grinds to a halt.<br>
+If the grid load is less than Max_grid_load%, nothing applies. (Normal status)</p>
+<p>As one can see, overloading will have cascading effects. How long one can run overloaded depends on how much punishment generations can take. Maybe it is worth to overload 125% for a short while just to get that few extra steel pipes out a wee bit faster. One can repair the generators later on.</p>
+<p>What purpose would such a mod have? Benefits with added risks. Instead of suddenly tripping a fuse, things will still run, but at a cost.</p>
+<p>Those who played Factorio (another factory building game, but 2D) kinda recognise this behaviour. There the power grid overload causes everything to slow down. Although with no damaging results.</p>
+<p>Would this be doable as a mod?</p> ]]></description>
+        <link>https://forums.ficsit.app/t/suggestion-power-grid-overload/1539/1</link>
+        <pubDate>Sat, 15 Jan 2022 19:14:53 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-3878</guid>
+      </item>
+      <item>
+        <title>REQUEST: Resource Node Foundation Snapping</title>
+        <dc:creator><![CDATA[@Jeffery_J_Sease Jeffery J Sease]]></dc:creator>
+        <description><![CDATA[ <p>Hello:</p>
+<p>Is it possible to develop a mod that would allow foundations to snap to resource nodes?<br>
+If so, is anyone willing to develop this mod?</p>
+<p>Unfortunately, I have a bit of OCD and like to keep things neat.</p> ]]></description>
+        <link>https://forums.ficsit.app/t/request-resource-node-foundation-snapping/1537/1</link>
+        <pubDate>Thu, 13 Jan 2022 16:06:12 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-3876</guid>
+      </item>
+      <item>
+        <title>Searching Alerting Mod</title>
+        <dc:creator><![CDATA[@Michael_Bulla Michael Bulla]]></dc:creator>
+        <description><![CDATA[ <p>The more my factory grows the harder it is to keep track if everything is working as expected. In order to get informed in time when things start to go down, I’d love to have some alerting available: My simple idea is to add a watcher to a belt which counts the number of items passing by. When the amount of a given item per minute falls below a given threshold, an alert is displayed to me in GUI or in some kind of dashboard.</p>
+<p>I’ve searched existing mods for this functionality, but didn’t find anything. Do you know any mod doing something similar?</p> ]]></description>
+        <link>https://forums.ficsit.app/t/searching-alerting-mod/1535/1</link>
+        <pubDate>Fri, 07 Jan 2022 15:36:22 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-3874</guid>
+      </item>
+      <item>
+        <title>Refined Power M.A.M</title>
+        <dc:creator><![CDATA[@Balefino_PT Balefino Pt]]></dc:creator>
+        <description><![CDATA[ <p>OK thanks for the information, mantain the good work…</p> ]]></description>
+        <link>https://forums.ficsit.app/t/refined-power-m-a-m/1531/3</link>
+        <pubDate>Thu, 06 Jan 2022 00:03:16 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-3872</guid>
+      </item>
+      <item>
+        <title>REQUEST: Storage Inventory Filter</title>
+        <dc:creator><![CDATA[@m-dyke M Dyke]]></dc:creator>
+        <description><![CDATA[ <p>So, you want to have a single container containing up to four different resources which will feed a mixed belt into a single machine (ignoring the other ports on the machine). This container will be fed by a mixed belt or (up to) four single belts from where the resource(s) is/are made/mined.</p>
+<p>Correct?</p> ]]></description>
+        <link>https://forums.ficsit.app/t/request-storage-inventory-filter/1518/4</link>
+        <pubDate>Wed, 05 Jan 2022 11:26:41 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-3871</guid>
+      </item>
+      <item>
+        <title>Refined Power M.A.M</title>
+        <dc:creator><![CDATA[@I_m_a_chicken29 Im A Chicken29]]></dc:creator>
+        <description><![CDATA[ <p>it’s WIP stuff. it has no use currently</p> ]]></description>
+        <link>https://forums.ficsit.app/t/refined-power-m-a-m/1531/2</link>
+        <pubDate>Mon, 03 Jan 2022 13:03:28 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-3869</guid>
+      </item>
+      <item>
+        <title>Refined Power M.A.M</title>
+        <dc:creator><![CDATA[@Balefino_PT Balefino Pt]]></dc:creator>
+        <description><![CDATA[ <p>What i need to begin to research the Refined Power tree in the MAM inventory? Or are in development?</p> ]]></description>
+        <link>https://forums.ficsit.app/t/refined-power-m-a-m/1531/1</link>
+        <pubDate>Sun, 02 Jan 2022 23:45:52 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-3866</guid>
+      </item>
+      <item>
+        <title>AHud example anywhere?</title>
+        <dc:creator><![CDATA[@kfpopeye Kfpopeye]]></dc:creator>
+        <description><![CDATA[ <p>Is it possible to add a hud to your mod? I want to access the UCanvas class to do some line drawing and I can only seem to do that through a AHud class. I see Satisfactory has a hud for the object scanner but I can’t see the code they use to add this to the screen. I have found examples online but they involve setting the hud in the game mode and I don’t think I have access to that.</p> ]]></description>
+        <link>https://forums.ficsit.app/t/ahud-example-anywhere/1529/1</link>
+        <pubDate>Sat, 01 Jan 2022 22:10:49 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-3864</guid>
+      </item>
+      <item>
+        <title>SMART Mod doesn&#39;t work with truck stations</title>
+        <dc:creator><![CDATA[@Christopher_R Christopher R]]></dc:creator>
+        <description><![CDATA[ <p>Was attempting to lay out a row of stations and it wasn’t responsive to the smart mod key commands.  I changed to building smelters just to verify if the mod was working right, and that worked correctly, but stations not so much.</p> ]]></description>
+        <link>https://forums.ficsit.app/t/smart-mod-doesnt-work-with-truck-stations/1525/1</link>
+        <pubDate>Wed, 29 Dec 2021 22:00:16 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-3844</guid>
+      </item>
+      <item>
+        <title>REQUEST: Storage Inventory Filter</title>
+        <dc:creator><![CDATA[@Nicolas_Lawson Nicolas Lawson]]></dc:creator>
+        <description><![CDATA[ <p>This will have one container per item, which isn’t exactly what I’m looking for.</p>
+<p>I would like a single container with one of each inside it.</p> ]]></description>
+        <link>https://forums.ficsit.app/t/request-storage-inventory-filter/1518/3</link>
+        <pubDate>Wed, 29 Dec 2021 13:09:08 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-3842</guid>
+      </item>
+  </channel>
+</rss>

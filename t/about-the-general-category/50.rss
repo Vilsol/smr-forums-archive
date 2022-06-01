@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>About the General category</title>
+    <link>https://forums.ficsit.app/t/about-the-general-category/50</link>
+    <description>Any discussion related to Satisfactory that doesn&#39;t fit anywhere else.</description>
+    
+    <lastBuildDate>Wed, 13 Nov 2019 14:09:26 +0000</lastBuildDate>
+    <category>General</category>
+    <atom:link href="https://forums.ficsit.app/t/about-the-general-category/50.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>About the General category</title>
+        <dc:creator><![CDATA[@Vilsol]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/vilsol">@Vilsol</a> wrote:</p>
+          <blockquote>
+              
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/about-the-general-category/50/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/about-the-general-category/50/2</link>
+        <pubDate>Sat, 14 Dec 2019 00:25:52 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-50-2</guid>
+        <source url="https://forums.ficsit.app/t/about-the-general-category/50.rss">About the General category</source>
+      </item>
+      <item>
+        <title>About the General category</title>
+        <dc:creator><![CDATA[@Vilsol]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/vilsol">@Vilsol</a> wrote:</p>
+          <blockquote>
+              <p>Any discussion related to Satisfactory that doesn’t fit anywhere else.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/about-the-general-category/50/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/about-the-general-category/50/1</link>
+        <pubDate>Tue, 12 Nov 2019 19:39:49 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-50-1</guid>
+        <source url="https://forums.ficsit.app/t/about-the-general-category/50.rss">About the General category</source>
+      </item>
+  </channel>
+</rss>

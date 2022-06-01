@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Passive Mode 0.2.2 does not work properly in Experimental</title>
+    <link>https://forums.ficsit.app/t/passive-mode-0-2-2-does-not-work-properly-in-experimental/446</link>
+    <description>The poison gas still gone but most of the critters such as the spitters and hogs came back. The flower plant things are back as well.
+I will not be able to play the game in experimental or with Early Access (when it&#39;s build number increases) until this is fixed. For now I am stuck on EA build 118201. 
+
+Without Passive Mode I will not be able to play the game any more. :worried:</description>
+    
+    <lastBuildDate>Fri, 08 May 2020 15:37:05 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forums.ficsit.app/t/passive-mode-0-2-2-does-not-work-properly-in-experimental/446.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Passive Mode 0.2.2 does not work properly in Experimental</title>
+        <dc:creator><![CDATA[@isochronous Isochronous]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/isochronous">@isochronous</a> wrote:</p>
+          <blockquote>
+              <p>Well, I’ve gotten confirmation that the current passive mod works the way I thought it did.</p>
+<p>When you look at the “blueprint” for actors in UE, there’s an “initial life span” field that’s set to “unlimited” by default, but you can change it to something like 0.01s, and once that life span is up, the actor is destroyed.  I figure I can just do that for the various enemy types, then for gas pillars I can replace the mesh with an empty mesh, and replace their blueprint with an empty blueprint, so they become literal non-entities <img src="https://forums.ficsit.app/images/emoji/twitter/smiley.png?v=9" title=":smiley:" class="emoji" alt=":smiley:"></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/passive-mode-0-2-2-does-not-work-properly-in-experimental/446/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/passive-mode-0-2-2-does-not-work-properly-in-experimental/446/8</link>
+        <pubDate>Fri, 08 May 2020 15:37:05 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-446-8</guid>
+        <source url="https://forums.ficsit.app/t/passive-mode-0-2-2-does-not-work-properly-in-experimental/446.rss">Passive Mode 0.2.2 does not work properly in Experimental</source>
+      </item>
+      <item>
+        <title>Passive Mode 0.2.2 does not work properly in Experimental</title>
+        <dc:creator><![CDATA[@JamieRCHI Jamie]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jamierchi">@JamieRCHI</a> wrote:</p>
+          <blockquote>
+              <p>Thanks.<br>
+I’ve played with Unity but was planning to learn Unreal. So far I got everything setup with an example mod and everything compiles without errors. Other than that I haven’t done anything yet. I was planning on doing the general Unreal tutorials first before trying anything with this game.</p>
+<p>I have several years experience with C and C++. And machine code and Verilog (HDL). Most of my programming experience is with the smaller processors such as the microchip pic chips, 6502, 6809 and the early intel processors. So I am more of a hardware than software guy.</p>
+<p>So I thought I would eventually tackle something simple with the Satisfactory game such as making a foundation piece that can be colored with the color gun. Andre has done a lot of mods like this but I want to start out with something simple for myself. (For my amusement and amazement.)</p>
+<p>In the meantime I have gone back to playing the Early Access version and exploring the map further.</p>
+<p>Thanks for your responses.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/passive-mode-0-2-2-does-not-work-properly-in-experimental/446/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/passive-mode-0-2-2-does-not-work-properly-in-experimental/446/7</link>
+        <pubDate>Thu, 07 May 2020 21:51:31 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-446-7</guid>
+        <source url="https://forums.ficsit.app/t/passive-mode-0-2-2-does-not-work-properly-in-experimental/446.rss">Passive Mode 0.2.2 does not work properly in Experimental</source>
+      </item>
+      <item>
+        <title>Passive Mode 0.2.2 does not work properly in Experimental</title>
+        <dc:creator><![CDATA[@isochronous Isochronous]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/isochronous">@isochronous</a> wrote:</p>
+          <blockquote>
+              <ol>
+<li>
+<p>That’s fine, man! I was just curious, wasn’t aware it was a sensitive topic.</p>
+</li>
+<li>
+<p>The reason I thought the existing passive mod worked that way was because, when flying at “fast” speed with PAK Utility Mod, I frequently see creatures pop into existence for a few frames and then vanish.  It also seemed like that would be the easiest change to make when I looked at the gas pillar “blueprint” in the Unreal Editor.  I have no idea how I’d go about telling it to change the spawn location for every hostile creature/feature like you’re talking about… but I’ve only spent like an hour messing with this so far, so chances are high it’s just ignorance on my part.</p>
+</li>
+<li>
+<p>AFAIK, it depends on what kind of mod you’re making.  SML basically provides a way to hook into the running game and execute code at certain times/conditions.  If your mod is simple and doesn’t include any custom code (basically a Pak mod rather than a C++ mod, though I’m sure there are exceptions), then once SML updates to get all of its hooks working properly, that should be all that’s required.  Anything more complex than that will need its own update, though.  Again, this is just what my understanding of things is.  I may be a software developer, but I’ve done mostly web application development for the past decade, so my desktop/C++ skills and knowledge are pretty rusty.</p>
+</li>
+<li>
+<p>Yeah, I’ve even tried asking the dev on the modding Discord, and have simply gotten no answer from him, despite his being active on there.  It’s really frustrating that he didn’t open source the original mod, because I’d LOVE to see what his approach was before I try to basically duplicate his efforts.</p>
+</li>
+</ol>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/passive-mode-0-2-2-does-not-work-properly-in-experimental/446/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/passive-mode-0-2-2-does-not-work-properly-in-experimental/446/6</link>
+        <pubDate>Thu, 07 May 2020 17:48:05 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-446-6</guid>
+        <source url="https://forums.ficsit.app/t/passive-mode-0-2-2-does-not-work-properly-in-experimental/446.rss">Passive Mode 0.2.2 does not work properly in Experimental</source>
+      </item>
+      <item>
+        <title>Passive Mode 0.2.2 does not work properly in Experimental</title>
+        <dc:creator><![CDATA[@JamieRCHI Jamie]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jamierchi">@JamieRCHI</a> wrote:</p>
+          <blockquote>
+              <p>1.) Some of us are handicapped (Differently Enabled) in one way or another and are not able to deal with some things. With all due respect, the specific reason why is none of your business. Sorry to be blunt, but that is the way it is. Here is a post that talks about this in more detail. <a href="https://questions.satisfactorygame.com/post/5e4842bba88e031cdf963ade" rel="nofollow noopener">https://questions.satisfactorygame.com/post/5e4842bba88e031cdf963ade</a></p>
+<p>2.) From my understanding the Passive Mode mod just moves the offending items (or their spawning points) down around 50,000 meters. So the things are moved and not deleted.  If you are able to figure something out and create a new mod that does this with experimental then many of us would be extremely grateful. We do appreciate your time in looking into this matter.</p>
+<p>3.) Basically, most mods (if not all) need to be recompiled to account for changes when the developers change things in the game. SML also needs to be recompiled to account for this. This is basically what needs to be done with mods currently in Unreal and most likely for Unity and other gaming engines/platforms with other games.</p>
+<p>4.) FYI: It appears to me (due to a lack of response from the mod author) that the Passive Mode mod has been abandoned and as far as I know, the code for this is not publicly available.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/passive-mode-0-2-2-does-not-work-properly-in-experimental/446/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/passive-mode-0-2-2-does-not-work-properly-in-experimental/446/5</link>
+        <pubDate>Thu, 07 May 2020 01:57:57 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-446-5</guid>
+        <source url="https://forums.ficsit.app/t/passive-mode-0-2-2-does-not-work-properly-in-experimental/446.rss">Passive Mode 0.2.2 does not work properly in Experimental</source>
+      </item>
+      <item>
+        <title>Passive Mode 0.2.2 does not work properly in Experimental</title>
+        <dc:creator><![CDATA[@isochronous Isochronous]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/isochronous">@isochronous</a> wrote:</p>
+          <blockquote>
+              <p>I mean, I don’t disagree with you, I was just wondering why he absolutely couldn’t play without it.</p>
+<p>FWIW I’ve actually started looking into how to do this myself, but there’s not a lot of info on how to remove vanilla stuff from the map. At first glance it looks like the easiest approach is simply to set all creatures/gas pillars to die immediately after they’re created (which kind of seemed like how the current passive mod works), but I don’t actually know how successful that will be, or why the current mod stopped working if it also used that approach.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/passive-mode-0-2-2-does-not-work-properly-in-experimental/446/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/passive-mode-0-2-2-does-not-work-properly-in-experimental/446/4</link>
+        <pubDate>Wed, 06 May 2020 23:48:59 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-446-4</guid>
+        <source url="https://forums.ficsit.app/t/passive-mode-0-2-2-does-not-work-properly-in-experimental/446.rss">Passive Mode 0.2.2 does not work properly in Experimental</source>
+      </item>
+      <item>
+        <title>Passive Mode 0.2.2 does not work properly in Experimental</title>
+        <dc:creator><![CDATA[@Senseidragon Senseidragon]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/senseidragon">@Senseidragon</a> wrote:</p>
+          <blockquote>
+              <p>This mod does still need to get looked at.  While it is true that there are ways to enter ‘god’ mode via other mods, they don’t actually remove the gasses, standing plants, or hostiles that will continue to try and attack you until they are dealt with.  For some, since it is clearly possible when this was originally released, it would be <em>nicer</em> if this mod were updated to actually catch all of the current hostiles and standing plants still in the game.</p>
+<p>I don’t <em>need</em> passive mode, but I would <em>like</em> the option of passive mode.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/passive-mode-0-2-2-does-not-work-properly-in-experimental/446/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/passive-mode-0-2-2-does-not-work-properly-in-experimental/446/3</link>
+        <pubDate>Wed, 06 May 2020 11:00:48 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-446-3</guid>
+        <source url="https://forums.ficsit.app/t/passive-mode-0-2-2-does-not-work-properly-in-experimental/446.rss">Passive Mode 0.2.2 does not work properly in Experimental</source>
+      </item>
+      <item>
+        <title>Passive Mode 0.2.2 does not work properly in Experimental</title>
+        <dc:creator><![CDATA[@isochronous Isochronous]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/isochronous">@isochronous</a> wrote:</p>
+          <blockquote>
+              <p>Why can’t you play without passive mode?  There are other solutions that would work, like using Pak Utility Mod and turning on God mode.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/passive-mode-0-2-2-does-not-work-properly-in-experimental/446/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/passive-mode-0-2-2-does-not-work-properly-in-experimental/446/2</link>
+        <pubDate>Sun, 26 Apr 2020 19:36:16 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-446-2</guid>
+        <source url="https://forums.ficsit.app/t/passive-mode-0-2-2-does-not-work-properly-in-experimental/446.rss">Passive Mode 0.2.2 does not work properly in Experimental</source>
+      </item>
+      <item>
+        <title>Passive Mode 0.2.2 does not work properly in Experimental</title>
+        <dc:creator><![CDATA[@JamieRCHI Jamie]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jamierchi">@JamieRCHI</a> wrote:</p>
+          <blockquote>
+              <p>The poison gas still gone but most of the critters such as the spitters and hogs came back. The flower plant things are back as well.<br>
+I will not be able to play the game in experimental or with Early Access (when it’s build number increases) until this is fixed. For now I am stuck on EA build 118201.</p>
+<p>Without Passive Mode I will not be able to play the game any more. <img src="https://forums.ficsit.app/images/emoji/twitter/worried.png?v=9" title=":worried:" class="emoji" alt=":worried:"></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/passive-mode-0-2-2-does-not-work-properly-in-experimental/446/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/passive-mode-0-2-2-does-not-work-properly-in-experimental/446/1</link>
+        <pubDate>Thu, 23 Apr 2020 21:33:25 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-446-1</guid>
+        <source url="https://forums.ficsit.app/t/passive-mode-0-2-2-does-not-work-properly-in-experimental/446.rss">Passive Mode 0.2.2 does not work properly in Experimental</source>
+      </item>
+  </channel>
+</rss>

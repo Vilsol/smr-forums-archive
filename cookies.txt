@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+forums.ficsit.app	TRUE	/	FALSE	1999999999	_forum_session	TE42QWlRVytXTDdSSHB3blBPbWZFSjBpbGV0RW1nVGk0aHYvYUhyTXc0YnllQ1gvaVRobmRWcWl0ckhpMGh4bmZiQ0VlSUF6MWc2WlZMTklJL250MGc9PS0tdEJJMHNZK3dTVmlpYzJtS0t2bVJRZz09--c4330155551bf57111920ebd20ea16fbae9171e2
+forums.ficsit.app	TRUE	/	FALSE	1999999999	SameSite	Lax
+

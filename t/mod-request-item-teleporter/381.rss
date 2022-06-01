@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Mod request: item teleporter</title>
+    <link>https://forums.ficsit.app/t/mod-request-item-teleporter/381</link>
+    <description>I had an idea for a mod that would add two buildings to the game.
+
+Dematerialiser - Has 1 item input
+Materialiser - has 1 item output
+
+There would be a configurable interface for each building, in this interface you can name the object and also select a source/destination. Eg;
+Iron dematerialiser teleports to Iron materialiser.
+
+These buildings and the research should be expensive for balance purposes, there should be a maximum distance between a dematerialiser and it&#39;s target materialiser and there probably should be multiple tiers, eg a tier1 teleporter can only transport 60 items per minute. They should also have a power requirement.
+
+They&#39;re extremely powerful so they&#39;re expensive and should have some limitations and implications of using them (cost, distance, power).
+
+The research should probably be locked behind some of the quartz radio signal research, kind of fits the idea that the teleporter need to be able to send signals to each other.</description>
+    
+    <lastBuildDate>Thu, 16 Apr 2020 04:43:30 +0000</lastBuildDate>
+    <category>Suggestions &amp; Ideas</category>
+    <atom:link href="https://forums.ficsit.app/t/mod-request-item-teleporter/381.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Mod request: item teleporter</title>
+        <dc:creator><![CDATA[@Ryan_Rowland Ryan Rowland]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/ryan_rowland">@Ryan_Rowland</a> wrote:</p>
+          <blockquote>
+              <p>Awesome found his Repo, they’re mods I’ve not heard of before (probably as I started playing around the release of update 3). Hopefully he gets them updated soon.</p>
+<p>Thanks.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mod-request-item-teleporter/381/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mod-request-item-teleporter/381/3</link>
+        <pubDate>Thu, 16 Apr 2020 04:43:30 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-381-3</guid>
+        <source url="https://forums.ficsit.app/t/mod-request-item-teleporter/381.rss">Mod request: item teleporter</source>
+      </item>
+      <item>
+        <title>Mod request: item teleporter</title>
+        <dc:creator><![CDATA[@Topside08 Topside08]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/topside08">@Topside08</a> wrote:</p>
+          <blockquote>
+              <p>There are already mods that add this… Goose seems to be working on updating his sweetTools mods if github is any indication</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mod-request-item-teleporter/381/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mod-request-item-teleporter/381/2</link>
+        <pubDate>Thu, 16 Apr 2020 02:35:24 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-381-2</guid>
+        <source url="https://forums.ficsit.app/t/mod-request-item-teleporter/381.rss">Mod request: item teleporter</source>
+      </item>
+      <item>
+        <title>Mod request: item teleporter</title>
+        <dc:creator><![CDATA[@Ryan_Rowland Ryan Rowland]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/ryan_rowland">@Ryan_Rowland</a> wrote:</p>
+          <blockquote>
+              <p>I had an idea for a mod that would add two buildings to the game.</p>
+<p>Dematerialiser - Has 1 item input<br>
+Materialiser - has 1 item output</p>
+<p>There would be a configurable interface for each building, in this interface you can name the object and also select a source/destination. Eg;<br>
+Iron dematerialiser teleports to Iron materialiser.</p>
+<p>These buildings and the research should be expensive for balance purposes, there should be a maximum distance between a dematerialiser and it’s target materialiser and there probably should be multiple tiers, eg a tier1 teleporter can only transport 60 items per minute. They should also have a power requirement.</p>
+<p>They’re extremely powerful so they’re expensive and should have some limitations and implications of using them (cost, distance, power).</p>
+<p>The research should probably be locked behind some of the quartz radio signal research, kind of fits the idea that the teleporter need to be able to send signals to each other.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mod-request-item-teleporter/381/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mod-request-item-teleporter/381/1</link>
+        <pubDate>Wed, 15 Apr 2020 06:26:07 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-381-1</guid>
+        <source url="https://forums.ficsit.app/t/mod-request-item-teleporter/381.rss">Mod request: item teleporter</source>
+      </item>
+  </channel>
+</rss>

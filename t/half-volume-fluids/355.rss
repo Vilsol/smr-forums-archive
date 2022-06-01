@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Half Volume Fluids</title>
+    <link>https://forums.ficsit.app/t/half-volume-fluids/355</link>
+    <description>It does not change the balance and use of resources. An Alternative for not having Pipes MK2/MK3 yet, the possibility with 600m3/1200m3 flow rate in the end.
+
+Alpha version:
+
+Good only to transport fluids with long pipes or by trains.
+Not usable in other recipes.
+Water and Crude Oil Only
+Alpha version - New Fluids
+
+Half V Crude Oil (Emulates a pipe flow 600m3/Train Transport 1000m3)
+Half V Water (Emulates a pipe flow 600m3/Train Transport 1000m3)
+Quarter V Crude Oil(Emulates a pipe flow 1200m3/Train Transport 2000m3)
+Quarter V Water (Emulates a pipe flow 1200m3/Train Transport 2000m3)
+Alpha version - New Refinery Recipes to Increasae and Decrease Volume
+
+300 Crude Oil -&gt; 150 Half Volume Crude Oil
+300 Half Volume Crude Oil -&gt; 150 Quarter Volum Crude Oil
+300 Water -&gt; 150 Half Volume Water
+300 Half Volume Water -&gt; 150 Quarter Volume Water
+TO DO:
+
+MAKE ALL RECIPES Using less volume items (Or wait someone lauch the Mk2 Pipe) X)</description>
+    
+    <lastBuildDate>Sat, 13 Jun 2020 15:37:51 +0000</lastBuildDate>
+    <category>Showcase</category>
+    <atom:link href="https://forums.ficsit.app/t/half-volume-fluids/355.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Half Volume Fluids</title>
+        <dc:creator><![CDATA[@Haismd03 Haismd03]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/haismd03">@Haismd03</a> wrote:</p>
+          <blockquote>
+              <p>Hi Ande. It’s been a long time <img src="https://forums.ficsit.app/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"><br>
+I hope that you’re alright.</p>
+<p>I’m sorry for bothering you again, but I still have some requests for new recipes. (sorry about that <img src="https://forums.ficsit.app/images/emoji/twitter/grin.png?v=9" title=":grin:" class="emoji" alt=":grin:">)</p>
+<p>I’m feeling bad for that, so I at least tried to help you with this:<br>
+<strong>Aluminum Scrap:</strong> 60 (quarter) Alumina Solution + 60 Petroleum Coke = 360 Aluminum Scrap + 15 (quarter) Water<br>
+<strong>Unpackage Water:</strong> 120 Packaged Water = 30 (quarter) Water + 120 Empty Canister<br>
+<strong>A: Electrode – Aluminium Scrap:</strong> 22,5 (quarter) Alumina Solution + 30 Coal = 150 Aluminium Scrap + 7,5 (quarter) Water<br>
+<strong>Alumina Solution:</strong> 70 Bauxite + 25 (quarter) Water = 20 (quarter) Alumina Solution + 20 Silica<br>
+<strong>Sulfuric Acid:</strong> 50 Sulfur + 12,5 (quarter) Water = 25 (quarter) Sulfuric Acid<br>
+<strong>Liquid Biofuel:</strong> 90 Solid Biofuel + 11,25 (quarter) Water = 15 (quarter) Liquid Biofuel<br>
+<strong>Packaged Water:</strong> 15 (quarter) Water + 60 Empty Canister = 60 Packaged Water</p>
+<hr>
+<p><strong>Unpackage Oil:</strong> 60 Packaged Oil = 15 (quarter) Crude Oil + 60 Empty Canister<br>
+<strong>Fuel:</strong> 15 (quarter) Crude Oil = 10 (quarter) Fuel + 30 Polymer Resin<br>
+<strong>Plastic:</strong> 7,5 (quarter) Crude Oil = 20 Plastic + 2,5 (quarter) Heavy Oil Residue<br>
+<strong>Rubber:</strong> 7,5 (quarter) Crude Oil = 20 Rubber + 5 (quarter) Heavy Oil Residue<br>
+<strong>Packaged Oil:</strong> 7,5 (quarter) Crude Oil + 30 Empty Canister = 30 Packaged Oil</p>
+<hr>
+<p><strong>Unpackage Heavy Oil Residue:</strong> 20 Packaged Heavy Oil Residue = 5 (quarter) Heavy Oil Residue + 20 Empty Canister<br>
+<strong>A: Heavy Oil Residue:</strong> 7,5 (quarter) Crude oil = 10 (quarter) Heavy Oil Residue + 20 Polymer Resin<br>
+<strong>A: Polymer Resin:</strong> 15 (quarter) Crude Oil = 130 Polymer Resin + 5 (quarter) Heavy Oil Residue<br>
+<strong>Petroleum Coke:</strong> 10 (quarter) Heavy Oil Residue = 120 Petroleum Coke<br>
+<strong>Residual Fuel:</strong> 15 (quarter) Heavy Oil Residue = 10 (quarter) Fuel<br>
+<strong>Packaged Heavy Oil Residue:</strong> 7,5 (quarter) Heavy Oil Residue + 30 Empty Canister = 30 Packaged Heavy Oil Residue</p>
+<hr>
+<p><strong>Unpackage Fuel:</strong> 60 Packaged Fuel = 15 (quarter) Fuel + 60 Empty Canister<br>
+<strong>Packaged Fuel:</strong> 10 (quarter) Fuel + 40 Empty Canister = 40 Packaged Fuel</p>
+<hr>
+<p><strong>Unpackage Liquid Biofuel:</strong> 60 Packaged Liquid Biofuel = 15 (quarter) Liquid Biofuel + 60 Empty Canister<br>
+<strong>Packaged Liquid Biofuel:</strong> 10 (quarter) Liquid Biofuel + 40 Empty Canister = 40 Packaged Liquid Biofuel<br>
+<strong>Unpackage Turbo Fuel:</strong> 20 Packaged Turbofuel = 5 (quarter) Turbofuel + 20 Empty Canister<br>
+<strong>Turbofuel:</strong> 5,625 (quarter) Fuel + 3,75 Compacted Coal = 4,6875 (quarter) Turbofuel<br>
+<strong>Packaged Turbofuel:</strong> 5 (quarter) Turbofuel + 20 Empty Canister = 20 Packaged Turbofuel</p>
+<hr>
+<p><strong>Uranium Pellet:</strong> 50 Uranium + 20 (quarter) Sulfuric Acid = 50 Uranium Peller + 5 (quarter) Sulfuric Acid</p>
+<p>I understand, if you won’t do that, because it is lot’s to do</p>
+<p>Stay safe and thank you for everything <img src="https://forums.ficsit.app/images/emoji/twitter/heart.png?v=9" title=":heart:" class="emoji" alt=":heart:"></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/half-volume-fluids/355/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/half-volume-fluids/355/19</link>
+        <pubDate>Sat, 13 Jun 2020 14:25:45 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-355-19</guid>
+        <source url="https://forums.ficsit.app/t/half-volume-fluids/355.rss">Half Volume Fluids</source>
+      </item>
+      <item>
+        <title>Half Volume Fluids</title>
+        <dc:creator><![CDATA[@Andre_Aquila DellAquila]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/andre_aquila">@Andre_Aquila</a> wrote:</p>
+          <blockquote>
+              <p>Just release a new version with those recipes! <img src="https://forums.ficsit.app/images/emoji/twitter/sunny.png?v=9" title=":sunny:" class="emoji" alt=":sunny:">  Hope it works nice!</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/half-volume-fluids/355/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/half-volume-fluids/355/18</link>
+        <pubDate>Mon, 04 May 2020 15:04:56 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-355-18</guid>
+        <source url="https://forums.ficsit.app/t/half-volume-fluids/355.rss">Half Volume Fluids</source>
+      </item>
+      <item>
+        <title>Half Volume Fluids</title>
+        <dc:creator><![CDATA[@Andre_Aquila DellAquila]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/andre_aquila">@Andre_Aquila</a> wrote:</p>
+          <blockquote>
+              <p>Please… .see if im not wrong on this math… <img src="https://forums.ficsit.app/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+<p>Tier 7 - Alternative Quarter Recipes</p>
+<p>(per minute)</p>
+<p>Alternate: Heavy Oil Residue     7,5 Quarter Crude Oil = 40 Heavy Oil + 20 Polymer resine<br>
+Alternate: Polymer Resin          15 Quarter Crude Oil = 130 Polymer Resin + 20 Heavy Oil<br>
+Alternate: Polyester Fabric       12.5 Quarter Water + 80 Polymer Resin = 5 Fabric<br>
+Alternate: Pure Caterium Ingot    6 Quarter Water + 24 Caterium Ore = 12 Caterium Ingot<br>
+Alternate: Pure Copper Ingot      2.5 Quarter Water + 15 Copper Ore = 37.5 Copper Ingot<br>
+Alternate: Pure Iron Ingot         5 Quarter Water + 35 Iron Ore = 65 Iron Ingot<br>
+Alternate: Pure Quartz Crystal     9.375 Quarter Water + 67.5 Raw Quartz = 52.5 Quartz Crystal<br>
+Alternate: Steamed Copper Sheet    5.625 Quarter Water + 22.5 Iron Ingot = 22.5 Copper Sheet<br>
+Alternate: Wet Concrete                25   Quarter  Water + 120 Limestone = 80 Concrete</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/half-volume-fluids/355/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/half-volume-fluids/355/17</link>
+        <pubDate>Mon, 04 May 2020 13:56:57 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-355-17</guid>
+        <source url="https://forums.ficsit.app/t/half-volume-fluids/355.rss">Half Volume Fluids</source>
+      </item>
+      <item>
+        <title>Half Volume Fluids</title>
+        <dc:creator><![CDATA[@Haismd03 Haismd03]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/haismd03">@Haismd03</a> wrote:</p>
+          <blockquote>
+              <p>Thanks man</p>
+<p>You are a GOD! <img src="https://forums.ficsit.app/images/emoji/twitter/heart_eyes.png?v=9" title=":heart_eyes:" class="emoji" alt=":heart_eyes:"></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/half-volume-fluids/355/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/half-volume-fluids/355/16</link>
+        <pubDate>Mon, 04 May 2020 13:33:30 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-355-16</guid>
+        <source url="https://forums.ficsit.app/t/half-volume-fluids/355.rss">Half Volume Fluids</source>
+      </item>
+      <item>
+        <title>Half Volume Fluids</title>
+        <dc:creator><![CDATA[@Andre_Aquila DellAquila]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/andre_aquila">@Andre_Aquila</a> wrote:</p>
+          <blockquote>
+              <p>Yes… i have to list all of them, and convert to recipes… i will try to release tomorow. Thanks for the reminder!</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/half-volume-fluids/355/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/half-volume-fluids/355/15</link>
+        <pubDate>Mon, 04 May 2020 13:21:29 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-355-15</guid>
+        <source url="https://forums.ficsit.app/t/half-volume-fluids/355.rss">Half Volume Fluids</source>
+      </item>
+      <item>
+        <title>Half Volume Fluids</title>
+        <dc:creator><![CDATA[@Haismd03 Haismd03]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/haismd03">@Haismd03</a> wrote:</p>
+          <blockquote>
+              <p>Hi Andre<br>
+I was just wondering, if you planning to make all the recipes</p>
+<p>If not, I could try to make them. But I never do that before so dunno what will become</p>
+<p>But Satisfactory Modding Documentation will help me. I guess <img src="https://forums.ficsit.app/images/emoji/twitter/laughing.png?v=9" title=":laughing:" class="emoji" alt=":laughing:"></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/half-volume-fluids/355/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/half-volume-fluids/355/14</link>
+        <pubDate>Mon, 04 May 2020 11:29:47 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-355-14</guid>
+        <source url="https://forums.ficsit.app/t/half-volume-fluids/355.rss">Half Volume Fluids</source>
+      </item>
+      <item>
+        <title>Half Volume Fluids</title>
+        <dc:creator><![CDATA[@Andre_Aquila DellAquila]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/andre_aquila">@Andre_Aquila</a> wrote:</p>
+          <blockquote>
+              <p>I will do it!  Speccialy that pure iron/copper… nice!</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/half-volume-fluids/355/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/half-volume-fluids/355/13</link>
+        <pubDate>Sat, 18 Apr 2020 15:01:30 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-355-13</guid>
+        <source url="https://forums.ficsit.app/t/half-volume-fluids/355.rss">Half Volume Fluids</source>
+      </item>
+      <item>
+        <title>Half Volume Fluids</title>
+        <dc:creator><![CDATA[@Haismd03 Haismd03]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/haismd03">@Haismd03</a> wrote:</p>
+          <blockquote>
+              <p>Hi Andre<br>
+Will you do it for all alternative recipies?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/half-volume-fluids/355/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/half-volume-fluids/355/12</link>
+        <pubDate>Fri, 17 Apr 2020 06:24:03 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-355-12</guid>
+        <source url="https://forums.ficsit.app/t/half-volume-fluids/355.rss">Half Volume Fluids</source>
+      </item>
+      <item>
+        <title>Half Volume Fluids</title>
+        <dc:creator><![CDATA[@Andre_Aquila DellAquila]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/andre_aquila">@Andre_Aquila</a> wrote:</p>
+          <blockquote>
+              <p>Hi Haismd !!! &lt;3 &lt;3<br>
+I just release the new version, hope it works nice!</p>
+<p>If you see some bug, or something to change, just tell me please!!</p>
+<p>Thanks!!   X)</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/half-volume-fluids/355/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/half-volume-fluids/355/11</link>
+        <pubDate>Thu, 16 Apr 2020 23:57:46 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-355-11</guid>
+        <source url="https://forums.ficsit.app/t/half-volume-fluids/355.rss">Half Volume Fluids</source>
+      </item>
+      <item>
+        <title>Half Volume Fluids</title>
+        <dc:creator><![CDATA[@Haismd03 Haismd03]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/haismd03">@Haismd03</a> wrote:</p>
+          <blockquote>
+              <p>Man that’s horrible…</p>
+<p>I mean, it’s horribly AMAZING.<br>
+I think that I’ve just fall in love with you <img src="https://forums.ficsit.app/images/emoji/twitter/heart_eyes.png?v=9" title=":heart_eyes:" class="emoji" alt=":heart_eyes:"></p>
+<p>You just elegantly solved the problem with mk1 pipes, you are AMAZING. I cannot wait until you’ll launch this. I hope, that everybody else will repair ther mods, because now, I cannot start the game…</p>
+<p>I’m sure that this mod will be that “must have mod” for everybody like MoarFactory and Area Action.</p>
+<p>Really, really, really, really amazing job mate. I’m so glad that this game has community like you <img src="https://forums.ficsit.app/images/emoji/twitter/+1.png?v=9" title=":+1:" class="emoji" alt=":+1:"></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/half-volume-fluids/355/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/half-volume-fluids/355/10</link>
+        <pubDate>Thu, 16 Apr 2020 18:36:31 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-355-10</guid>
+        <source url="https://forums.ficsit.app/t/half-volume-fluids/355.rss">Half Volume Fluids</source>
+      </item>
+      <item>
+        <title>Half Volume Fluids</title>
+        <dc:creator><![CDATA[@Andre_Aquila DellAquila]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/andre_aquila">@Andre_Aquila</a> wrote:</p>
+          <blockquote>
+              <p>Hi Haismd!<br>
+What you think of those? I will try to launch the new version today</p>
+<p>15 Quarter V Oil -&gt; 40 Fuel + 30 Polymer<br>
+7,5 Quarter V Oil -&gt; 10 Heavy Oil + 20 Plastic<br>
+7,5 Quarter V Oil -&gt; 20 Heavy Oil + 20 Rubber<br>
+5 Quarter V Water + 60 Polymer Resin -&gt; 20 Plastic<br>
+10 Quarter V Water + 40 Polymer Resin -&gt; 20 Rubber<br>
+25 Quarter V Water + 70 Bauxite -&gt; 20 Silica + 80 Alumina Solution<br>
+12,5 Quarter V Water + 50 Sulfur -&gt; 100 Sulfuric Acid</p>
+<p><img src="https://forums.ficsit.app/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"> Thanks!</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/half-volume-fluids/355/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/half-volume-fluids/355/9</link>
+        <pubDate>Thu, 16 Apr 2020 17:04:49 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-355-9</guid>
+        <source url="https://forums.ficsit.app/t/half-volume-fluids/355.rss">Half Volume Fluids</source>
+      </item>
+      <item>
+        <title>Half Volume Fluids</title>
+        <dc:creator><![CDATA[@Haismd03 Haismd03]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/haismd03">@Haismd03</a> wrote:</p>
+          <blockquote>
+              <p>Sounds great man<br>
+I can’t wait. Hope that it will be soon-ish® <img src="https://forums.ficsit.app/images/emoji/twitter/joy.png?v=9" title=":joy:" class="emoji" alt=":joy:"><img src="https://forums.ficsit.app/images/emoji/twitter/joy.png?v=9" title=":joy:" class="emoji" alt=":joy:"></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/half-volume-fluids/355/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/half-volume-fluids/355/8</link>
+        <pubDate>Tue, 14 Apr 2020 20:54:15 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-355-8</guid>
+        <source url="https://forums.ficsit.app/t/half-volume-fluids/355.rss">Half Volume Fluids</source>
+      </item>
+      <item>
+        <title>Half Volume Fluids</title>
+        <dc:creator><![CDATA[@Andre_Aquila DellAquila]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/andre_aquila">@Andre_Aquila</a> wrote:</p>
+          <blockquote>
+              <p>That will be perfect… Im thinking in doing these recipes ASAP. Maybe using Quarter Volume Fluids, so that the pipe could feed 4x more machine than using the normal recipes.</p>
+<p>I will start translating these recipes:</p>
+<p>For water<br>
+<a href="https://update3.satisfactory.greeny.dev/items/water" class="onebox" target="_blank" rel="nofollow noopener">https://update3.satisfactory.greeny.dev/items/water</a></p>
+<p>And for Oil<br>
+<a href="https://update3.satisfactory.greeny.dev/items/crude-oil" class="onebox" target="_blank" rel="nofollow noopener">https://update3.satisfactory.greeny.dev/items/crude-oil</a></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/half-volume-fluids/355/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/half-volume-fluids/355/7</link>
+        <pubDate>Tue, 14 Apr 2020 17:51:21 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-355-7</guid>
+        <source url="https://forums.ficsit.app/t/half-volume-fluids/355.rss">Half Volume Fluids</source>
+      </item>
+      <item>
+        <title>Half Volume Fluids</title>
+        <dc:creator><![CDATA[@Haismd03 Haismd03]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/haismd03">@Haismd03</a> wrote:</p>
+          <blockquote>
+              <p>Hi Andre <img src="https://forums.ficsit.app/images/emoji/twitter/grin.png?v=9" title=":grin:" class="emoji" alt=":grin:"><br>
+For me it isn’t important. I’m trying to avoid cheats like easy rafinery, because for me it breaks the very core of the game. If you know what I mean.</p>
+<p>For me would be best just: have pump–&gt;place rafinery and comprimate the fluid–&gt;transport comprimated fluid thru pipes to other rafinerys, that wil required less fluid (because is comprimated, but it will still need the same amount on very begining), same amount of non-liquid secundary input as before, and it will make same output. Maybe will be best, if secundary product (fluid) will be comprimated too. And it would be nice to have it for all alternative recipies.</p>
+<p>I think, that this was meaning of your comment above, but just to be sure <img src="https://forums.ficsit.app/images/emoji/twitter/joy.png?v=9" title=":joy:" class="emoji" alt=":joy:"></p>
+<p>I’m sorry that I’m “commanding” you like this, but I have no idea how to help. Only I can do, is thank you, for doing things like this for us. <img src="https://forums.ficsit.app/images/emoji/twitter/wink.png?v=9" title=":wink:" class="emoji" alt=":wink:"></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/half-volume-fluids/355/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/half-volume-fluids/355/6</link>
+        <pubDate>Tue, 14 Apr 2020 16:47:48 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-355-6</guid>
+        <source url="https://forums.ficsit.app/t/half-volume-fluids/355.rss">Half Volume Fluids</source>
+      </item>
+      <item>
+        <title>Half Volume Fluids</title>
+        <dc:creator><![CDATA[@Andre_Aquila DellAquila]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/andre_aquila">@Andre_Aquila</a> wrote:</p>
+          <blockquote>
+              <p>Hi Haismd! Nice!!! Im from Brazil, and my English is not good, but i think we can communicate well!</p>
+<p>I was trying to do something less “cheat” with Half Volume Fluids, but I’m thinking of doing a more direct way, where 300m would become 10m. That way it would be more of a cheat, but we wouldn’t have to worry about volume in pipes. What do you think? Or maybe other value?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/half-volume-fluids/355/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/half-volume-fluids/355/5</link>
+        <pubDate>Tue, 14 Apr 2020 13:08:10 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-355-5</guid>
+        <source url="https://forums.ficsit.app/t/half-volume-fluids/355.rss">Half Volume Fluids</source>
+      </item>
+      <item>
+        <title>Half Volume Fluids</title>
+        <dc:creator><![CDATA[@Haismd03 Haismd03]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/haismd03">@Haismd03</a> wrote:</p>
+          <blockquote>
+              <p>And one more thing. It would be really, really useful, if all machines could use this lowered volume fluid. For example I need to transport 2699m3/min. With your “comprimation” I can transport this only in (almost) 3 pipes. But I still need to bring it back to 9 pipes.</p>
+<p>It would be useful, if all machine will required just 2 or 4 times less oil or water then normal (depending if on input if is half or quarter volume fluid). With same output. So u will still need the same amount on very start (mining spot) but there wont be problem with mk1 pipes.</p>
+<p>I hope u will agree with me. I know, it’s little “cheaty” but I hope that it won’t be problem</p>
+<p>And sorry for my bad english. I’m just 16 y.o. boy from Czech Republic <img src="https://forums.ficsit.app/images/emoji/twitter/czech_republic.png?v=9" title=":czech_republic:" class="emoji" alt=":czech_republic:"> trying to write something, that makes sense without translator <img src="https://forums.ficsit.app/images/emoji/twitter/laughing.png?v=9" title=":laughing:" class="emoji" alt=":laughing:"></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/half-volume-fluids/355/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/half-volume-fluids/355/4</link>
+        <pubDate>Sun, 12 Apr 2020 18:13:38 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-355-4</guid>
+        <source url="https://forums.ficsit.app/t/half-volume-fluids/355.rss">Half Volume Fluids</source>
+      </item>
+      <item>
+        <title>Half Volume Fluids</title>
+        <dc:creator><![CDATA[@Andre_Aquila DellAquila]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/andre_aquila">@Andre_Aquila</a> wrote:</p>
+          <blockquote>
+              <p>Hi Haismd , thanks for this info, the Half to normal is under Unpacking Tab, in the Refinery! I will update the Mod page! See if it works ok please! Thanks!</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/half-volume-fluids/355/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/half-volume-fluids/355/3</link>
+        <pubDate>Sun, 12 Apr 2020 15:44:03 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-355-3</guid>
+        <source url="https://forums.ficsit.app/t/half-volume-fluids/355.rss">Half Volume Fluids</source>
+      </item>
+      <item>
+        <title>Half Volume Fluids</title>
+        <dc:creator><![CDATA[@Haismd03 Haismd03]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/haismd03">@Haismd03</a> wrote:</p>
+          <blockquote>
+              <p>Hi<br>
+How can I turn that fluid with lowered volume back to normal. Rafinery cannot work with it.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/half-volume-fluids/355/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/half-volume-fluids/355/2</link>
+        <pubDate>Sun, 12 Apr 2020 15:25:58 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-355-2</guid>
+        <source url="https://forums.ficsit.app/t/half-volume-fluids/355.rss">Half Volume Fluids</source>
+      </item>
+      <item>
+        <title>Half Volume Fluids</title>
+        <dc:creator><![CDATA[@Andre_Aquila DellAquila]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/andre_aquila">@Andre_Aquila</a> wrote:</p>
+          <blockquote>
+              <p>It does not change the balance and use of resources. An Alternative for not having Pipes MK2/MK3 yet, the possibility with 600m3/1200m3 flow rate in the end.</p>
+<p>Alpha version:</p>
+<p>Good only to transport fluids with long pipes or by trains.<br>
+Not usable in other recipes.<br>
+Water and Crude Oil Only<br>
+Alpha version - New Fluids</p>
+<p>Half V Crude Oil (Emulates a pipe flow 600m3/Train Transport 1000m3)<br>
+Half V Water (Emulates a pipe flow 600m3/Train Transport 1000m3)<br>
+Quarter V Crude Oil(Emulates a pipe flow 1200m3/Train Transport 2000m3)<br>
+Quarter V Water (Emulates a pipe flow 1200m3/Train Transport 2000m3)<br>
+Alpha version - New Refinery Recipes to Increasae and Decrease Volume</p>
+<p>300 Crude Oil -&gt; 150 Half Volume Crude Oil<br>
+300 Half Volume Crude Oil -&gt; 150 Quarter Volum Crude Oil<br>
+300 Water -&gt; 150 Half Volume Water<br>
+300 Half Volume Water -&gt; 150 Quarter Volume Water<br>
+TO DO:</p>
+<p>MAKE ALL RECIPES Using less volume items (Or wait someone lauch the Mk2 Pipe) X)</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/half-volume-fluids/355/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/half-volume-fluids/355/1</link>
+        <pubDate>Sat, 11 Apr 2020 20:16:44 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-355-1</guid>
+        <source url="https://forums.ficsit.app/t/half-volume-fluids/355.rss">Half Volume Fluids</source>
+      </item>
+  </channel>
+</rss>

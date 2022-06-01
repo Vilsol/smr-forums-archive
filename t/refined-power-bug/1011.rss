@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Refined Power bug</title>
+    <link>https://forums.ficsit.app/t/refined-power-bug/1011</link>
+    <description>When I use this mod, my nuclear power plants don&#39;t working correctly. They don&#39;t consume water nor nuclear fuel rods and don&#39;t produce nuclear waste.</description>
+    
+    <lastBuildDate>Tue, 01 Dec 2020 08:00:02 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forums.ficsit.app/t/refined-power-bug/1011.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Refined Power bug</title>
+        <dc:creator><![CDATA[@I_m_a_chicken29 Im A Chicken29]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/i_m_a_chicken29">@I_m_a_chicken29</a> wrote:</p>
+          <blockquote>
+              <p>Power plants only use fuel/water if there is a need for power, if you have refined power buildings they are providing power to the point of other generators not having a need to consume items to make power. It’s a vanilla thing btw, not modded</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/refined-power-bug/1011/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/refined-power-bug/1011/2</link>
+        <pubDate>Tue, 01 Dec 2020 08:00:02 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1011-2</guid>
+        <source url="https://forums.ficsit.app/t/refined-power-bug/1011.rss">Refined Power bug</source>
+      </item>
+      <item>
+        <title>Refined Power bug</title>
+        <dc:creator><![CDATA[@Ano_Kius Ano Kius]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/ano_kius">@Ano_Kius</a> wrote:</p>
+          <blockquote>
+              <p>When I use this mod, my nuclear power plants don’t working correctly. They don’t consume water nor nuclear fuel rods and don’t produce nuclear waste.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/refined-power-bug/1011/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/refined-power-bug/1011/1</link>
+        <pubDate>Sat, 28 Nov 2020 19:20:01 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1011-1</guid>
+        <source url="https://forums.ficsit.app/t/refined-power-bug/1011.rss">Refined Power bug</source>
+      </item>
+  </channel>
+</rss>

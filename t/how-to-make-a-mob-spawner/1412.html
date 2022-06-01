@@ -1,0 +1,542 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  
+<!-- Mirrored from forums.ficsit.app/t/how-to-make-a-mob-spawner/1412 by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 01 Jun 2022 14:38:25 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta charset="utf-8">
+    <title>How to make a mob spawner? - Modding - SMR Forums</title>
+    <meta name="description" content="Hello everyone, I’m creating a mod in which you can put a mob spawner using the creation tool. But I had problems with their spawn, 25 seconds after they appeared in the world, they disappear (my way of creating them in &amp;hellip;">
+    <meta name="generator" content="Discourse 2.4.0.beta7 - https://github.com/discourse/discourse version f8d69253e811c29703334eccd6288f3df3700327">
+<link rel="icon" type="image/png" href="../../uploads/default/optimized/1X/f02da7f6991dd231eefed9e0b929b9f220067a67_2_32x32.png">
+<link rel="apple-touch-icon" type="image/png" href="../../uploads/default/optimized/1X/f02da7f6991dd231eefed9e0b929b9f220067a67_2_180x180.png">
+<meta name="theme-color" content="#111111">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes, viewport-fit=cover">
+<link rel="canonical" href="1412.html" />
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"WebSite","url":"https://forums.ficsit.app","potentialAction":{"@type":"SearchAction","target":"https://forums.ficsit.app/search?q={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<link rel="search" type="application/opensearchdescription+xml" href="../../opensearch.xml" title="SMR Forums Search">
+
+      <link href="../../stylesheets/desktop_1_65b6df79b7ca1c9605f957c83775f8eef4438a11.css_%3b%20filename_%3dUTF-8%27%27desktop_1_65b6df79b7ca1c9605f957c83775f8eef4438a11f6fe.css?__ws=forums.ficsit.app" media="all" rel="stylesheet" data-target="desktop" data-theme-id="1"/>
+      <link href="../../stylesheets/desktop_theme_1_9db8e85b82346e2f29622cc14c8bdf75c88b0e15.css_%3b%20filename_%3dUTF-8%27%27desktop_theme_1_9db8e85b82346e2f29622cc14c8bdf75c88b0e15f6fe.css?__ws=forums.ficsit.app" media="all" rel="stylesheet" data-target="desktop_theme" data-theme-id="1"/>
+    
+    
+        <link rel="alternate" type="application/rss+xml" title="RSS feed of &#39;How to make a mob spawner?&#39;" href="1412.rss" />
+    <meta property="og:site_name" content="SMR Forums" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:image" content="https://forums.ficsit.app/uploads/default/optimized/1X/5fe7313f710310280bc3a9bcaea112bf7e09dbb1_2_690x331.png" />
+<meta property="og:image" content="https://forums.ficsit.app/uploads/default/optimized/1X/5fe7313f710310280bc3a9bcaea112bf7e09dbb1_2_690x331.png" />
+<meta property="og:url" content="https://forums.ficsit.app/t/how-to-make-a-mob-spawner/1412" />
+<meta name="twitter:url" content="https://forums.ficsit.app/t/how-to-make-a-mob-spawner/1412" />
+<meta property="og:title" content="How to make a mob spawner?" />
+<meta name="twitter:title" content="How to make a mob spawner?" />
+<meta property="og:description" content="Hello everyone, I’m creating a mod in which you can put a mob spawner using the creation tool. But I had problems with their spawn, 25 seconds after they appeared in the world, they disappear (my way of creating them in 1 picture). I found a ready-made class ‘FgCreatureSpawner’ in the Blueprint class, but I could not get the mobs to appear in the way the developers intended.  From this I have 2 questions:  How can I make mobs stop despawning if I use my own method? and  How do I need to use ‘FgC..." />
+<meta name="twitter:description" content="Hello everyone, I’m creating a mod in which you can put a mob spawner using the creation tool. But I had problems with their spawn, 25 seconds after they appeared in the world, they disappear (my way of creating them in 1 picture). I found a ready-made class ‘FgCreatureSpawner’ in the Blueprint class, but I could not get the mobs to appear in the way the developers intended.  From this I have 2 questions:  How can I make mobs stop despawning if I use my own method? and  How do I need to use ‘FgC..." />
+<meta property="article:published_time" content="2021-10-09T11:00:22+00:00" />
+<meta property="og:ignore_canonical" content="true" />
+
+
+
+    
+  </head>
+  <body class="crawler">
+    
+<script src="../../theme-javascripts/1b5d0e2e70911dd7c8508f7624ecb6a8b056a12c.js_%3b%20filename_%3dUTF-8%27%271b5d0e2e70911dd7c8508f7624ecb6a8b056a12cf6fe.js?__ws=forums.ficsit.app"></script>
+    <header>
+      <a href="../../index-2.html">
+          <img src="../../uploads/default/original/1X/4e840b8b4fdb3676c614937b8f18b06415f9bd1c.png" alt="SMR Forums" id="site-logo" style="max-width: 150px;">
+      </a>
+    </header>
+    <div id="main-outlet" class="wrap">
+        <h1 class="crawler-topic-title">
+    <a href="1412.html">How to make a mob spawner?</a>
+  </h1>
+
+  <div id='breadcrumbs'>
+      <div id="breadcrumb-0" itemscope itemtype="http://data-vocabulary.org/Breadcrumb"
+>
+        <a href="../../c/modding-help.html" itemprop="url" class='badge-wrapper bullet'>
+          <span class="badge-category-bg"></span>
+          <span itemprop="title" class='category-title'>Modding</span>
+        </a>
+      </div>
+  </div>
+
+
+  
+
+
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='../../u/Solat228.html'><span itemprop='name'>Solat228</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2021-10-09T11:00:22Z' class='post-time'>
+                October 9, 2021, 11:00am
+              </time>
+          <span itemprop='position'>#1</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>Hello everyone, I’m creating a mod in which you can put a mob spawner using the creation tool. But I had problems with their spawn, 25 seconds after they appeared in the world, they disappear (my way of creating them in 1 picture). I found a ready-made class ‘FgCreatureSpawner’ in the Blueprint class, but I could not get the mobs to appear in the way the developers intended.<br>
+From this I have 2 questions:<br>
+How can I make mobs stop despawning if I use my own method? and<br>
+How do I need to use ‘FgCreatureSpawner’ correctly?<br>
+Thanks in advance for your answers.<div class="lightbox-wrapper"><a class="lightbox" href="../../uploads/default/original/1X/5fe7313f710310280bc3a9bcaea112bf7e09dbb1.png" data-download-href="https://forums.ficsit.app/uploads/default/5fe7313f710310280bc3a9bcaea112bf7e09dbb1" title="pic1"><img src="../../uploads/default/optimized/1X/5fe7313f710310280bc3a9bcaea112bf7e09dbb1_2_690x331.png" alt="pic1" data-base62-sha1="dGoGB63oIQXiLoYfcgPGqakZ2gN" width="690" height="331" srcset="https://forums.ficsit.app/uploads/default/optimized/1X/5fe7313f710310280bc3a9bcaea112bf7e09dbb1_2_690x331.png, https://forums.ficsit.app/uploads/default/optimized/1X/5fe7313f710310280bc3a9bcaea112bf7e09dbb1_2_1035x496.png 1.5x, https://forums.ficsit.app/uploads/default/optimized/1X/5fe7313f710310280bc3a9bcaea112bf7e09dbb1_2_1380x662.png 2x" data-small-upload="../../uploads/default/optimized/1X/5fe7313f710310280bc3a9bcaea112bf7e09dbb1_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">pic1</span><span class="informations">1478×710 133 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+        </div>
+
+        <meta itemprop='headline' content='How to make a mob spawner?'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+            <div class='crawler-linkback-list' itemscope itemtype='http://schema.org/ItemList'>
+            </div>
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='../../u/Solat228.html'><span itemprop='name'>Solat228</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2021-10-09T11:01:14Z' class='post-time'>
+                October 9, 2021, 11:01am
+              </time>
+          <span itemprop='position'>#2</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>‘FgCreatureSpawner’<img src="../../uploads/default/original/1X/d37982f0b0ef967456ef2ecce9669dcd1ef43c5b.png" alt="pic2" data-base62-sha1="uaN5aFze1UcJ3g7SQLwgqGSem7x" width="544" height="452"></p>
+        </div>
+
+        <meta itemprop='headline' content='How to make a mob spawner?'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="2" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='../../u/deantendo.html'><span itemprop='name'>deantendo</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <meta itemprop='datePublished' content='2021-10-10T19:30:29Z'>
+              <time itemprop='dateModified' datetime='2021-10-10T19:31:19Z' class='post-time'>
+                October 10, 2021,  7:31pm
+              </time>
+          <span itemprop='position'>#3</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>Hey my dude! I’ve made a mod icon for you but you aren’t on the Discord. join up and have a look in <span class="hashtag">#art</span> <img src="../../images/emoji/twitter/winkc164.png?v=9" title=":wink:" class="emoji" alt=":wink:"></p>
+<p>Also: You’ll get promoted up, and have access to modder-only channels.</p>
+        </div>
+
+        <meta itemprop='headline' content='How to make a mob spawner?'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="1" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='../../u/m-dyke.html'><span itemprop='name'>m-dyke</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2021-10-11T09:34:50Z' class='post-time'>
+                October 11, 2021,  9:34am
+              </time>
+          <span itemprop='position'>#4</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>Hi, I’ve never really worked with Blueprints, but I have been a programmer for longer than I care to remember. As such, I think I have spotted your problem.<br>
+The main problem is that you’re not checking the return value from the spawner routine -  If the spawner routine works, then you don’t need to go round the loop again. Currently you loop spawning continuously until (probably) unreal engine gets fed up and kills the routine. As part of it’s garbage cleaning up, it removes anything that your routine has created - hence the nodes disappear.</p>
+        </div>
+
+        <meta itemprop='headline' content='How to make a mob spawner?'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="2" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='../../u/Solat228.html'><span itemprop='name'>Solat228</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2021-10-11T14:18:47Z' class='post-time'>
+                October 11, 2021,  2:18pm
+              </time>
+          <span itemprop='position'>#5</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>Ok, I wrote to you on discord</p>
+        </div>
+
+        <meta itemprop='headline' content='How to make a mob spawner?'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='../../u/Solat228.html'><span itemprop='name'>Solat228</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2021-10-11T17:45:22Z' class='post-time'>
+                October 11, 2021,  5:45pm
+              </time>
+          <span itemprop='position'>#6</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>I don’t think the point is that unreal engine cleans the trash. After all, I have spawners without a loop. In addition, if you spawn buildings in a cycle, they do not disappear. But you gave me a very interesting idea. I will try to pull the mob directly from the game files and spawn it as a handcrafted structure.</p>
+        </div>
+
+        <meta itemprop='headline' content='How to make a mob spawner?'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='../../u/mari_williams.html'><span itemprop='name'>mari_williams</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2021-10-16T00:51:30Z' class='post-time'>
+                October 16, 2021, 12:51am
+              </time>
+          <span itemprop='position'>#7</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>i found your mod but am unsure of how it works… can you advise me on how to set it up?</p>
+        </div>
+
+        <meta itemprop='headline' content='How to make a mob spawner?'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="1" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='../../u/Solat228.html'><span itemprop='name'>Solat228</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2021-10-18T14:51:34Z' class='post-time'>
+                October 18, 2021,  2:51pm
+              </time>
+          <span itemprop='position'>#8</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>I wrote to you in private messages.</p>
+        </div>
+
+        <meta itemprop='headline' content='How to make a mob spawner?'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='../../u/Solat228.html'><span itemprop='name'>Solat228</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2021-10-18T15:00:25Z' class='post-time'>
+                October 18, 2021,  3:00pm
+              </time>
+          <span itemprop='position'>#9</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>Hi, you were right after all. But the mobs were not removed by ue4 itself, but by some plugin responsible for optimizing the living creatures of the game itself. But I was able to learn how to use ‘FgCreatureSpawner’ so I didn’t bother with it. Thank you for your trying to help.<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="../../uploads/default/original/1X/1c48a8b3edec025e8a29571beea093c171cfc86a.png" data-download-href="https://forums.ficsit.app/uploads/default/1c48a8b3edec025e8a29571beea093c171cfc86a" title="error"><img src="../../uploads/default/original/1X/1c48a8b3edec025e8a29571beea093c171cfc86a.png" alt="error" data-base62-sha1="42d2v780G8jV28DMKomkLuzF7uy" width="690" height="29" data-small-upload="../../uploads/default/optimized/1X/1c48a8b3edec025e8a29571beea093c171cfc86a_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">error</span><span class="informations">1222×53 4.29 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div><br>
+(If someone needs a text: '[2021.10.18-14.58.35: 117] [441] LogReplicationGraph: Warning: Attempted to remove Build_AlphaHog_Loop_C_2147477285 from list ReplicationGraphNode_GridCell /Engine/Transient.FGReplicationGraph_2147481539:ReplicationGraphNode_GridSpatialization2D_2147481538.ReplicationGraphNode_GridCell_2147480423 but it was not found. (StreamingLevelName == NAME_None) '.)</p>
+        </div>
+
+        <meta itemprop='headline' content='How to make a mob spawner?'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="2" />
+          </div>
+
+            <div class='crawler-linkback-list' itemscope itemtype='http://schema.org/ItemList'>
+            </div>
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='../../u/Solat228.html'><span itemprop='name'>Solat228</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2021-10-18T15:57:37Z' class='post-time'>
+                October 18, 2021,  3:57pm
+              </time>
+          <span itemprop='position'>#10</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>How to use ‘FgCreatureSpawner’.</p>
+<ol>
+<li>You need to create some kind of world-placeable building as they say in the ‘Satisfactory Modding Documentation’.<br>
+(<a href="https://docs.ficsit.app/satisfactory-modding/latest/Development/BeginnersGuide/SimpleMod/buildable.html" rel="nofollow noopener">https://docs.ficsit.app/satisfactory-modding/latest/Development/BeginnersGuide/SimpleMod/buildable.html</a>)</li>
+<li>Create ‘FgCreatureSpawner’.<br>
+<img src="../../uploads/default/original/1X/fada5c76a857ae6d793fea204c97eb9e388b91f8.png" alt="1" data-base62-sha1="zN9cFj9gWwSWMZGrU2V96TB2jlS" width="544" height="272">
+</li>
+<li>Attach ‘FgCreatureSpawner’ to the components.<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="../../uploads/default/original/1X/db18b6c369d4e064ac7cb9f36e73a18036d86abb.jpg" data-download-href="https://forums.ficsit.app/uploads/default/db18b6c369d4e064ac7cb9f36e73a18036d86abb" title="2"><img src="../../uploads/default/optimized/1X/db18b6c369d4e064ac7cb9f36e73a18036d86abb_2_690x376.jpg" alt="2" data-base62-sha1="vgdvX1O7p8R1VeafZRJhvAP4Wcr" width="690" height="376" srcset="https://forums.ficsit.app/uploads/default/optimized/1X/db18b6c369d4e064ac7cb9f36e73a18036d86abb_2_690x376.jpeg, https://forums.ficsit.app/uploads/default/optimized/1X/db18b6c369d4e064ac7cb9f36e73a18036d86abb_2_1035x564.jpeg 1.5x, https://forums.ficsit.app/uploads/default/optimized/1X/db18b6c369d4e064ac7cb9f36e73a18036d86abb_2_1380x752.jpeg 2x" data-small-upload="../../uploads/default/optimized/1X/db18b6c369d4e064ac7cb9f36e73a18036d86abb_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">2</span><span class="informations">1920×1048 319 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div>
+</li>
+<li>I recommend editing ‘FgCreatureSpawner’ in the attached file to the building, since 2 creatures will spawn and the spawner attached to the components of the building and the one that you created is responsible for the setting. Therefore, you can set the number of creatures to appear on 0 in the created file in the form of a blueprint class (the main thing is to set any creature in the M Creature Class, since there is a possibility of an error). And edit the attached file for the building.<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="../../uploads/default/original/1X/359bbb150a553240de97d9b40d7338c1e8bd4e96.png" data-download-href="https://forums.ficsit.app/uploads/default/359bbb150a553240de97d9b40d7338c1e8bd4e96" title="3"><img src="../../uploads/default/optimized/1X/359bbb150a553240de97d9b40d7338c1e8bd4e96_2_690x376.png" alt="3" data-base62-sha1="7EeXn3N49Er2ZYaI4w6bdcuLSgS" width="690" height="376" srcset="https://forums.ficsit.app/uploads/default/optimized/1X/359bbb150a553240de97d9b40d7338c1e8bd4e96_2_690x376.png, https://forums.ficsit.app/uploads/default/optimized/1X/359bbb150a553240de97d9b40d7338c1e8bd4e96_2_1035x564.png 1.5x, https://forums.ficsit.app/uploads/default/optimized/1X/359bbb150a553240de97d9b40d7338c1e8bd4e96_2_1380x752.png 2x" data-small-upload="../../uploads/default/optimized/1X/359bbb150a553240de97d9b40d7338c1e8bd4e96_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">3</span><span class="informations">1920×1048 111 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div>
+</li>
+<li>After that, I recommend removing the collider mesh from your building in order to avoid errors (since any time your building is removed from the world, the game will crash with an error in the mob’s AI system).<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="../../uploads/default/original/1X/42908ddbf26b931398a034c20743edc2e145ebcd.png" data-download-href="https://forums.ficsit.app/uploads/default/42908ddbf26b931398a034c20743edc2e145ebcd" title="4"><img src="../../uploads/default/optimized/1X/42908ddbf26b931398a034c20743edc2e145ebcd_2_690x376.png" alt="4" data-base62-sha1="9uRdziBXVdnrv4wg3H5bM70t5VP" width="690" height="376" srcset="https://forums.ficsit.app/uploads/default/optimized/1X/42908ddbf26b931398a034c20743edc2e145ebcd_2_690x376.png, https://forums.ficsit.app/uploads/default/optimized/1X/42908ddbf26b931398a034c20743edc2e145ebcd_2_1035x564.png 1.5x, https://forums.ficsit.app/uploads/default/optimized/1X/42908ddbf26b931398a034c20743edc2e145ebcd_2_1380x752.png 2x" data-small-upload="../../uploads/default/optimized/1X/42908ddbf26b931398a034c20743edc2e145ebcd_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">4</span><span class="informations">1920×1048 273 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div>
+</li>
+<li>After that, I recommend changing the collision collider near the mob spawner itself so that it does not block buildings.<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="../../uploads/default/original/1X/b6f146906b73c344d429523732b77e1b87ca0603.jpg" data-download-href="https://forums.ficsit.app/uploads/default/b6f146906b73c344d429523732b77e1b87ca0603" title="5"><img src="../../uploads/default/optimized/1X/b6f146906b73c344d429523732b77e1b87ca0603_2_690x376.jpg" alt="5" data-base62-sha1="q6nPtFtaToLqzSqA2VB2HRDFke7" width="690" height="376" srcset="https://forums.ficsit.app/uploads/default/optimized/1X/b6f146906b73c344d429523732b77e1b87ca0603_2_690x376.jpeg, https://forums.ficsit.app/uploads/default/optimized/1X/b6f146906b73c344d429523732b77e1b87ca0603_2_1035x564.jpeg 1.5x, https://forums.ficsit.app/uploads/default/optimized/1X/b6f146906b73c344d429523732b77e1b87ca0603_2_1380x752.jpeg 2x" data-small-upload="../../uploads/default/optimized/1X/b6f146906b73c344d429523732b77e1b87ca0603_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">5</span><span class="informations">1920×1048 294 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div>
+</li>
+<li>Creatures appear only after restarting the world, so you need to save the game and load immediately.</li>
+</ol>
+        </div>
+
+        <meta itemprop='headline' content='How to make a mob spawner?'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+            <div class='crawler-linkback-list' itemscope itemtype='http://schema.org/ItemList'>
+            </div>
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='../../u/I_m_a_chicken29.html'><span itemprop='name'>I_m_a_chicken29</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2021-10-18T15:58:57Z' class='post-time'>
+                October 18, 2021,  3:58pm
+              </time>
+          <span itemprop='position'>#11</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>Hi could you join the modding discord? it’s a lot easier to get help on there since basically, no one uses these forums but a select few. you will find a lot more help from other mod makers on issues, how to, etc</p>
+<p>here’s a link:<a href="https://discord.gg/satisfactorymodding" rel="nofollow noopener">https://discord.gg/satisfactorymodding</a></p>
+<p>hey! just seen your latest post, that can come real handy for other devs. we got a dedicated channel for tutorials and how to. you can post that there!</p>
+<p>best regards: chicken</p>
+        </div>
+
+        <meta itemprop='headline' content='How to make a mob spawner?'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+            <div class='crawler-linkback-list' itemscope itemtype='http://schema.org/ItemList'>
+            </div>
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='../../u/m-dyke.html'><span itemprop='name'>m-dyke</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2021-10-18T18:11:41Z' class='post-time'>
+                October 18, 2021,  6:11pm
+              </time>
+          <span itemprop='position'>#12</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>You’re welcome - I did say “Probably” <img src="../../images/emoji/twitter/slight_smilec164.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+        </div>
+
+        <meta itemprop='headline' content='How to make a mob spawner?'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+
+    </div>
+
+
+
+
+
+
+    </div>
+    <footer class="container wrap">
+      <nav class='crawler-nav' itemscope itemtype='http://schema.org/SiteNavigationElement'>
+        <ul>
+        <li itemprop="name"><a href='../../index-2.html' itemprop="url">Home </a></li>
+        <li itemprop="name"><a href='../../categories.html' itemprop="url">Categories </a></li>
+        <li itemprop="name"><a href='../../guidelines.html' itemprop="url">FAQ/Guidelines </a></li>
+        <li itemprop="name"><a href='../../tos.html' itemprop="url">Terms of Service </a></li>
+        <li itemprop="name"><a href='../../privacy.html' itemprop="url">Privacy Policy </a></li>
+        </ul>
+      </nav>
+      <p class='powered-by-link'>Powered by <a href="https://www.discourse.org/">Discourse</a>, best viewed with JavaScript enabled</p>
+    </footer>
+    
+    
+  <script defer src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" data-cf-beacon='{"rayId":"7148a1f6eaaeb4d2","token":"edccaedef54c459a9d18b03179e72dde","version":"2021.12.0","si":100}' crossorigin="anonymous"></script>
+</body>
+  
+
+<!-- Mirrored from forums.ficsit.app/t/how-to-make-a-mob-spawner/1412 by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 01 Jun 2022 14:38:47 GMT -->
+</html>

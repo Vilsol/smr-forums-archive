@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Problem when Alpakit failes to cook</title>
+    <link>https://forums.ficsit.app/t/problem-when-alpakit-failes-to-cook/1405</link>
+    <description>Hi i am trying to make a mod, but when i hit Alpakit, after 30 seconds it will pop up saying it failed. I looked at the logs, but it looks like it has to do with some cooking of some sort. I will give you a log here: [here](https://pastebin.com/2MLgmgyM) or [here](https://pastebin.com/5Fuu8K2e)</description>
+    
+    <lastBuildDate>Thu, 30 Sep 2021 12:45:19 +0000</lastBuildDate>
+    <category>Pak Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/problem-when-alpakit-failes-to-cook/1405.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Problem when Alpakit failes to cook</title>
+        <dc:creator><![CDATA[@Simonsej123_Gamermin Simonsej123 Gamerminecraft]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/simonsej123_gamermin">@Simonsej123_Gamermin</a> wrote:</p>
+          <blockquote>
+              <p>Hi i am trying to make a mod, but when i hit Alpakit, after 30 seconds it will pop up saying it failed. I looked at the logs, but it looks like it has to do with some cooking of some sort. I will give you a log here: <a href="https://pastebin.com/2MLgmgyM" rel="nofollow noopener">here</a> or <a href="https://pastebin.com/5Fuu8K2e" rel="nofollow noopener">here</a></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/problem-when-alpakit-failes-to-cook/1405/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/problem-when-alpakit-failes-to-cook/1405/1</link>
+        <pubDate>Thu, 30 Sep 2021 12:45:19 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1405-1</guid>
+        <source url="https://forums.ficsit.app/t/problem-when-alpakit-failes-to-cook/1405.rss">Problem when Alpakit failes to cook</source>
+      </item>
+  </channel>
+</rss>

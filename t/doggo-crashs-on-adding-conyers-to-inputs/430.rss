@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Doggo crashs on adding conyers to inputs</title>
+    <link>https://forums.ficsit.app/t/doggo-crashs-on-adding-conyers-to-inputs/430</link>
+    <description>My friend and I been playing modded sml. and when adding a conveyor to the input port of the doggo farm. It seems to crash the user joining his game. We tried playing with it and got the same results. 
+
+It crashes the users who connect to a world playing MP.</description>
+    
+    <lastBuildDate>Sat, 25 Apr 2020 19:50:59 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forums.ficsit.app/t/doggo-crashs-on-adding-conyers-to-inputs/430.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Doggo crashs on adding conyers to inputs</title>
+        <dc:creator><![CDATA[@Thomas_Succi Hay4busa]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/thomas_succi">@Thomas_Succi</a> wrote:</p>
+          <blockquote>
+              <p>Bonjour,</p>
+<p>Nous avons le même problème, dès que la nourriture arrive dans la ferme a doggo, il y a crash du jeu pour mon ami</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/doggo-crashs-on-adding-conyers-to-inputs/430/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/doggo-crashs-on-adding-conyers-to-inputs/430/2</link>
+        <pubDate>Sat, 25 Apr 2020 19:50:59 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-430-2</guid>
+        <source url="https://forums.ficsit.app/t/doggo-crashs-on-adding-conyers-to-inputs/430.rss">Doggo crashs on adding conyers to inputs</source>
+      </item>
+      <item>
+        <title>Doggo crashs on adding conyers to inputs</title>
+        <dc:creator><![CDATA[@iceman11a Iceman11a *]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/iceman11a">@iceman11a</a> wrote:</p>
+          <blockquote>
+              <p>My friend and I been playing modded sml. and when adding a conveyor to the input port of the doggo farm. It seems to crash the user joining his game. We tried playing with it and got the same results.</p>
+<p>It crashes the users who connect to a world playing MP.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/doggo-crashs-on-adding-conyers-to-inputs/430/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/doggo-crashs-on-adding-conyers-to-inputs/430/1</link>
+        <pubDate>Mon, 20 Apr 2020 23:07:28 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-430-1</guid>
+        <source url="https://forums.ficsit.app/t/doggo-crashs-on-adding-conyers-to-inputs/430.rss">Doggo crashs on adding conyers to inputs</source>
+      </item>
+  </channel>
+</rss>

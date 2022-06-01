@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Support Topic. For reporting errors and getting Help</title>
+    <link>https://forums.ficsit.app/t/support-topic-for-reporting-errors-and-getting-help/66</link>
+    <description>It would be a good idea to add in a support Topic area for anyone have issues with mods.</description>
+    
+    <lastBuildDate>Mon, 18 Nov 2019 17:49:04 +0000</lastBuildDate>
+    <category>General</category>
+    <atom:link href="https://forums.ficsit.app/t/support-topic-for-reporting-errors-and-getting-help/66.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Support Topic. For reporting errors and getting Help</title>
+        <dc:creator><![CDATA[@Vilsol]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/vilsol">@Vilsol</a> wrote:</p>
+          <blockquote>
+              <p>Already exists: <a href="https://forums.ficsit.app/c/modding-help/bug-reports">https://forums.ficsit.app/c/modding-help/bug-reports</a></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/support-topic-for-reporting-errors-and-getting-help/66/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/support-topic-for-reporting-errors-and-getting-help/66/2</link>
+        <pubDate>Mon, 18 Nov 2019 17:49:04 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-66-2</guid>
+        <source url="https://forums.ficsit.app/t/support-topic-for-reporting-errors-and-getting-help/66.rss">Support Topic. For reporting errors and getting Help</source>
+      </item>
+      <item>
+        <title>Support Topic. For reporting errors and getting Help</title>
+        <dc:creator><![CDATA[@iceman11a Iceman11a *]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/iceman11a">@iceman11a</a> wrote:</p>
+          <blockquote>
+              <p>It would be a good idea to add in a support Topic area for anyone have issues with mods.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/support-topic-for-reporting-errors-and-getting-help/66/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/support-topic-for-reporting-errors-and-getting-help/66/1</link>
+        <pubDate>Mon, 18 Nov 2019 17:35:32 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-66-1</guid>
+        <source url="https://forums.ficsit.app/t/support-topic-for-reporting-errors-and-getting-help/66.rss">Support Topic. For reporting errors and getting Help</source>
+      </item>
+  </channel>
+</rss>

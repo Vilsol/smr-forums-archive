@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>MoarFactory Crash</title>
+    <link>https://forums.ficsit.app/t/moarfactory-crash/788</link>
+    <description>I don&#39;t know what caused it but suddenly my game crashes with moar factory installed. Love the mod and it is amazing but it locked me out of one of my saves with it. It seems to be only this one doing this and it won&#39;t load the interface</description>
+    
+    <lastBuildDate>Fri, 31 Jul 2020 17:08:20 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forums.ficsit.app/t/moarfactory-crash/788.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>MoarFactory Crash</title>
+        <dc:creator><![CDATA[@Dustin_Oliverius Dustin Oliverius]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/dustin_oliverius">@Dustin_Oliverius</a> wrote:</p>
+          <blockquote>
+              <p>I have all 3. But as I dug into it it seemed like the game didn’t like the extra mods that added tabs to the build menu, not just moarfactory</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/moarfactory-crash/788/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/moarfactory-crash/788/4</link>
+        <pubDate>Fri, 31 Jul 2020 17:08:20 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-788-4</guid>
+        <source url="https://forums.ficsit.app/t/moarfactory-crash/788.rss">MoarFactory Crash</source>
+      </item>
+      <item>
+        <title>MoarFactory Crash</title>
+        <dc:creator><![CDATA[@Warwick_Allison Warwick Allison]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/warwick_allison">@Warwick_Allison</a> wrote:</p>
+          <blockquote>
+              <p>Do you still have all 3 parts of the mod installed, or just MoarFactory? I think it crashes if you have the main mod but not the parts mods.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/moarfactory-crash/788/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/moarfactory-crash/788/3</link>
+        <pubDate>Fri, 31 Jul 2020 00:08:42 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-788-3</guid>
+        <source url="https://forums.ficsit.app/t/moarfactory-crash/788.rss">MoarFactory Crash</source>
+      </item>
+      <item>
+        <title>MoarFactory Crash</title>
+        <dc:creator><![CDATA[@Dustin_Oliverius Dustin Oliverius]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/dustin_oliverius">@Dustin_Oliverius</a> wrote:</p>
+          <blockquote>
+              <p>Version: 125236, IsEditor: No, IsPerforceBuild: No, BuildConfiguration: Shipping, Launcher: Epic, NetMode: Standalone, IsUsingMods: Yes</p>
+<p>Assertion failed: O-&gt;GetClass()-&gt;ImplementsInterface(UFGSaveInterface::StaticClass()) [File:D:\ws\SB-200518130817-657\UE4\Games\FactoryGame\Intermediate\Build\Win64\FactoryGame\Inc\FactoryGame\FGSaveInterface.gen.cpp] [Line: 446]</p>
+<p>FactoryGame_Win64_Shipping!FWindowsErrorOutputDevice::Serialize() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\core\private\windows\windowserroroutputdevice.cpp:79]<br>
+FactoryGame_Win64_Shipping!FOutputDevice::LogfImpl() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\core\private\misc\outputdevice.cpp:71]<br>
+FactoryGame_Win64_Shipping!AssertFailedImplV() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\core\private\misc\assertionmacros.cpp:101]<br>
+FactoryGame_Win64_Shipping!FDebug::CheckVerifyFailedImpl() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\core\private\misc\assertionmacros.cpp:439]<br>
+FactoryGame_Win64_Shipping!IFGSaveInterface::Execute_PreLoadGame() [d:\ws\sb-200518130817-657\ue4\games\factorygame\intermediate\build\win64\factorygame\inc\factorygame\fgsaveinterface.gen.cpp:446]<br>
+FactoryGame_Win64_Shipping!FArchiveObjectTOCProxy::operator&lt;&lt;() [d:\ws\sb-200518130817-657\ue4\games\factorygame\source\factorygame\private\fgsavesession.cpp:1280]<br>
+FactoryGame_Win64_Shipping!operator&lt;&lt;() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\core\public\containers\array.h:1100]<br>
+FactoryGame_Win64_Shipping!UFGSaveSession::SerializeLoadedObjects() [d:\ws\sb-200518130817-657\ue4\games\factorygame\source\factorygame\private\fgsavesession.cpp:1482]<br>
+FactoryGame_Win64_Shipping!UFGSaveSession::LoadCompressedFileFromDisk() [d:\ws\sb-200518130817-657\ue4\games\factorygame\source\factorygame\private\fgsavesession.cpp:778]<br>
+FactoryGame_Win64_Shipping!UFGSaveSession::LoadGame() [d:\ws\sb-200518130817-657\ue4\games\factorygame\source\factorygame\private\fgsavesession.cpp:920]<br>
+FactoryGame_Win64_Shipping!AFGGameMode::InitGameState() [d:\ws\sb-200518130817-657\ue4\games\factorygame\source\factorygame\private\fggamemode.cpp:274]<br>
+FactoryGame_Win64_Shipping!AGameModeBase::PreInitializeComponents() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\engine\private\gamemodebase.cpp:125]<br>
+FactoryGame_Win64_Shipping!ULevel::RouteActorInitialize() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\engine\private\level.cpp:1823]<br>
+FactoryGame_Win64_Shipping!UWorld::InitializeActorsForPlay() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\engine\private\world.cpp:3925]<br>
+FactoryGame_Win64_Shipping!UEngine::LoadMap() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\engine\private\unrealengine.cpp:12518]<br>
+FactoryGame_Win64_Shipping!UEngine::Browse() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\engine\private\unrealengine.cpp:11777]<br>
+FactoryGame_Win64_Shipping!UEngine::TickWorldTravel() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\engine\private\unrealengine.cpp:11975]<br>
+FactoryGame_Win64_Shipping!UGameEngine::Tick() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\engine\private\gameengine.cpp:1355]<br>
+FactoryGame_Win64_Shipping!UFGGameEngine::Tick() [d:\ws\sb-200518130817-657\ue4\games\factorygame\source\factorygame\private\fggameengine.cpp:9]<br>
+FactoryGame_Win64_Shipping!FEngineLoop::Tick() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\launch\private\launchengineloop.cpp:4028]<br>
+FactoryGame_Win64_Shipping!GuardedMain() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\launch\private\launch.cpp:168]<br>
+FactoryGame_Win64_Shipping!GuardedMainWrapper() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\launch\private\windows\launchwindows.cpp:145]<br>
+FactoryGame_Win64_Shipping!WinMain() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\launch\private\windows\launchwindows.cpp:275]<br>
+FactoryGame_Win64_Shipping!__scrt_common_main_seh() [d:\agent_work\2\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]<br>
+kernel32<br>
+ntdll</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/moarfactory-crash/788/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/moarfactory-crash/788/2</link>
+        <pubDate>Tue, 21 Jul 2020 20:24:22 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-788-2</guid>
+        <source url="https://forums.ficsit.app/t/moarfactory-crash/788.rss">MoarFactory Crash</source>
+      </item>
+      <item>
+        <title>MoarFactory Crash</title>
+        <dc:creator><![CDATA[@Dustin_Oliverius Dustin Oliverius]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/dustin_oliverius">@Dustin_Oliverius</a> wrote:</p>
+          <blockquote>
+              <p>I don’t know what caused it but suddenly my game crashes with moar factory installed. Love the mod and it is amazing but it locked me out of one of my saves with it. It seems to be only this one doing this and it won’t load the interface</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/moarfactory-crash/788/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/moarfactory-crash/788/1</link>
+        <pubDate>Tue, 21 Jul 2020 02:06:06 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-788-1</guid>
+        <source url="https://forums.ficsit.app/t/moarfactory-crash/788.rss">MoarFactory Crash</source>
+      </item>
+  </channel>
+</rss>

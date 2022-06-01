@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Sound Mods Possible?</title>
+    <link>https://forums.ficsit.app/t/sound-mods-possible/1125</link>
+    <description>Is it possible to mod a sound to either remove, change the sound, or adjust the volume?
+Specifically the Chainsaw. It would be nice to lower the volume or change it completely. It is way to loud and annoying.</description>
+    
+    <lastBuildDate>Fri, 26 Feb 2021 22:21:49 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/sound-mods-possible/1125.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Sound Mods Possible?</title>
+        <dc:creator><![CDATA[@JamieRCHI Jamie]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jamierchi">@JamieRCHI</a> wrote:</p>
+          <blockquote>
+              <p>Is it possible to mod a sound to either remove, change the sound, or adjust the volume?<br>
+Specifically the Chainsaw. It would be nice to lower the volume or change it completely. It is way to loud and annoying.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/sound-mods-possible/1125/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/sound-mods-possible/1125/1</link>
+        <pubDate>Fri, 26 Feb 2021 22:21:49 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1125-1</guid>
+        <source url="https://forums.ficsit.app/t/sound-mods-possible/1125.rss">Sound Mods Possible?</source>
+      </item>
+  </channel>
+</rss>

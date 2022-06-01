@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Multiple entries in Tier</title>
+    <link>https://forums.ficsit.app/t/multiple-entries-in-tier/596</link>
+    <description>Hello,
+
+its a bit curious, but i noticed it a while ago that some items are more then once listed in the TIER.
+One mod is the &quot;Refined Power&quot;.
+
+I have in TIER 5 the &quot;Refined Power Mk3&quot; listed at all 22 times; Carbon Refining 17x.
+In Tier 7 is the Refined Power Mk4 22x; Dyson Sphere H1 22x; Dyson Sphere H3 22x; Dyson Sphere H4 21x.
+
+I can&#39;t really say if that comes from other mods which i have installed. But its still curious. I had it with the Refined Power Mod also in older versions.
+
+Hmm, still the same with latest release of Refined Power 2.0.7. And now I used only this mod installed.
+
+Does anyone have the same?
+
+greetings
+jens</description>
+    
+    <lastBuildDate>Sun, 31 May 2020 14:05:58 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/multiple-entries-in-tier/596.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Multiple entries in Tier</title>
+        <dc:creator><![CDATA[@mrhid6 Mrhid6]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/mrhid6">@mrhid6</a> wrote:</p>
+          <blockquote>
+              <p>This should be fixed in 2.0.8 and any that are listed are stuck in the save file.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/multiple-entries-in-tier/596/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/multiple-entries-in-tier/596/2</link>
+        <pubDate>Sun, 31 May 2020 14:05:58 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-596-2</guid>
+        <source url="https://forums.ficsit.app/t/multiple-entries-in-tier/596.rss">Multiple entries in Tier</source>
+      </item>
+      <item>
+        <title>Multiple entries in Tier</title>
+        <dc:creator><![CDATA[@jensjcs Jensjcs]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jensjcs">@jensjcs</a> wrote:</p>
+          <blockquote>
+              <p>Hello,</p>
+<p>its a bit curious, but i noticed it a while ago that some items are more then once listed in the TIER.<br>
+One mod is the “Refined Power”.</p>
+<p>I have in TIER 5 the “Refined Power Mk3” listed at all 22 times; Carbon Refining 17x.<br>
+In Tier 7 is the Refined Power Mk4 22x; Dyson Sphere H1 22x; Dyson Sphere H3 22x; Dyson Sphere H4 21x.</p>
+<p>I can’t really say if that comes from other mods which i have installed. But its still curious. I had it with the Refined Power Mod also in older versions.</p>
+<p>Hmm, still the same with latest release of Refined Power 2.0.7. And now I used only this mod installed.</p>
+<p>Does anyone have the same?</p>
+<p>greetings<br>
+jens</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/multiple-entries-in-tier/596/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/multiple-entries-in-tier/596/1</link>
+        <pubDate>Tue, 26 May 2020 20:14:44 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-596-1</guid>
+        <source url="https://forums.ficsit.app/t/multiple-entries-in-tier/596.rss">Multiple entries in Tier</source>
+      </item>
+  </channel>
+</rss>

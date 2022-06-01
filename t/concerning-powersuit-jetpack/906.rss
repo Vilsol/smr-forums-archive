@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Concerning PowerSuit JetPack</title>
+    <link>https://forums.ficsit.app/t/concerning-powersuit-jetpack/906</link>
+    <description>First I just want to say, I really like this mod. Clever to make it adaptable with modules to fit your own taste. It really helps with something off/missing in the game.
+
+I often wonder about Satisfactory, what level of reality they want in the game. Every game has their rules. But still, Satisfactory is hard to get.
+Like this enormous bag of concrete. They look like 50kg bags to me. I can carry 7200 of them in my pocket! I can also jetpack around small distances carrying all that. But I cannot wear a gasmask at the same time. I can bring it with me in my pocket though, but I have to drop 100 stacked concrete bags. 5 ton of concrete vs a gasmask. Well, it&#39;s a computer game and strangely it does not seem like unreasonable with the stacking and being able to carry that insane amount.
+But why can&#39;t I wear the f.cking gasmask and the jetpack at the same time?! Now that is hard to understand!!
+
+Now, back to the jetpack. The hover is practical and all but it limits me and my friends in how we use the jetpack. Like flying horizontally by first running to get speed, then jumping and dapping the jet to maintain both speed and altitude. With the power suit jet pack the experience is very different.. If you would run on a mk5 belt and then jump you would fly with a speed of about 20-30 m/s, BUT, as soon as you activate the jet it almost brakes you to 2,8 m/s instantly because of the hover function. The speed and fun is gone.
+
+Would it be possible to burn the jet like the normal game jetpack when holding space and activate hover when double tapping space? 
+
+My suggestion:
+mk1 works just like the normal game jetpack (jet burns when holding space and tank cannot refuel in flight). 
+Mk2 works as Mk1 but has longer/unlimited flying time) as long as there is fuel in inventory. Maybe faster as well.
+Mk3 works like mk2 but also has hover that activates when pressing space twice.
+
+I don&#39;t know if this is possible for a module-modder or parts of the function must go in the main mod.
+
+
+I also would like to get the possibility to change the mapped keys
+
+
+Keep up the good work.</description>
+    
+    <lastBuildDate>Mon, 07 Dec 2020 12:40:23 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/concerning-powersuit-jetpack/906.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Concerning PowerSuit JetPack</title>
+        <dc:creator><![CDATA[@Degeneracy Degeneracy]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/degeneracy">@Degeneracy</a> wrote:</p>
+          <blockquote>
+              <p>Not sure if this has been mentioned before but player inventory is considered and called, a pocket Dimension.  It’s there but not really, so don’t think about it <img src="https://forums.ficsit.app/images/emoji/twitter/wink.png?v=9" title=":wink:" class="emoji" alt=":wink:"></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/concerning-powersuit-jetpack/906/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/concerning-powersuit-jetpack/906/7</link>
+        <pubDate>Mon, 07 Dec 2020 12:40:23 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-906-7</guid>
+        <source url="https://forums.ficsit.app/t/concerning-powersuit-jetpack/906.rss">Concerning PowerSuit JetPack</source>
+      </item>
+      <item>
+        <title>Concerning PowerSuit JetPack</title>
+        <dc:creator><![CDATA[@Robb Rob B]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/robb">@Robb</a> wrote:</p>
+          <blockquote>
+              <p>I just released a new version of PowerSuit Modules that has a jetpack that behaves a lot more like the Vanilla one. It’s still restricted by the PowerSuit mod’s flight implementation, though. You can check it out <a href="https://ficsit.app/mod/BezrE8aswqXLRX/version/7CF3yTRo1HMd8h/view">here</a>. I would greatly appreciate your feedback on it.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/concerning-powersuit-jetpack/906/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/concerning-powersuit-jetpack/906/6</link>
+        <pubDate>Thu, 08 Oct 2020 08:08:14 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-906-6</guid>
+        <source url="https://forums.ficsit.app/t/concerning-powersuit-jetpack/906.rss">Concerning PowerSuit JetPack</source>
+      </item>
+      <item>
+        <title>Concerning PowerSuit JetPack</title>
+        <dc:creator><![CDATA[@Mattias_Westrin StromE]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/mattias_westrin">@Mattias_Westrin</a> wrote:</p>
+          <blockquote>
+              <p>Ok, typical. Was hoping for an easy implementation.</p>
+<p>Anyways, tried the Weak Air Dampening and it didn’t really make it better. The building requirements for these are strange and way to high.<br>
+For now I will use power suit for those few times I need more then one thing at the same time.<br>
+To bad, except for the jetpack experience I really liked this mod and your modules.</p>
+<p>I hope the original jetpack experience will be included.</p>
+<p>Thank you Robb, keep up the good work.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/concerning-powersuit-jetpack/906/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/concerning-powersuit-jetpack/906/5</link>
+        <pubDate>Fri, 02 Oct 2020 22:35:07 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-906-5</guid>
+        <source url="https://forums.ficsit.app/t/concerning-powersuit-jetpack/906.rss">Concerning PowerSuit JetPack</source>
+      </item>
+      <item>
+        <title>Concerning PowerSuit JetPack</title>
+        <dc:creator><![CDATA[@Robb Rob B]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/robb">@Robb</a> wrote:</p>
+          <blockquote>
+              <p>From my understanding of how Nog has it set up, implementing base game jetpack flight would be akin to writing all of the flight code again. So hopefully we’ll get that in the future.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/concerning-powersuit-jetpack/906/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/concerning-powersuit-jetpack/906/4</link>
+        <pubDate>Tue, 29 Sep 2020 03:42:39 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-906-4</guid>
+        <source url="https://forums.ficsit.app/t/concerning-powersuit-jetpack/906.rss">Concerning PowerSuit JetPack</source>
+      </item>
+      <item>
+        <title>Concerning PowerSuit JetPack</title>
+        <dc:creator><![CDATA[@Mattias_Westrin StromE]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/mattias_westrin">@Mattias_Westrin</a> wrote:</p>
+          <blockquote>
+              <p>Hey Robb,</p>
+<p>Thanks for the quick reply.</p>
+<p>I understand better why the Power Suit Jetpack works the way it does now.<br>
+I too mostly play multiplayer. Just about anything that generating alot of speed seems bad for those connected to the server. It is early access <img src="https://forums.ficsit.app/images/emoji/twitter/crazy_face.png?v=9" title=":crazy_face:" class="emoji" alt=":crazy_face:"></p>
+<p>Without understanding the coding at all: Would it be easier to just implement the standard ingame Jetpack as a single module and then toggle between the hover jetpack and that and not at all trying to get them to play nice with each other? I don’t know how much understanding you have of the base mod. I have zero knowledge of this type of coding.<br>
+The double-taping of space would trigger the toggle, if you understand what I mean. I honestly think that it would feel natural if the dampening only was enabled when hovering is active.</p>
+<p>Just trying to help find I simple solution if there is one.</p>
+<p>I’ll try the Weak air dampening modules for now. Thanks for the tip. (Have totally ignored them… <img src="https://forums.ficsit.app/images/emoji/twitter/blush.png?v=9" title=":blush:" class="emoji" alt=":blush:">)</p>
+<p>As for the mapping I know that the descend is done with C-key even though I have remapped crouch to Ctrl in my game. So at least for this function it doesn’t seem to be calling the game controls but rather listen to specific key. <img src="https://forums.ficsit.app/images/emoji/twitter/thinking.png?v=9" title=":thinking:" class="emoji" alt=":thinking:"></p>
+<p>Anyways I was mostly thinking of changing mapping keys for functions like descend. (And I did want to try to remap the open suit inventory with the same key as player inventory.) <img src="https://forums.ficsit.app/images/emoji/twitter/wink.png?v=9" title=":wink:" class="emoji" alt=":wink:"></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/concerning-powersuit-jetpack/906/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/concerning-powersuit-jetpack/906/3</link>
+        <pubDate>Mon, 28 Sep 2020 01:26:10 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-906-3</guid>
+        <source url="https://forums.ficsit.app/t/concerning-powersuit-jetpack/906.rss">Concerning PowerSuit JetPack</source>
+      </item>
+      <item>
+        <title>Concerning PowerSuit JetPack</title>
+        <dc:creator><![CDATA[@Robb Rob B]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/robb">@Robb</a> wrote:</p>
+          <blockquote>
+              <p>Hey - thank you for your in depth feedback on the mod; I really appreciate it. I’m glad you’re enjoying using it.</p>
+<p>I agree with the point you raise about the gas mask/jetpack/blade runners/etc. wearing logic. I was devastated when the Exo Suit mod didn’t work for clients in multiplayer because I play almost exclusively in multiplayer. It’s part of the reason I was so intent on working on a module mod to begin with when I was told about the PowerSuit mod.</p>
+<p>A little bit of mod history, the PowerSuit mod was originally just a hover jetpack mod. The flight code is still at the core based off of a building-oriented jetpack.</p>
+<p>A “hold space to fly” jetpack module is not possible with the current flight code, but you are not alone in wanting that functionality. Hopefully we’ll get that option in the future, but for now it’s just hover.</p>
+<p>I too am not fond of how the jetpack behaves in the ‘conveyor launch’ situation you describe, but it’s also consequence of how the hover code’s movement dampening works right now. The dampening is intended to allow you to slow down while building without having to ‘fight’ your momentum. I might be able to make a second jetpack module that does this to a lesser extent, but it will require some serious fiddling. In the mean time using some <strong>Weak Air Dampening</strong> modules will sort of achieve this at the price of increased power and fuel consumption + a bit slippery controls. I have them rather expensive to make and use right now because they boost your max speed by a considerable amount.</p>
+<p>Key mapping would also be something to take place on the base Power Suit side of the mod. I think they are bound to the base game movement controls (what would be sprinting is boosting) so you could try rebinding those. I don’t think “open suit inventory” can be rebound, though.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/concerning-powersuit-jetpack/906/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/concerning-powersuit-jetpack/906/2</link>
+        <pubDate>Mon, 28 Sep 2020 00:26:48 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-906-2</guid>
+        <source url="https://forums.ficsit.app/t/concerning-powersuit-jetpack/906.rss">Concerning PowerSuit JetPack</source>
+      </item>
+      <item>
+        <title>Concerning PowerSuit JetPack</title>
+        <dc:creator><![CDATA[@Mattias_Westrin StromE]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/mattias_westrin">@Mattias_Westrin</a> wrote:</p>
+          <blockquote>
+              <p>First I just want to say, I really like this mod. Clever to make it adaptable with modules to fit your own taste. It really helps with something off/missing in the game.</p>
+<p>I often wonder about Satisfactory, what level of reality they want in the game. Every game has their rules. But still, Satisfactory is hard to get.<br>
+Like this enormous bag of concrete. They look like 50kg bags to me. I can carry 7200 of them in my pocket! I can also jetpack around small distances carrying all that. But I cannot wear a gasmask at the same time. I can bring it with me in my pocket though, but I have to drop 100 stacked concrete bags. 5 ton of concrete vs a gasmask. Well, it’s a computer game and strangely it does not seem like unreasonable with the stacking and being able to carry that insane amount.<br>
+But why can’t I wear the f.cking gasmask and the jetpack at the same time?! Now that is hard to understand!!</p>
+<p>Now, back to the jetpack. The hover is practical and all but it limits me and my friends in how we use the jetpack. Like flying horizontally by first running to get speed, then jumping and dapping the jet to maintain both speed and altitude. With the power suit jet pack the experience is very different… If you would run on a mk5 belt and then jump you would fly with a speed of about 20-30 m/s, BUT, as soon as you activate the jet it almost brakes you to 2,8 m/s instantly because of the hover function. The speed and fun is gone.</p>
+<p>Would it be possible to burn the jet like the normal game jetpack when holding space and activate hover when double tapping space?</p>
+<p>My suggestion:<br>
+mk1 works just like the normal game jetpack (jet burns when holding space and tank cannot refuel in flight).<br>
+Mk2 works as Mk1 but has longer/unlimited flying time) as long as there is fuel in inventory. Maybe faster as well.<br>
+Mk3 works like mk2 but also has hover that activates when pressing space twice.</p>
+<p>I don’t know if this is possible for a module-modder or parts of the function must go in the main mod.</p>
+<p>I also would like to get the possibility to change the mapped keys</p>
+<p>Keep up the good work.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/concerning-powersuit-jetpack/906/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/concerning-powersuit-jetpack/906/1</link>
+        <pubDate>Sun, 27 Sep 2020 23:18:13 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-906-1</guid>
+        <source url="https://forums.ficsit.app/t/concerning-powersuit-jetpack/906.rss">Concerning PowerSuit JetPack</source>
+      </item>
+  </channel>
+</rss>

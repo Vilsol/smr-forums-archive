@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Mod Pack - Has it been done yet?</title>
+    <link>https://forums.ficsit.app/t/mod-pack-has-it-been-done-yet/885</link>
+    <description>Has anyone tried making a mod pack? A simple compilation of several mods that can be used with a single click rather than going through the list and selecting each mod you want to add?
+I personally would like to make one of my preferred mods(and of course give credit to each creator in the description) so that my friends can join me without having to go down the list and install all 25 mods. 
+I&#39;d like to hear opinions on this and any advice or insight to the subject.</description>
+    
+    <lastBuildDate>Sun, 13 Sep 2020 14:00:29 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/mod-pack-has-it-been-done-yet/885.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Mod Pack - Has it been done yet?</title>
+        <dc:creator><![CDATA[@I_m_a_chicken29 Im A Chicken29]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/i_m_a_chicken29">@I_m_a_chicken29</a> wrote:</p>
+          <blockquote>
+              <p>Quite easy to do but please continue this conversation in the modding discord for everyone’s feedback on it! (You will need to make a mod for this to work and mark a mod as a dependency to get installed all at once)</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mod-pack-has-it-been-done-yet/885/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mod-pack-has-it-been-done-yet/885/2</link>
+        <pubDate>Sun, 13 Sep 2020 14:00:29 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-885-2</guid>
+        <source url="https://forums.ficsit.app/t/mod-pack-has-it-been-done-yet/885.rss">Mod Pack - Has it been done yet?</source>
+      </item>
+      <item>
+        <title>Mod Pack - Has it been done yet?</title>
+        <dc:creator><![CDATA[@Callsign_Sparky Callsign Sparky]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/callsign_sparky">@Callsign_Sparky</a> wrote:</p>
+          <blockquote>
+              <p>Has anyone tried making a mod pack? A simple compilation of several mods that can be used with a single click rather than going through the list and selecting each mod you want to add?<br>
+I personally would like to make one of my preferred mods(and of course give credit to each creator in the description) so that my friends can join me without having to go down the list and install all 25 mods.<br>
+I’d like to hear opinions on this and any advice or insight to the subject.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mod-pack-has-it-been-done-yet/885/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mod-pack-has-it-been-done-yet/885/1</link>
+        <pubDate>Sun, 13 Sep 2020 00:24:52 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-885-1</guid>
+        <source url="https://forums.ficsit.app/t/mod-pack-has-it-been-done-yet/885.rss">Mod Pack - Has it been done yet?</source>
+      </item>
+  </channel>
+</rss>

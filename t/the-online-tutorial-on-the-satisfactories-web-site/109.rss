@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>The online tutorial. on the Satisfactories web site</title>
+    <link>https://forums.ficsit.app/t/the-online-tutorial-on-the-satisfactories-web-site/109</link>
+    <description>I been following the best that I can. and I could use some help with it. Just some parts I don&#39;t under stand and some parts left out details. I&#39;m new to this. and the unreal engine. The part I&#39;m on is adding a machine. The doc says that I have to add 2 new components, How ever I don&#39;t know if I&#39;m not reading it right. It didn&#39;t say what kind of components and in detail where to put them. Screen shots are great for this. On the 1st part of it, Here I&#39;ll post it.
+
+``
+Now we simply want to add the [factory-connectors](Error 404, Page not fount) (conveyor input and output). For that add two new components of type `FGFactoryConnectionSim` to the actor and place them in the lower center of the input/output connection points of the mesh
+``
+&quot;Like here he doesn&#39;t say what kind of components to add. and add FGFactoryConnectionSim to the Actor. &quot; does this mean i need to make another actor. or ? 
+
+&quot;don’t forget to rotate them (currently we dont realy have any reference how you can see in wich direction the connection points to).
+&quot;
+Above he states that we have to edit it and rotate them. See i don&#39;t have the model for mesh for the tutorial so that would be a little hard to figure out. So under standing what he says makes no sense to me. 
+
+If I could get someones help on this. Thx
+Ice</description>
+    
+    <lastBuildDate>Wed, 11 Dec 2019 03:39:04 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/the-online-tutorial-on-the-satisfactories-web-site/109.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>The online tutorial. on the Satisfactories web site</title>
+        <dc:creator><![CDATA[@iceman11a Iceman11a *]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/iceman11a">@iceman11a</a> wrote:</p>
+          <blockquote>
+              <p>I been following the best that I can. and I could use some help with it. Just some parts I don’t under stand and some parts left out details. I’m new to this. and the unreal engine. The part I’m on is adding a machine. The doc says that I have to add 2 new components, How ever I don’t know if I’m not reading it right. It didn’t say what kind of components and in detail where to put them. Screen shots are great for this. On the 1st part of it, Here I’ll post it.</p>
+<p><code>Now we simply want to add the [factory-connectors](Error 404, Page not fount) (conveyor input and output). For that add two new components of type `FGFactoryConnectionSim` to the actor and place them in the lower center of the input/output connection points of the mesh</code><br>
+"Like here he doesn’t say what kind of components to add. and add FGFactoryConnectionSim to the Actor. " does this mean i need to make another actor. or ?</p>
+<p>"don’t forget to rotate them (currently we dont realy have any reference how you can see in wich direction the connection points to).<br>
+"<br>
+Above he states that we have to edit it and rotate them. See i don’t have the model for mesh for the tutorial so that would be a little hard to figure out. So under standing what he says makes no sense to me.</p>
+<p>If I could get someones help on this. Thx<br>
+Ice</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/the-online-tutorial-on-the-satisfactories-web-site/109/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/the-online-tutorial-on-the-satisfactories-web-site/109/1</link>
+        <pubDate>Wed, 11 Dec 2019 03:39:04 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-109-1</guid>
+        <source url="https://forums.ficsit.app/t/the-online-tutorial-on-the-satisfactories-web-site/109.rss">The online tutorial. on the Satisfactories web site</source>
+      </item>
+  </channel>
+</rss>

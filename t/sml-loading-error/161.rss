@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>SML loading error</title>
+    <link>https://forums.ficsit.app/t/sml-loading-error/161</link>
+    <description>I had an error loading the game. at first the log listed a mod DLL, (UtilityMod-0.6.0.dll) then the xinput1_3.dll SML file.  so i removed the utility mod, thinking was the issue.
+
+but i still get a xinput1_3.dll error that something is missing.  i redownloaded and replaced the dll, but the same thing.  
+
+here is the log file.   Suggestions?
+
+[SML::Info]    Attached SatisfactoryModLoader v1.0.2 to Satisfactory
+[SML::Info]    Finding config file...
+[SML::Info]    Validating system files...
+[SML::Info]    Sig file in place!
+[SML::Warning] Skipping already disabled crash reporter
+[SML::Info]    Version check passed!
+[SML::Info]    Initialized SDK
+[SML::Info]    Looking for mods in: D:\epic\Epic Games\SatisfactoryEarlyAccess\FactoryGame\Binaries\Win64\mods
+[SML::Error]   Mod DLL D:\epic\Epic Games\SatisfactoryEarlyAccess\FactoryGame\Binaries\Win64\mods\xinput1_3.dll does not have the required information!
+[SML::Info]    Starting mod setup!
+[CustomInventorySize::Info]    Finished CustomInventorySize setup!</description>
+    
+    <lastBuildDate>Tue, 21 Jan 2020 00:33:43 +0000</lastBuildDate>
+    <category>Help</category>
+    <atom:link href="https://forums.ficsit.app/t/sml-loading-error/161.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>SML loading error</title>
+        <dc:creator><![CDATA[@SuperCoder7979 SuperCoder79]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/supercoder7979">@SuperCoder7979</a> wrote:</p>
+          <blockquote>
+              <p>You would also want to remove Utility Mod. It is outdated and doesn’t work anymore. Pak Utility Mod is a good alternative.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/sml-loading-error/161/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/sml-loading-error/161/6</link>
+        <pubDate>Tue, 21 Jan 2020 00:33:43 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-161-6</guid>
+        <source url="https://forums.ficsit.app/t/sml-loading-error/161.rss">SML loading error</source>
+      </item>
+      <item>
+        <title>SML loading error</title>
+        <dc:creator><![CDATA[@Robert_Walters Robert Walters]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/robert_walters">@Robert_Walters</a> wrote:</p>
+          <blockquote>
+              <p>i just saw your post about the copy of the SML in the mods folder.  yup, that was it.  thanks!</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/sml-loading-error/161/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/sml-loading-error/161/5</link>
+        <pubDate>Tue, 21 Jan 2020 00:28:05 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-161-5</guid>
+        <source url="https://forums.ficsit.app/t/sml-loading-error/161.rss">SML loading error</source>
+      </item>
+      <item>
+        <title>SML loading error</title>
+        <dc:creator><![CDATA[@Robert_Walters Robert Walters]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/robert_walters">@Robert_Walters</a> wrote:</p>
+          <blockquote>
+              <p>I saw another post where someone said the Satisfactory item dictionary mod was needed. so i installed it.  and put the utility mod back also.</p>
+<p>now i get this error:</p>
+<p>[SML::Info]    Attached SatisfactoryModLoader v1.0.2 to Satisfactory<br>
+[SML::Info]    Finding config file…<br>
+[SML::Info]    Validating system files…<br>
+[SML::Info]    Sig file in place!<br>
+[SML::Warning] Skipping already disabled crash reporter<br>
+[SML::Info]    Version check passed!<br>
+[SML::Info]    Initialized SDK<br>
+[SML::Info]    Looking for mods in: D:\epic\Epic Games\SatisfactoryEarlyAccess\FactoryGame\Binaries\Win64\mods<br>
+[SML::Error]   Mod DLL D:\epic\Epic Games\SatisfactoryEarlyAccess\FactoryGame\Binaries\Win64\mods\UtilityMod-0.6.0.dll does not have the required information!<br>
+[SML::Error]   Mod DLL D:\epic\Epic Games\SatisfactoryEarlyAccess\FactoryGame\Binaries\Win64\mods\xinput1_3.dll does not have the required information!<br>
+[SML::Info]    Starting mod setup!<br>
+[SML::Warning] REGISTRY WARNING: command kill was registered outside of setup!<br>
+[SML::Warning] REGISTRY WARNING: API function KillPlayer was registered outside of setup!</p>
+<p>its a different error, but it still crashes.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/sml-loading-error/161/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/sml-loading-error/161/4</link>
+        <pubDate>Tue, 21 Jan 2020 00:27:01 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-161-4</guid>
+        <source url="https://forums.ficsit.app/t/sml-loading-error/161.rss">SML loading error</source>
+      </item>
+      <item>
+        <title>SML loading error</title>
+        <dc:creator><![CDATA[@SuperCoder7979 SuperCoder79]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/supercoder7979">@SuperCoder7979</a> wrote:</p>
+          <blockquote>
+              <p>Download Satisfactory Item Dictionary from ficsit.app, and take xinput1_3.dll out of your mods folder. That’s SML, weird shit will happen if you put it in there.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/sml-loading-error/161/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/sml-loading-error/161/3</link>
+        <pubDate>Tue, 21 Jan 2020 00:25:55 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-161-3</guid>
+        <source url="https://forums.ficsit.app/t/sml-loading-error/161.rss">SML loading error</source>
+      </item>
+      <item>
+        <title>SML loading error</title>
+        <dc:creator><![CDATA[@Robert_Walters Robert Walters]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/robert_walters">@Robert_Walters</a> wrote:</p>
+          <blockquote>
+              <p>the error that pops up when the loader fails reads:</p>
+<p>satisfactory mod loader has crashed! in the title bar.</p>
+<p>the message is ‘you are missing SID_p from your install! Make sure you installed your mods properly!’</p>
+<p>i looked in the mods archives i had downloaded, none have tha file.  if its a file.</p>
+<p>so, suggestions?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/sml-loading-error/161/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/sml-loading-error/161/2</link>
+        <pubDate>Tue, 21 Jan 2020 00:13:17 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-161-2</guid>
+        <source url="https://forums.ficsit.app/t/sml-loading-error/161.rss">SML loading error</source>
+      </item>
+      <item>
+        <title>SML loading error</title>
+        <dc:creator><![CDATA[@Robert_Walters Robert Walters]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/robert_walters">@Robert_Walters</a> wrote:</p>
+          <blockquote>
+              <p>I had an error loading the game. at first the log listed a mod DLL, (UtilityMod-0.6.0.dll) then the xinput1_3.dll SML file.  so i removed the utility mod, thinking was the issue.</p>
+<p>but i still get a xinput1_3.dll error that something is missing.  i redownloaded and replaced the dll, but the same thing.</p>
+<p>here is the log file.   Suggestions?</p>
+<p>[SML::Info]    Attached SatisfactoryModLoader v1.0.2 to Satisfactory<br>
+[SML::Info]    Finding config file…<br>
+[SML::Info]    Validating system files…<br>
+[SML::Info]    Sig file in place!<br>
+[SML::Warning] Skipping already disabled crash reporter<br>
+[SML::Info]    Version check passed!<br>
+[SML::Info]    Initialized SDK<br>
+[SML::Info]    Looking for mods in: D:\epic\Epic Games\SatisfactoryEarlyAccess\FactoryGame\Binaries\Win64\mods<br>
+[SML::Error]   Mod DLL D:\epic\Epic Games\SatisfactoryEarlyAccess\FactoryGame\Binaries\Win64\mods\xinput1_3.dll does not have the required information!<br>
+[SML::Info]    Starting mod setup!<br>
+[CustomInventorySize::Info]    Finished CustomInventorySize setup!</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/sml-loading-error/161/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/sml-loading-error/161/1</link>
+        <pubDate>Tue, 21 Jan 2020 00:10:56 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-161-1</guid>
+        <source url="https://forums.ficsit.app/t/sml-loading-error/161.rss">SML loading error</source>
+      </item>
+  </channel>
+</rss>

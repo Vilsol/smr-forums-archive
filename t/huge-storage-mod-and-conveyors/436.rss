@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Huge Storage mod and conveyors</title>
+    <link>https://forums.ficsit.app/t/huge-storage-mod-and-conveyors/436</link>
+    <description>If i try to use any MK version of conveyors to connect to the bottom input port of a huge storage unit, the game crashes as i place the second conveyor.  
+
+I have testes the stock conveyors, plus the modded conveyors up to MK6, all cause the crash.  I can also use any MK version of conveyor to connect to standard large storage just fine.
+
+Suggestions on what to do next to troubleshoot?</description>
+    
+    <lastBuildDate>Tue, 21 Apr 2020 20:13:17 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/huge-storage-mod-and-conveyors/436.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Huge Storage mod and conveyors</title>
+        <dc:creator><![CDATA[@Robert_Walters Robert Walters]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/robert_walters">@Robert_Walters</a> wrote:</p>
+          <blockquote>
+              <p>If i try to use any MK version of conveyors to connect to the bottom input port of a huge storage unit, the game crashes as i place the second conveyor.</p>
+<p>I have testes the stock conveyors, plus the modded conveyors up to MK6, all cause the crash.  I can also use any MK version of conveyor to connect to standard large storage just fine.</p>
+<p>Suggestions on what to do next to troubleshoot?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/huge-storage-mod-and-conveyors/436/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/huge-storage-mod-and-conveyors/436/1</link>
+        <pubDate>Tue, 21 Apr 2020 20:13:17 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-436-1</guid>
+        <source url="https://forums.ficsit.app/t/huge-storage-mod-and-conveyors/436.rss">Huge Storage mod and conveyors</source>
+      </item>
+  </channel>
+</rss>

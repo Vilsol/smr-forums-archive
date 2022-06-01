@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Moar Factory Only 1.03 works?</title>
+    <link>https://forums.ficsit.app/t/moar-factory-only-1-03-works/668</link>
+    <description>It seems that no matter what ... only 1.0.3 version of this mod works. I have tried everything. Uninstalling all mods except for this one etc ... and no matter what the came crashes at launch. Does anyone else have this problem? Does it only work with EXPERIMENTAL or something like that? I didn&#39;t see anything anywhere about it but that&#39;s the only thing I haven&#39;t tried.</description>
+    
+    <lastBuildDate>Mon, 22 Jun 2020 18:23:36 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/moar-factory-only-1-03-works/668.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Moar Factory Only 1.03 works?</title>
+        <dc:creator><![CDATA[@Elaine_Barlow Elaine Barlow]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/elaine_barlow">@Elaine_Barlow</a> wrote:</p>
+          <blockquote>
+              <p>It seems that no matter what … only 1.0.3 version of this mod works. I have tried everything. Uninstalling all mods except for this one etc … and no matter what the came crashes at launch. Does anyone else have this problem? Does it only work with EXPERIMENTAL or something like that? I didn’t see anything anywhere about it but that’s the only thing I haven’t tried.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/moar-factory-only-1-03-works/668/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/moar-factory-only-1-03-works/668/1</link>
+        <pubDate>Mon, 22 Jun 2020 18:23:05 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-668-1</guid>
+        <source url="https://forums.ficsit.app/t/moar-factory-only-1-03-works/668.rss">Moar Factory Only 1.03 works?</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Teleport freezes game, then instant respawns</title>
+    <link>https://forums.ficsit.app/t/teleport-freezes-game-then-instant-respawns/1070</link>
+    <description>Set up multiple teleports in Multiplayer mode. When I go to teleport to a different station, it will freeze then when I try to click out of it, I respawn and have to go collect my inventory from the station I was trying to teleport to. 
+
+Maybe I have an incompatible mod creating issues?</description>
+    
+    <lastBuildDate>Thu, 28 Jan 2021 18:16:12 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forums.ficsit.app/t/teleport-freezes-game-then-instant-respawns/1070.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Teleport freezes game, then instant respawns</title>
+        <dc:creator><![CDATA[@Robb Rob B]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/robb">@Robb</a> wrote:</p>
+          <blockquote>
+              <p>This seems to be an issue with base game - if multiplayer clients move fast enough, it will just kill them. The host seems to be immune to it. It can also happen with hypertube cannons and modded hypertubes.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/teleport-freezes-game-then-instant-respawns/1070/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/teleport-freezes-game-then-instant-respawns/1070/2</link>
+        <pubDate>Thu, 28 Jan 2021 18:16:12 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1070-2</guid>
+        <source url="https://forums.ficsit.app/t/teleport-freezes-game-then-instant-respawns/1070.rss">Teleport freezes game, then instant respawns</source>
+      </item>
+      <item>
+        <title>Teleport freezes game, then instant respawns</title>
+        <dc:creator><![CDATA[@Samuel_Grey Samuel Grey]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/samuel_grey">@Samuel_Grey</a> wrote:</p>
+          <blockquote>
+              <p>Set up multiple teleports in Multiplayer mode. When I go to teleport to a different station, it will freeze then when I try to click out of it, I respawn and have to go collect my inventory from the station I was trying to teleport to.</p>
+<p>Maybe I have an incompatible mod creating issues?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/teleport-freezes-game-then-instant-respawns/1070/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/teleport-freezes-game-then-instant-respawns/1070/1</link>
+        <pubDate>Thu, 07 Jan 2021 03:14:18 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1070-1</guid>
+        <source url="https://forums.ficsit.app/t/teleport-freezes-game-then-instant-respawns/1070.rss">Teleport freezes game, then instant respawns</source>
+      </item>
+  </channel>
+</rss>

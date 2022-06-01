@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Moar factory hides resource nodes?</title>
+    <link>https://forums.ficsit.app/t/moar-factory-hides-resource-nodes/140</link>
+    <description>Hi, I had Moarfactory advanced miners on a handful of resource nodes,  I removed the miners and now the nodes are effectively gone if I try to place down any other automated miner on it.
+
+here is my save file for those interested
+
+https://drive.google.com/open?id=1IAEYsHUTSF4umm5kocukWct5r_fwPM-Y</description>
+    
+    <lastBuildDate>Tue, 14 Jan 2020 16:10:48 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/moar-factory-hides-resource-nodes/140.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Moar factory hides resource nodes?</title>
+        <dc:creator><![CDATA[@Orrey_Bohn Orrey Bohn]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/orrey_bohn">@Orrey_Bohn</a> wrote:</p>
+          <blockquote>
+              <p>Update to this one.  I was finally able to access the save after unbuilding the sweet teleporters.<br>
+Sure enough, the resourced nodes were flagged as occupied.  I set them to zero and now things work.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/moar-factory-hides-resource-nodes/140/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/moar-factory-hides-resource-nodes/140/4</link>
+        <pubDate>Tue, 14 Jan 2020 16:10:48 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-140-4</guid>
+        <source url="https://forums.ficsit.app/t/moar-factory-hides-resource-nodes/140.rss">Moar factory hides resource nodes?</source>
+      </item>
+      <item>
+        <title>Moar factory hides resource nodes?</title>
+        <dc:creator><![CDATA[@Orrey_Bohn Orrey Bohn]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/orrey_bohn">@Orrey_Bohn</a> wrote:</p>
+          <blockquote>
+              <p>I’ve tried opening the save file via some external viewer but all I get is some error that can’t let me check to see if the node is occupied, much less clear it.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/moar-factory-hides-resource-nodes/140/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/moar-factory-hides-resource-nodes/140/3</link>
+        <pubDate>Tue, 14 Jan 2020 01:41:57 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-140-3</guid>
+        <source url="https://forums.ficsit.app/t/moar-factory-hides-resource-nodes/140.rss">Moar factory hides resource nodes?</source>
+      </item>
+      <item>
+        <title>Moar factory hides resource nodes?</title>
+        <dc:creator><![CDATA[@moarfactory Moarfactory]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/moarfactory">@moarfactory</a> wrote:</p>
+          <blockquote>
+              <p>hey orrey… thanks for reporting… i will check this!!!</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/moar-factory-hides-resource-nodes/140/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/moar-factory-hides-resource-nodes/140/2</link>
+        <pubDate>Tue, 14 Jan 2020 00:22:46 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-140-2</guid>
+        <source url="https://forums.ficsit.app/t/moar-factory-hides-resource-nodes/140.rss">Moar factory hides resource nodes?</source>
+      </item>
+      <item>
+        <title>Moar factory hides resource nodes?</title>
+        <dc:creator><![CDATA[@Orrey_Bohn Orrey Bohn]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/orrey_bohn">@Orrey_Bohn</a> wrote:</p>
+          <blockquote>
+              <p>Hi, I had Moarfactory advanced miners on a handful of resource nodes,  I removed the miners and now the nodes are effectively gone if I try to place down any other automated miner on it.</p>
+<p>here is my save file for those interested</p>
+<aside class="onebox googledrive">
+  <header class="source">
+      <a href="https://drive.google.com/file/d/1IAEYsHUTSF4umm5kocukWct5r_fwPM-Y/view?usp=drive_open" target="_blank" rel="nofollow noopener">drive.google.com</a>
+  </header>
+  <article class="onebox-body">
+      <a href="https://drive.google.com/file/d/1IAEYsHUTSF4umm5kocukWct5r_fwPM-Y/view?usp=drive_open" target="_blank" rel="nofollow noopener"><span class="googledocs-onebox-logo g-drive-logo"></span></a>
+
+
+
+<h3><a href="https://drive.google.com/file/d/1IAEYsHUTSF4umm5kocukWct5r_fwPM-Y/view?usp=drive_open" target="_blank" rel="nofollow noopener">neu.sav</a></h3>
+
+<p>Google Drive file.</p>
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/moar-factory-hides-resource-nodes/140/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/moar-factory-hides-resource-nodes/140/1</link>
+        <pubDate>Mon, 13 Jan 2020 22:21:05 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-140-1</guid>
+        <source url="https://forums.ficsit.app/t/moar-factory-hides-resource-nodes/140.rss">Moar factory hides resource nodes?</source>
+      </item>
+  </channel>
+</rss>

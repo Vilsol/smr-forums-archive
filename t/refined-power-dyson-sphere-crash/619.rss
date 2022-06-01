@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Refined Power Dyson Sphere Crash</title>
+    <link>https://forums.ficsit.app/t/refined-power-dyson-sphere-crash/619</link>
+    <description>Satisfactory Version 123924
+Satisfactory Mod Launcher SML: 2.1.2
+
+Game Crashed as soon as I clicked Dyson Sphere in build menu. It has done this twice.
+
+Posting Crash Report
+
+Version: 123924, IsEditor: No, IsPerforceBuild: No, BuildConfiguration: Shipping, Launcher: Epic, NetMode: Listen Server, IsUsingMods: Yes
+
+Assertion failed: Child-&gt;IsChildOf(Parent) [File:D:\ws\SB-200518130817-657\UE4\Engine\Source\Runtime\CoreUObject\Private\UObject\UObjectGlobals.cpp] [Line: 3037] NewObject called with invalid class, SceneComponent must be a child of MeshComponent
+
+FactoryGame_Win64_Shipping!FWindowsErrorOutputDevice::Serialize() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\core\private\windows\windowserroroutputdevice.cpp:79]
+FactoryGame_Win64_Shipping!FOutputDevice::LogfImpl() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\core\private\misc\outputdevice.cpp:71]
+FactoryGame_Win64_Shipping!AssertFailedImplV() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\core\private\misc\assertionmacros.cpp:101]
+FactoryGame_Win64_Shipping!FDebug::CheckVerifyFailedImpl() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\core\private\misc\assertionmacros.cpp:439]
+FactoryGame_Win64_Shipping!DispatchCheckVerify&lt;void,&lt;lambda_bf25ddeef6581ff98ae1fa748b1445c9&gt; &gt;() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\core\public\misc\assertionmacros.h:161]
+FactoryGame_Win64_Shipping!CheckIsClassChildOf_Internal() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\coreuobject\private\uobject\uobjectglobals.cpp:3037]
+FactoryGame_Win64_Shipping!AFGHologram::SetupDepthMeshComponent() [d:\ws\sb-200518130817-657\ue4\games\factorygame\source\factorygame\private\hologram\fghologram.cpp:347]
+FactoryGame_Win64_Shipping!FGComponentHelpers::DuplicateComponents() [d:\ws\sb-200518130817-657\ue4\games\factorygame\source\factorygame\private\fgcomponenthelpers.cpp:40]
+FactoryGame_Win64_Shipping!AFGHologram::BeginPlay() [d:\ws\sb-200518130817-657\ue4\games\factorygame\source\factorygame\private\hologram\fghologram.cpp:172]
+UE4_RefinedPower_Win64_Shipping
+FactoryGame_Win64_Shipping!AActor::DispatchBeginPlay() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\engine\private\actor.cpp:3395]
+FactoryGame_Win64_Shipping!AActor::PostActorConstruction() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\engine\private\actor.cpp:3256]
+FactoryGame_Win64_Shipping!AActor::FinishSpawning() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\engine\private\actor.cpp:3152]
+FactoryGame_Win64_Shipping!AFGHologram::SpawnHologramFromRecipe() [d:\ws\sb-200518130817-657\ue4\games\factorygame\source\factorygame\private\hologram\fghologram.cpp:114]
+FactoryGame_Win64_Shipping!UFGBuildGunStateBuild::InternalSpawnHologram() [d:\ws\sb-200518130817-657\ue4\games\factorygame\source\factorygame\private\equipment\fgbuildgunbuild.cpp:1196]
+FactoryGame_Win64_Shipping!UFGBuildGunStateBuild::SpawnHologram() [d:\ws\sb-200518130817-657\ue4\games\factorygame\source\factorygame\private\equipment\fgbuildgunbuild.cpp:866]
+FactoryGame_Win64_Shipping!UFGBuildGunStateBuild::SetActiveRecipe() [d:\ws\sb-200518130817-657\ue4\games\factorygame\source\factorygame\private\equipment\fgbuildgunbuild.cpp:752]
+FactoryGame_Win64_Shipping!AFGBuildGun::execGotoBuildState() [d:\ws\sb-200518130817-657\ue4\games\factorygame\source\factorygame\public\equipment\fgbuildgun.h:199]
+FactoryGame_Win64_Shipping!UFunction::Invoke() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\coreuobject\private\uobject\class.cpp:4644]
+FactoryGame_Win64_Shipping!UObject::CallFunction() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\coreuobject\private\uobject\scriptcore.cpp:906]
+FactoryGame_Win64_Shipping!UObject::ProcessContextOpcode() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\coreuobject\private\uobject\scriptcore.cpp:2314]
+FactoryGame_Win64_Shipping!ProcessLocalScriptFunction() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\coreuobject\private\uobject\scriptcore.cpp:974]
+FactoryGame_Win64_Shipping!UObject::ProcessInternal() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\coreuobject\private\uobject\scriptcore.cpp:1060]
+FactoryGame_Win64_Shipping!UFunction::Invoke() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\coreuobject\private\uobject\class.cpp:4644]
+FactoryGame_Win64_Shipping!UObject::ProcessEvent() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\coreuobject\private\uobject\scriptcore.cpp:1464]
+FactoryGame_Win64_Shipping!TMulticastScriptDelegate&lt;FWeakObjectPtr&gt;::ProcessMulticastDelegate&lt;UObject&gt;() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\core\public\uobject\scriptdelegates.h:488]
+FactoryGame_Win64_Shipping!FCallDelegateHelper::CallMulticastDelegate() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\coreuobject\private\uobject\scriptcore.cpp:2489]
+FactoryGame_Win64_Shipping!ProcessLocalScriptFunction() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\coreuobject\private\uobject\scriptcore.cpp:974]
+FactoryGame_Win64_Shipping!ProcessScriptFunction&lt;void (__cdecl*)(UObject *,FFrame &amp;,void *)&gt;() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\coreuobject\private\uobject\scriptcore.cpp:809]
+FactoryGame_Win64_Shipping!UObject::execLocalFinalFunction() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\coreuobject\private\uobject\scriptcore.cpp:2441]
+FactoryGame_Win64_Shipping!ProcessLocalScriptFunction() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\coreuobject\private\uobject\scriptcore.cpp:974]
+FactoryGame_Win64_Shipping!UObject::ProcessInternal() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\coreuobject\private\uobject\scriptcore.cpp:1060]
+FactoryGame_Win64_Shipping!UFunction::Invoke() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\coreuobject\private\uobject\class.cpp:4644]
+FactoryGame_Win64_Shipping!UObject::ProcessEvent() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\coreuobject\private\uobject\scriptcore.cpp:1464]
+FactoryGame_Win64_Shipping!TMulticastScriptDelegate&lt;FWeakObjectPtr&gt;::ProcessMulticastDelegate&lt;UObject&gt;() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\core\public\uobject\scriptdelegates.h:488]
+FactoryGame_Win64_Shipping!UButton::SlateHandleClicked() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\umg\private\components\button.cpp:190]
+FactoryGame_Win64_Shipping!TBaseUObjectMethodDelegateInstance&lt;0,UAkWwiseTreeSelector,FReply __cdecl(void)&gt;::Execute() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:617]
+FactoryGame_Win64_Shipping!SButton::OnMouseButtonUp() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\slate\private\widgets\input\sbutton.cpp:318]
+FactoryGame_Win64_Shipping!FEventRouter::Route&lt;FReply,FEventRouter::FToLeafmostPolicy,FPointerEvent,&lt;lambda_73bb70f2c9167b999fc601bc6c844bdb&gt; &gt;() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:271]
+FactoryGame_Win64_Shipping!FSlateApplication::RoutePointerUpEvent() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5598]
+FactoryGame_Win64_Shipping!FSlateApplication::ProcessMouseButtonUpEvent() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:6203]
+FactoryGame_Win64_Shipping!FSlateApplication::OnMouseUp() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:6176]
+FactoryGame_Win64_Shipping!FWindowsApplication::ProcessDeferredMessage() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:1842]
+FactoryGame_Win64_Shipping!FWindowsApplication::DeferMessage() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:2292]
+FactoryGame_Win64_Shipping!FWindowsApplication::ProcessMessage() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:1522]
+FactoryGame_Win64_Shipping!FWindowsApplication::AppWndProc() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:772]
+user32
+user32
+EOSOVH_Win64_Shipping
+EOSOVH_Win64_Shipping
+user32
+user32
+FactoryGame_Win64_Shipping!FWindowsPlatformApplicationMisc::PumpMessages() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\applicationcore\private\windows\windowsplatformapplicationmisc.cpp:130]
+FactoryGame_Win64_Shipping!FEngineLoop::Tick() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\launch\private\launchengineloop.cpp:3952]
+FactoryGame_Win64_Shipping!GuardedMain() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\launch\private\launch.cpp:168]
+FactoryGame_Win64_Shipping!GuardedMainWrapper() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\launch\private\windows\launchwindows.cpp:145]
+FactoryGame_Win64_Shipping!WinMain() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\launch\private\windows\launchwindows.cpp:275]
+FactoryGame_Win64_Shipping!__scrt_common_main_seh() [d:\agent\_work\2\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+kernel32
+ntdll</description>
+    
+    <lastBuildDate>Sat, 06 Jun 2020 19:08:01 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/refined-power-dyson-sphere-crash/619.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Refined Power Dyson Sphere Crash</title>
+        <dc:creator><![CDATA[@I_m_a_chicken29 Im A Chicken29]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/i_m_a_chicken29">@I_m_a_chicken29</a> wrote:</p>
+          <blockquote>
+              <p>The dyson sphere and water turbine holograms crash the game when EXP went to EA this bug was known from the start and a fix has been found and will be out tomorrow or the day after that with a spicy update to the water turbines</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/refined-power-dyson-sphere-crash/619/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/refined-power-dyson-sphere-crash/619/3</link>
+        <pubDate>Sat, 06 Jun 2020 19:08:01 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-619-3</guid>
+        <source url="https://forums.ficsit.app/t/refined-power-dyson-sphere-crash/619.rss">Refined Power Dyson Sphere Crash</source>
+      </item>
+      <item>
+        <title>Refined Power Dyson Sphere Crash</title>
+        <dc:creator><![CDATA[@Richard_Schwar Richard Schwar]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/richard_schwar">@Richard_Schwar</a> wrote:</p>
+          <blockquote>
+              <p>Doing the same thing with the water turbine. Haven’t tried others yet like wind.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/refined-power-dyson-sphere-crash/619/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/refined-power-dyson-sphere-crash/619/2</link>
+        <pubDate>Fri, 05 Jun 2020 02:26:40 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-619-2</guid>
+        <source url="https://forums.ficsit.app/t/refined-power-dyson-sphere-crash/619.rss">Refined Power Dyson Sphere Crash</source>
+      </item>
+      <item>
+        <title>Refined Power Dyson Sphere Crash</title>
+        <dc:creator><![CDATA[@Travis_Stansel Travis Stansel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/travis_stansel">@Travis_Stansel</a> wrote:</p>
+          <blockquote>
+              <p>Satisfactory Version 123924<br>
+Satisfactory Mod Launcher SML: 2.1.2</p>
+<p>Game Crashed as soon as I clicked Dyson Sphere in build menu. It has done this twice.</p>
+<p>Posting Crash Report</p>
+<p>Version: 123924, IsEditor: No, IsPerforceBuild: No, BuildConfiguration: Shipping, Launcher: Epic, NetMode: Listen Server, IsUsingMods: Yes</p>
+<p>Assertion failed: Child-&gt;IsChildOf(Parent) [File:D:\ws\SB-200518130817-657\UE4\Engine\Source\Runtime\CoreUObject\Private\UObject\UObjectGlobals.cpp] [Line: 3037] NewObject called with invalid class, SceneComponent must be a child of MeshComponent</p>
+<p>FactoryGame_Win64_Shipping!FWindowsErrorOutputDevice::Serialize() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\core\private\windows\windowserroroutputdevice.cpp:79]<br>
+FactoryGame_Win64_Shipping!FOutputDevice::LogfImpl() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\core\private\misc\outputdevice.cpp:71]<br>
+FactoryGame_Win64_Shipping!AssertFailedImplV() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\core\private\misc\assertionmacros.cpp:101]<br>
+FactoryGame_Win64_Shipping!FDebug::CheckVerifyFailedImpl() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\core\private\misc\assertionmacros.cpp:439]<br>
+FactoryGame_Win64_Shipping!DispatchCheckVerify&lt;void,&lt;lambda_bf25ddeef6581ff98ae1fa748b1445c9&gt; &gt;() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\core\public\misc\assertionmacros.h:161]<br>
+FactoryGame_Win64_Shipping!CheckIsClassChildOf_Internal() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\coreuobject\private\uobject\uobjectglobals.cpp:3037]<br>
+FactoryGame_Win64_Shipping!AFGHologram::SetupDepthMeshComponent() [d:\ws\sb-200518130817-657\ue4\games\factorygame\source\factorygame\private\hologram\fghologram.cpp:347]<br>
+FactoryGame_Win64_Shipping!FGComponentHelpers::DuplicateComponents() [d:\ws\sb-200518130817-657\ue4\games\factorygame\source\factorygame\private\fgcomponenthelpers.cpp:40]<br>
+FactoryGame_Win64_Shipping!AFGHologram::BeginPlay() [d:\ws\sb-200518130817-657\ue4\games\factorygame\source\factorygame\private\hologram\fghologram.cpp:172]<br>
+UE4_RefinedPower_Win64_Shipping<br>
+FactoryGame_Win64_Shipping!AActor::DispatchBeginPlay() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\engine\private\actor.cpp:3395]<br>
+FactoryGame_Win64_Shipping!AActor::PostActorConstruction() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\engine\private\actor.cpp:3256]<br>
+FactoryGame_Win64_Shipping!AActor::FinishSpawning() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\engine\private\actor.cpp:3152]<br>
+FactoryGame_Win64_Shipping!AFGHologram::SpawnHologramFromRecipe() [d:\ws\sb-200518130817-657\ue4\games\factorygame\source\factorygame\private\hologram\fghologram.cpp:114]<br>
+FactoryGame_Win64_Shipping!UFGBuildGunStateBuild::InternalSpawnHologram() [d:\ws\sb-200518130817-657\ue4\games\factorygame\source\factorygame\private\equipment\fgbuildgunbuild.cpp:1196]<br>
+FactoryGame_Win64_Shipping!UFGBuildGunStateBuild::SpawnHologram() [d:\ws\sb-200518130817-657\ue4\games\factorygame\source\factorygame\private\equipment\fgbuildgunbuild.cpp:866]<br>
+FactoryGame_Win64_Shipping!UFGBuildGunStateBuild::SetActiveRecipe() [d:\ws\sb-200518130817-657\ue4\games\factorygame\source\factorygame\private\equipment\fgbuildgunbuild.cpp:752]<br>
+FactoryGame_Win64_Shipping!AFGBuildGun::execGotoBuildState() [d:\ws\sb-200518130817-657\ue4\games\factorygame\source\factorygame\public\equipment\fgbuildgun.h:199]<br>
+FactoryGame_Win64_Shipping!UFunction::Invoke() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\coreuobject\private\uobject\class.cpp:4644]<br>
+FactoryGame_Win64_Shipping!UObject::CallFunction() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\coreuobject\private\uobject\scriptcore.cpp:906]<br>
+FactoryGame_Win64_Shipping!UObject::ProcessContextOpcode() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\coreuobject\private\uobject\scriptcore.cpp:2314]<br>
+FactoryGame_Win64_Shipping!ProcessLocalScriptFunction() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\coreuobject\private\uobject\scriptcore.cpp:974]<br>
+FactoryGame_Win64_Shipping!UObject::ProcessInternal() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\coreuobject\private\uobject\scriptcore.cpp:1060]<br>
+FactoryGame_Win64_Shipping!UFunction::Invoke() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\coreuobject\private\uobject\class.cpp:4644]<br>
+FactoryGame_Win64_Shipping!UObject::ProcessEvent() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\coreuobject\private\uobject\scriptcore.cpp:1464]<br>
+FactoryGame_Win64_Shipping!TMulticastScriptDelegate::ProcessMulticastDelegate() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\core\public\uobject\scriptdelegates.h:488]<br>
+FactoryGame_Win64_Shipping!FCallDelegateHelper::CallMulticastDelegate() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\coreuobject\private\uobject\scriptcore.cpp:2489]<br>
+FactoryGame_Win64_Shipping!ProcessLocalScriptFunction() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\coreuobject\private\uobject\scriptcore.cpp:974]<br>
+FactoryGame_Win64_Shipping!ProcessScriptFunction&lt;void (__cdecl*)(UObject *,FFrame &amp;,void *)&gt;() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\coreuobject\private\uobject\scriptcore.cpp:809]<br>
+FactoryGame_Win64_Shipping!UObject::execLocalFinalFunction() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\coreuobject\private\uobject\scriptcore.cpp:2441]<br>
+FactoryGame_Win64_Shipping!ProcessLocalScriptFunction() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\coreuobject\private\uobject\scriptcore.cpp:974]<br>
+FactoryGame_Win64_Shipping!UObject::ProcessInternal() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\coreuobject\private\uobject\scriptcore.cpp:1060]<br>
+FactoryGame_Win64_Shipping!UFunction::Invoke() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\coreuobject\private\uobject\class.cpp:4644]<br>
+FactoryGame_Win64_Shipping!UObject::ProcessEvent() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\coreuobject\private\uobject\scriptcore.cpp:1464]<br>
+FactoryGame_Win64_Shipping!TMulticastScriptDelegate::ProcessMulticastDelegate() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\core\public\uobject\scriptdelegates.h:488]<br>
+FactoryGame_Win64_Shipping!UButton::SlateHandleClicked() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\umg\private\components\button.cpp:190]<br>
+FactoryGame_Win64_Shipping!TBaseUObjectMethodDelegateInstance&lt;0,UAkWwiseTreeSelector,FReply __cdecl(void)&gt;::Execute() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:617]<br>
+FactoryGame_Win64_Shipping!SButton::OnMouseButtonUp() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\slate\private\widgets\input\sbutton.cpp:318]<br>
+FactoryGame_Win64_Shipping!FEventRouter::Route&lt;FReply,FEventRouter::FToLeafmostPolicy,FPointerEvent,&lt;lambda_73bb70f2c9167b999fc601bc6c844bdb&gt; &gt;() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:271]<br>
+FactoryGame_Win64_Shipping!FSlateApplication::RoutePointerUpEvent() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5598]<br>
+FactoryGame_Win64_Shipping!FSlateApplication::ProcessMouseButtonUpEvent() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:6203]<br>
+FactoryGame_Win64_Shipping!FSlateApplication::OnMouseUp() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:6176]<br>
+FactoryGame_Win64_Shipping!FWindowsApplication::ProcessDeferredMessage() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:1842]<br>
+FactoryGame_Win64_Shipping!FWindowsApplication::DeferMessage() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:2292]<br>
+FactoryGame_Win64_Shipping!FWindowsApplication::ProcessMessage() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:1522]<br>
+FactoryGame_Win64_Shipping!FWindowsApplication::AppWndProc() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:772]<br>
+user32<br>
+user32<br>
+EOSOVH_Win64_Shipping<br>
+EOSOVH_Win64_Shipping<br>
+user32<br>
+user32<br>
+FactoryGame_Win64_Shipping!FWindowsPlatformApplicationMisc::PumpMessages() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\applicationcore\private\windows\windowsplatformapplicationmisc.cpp:130]<br>
+FactoryGame_Win64_Shipping!FEngineLoop::Tick() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\launch\private\launchengineloop.cpp:3952]<br>
+FactoryGame_Win64_Shipping!GuardedMain() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\launch\private\launch.cpp:168]<br>
+FactoryGame_Win64_Shipping!GuardedMainWrapper() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\launch\private\windows\launchwindows.cpp:145]<br>
+FactoryGame_Win64_Shipping!WinMain() [d:\ws\sb-200518130817-657\ue4\engine\source\runtime\launch\private\windows\launchwindows.cpp:275]<br>
+FactoryGame_Win64_Shipping!__scrt_common_main_seh() [d:\agent_work\2\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]<br>
+kernel32<br>
+ntdll</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/refined-power-dyson-sphere-crash/619/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/refined-power-dyson-sphere-crash/619/1</link>
+        <pubDate>Thu, 04 Jun 2020 20:39:55 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-619-1</guid>
+        <source url="https://forums.ficsit.app/t/refined-power-dyson-sphere-crash/619.rss">Refined Power Dyson Sphere Crash</source>
+      </item>
+  </channel>
+</rss>

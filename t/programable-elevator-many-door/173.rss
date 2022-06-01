@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Programable elevator many door</title>
+    <link>https://forums.ficsit.app/t/programable-elevator-many-door/173</link>
+    <description>Is it possible for the elevator team to change the elevator box to allow 2 or 4 door so we can put the elevator in the entry of a building and dont have to make an entry and an elevator separatly</description>
+    
+    <lastBuildDate>Thu, 30 Jan 2020 12:22:02 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/programable-elevator-many-door/173.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Programable elevator many door</title>
+        <dc:creator><![CDATA[@zoscran Zoscran]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/zoscran">@zoscran</a> wrote:</p>
+          <blockquote>
+              <p>Is it possible for the elevator team to change the elevator box to allow 2 or 4 door so we can put the elevator in the entry of a building and dont have to make an entry and an elevator separatly</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/programable-elevator-many-door/173/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/programable-elevator-many-door/173/1</link>
+        <pubDate>Thu, 30 Jan 2020 12:22:02 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-173-1</guid>
+        <source url="https://forums.ficsit.app/t/programable-elevator-many-door/173.rss">Programable elevator many door</source>
+      </item>
+  </channel>
+</rss>

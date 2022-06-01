@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Mods are not loading into Satisfactory</title>
+    <link>https://forums.ficsit.app/t/mods-are-not-loading-into-satisfactory/1155</link>
+    <description>This was all working.. Then I went to play again and I launch SMM and click launch. It launches the game but no mods..
+
+The game launches via SMM as well as via the normal icon..
+The game goes in with no mods.. Almost like the loader isnt loading
+In my Satisfactory Experimental directory there is a mods and loader directory with the files expected in there.
+
+I have tried uninstalling SMM and reinstalling.. Doesnt fix it.. Same issue
+I have uninstalled Satisfactory, fresh installed it.. Doesnt fix it
+Uninstalled Satisfactory, uninstalled SMM and reinstalled.. Doesnt fix it</description>
+    
+    <lastBuildDate>Mon, 17 May 2021 06:43:13 +0000</lastBuildDate>
+    <category>SML</category>
+    <atom:link href="https://forums.ficsit.app/t/mods-are-not-loading-into-satisfactory/1155.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Mods are not loading into Satisfactory</title>
+        <dc:creator><![CDATA[@Peter_Bean Peter Bean]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/peter_bean">@Peter_Bean</a> wrote:</p>
+          <blockquote>
+              <p>Thanks so much!! this was exactly why it was not working i had 3 mods which were the old version…</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mods-are-not-loading-into-satisfactory/1155/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mods-are-not-loading-into-satisfactory/1155/12</link>
+        <pubDate>Mon, 17 May 2021 06:43:13 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1155-12</guid>
+        <source url="https://forums.ficsit.app/t/mods-are-not-loading-into-satisfactory/1155.rss">Mods are not loading into Satisfactory</source>
+      </item>
+      <item>
+        <title>Mods are not loading into Satisfactory</title>
+        <dc:creator><![CDATA[@Henry_Tilton Henry Tilton]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/henry_tilton">@Henry_Tilton</a> wrote:</p>
+          <blockquote>
+              <p>I figured this out. The problem is you have older versions of mods installed.</p>
+<p>I went in SMM and went to SML Versions and tried to back it to 3.1.1 instead of latest,</p>
+<p>This popped up a message that these mods wont work.</p>
+<p>I then selected Show ALL then removed ALL moved that are installed and in that list…</p>
+<p>This made SML Versions disappear from the list.</p>
+<p>Then I selected Show only compatible.</p>
+<p>Then installed the mods I wanted… This fixed the issue.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mods-are-not-loading-into-satisfactory/1155/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mods-are-not-loading-into-satisfactory/1155/11</link>
+        <pubDate>Sat, 15 May 2021 20:39:56 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1155-11</guid>
+        <source url="https://forums.ficsit.app/t/mods-are-not-loading-into-satisfactory/1155.rss">Mods are not loading into Satisfactory</source>
+      </item>
+      <item>
+        <title>Mods are not loading into Satisfactory</title>
+        <dc:creator><![CDATA[@Eden_Prime Eden Prime]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/eden_prime">@Eden_Prime</a> wrote:</p>
+          <blockquote>
+              <p>Any resolution to this? I’m having the same issue as others.I’ve tried loading the game directly from Epic, and from SMM. Shut down PC and Restarted. Nothing. I wont bother uninstalling and reinstalling anything, as others have said that this has has no effect. Mods appear in the Early Access Mods folder, but do not load. I noticed that the experimental build has its own folder, but no mod folder. Others have said that the experimental is not loading mods, so I did not bother trying to load that EXE.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mods-are-not-loading-into-satisfactory/1155/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mods-are-not-loading-into-satisfactory/1155/10</link>
+        <pubDate>Wed, 12 May 2021 19:49:38 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1155-10</guid>
+        <source url="https://forums.ficsit.app/t/mods-are-not-loading-into-satisfactory/1155.rss">Mods are not loading into Satisfactory</source>
+      </item>
+      <item>
+        <title>Mods are not loading into Satisfactory</title>
+        <dc:creator><![CDATA[@Kerry_Freeman Kerry Freeman]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/kerry_freeman">@Kerry_Freeman</a> wrote:</p>
+          <blockquote>
+              <p>Same. I can’t see any mods and can’t play without them.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mods-are-not-loading-into-satisfactory/1155/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mods-are-not-loading-into-satisfactory/1155/9</link>
+        <pubDate>Tue, 27 Apr 2021 18:17:25 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1155-9</guid>
+        <source url="https://forums.ficsit.app/t/mods-are-not-loading-into-satisfactory/1155.rss">Mods are not loading into Satisfactory</source>
+      </item>
+      <item>
+        <title>Mods are not loading into Satisfactory</title>
+        <dc:creator><![CDATA[@Derek_Sanford Derek Sanford]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/derek_sanford">@Derek_Sanford</a> wrote:</p>
+          <blockquote>
+              <p>I’m having the same problem;<br>
+Im loading the SMM with early access game CL151248 SML v2.2.1 under the install drop down menu<br>
+same CL version as my current game from epic games</p>
+<p>the mods show up in the SMM as green check marked and there not red writing so there updated mods<br>
+in the game directory (C:~~\mods) they show up there just fine  (name_version.smod)<br>
+and the game loads just fine with the launch button at the buttom of the SMM app …<br>
+But, when the game loads i do not have a Mod button listed on the left side of the screen, and the mods are not loading into the game…</p>
+<p>SMM options … Mods is clicked to “ON” … and profile is Modded</p>
+<p>I tried a fresh install of the game, and the Mod manager, still the same, i waited until the mods were updated, i still had have a few with red writing… not updated (removed them from directory and SMM)<br>
+took out xinput1_3.dll file and restarted game it rewrote the file and yet still no mod button and not loading.</p>
+<p>im at a loss …</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mods-are-not-loading-into-satisfactory/1155/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mods-are-not-loading-into-satisfactory/1155/8</link>
+        <pubDate>Tue, 27 Apr 2021 09:38:05 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1155-8</guid>
+        <source url="https://forums.ficsit.app/t/mods-are-not-loading-into-satisfactory/1155.rss">Mods are not loading into Satisfactory</source>
+      </item>
+      <item>
+        <title>Mods are not loading into Satisfactory</title>
+        <dc:creator><![CDATA[@Kerry_Freeman Kerry Freeman]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/kerry_freeman">@Kerry_Freeman</a> wrote:</p>
+          <blockquote>
+              <p>Problem still present, any ETA on when it will be fixed?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mods-are-not-loading-into-satisfactory/1155/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mods-are-not-loading-into-satisfactory/1155/7</link>
+        <pubDate>Sat, 17 Apr 2021 18:38:30 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1155-7</guid>
+        <source url="https://forums.ficsit.app/t/mods-are-not-loading-into-satisfactory/1155.rss">Mods are not loading into Satisfactory</source>
+      </item>
+      <item>
+        <title>Mods are not loading into Satisfactory</title>
+        <dc:creator><![CDATA[@Henry_Tilton Henry Tilton]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/henry_tilton">@Henry_Tilton</a> wrote:</p>
+          <blockquote>
+              <p>I have already tried that as well… Thanks for the response though.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mods-are-not-loading-into-satisfactory/1155/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mods-are-not-loading-into-satisfactory/1155/6</link>
+        <pubDate>Mon, 22 Mar 2021 16:50:06 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1155-6</guid>
+        <source url="https://forums.ficsit.app/t/mods-are-not-loading-into-satisfactory/1155.rss">Mods are not loading into Satisfactory</source>
+      </item>
+      <item>
+        <title>Mods are not loading into Satisfactory</title>
+        <dc:creator><![CDATA[@JamieRCHI Jamie]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jamierchi">@JamieRCHI</a> wrote:</p>
+          <blockquote>
+              <p>See if this helps: <a href="https://forums.ficsit.app/t/mod-manager-no-longer-launches-game/1042" class="inline-onebox">Mod Manager No longer launches Game</a></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mods-are-not-loading-into-satisfactory/1155/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mods-are-not-loading-into-satisfactory/1155/5</link>
+        <pubDate>Mon, 22 Mar 2021 10:22:23 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1155-5</guid>
+        <source url="https://forums.ficsit.app/t/mods-are-not-loading-into-satisfactory/1155.rss">Mods are not loading into Satisfactory</source>
+      </item>
+      <item>
+        <title>Mods are not loading into Satisfactory</title>
+        <dc:creator><![CDATA[@Henry_Tilton Henry Tilton]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/henry_tilton">@Henry_Tilton</a> wrote:</p>
+          <blockquote>
+              <p>Sure, but this was happening before that…</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mods-are-not-loading-into-satisfactory/1155/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mods-are-not-loading-into-satisfactory/1155/4</link>
+        <pubDate>Sun, 21 Mar 2021 21:27:37 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1155-4</guid>
+        <source url="https://forums.ficsit.app/t/mods-are-not-loading-into-satisfactory/1155.rss">Mods are not loading into Satisfactory</source>
+      </item>
+      <item>
+        <title>Mods are not loading into Satisfactory</title>
+        <dc:creator><![CDATA[@jeremy-hill Jeremy Hill]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jeremy-hill">@jeremy-hill</a> wrote:</p>
+          <blockquote>
+              <p>SMM/SML does not work on Experimental/Update 4 yet. It is actively being worked on.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mods-are-not-loading-into-satisfactory/1155/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mods-are-not-loading-into-satisfactory/1155/3</link>
+        <pubDate>Sun, 21 Mar 2021 19:14:46 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1155-3</guid>
+        <source url="https://forums.ficsit.app/t/mods-are-not-loading-into-satisfactory/1155.rss">Mods are not loading into Satisfactory</source>
+      </item>
+      <item>
+        <title>Mods are not loading into Satisfactory</title>
+        <dc:creator><![CDATA[@JesusPwnsYa Jesus Pwns Ya]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jesuspwnsya">@JesusPwnsYa</a> wrote:</p>
+          <blockquote>
+              <p>Same problem for me. Build version in smm is the same as in satisfactory experimental.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mods-are-not-loading-into-satisfactory/1155/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mods-are-not-loading-into-satisfactory/1155/2</link>
+        <pubDate>Sat, 20 Mar 2021 09:26:18 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1155-2</guid>
+        <source url="https://forums.ficsit.app/t/mods-are-not-loading-into-satisfactory/1155.rss">Mods are not loading into Satisfactory</source>
+      </item>
+      <item>
+        <title>Mods are not loading into Satisfactory</title>
+        <dc:creator><![CDATA[@Henry_Tilton Henry Tilton]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/henry_tilton">@Henry_Tilton</a> wrote:</p>
+          <blockquote>
+              <p>This was all working… Then I went to play again and I launch SMM and click launch. It launches the game but no mods…</p>
+<p>The game launches via SMM as well as via the normal icon…<br>
+The game goes in with no mods… Almost like the loader isnt loading<br>
+In my Satisfactory Experimental directory there is a mods and loader directory with the files expected in there.</p>
+<p>I have tried uninstalling SMM and reinstalling… Doesnt fix it… Same issue<br>
+I have uninstalled Satisfactory, fresh installed it… Doesnt fix it<br>
+Uninstalled Satisfactory, uninstalled SMM and reinstalled… Doesnt fix it</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/mods-are-not-loading-into-satisfactory/1155/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/mods-are-not-loading-into-satisfactory/1155/1</link>
+        <pubDate>Fri, 19 Mar 2021 20:49:15 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1155-1</guid>
+        <source url="https://forums.ficsit.app/t/mods-are-not-loading-into-satisfactory/1155.rss">Mods are not loading into Satisfactory</source>
+      </item>
+  </channel>
+</rss>

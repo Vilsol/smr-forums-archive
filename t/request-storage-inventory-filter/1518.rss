@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>REQUEST: Storage Inventory Filter</title>
+    <link>https://forums.ficsit.app/t/request-storage-inventory-filter/1518</link>
+    <description>I&#39;m looking for a specific functionality (if it already exists, please advise):
+
+My aim is to have a storage container that will contain one of each item that will refill if I remove said item from the container. To do this, I would need to specify a filter for an inventory slot of the container as well as a switch that tells the container to output any input it cannot fit inside. I don&#39;t want an infinite storage, just the option to set what goes where and to scrap the excess after it has been processed.
+
+Does this exist? Is it hard to do?
+
+Thanks!</description>
+    
+    <lastBuildDate>Wed, 05 Jan 2022 11:26:41 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/request-storage-inventory-filter/1518.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>REQUEST: Storage Inventory Filter</title>
+        <dc:creator><![CDATA[@m-dyke M Dyke]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/m-dyke">@m-dyke</a> wrote:</p>
+          <blockquote>
+              <p>So, you want to have a single container containing up to four different resources which will feed a mixed belt into a single machine (ignoring the other ports on the machine). This container will be fed by a mixed belt or (up to) four single belts from where the resource(s) is/are made/mined.</p>
+<p>Correct?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/request-storage-inventory-filter/1518/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/request-storage-inventory-filter/1518/4</link>
+        <pubDate>Wed, 05 Jan 2022 11:26:41 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1518-4</guid>
+        <source url="https://forums.ficsit.app/t/request-storage-inventory-filter/1518.rss">REQUEST: Storage Inventory Filter</source>
+      </item>
+      <item>
+        <title>REQUEST: Storage Inventory Filter</title>
+        <dc:creator><![CDATA[@Nicolas_Lawson Nicolas Lawson]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/nicolas_lawson">@Nicolas_Lawson</a> wrote:</p>
+          <blockquote>
+              <p>This will have one container per item, which isn’t exactly what I’m looking for.</p>
+<p>I would like a single container with one of each inside it.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/request-storage-inventory-filter/1518/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/request-storage-inventory-filter/1518/3</link>
+        <pubDate>Wed, 29 Dec 2021 13:09:08 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1518-3</guid>
+        <source url="https://forums.ficsit.app/t/request-storage-inventory-filter/1518.rss">REQUEST: Storage Inventory Filter</source>
+      </item>
+      <item>
+        <title>REQUEST: Storage Inventory Filter</title>
+        <dc:creator><![CDATA[@m-dyke M Dyke]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/m-dyke">@m-dyke</a> wrote:</p>
+          <blockquote>
+              <p>Put a smart splitter (or programmable splitter) on your input and connect it to three conveyer Belts.<br>
+set the exit going to the conveyer going to the container to be the item you want e.g. Iron Plates<br>
+set another exit to be “Any Undefined” - in case you get Iron Rods for example and<br>
+set the last splitter to be “Overflow” where it will send stuff if the exit it would have gone down is full</p>
+<p>Repeat this set up for each container</p>
+<p>This functionality is in the base game.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/request-storage-inventory-filter/1518/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/request-storage-inventory-filter/1518/2</link>
+        <pubDate>Wed, 29 Dec 2021 09:49:36 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1518-2</guid>
+        <source url="https://forums.ficsit.app/t/request-storage-inventory-filter/1518.rss">REQUEST: Storage Inventory Filter</source>
+      </item>
+      <item>
+        <title>REQUEST: Storage Inventory Filter</title>
+        <dc:creator><![CDATA[@Nicolas_Lawson Nicolas Lawson]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/nicolas_lawson">@Nicolas_Lawson</a> wrote:</p>
+          <blockquote>
+              <p>I’m looking for a specific functionality (if it already exists, please advise):</p>
+<p>My aim is to have a storage container that will contain one of each item that will refill if I remove said item from the container. To do this, I would need to specify a filter for an inventory slot of the container as well as a switch that tells the container to output any input it cannot fit inside. I don’t want an infinite storage, just the option to set what goes where and to scrap the excess after it has been processed.</p>
+<p>Does this exist? Is it hard to do?</p>
+<p>Thanks!</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/request-storage-inventory-filter/1518/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/request-storage-inventory-filter/1518/1</link>
+        <pubDate>Fri, 24 Dec 2021 20:39:36 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1518-1</guid>
+        <source url="https://forums.ficsit.app/t/request-storage-inventory-filter/1518.rss">REQUEST: Storage Inventory Filter</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Location of HUB assets</title>
+    <link>https://forums.ficsit.app/t/location-of-hub-assets/697</link>
+    <description>Howdy all,
+I was looking for the assets for the HUB in umodel but I can&#39;t find it. Anyone know where I can find em?</description>
+    
+    <lastBuildDate>Wed, 01 Jul 2020 23:10:19 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/location-of-hub-assets/697.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Location of HUB assets</title>
+        <dc:creator><![CDATA[@Astinus_Palanthas Astinus Palanthas]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/astinus_palanthas">@Astinus_Palanthas</a> wrote:</p>
+          <blockquote>
+              <p>Howdy all,<br>
+I was looking for the assets for the HUB in umodel but I can’t find it. Anyone know where I can find em?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/location-of-hub-assets/697/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/location-of-hub-assets/697/1</link>
+        <pubDate>Wed, 01 Jul 2020 23:10:19 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-697-1</guid>
+        <source url="https://forums.ficsit.app/t/location-of-hub-assets/697.rss">Location of HUB assets</source>
+      </item>
+  </channel>
+</rss>

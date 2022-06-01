@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Hugh Stacks Vs Update 3</title>
+    <link>https://forums.ficsit.app/t/hugh-stacks-vs-update-3/185</link>
+    <description>Items stack to 500 however I could not work with Copper after using the mod, the game would crash selecting copper builds in a constructor.  I could not refine copper manually because it would always tell me not enough space.
+I removed the mod and it would still stack.  I removed the mod and started a new game and it would still stack.
+I had to uninstall and delete all saves to get copper to work again.</description>
+    
+    <lastBuildDate>Tue, 18 Feb 2020 07:54:06 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forums.ficsit.app/t/hugh-stacks-vs-update-3/185.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Hugh Stacks Vs Update 3</title>
+        <dc:creator><![CDATA[@leo_b Leo B]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/leo_b">@leo_b</a> wrote:</p>
+          <blockquote>
+              <p>I am not a modding pro, but I think the problem lies in the SML version. They haven’t made an SML for update 3, therefore the mod does not load properly. Its basically configured to the older version of the game. We just need to wait until the updated SML gets released.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/hugh-stacks-vs-update-3/185/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/hugh-stacks-vs-update-3/185/2</link>
+        <pubDate>Tue, 18 Feb 2020 07:54:06 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-185-2</guid>
+        <source url="https://forums.ficsit.app/t/hugh-stacks-vs-update-3/185.rss">Hugh Stacks Vs Update 3</source>
+      </item>
+      <item>
+        <title>Hugh Stacks Vs Update 3</title>
+        <dc:creator><![CDATA[@Robert_Bartholomew Robert Bartholomew]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/robert_bartholomew">@Robert_Bartholomew</a> wrote:</p>
+          <blockquote>
+              <p>Items stack to 500 however I could not work with Copper after using the mod, the game would crash selecting copper builds in a constructor.  I could not refine copper manually because it would always tell me not enough space.<br>
+I removed the mod and it would still stack.  I removed the mod and started a new game and it would still stack.<br>
+I had to uninstall and delete all saves to get copper to work again.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/hugh-stacks-vs-update-3/185/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/hugh-stacks-vs-update-3/185/1</link>
+        <pubDate>Fri, 14 Feb 2020 18:08:24 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-185-1</guid>
+        <source url="https://forums.ficsit.app/t/hugh-stacks-vs-update-3/185.rss">Hugh Stacks Vs Update 3</source>
+      </item>
+  </channel>
+</rss>

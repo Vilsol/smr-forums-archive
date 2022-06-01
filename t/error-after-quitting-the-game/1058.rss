@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Error after quitting the Game</title>
+    <link>https://forums.ficsit.app/t/error-after-quitting-the-game/1058</link>
+    <description>Hello I get an Errorlog everytime I close the Game, there are no Problems while playing.
+
+
+ErrorLog:
+FactoryGame_Win64_Shipping!TSet&lt;TTuple&lt;FString,FConfigFile&gt;,TDefaultMapHashableKeyFuncs&lt;FString,FConfigFile,0&gt;,FDefaultSetAllocator&gt;::FindId() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\public\containers\set.h:643]
+FactoryGame_Win64_Shipping!FConfigCacheIni::Find() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\private\misc\configcacheini.cpp:1658]
+FactoryGame_Win64_Shipping!FConfigCacheIni::EmptySection() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\private\misc\configcacheini.cpp:2092]
+FactoryGame_Win64_Shipping!FWindowsApplication::ShutDownAfterError() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:236]
+FactoryGame_Win64_Shipping!TBaseRawMethodDelegateInstance&lt;1,SWaapiPicker,void __cdecl(void)&gt;::ExecuteIfSafe() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:518]
+FactoryGame_Win64_Shipping!TBaseMulticastDelegate&lt;void&gt;::Broadcast() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\public\delegates\delegatesignatureimpl.inl:977]
+FactoryGame_Win64_Shipping!FWindowsErrorOutputDevice::HandleError() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\private\windows\windowserroroutputdevice.cpp:118]
+FactoryGame_Win64_Shipping!FWindowsErrorOutputDevice::Serialize() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\private\windows\windowserroroutputdevice.cpp:83]
+FactoryGame_Win64_Shipping!FOutputDevice::LogfImpl() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\private\misc\outputdevice.cpp:71]
+FactoryGame_Win64_Shipping!AssertFailedImplV() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\private\misc\assertionmacros.cpp:101]
+FactoryGame_Win64_Shipping!FDebug::CheckVerifyFailedImpl() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\private\misc\assertionmacros.cpp:439]
+FactoryGame_Win64_Shipping!FOutputDeviceRedirector::TearDown() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\private\misc\outputdeviceredirector.cpp:265]
+FactoryGame_Win64_Shipping!WinMain() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\launch\private\windows\launchwindows.cpp:299]
+FactoryGame_Win64_Shipping!__scrt_common_main_seh() [d:\agent\_work\2\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+kernel32
+ntdll</description>
+    
+    <lastBuildDate>Sat, 09 Jan 2021 07:54:33 +0000</lastBuildDate>
+    <category>SML</category>
+    <atom:link href="https://forums.ficsit.app/t/error-after-quitting-the-game/1058.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Error after quitting the Game</title>
+        <dc:creator><![CDATA[@CovertJaguar Covert Jaguar]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/covertjaguar">@CovertJaguar</a> wrote:</p>
+          <blockquote>
+              <p>I get the same issue, as long as I have at least one mod installed.</p>
+<p>Doesn’t seem to matter what mod.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/error-after-quitting-the-game/1058/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/error-after-quitting-the-game/1058/2</link>
+        <pubDate>Sat, 09 Jan 2021 07:54:33 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1058-2</guid>
+        <source url="https://forums.ficsit.app/t/error-after-quitting-the-game/1058.rss">Error after quitting the Game</source>
+      </item>
+      <item>
+        <title>Error after quitting the Game</title>
+        <dc:creator><![CDATA[@Kem_Reh Kem Reh]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/kem_reh">@Kem_Reh</a> wrote:</p>
+          <blockquote>
+              <p>Hello I get an Errorlog everytime I close the Game, there are no Problems while playing.</p>
+<p>ErrorLog:<br>
+FactoryGame_Win64_Shipping!TSet&lt;TTuple&lt;FString,FConfigFile&gt;,TDefaultMapHashableKeyFuncs&lt;FString,FConfigFile,0&gt;,FDefaultSetAllocator&gt;::FindId() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\public\containers\set.h:643]<br>
+FactoryGame_Win64_Shipping!FConfigCacheIni::Find() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\private\misc\configcacheini.cpp:1658]<br>
+FactoryGame_Win64_Shipping!FConfigCacheIni::EmptySection() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\private\misc\configcacheini.cpp:2092]<br>
+FactoryGame_Win64_Shipping!FWindowsApplication::ShutDownAfterError() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:236]<br>
+FactoryGame_Win64_Shipping!TBaseRawMethodDelegateInstance&lt;1,SWaapiPicker,void __cdecl(void)&gt;::ExecuteIfSafe() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:518]<br>
+FactoryGame_Win64_Shipping!TBaseMulticastDelegate::Broadcast() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\public\delegates\delegatesignatureimpl.inl:977]<br>
+FactoryGame_Win64_Shipping!FWindowsErrorOutputDevice::HandleError() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\private\windows\windowserroroutputdevice.cpp:118]<br>
+FactoryGame_Win64_Shipping!FWindowsErrorOutputDevice::Serialize() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\private\windows\windowserroroutputdevice.cpp:83]<br>
+FactoryGame_Win64_Shipping!FOutputDevice::LogfImpl() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\private\misc\outputdevice.cpp:71]<br>
+FactoryGame_Win64_Shipping!AssertFailedImplV() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\private\misc\assertionmacros.cpp:101]<br>
+FactoryGame_Win64_Shipping!FDebug::CheckVerifyFailedImpl() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\private\misc\assertionmacros.cpp:439]<br>
+FactoryGame_Win64_Shipping!FOutputDeviceRedirector::TearDown() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\core\private\misc\outputdeviceredirector.cpp:265]<br>
+FactoryGame_Win64_Shipping!WinMain() [d:\ws\sb-201123102323-c9f\ue4\engine\source\runtime\launch\private\windows\launchwindows.cpp:299]<br>
+FactoryGame_Win64_Shipping!__scrt_common_main_seh() [d:\agent_work\2\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]<br>
+kernel32<br>
+ntdll</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/error-after-quitting-the-game/1058/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/error-after-quitting-the-game/1058/1</link>
+        <pubDate>Fri, 01 Jan 2021 13:24:25 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1058-1</guid>
+        <source url="https://forums.ficsit.app/t/error-after-quitting-the-game/1058.rss">Error after quitting the Game</source>
+      </item>
+  </channel>
+</rss>

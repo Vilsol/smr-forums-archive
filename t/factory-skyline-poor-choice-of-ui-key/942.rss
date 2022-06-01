@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Factory Skyline poor choice of UI key</title>
+    <link>https://forums.ficsit.app/t/factory-skyline-poor-choice-of-ui-key/942</link>
+    <description>Hey cepheidqq, you chose &quot;R&quot; as the UI opening key for your mod; that conflicts with the game&#39;s default &quot;Reload&quot; key, which is a commonly used key and isn&#39;t likely to be rebound by most players.  Might want to change that, or maybe make it configurable.</description>
+    
+    <lastBuildDate>Tue, 27 Oct 2020 08:33:59 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forums.ficsit.app/t/factory-skyline-poor-choice-of-ui-key/942.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Factory Skyline poor choice of UI key</title>
+        <dc:creator><![CDATA[@Carnaxus Carnaxus]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/carnaxus">@Carnaxus</a> wrote:</p>
+          <blockquote>
+              <p>Hey cepheidqq, you chose “R” as the UI opening key for your mod; that conflicts with the game’s default “Reload” key, which is a commonly used key and isn’t likely to be rebound by most players.  Might want to change that, or maybe make it configurable.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/factory-skyline-poor-choice-of-ui-key/942/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/factory-skyline-poor-choice-of-ui-key/942/1</link>
+        <pubDate>Mon, 26 Oct 2020 21:36:50 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-942-1</guid>
+        <source url="https://forums.ficsit.app/t/factory-skyline-poor-choice-of-ui-key/942.rss">Factory Skyline poor choice of UI key</source>
+      </item>
+  </channel>
+</rss>

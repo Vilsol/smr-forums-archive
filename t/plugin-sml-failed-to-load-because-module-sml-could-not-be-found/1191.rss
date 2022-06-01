@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Plugin &#39;SML&#39; failed to load because module &#39;SML&#39; could not be found</title>
+    <link>https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191</link>
+    <description>So I&#39;m testing this new mod, and manually installed SML following the instructions from https://docs.ficsit.app/satisfactory-modding/latest/ManualInstallDirections.html
+
+Extracted SML to `&lt;game root&gt;/FactoryGame/Mods` now has &#39;/FactoryGame/Mods/SML&#39;
+Placed my mod to /FactoryGame/Mods/*.smod*
+
+After that I&#39;m gettin&#39; an error that says:
+Plugin &#39;SML&#39; failed to load because module &#39;SML&#39; could not be found.
+Please ensure the plugin is properly installed, otherwise consider disabling the plugin for this project.
+
+Still with the same message without my mod. Am I missing something here?</description>
+    
+    <lastBuildDate>Mon, 10 May 2021 18:59:01 +0000</lastBuildDate>
+    <category>SML</category>
+    <atom:link href="https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Plugin &#39;SML&#39; failed to load because module &#39;SML&#39; could not be found</title>
+        <dc:creator><![CDATA[@Lagunist Lagunist]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/lagunist">@Lagunist</a> wrote:</p>
+          <blockquote>
+              <p>I just had to do a fresh install of both Satisfactory and SMM, and I also am getting the same message with only “compatible” mods loaded.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191/32">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191/32</link>
+        <pubDate>Mon, 10 May 2021 18:59:01 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1191-32</guid>
+        <source url="https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191.rss">Plugin &#39;SML&#39; failed to load because module &#39;SML&#39; could not be found</source>
+      </item>
+      <item>
+        <title>Plugin &#39;SML&#39; failed to load because module &#39;SML&#39; could not be found</title>
+        <dc:creator><![CDATA[@KodiakGhost Kodiak Ghost]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/kodiakghost">@KodiakGhost</a> wrote:</p>
+          <blockquote>
+              <p>So after looking through all the replies and trying a few things it seems that a few assumptions are made for various people. For those that are not a technically minded as most here is what you do until they automatically update with the fix.</p>
+<p>Go to your FactoryGame folder for your game, open ‘Mods’, open one at a time the mods you have in there and repeat the following: Open Binaries&gt;Win64, open the UE4-Win64-Shipping.modules using Notepad (I use Notepad++ but basic Notepad should work). Change the buildID number listed there to 151248 and save the file. If the mods does not require a Binaries folder you do not need to change anything.</p>
+<p>The mods should now work and the game will launch without an error message</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191/31">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191/31</link>
+        <pubDate>Sun, 09 May 2021 20:53:28 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1191-31</guid>
+        <source url="https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191.rss">Plugin &#39;SML&#39; failed to load because module &#39;SML&#39; could not be found</source>
+      </item>
+      <item>
+        <title>Plugin &#39;SML&#39; failed to load because module &#39;SML&#39; could not be found</title>
+        <dc:creator><![CDATA[@Darek Darek]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/darek">@Darek</a> wrote:</p>
+          <blockquote>
+              <p>Yeah, 2.4.3 SMM works for me, thanks.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191/30">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191/30</link>
+        <pubDate>Sat, 08 May 2021 16:09:43 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1191-30</guid>
+        <source url="https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191.rss">Plugin &#39;SML&#39; failed to load because module &#39;SML&#39; could not be found</source>
+      </item>
+      <item>
+        <title>Plugin &#39;SML&#39; failed to load because module &#39;SML&#39; could not be found</title>
+        <dc:creator><![CDATA[@mircearoata Mircearoata]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/mircearoata">@mircearoata</a> wrote:</p>
+          <blockquote>
+              <p>Forgot the links, sorry</p>
+<p>SMM 2.4.3 link: <a href="https://github.com/satisfactorymodding/SatisfactoryModManager/releases/tag/v2.4.3" rel="nofollow noopener">https://github.com/satisfactorymodding/SatisfactoryModManager/releases/tag/v2.4.3</a><br>
+SMM 2.4.4 link: <a href="https://github.com/satisfactorymodding/SatisfactoryModManager/releases/tag/v2.4.4" rel="nofollow noopener">https://github.com/satisfactorymodding/SatisfactoryModManager/releases/tag/v2.4.4</a></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191/29">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191/29</link>
+        <pubDate>Sat, 08 May 2021 11:36:53 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1191-29</guid>
+        <source url="https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191.rss">Plugin &#39;SML&#39; failed to load because module &#39;SML&#39; could not be found</source>
+      </item>
+      <item>
+        <title>Plugin &#39;SML&#39; failed to load because module &#39;SML&#39; could not be found</title>
+        <dc:creator><![CDATA[@Rosenkraz_Guildenste Rosenkraz Guildenstern]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/rosenkraz_guildenste">@Rosenkraz_Guildenste</a> wrote:</p>
+          <blockquote>
+              <p>“Use the correct SMM version”  How does one control that?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191/28">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191/28</link>
+        <pubDate>Fri, 07 May 2021 22:45:09 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1191-28</guid>
+        <source url="https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191.rss">Plugin &#39;SML&#39; failed to load because module &#39;SML&#39; could not be found</source>
+      </item>
+      <item>
+        <title>Plugin &#39;SML&#39; failed to load because module &#39;SML&#39; could not be found</title>
+        <dc:creator><![CDATA[@mircearoata Mircearoata]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/mircearoata">@mircearoata</a> wrote:</p>
+          <blockquote>
+              <p>Don’t do that! Don’t modify game files like this! SML is a plugin, and it should stay a plugin! This change causes many other problems that we spent hours on the modding discord with 3 people who we just now found they did this, trying to understand what was going on!<br>
+Just use the correct SMM version (v2.4.3 for Early Access and v2.4.4 for Experimental)</p>
+<p>Also <a class="mention" href="/u/thomas_fiedler">@Thomas_Fiedler</a></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191/27">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191/27</link>
+        <pubDate>Fri, 07 May 2021 19:22:31 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1191-27</guid>
+        <source url="https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191.rss">Plugin &#39;SML&#39; failed to load because module &#39;SML&#39; could not be found</source>
+      </item>
+      <item>
+        <title>Plugin &#39;SML&#39; failed to load because module &#39;SML&#39; could not be found</title>
+        <dc:creator><![CDATA[@Roland_Baron Roland Baron]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/roland_baron">@Roland_Baron</a> wrote:</p>
+          <blockquote>
+              <p>Make sure to add the comma at the end of the previous last line.  Took me an hour to figure that out.  LoL</p>
+<p>Works like a charm now.</p>
+<p>Thanks.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191/25">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191/25</link>
+        <pubDate>Fri, 07 May 2021 17:31:38 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1191-25</guid>
+        <source url="https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191.rss">Plugin &#39;SML&#39; failed to load because module &#39;SML&#39; could not be found</source>
+      </item>
+      <item>
+        <title>Plugin &#39;SML&#39; failed to load because module &#39;SML&#39; could not be found</title>
+        <dc:creator><![CDATA[@Olofasenius Olofasenius]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/olofasenius">@Olofasenius</a> wrote:</p>
+          <blockquote>
+              <p>Check the BuildID in the SML-binaries, it should match the buildID from the usual binaries</p>
+<p>Mods\SML\Binaries\Win64 -&gt; UE4-Win64-Shipping.modules -&gt; open with notes and check the buildID, as of right now 151248 works for me there</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191/24">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191/24</link>
+        <pubDate>Fri, 07 May 2021 08:00:34 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1191-24</guid>
+        <source url="https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191.rss">Plugin &#39;SML&#39; failed to load because module &#39;SML&#39; could not be found</source>
+      </item>
+      <item>
+        <title>Plugin &#39;SML&#39; failed to load because module &#39;SML&#39; could not be found</title>
+        <dc:creator><![CDATA[@Jay Jay]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jay">@Jay</a> wrote:</p>
+          <blockquote>
+              <p>This worked for me, Thanks</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191/23">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191/23</link>
+        <pubDate>Thu, 06 May 2021 23:58:29 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1191-23</guid>
+        <source url="https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191.rss">Plugin &#39;SML&#39; failed to load because module &#39;SML&#39; could not be found</source>
+      </item>
+      <item>
+        <title>Plugin &#39;SML&#39; failed to load because module &#39;SML&#39; could not be found</title>
+        <dc:creator><![CDATA[@Jim_Hunt Jim Hunt]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jim_hunt">@Jim_Hunt</a> wrote:</p>
+          <blockquote>
+              <p>I have this problem as well, as I was looking around for posts like this,  I remember someone saying that it is not working for the experimental version but does for the stable version I use the experimental version so have not tested this theory</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191/22">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191/22</link>
+        <pubDate>Thu, 06 May 2021 15:00:06 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1191-22</guid>
+        <source url="https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191.rss">Plugin &#39;SML&#39; failed to load because module &#39;SML&#39; could not be found</source>
+      </item>
+      <item>
+        <title>Plugin &#39;SML&#39; failed to load because module &#39;SML&#39; could not be found</title>
+        <dc:creator><![CDATA[@sandamn2036 Sandamn2036]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/sandamn2036">@sandamn2036</a> wrote:</p>
+          <blockquote>
+              <p>When you modify UE4-Win64-Shipping.modules you have to properly for mat it as json.  Here is a copy of mine that is working.</p>
+<p>{<br>
+“BuildId”: “151248”,<br>
+“Modules”:<br>
+{<br>
+“CoffeeCore”: “UE4-CoffeeCore-Win64-Shipping.dll”,<br>
+“FactoryGame”: “UE4-FactoryGame-Win64-Shipping.dll”,<br>
+“GameAnalyticsModule”: “UE4-GameAnalyticsModule-Win64-Shipping.dll”,<br>
+“SML”: “UE4-SML-Win64-Shipping.dll”<br>
+}<br>
+}</p>
+<p>Hope this helps.  Happy modding.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191/21">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191/21</link>
+        <pubDate>Thu, 06 May 2021 10:01:40 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1191-21</guid>
+        <source url="https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191.rss">Plugin &#39;SML&#39; failed to load because module &#39;SML&#39; could not be found</source>
+      </item>
+      <item>
+        <title>Plugin &#39;SML&#39; failed to load because module &#39;SML&#39; could not be found</title>
+        <dc:creator><![CDATA[@Jan_beere Jan Beere]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jan_beere">@Jan_beere</a> wrote:</p>
+          <blockquote>
+              <p>turn of the Mods button in the SMM to start the game without mods until SMM is patched</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191/20">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191/20</link>
+        <pubDate>Thu, 06 May 2021 02:34:21 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1191-20</guid>
+        <source url="https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191.rss">Plugin &#39;SML&#39; failed to load because module &#39;SML&#39; could not be found</source>
+      </item>
+      <item>
+        <title>Plugin &#39;SML&#39; failed to load because module &#39;SML&#39; could not be found</title>
+        <dc:creator><![CDATA[@Edgar2623 Edgar2623]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/edgar2623">@Edgar2623</a> wrote:</p>
+          <blockquote>
+              <p>I had the same error after change file BuildId version to latest 151248 it start running</p>
+<p>sorry for my English I hope it helped</p>
+<p>Satisfactory\FactoryGame\Mods\SmartFoundations\Binaries\Win64.</p>
+<p><strong>UE4-Win64-Shipping.modules</strong></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191/19</link>
+        <pubDate>Thu, 06 May 2021 01:54:25 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1191-19</guid>
+        <source url="https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191.rss">Plugin &#39;SML&#39; failed to load because module &#39;SML&#39; could not be found</source>
+      </item>
+      <item>
+        <title>Plugin &#39;SML&#39; failed to load because module &#39;SML&#39; could not be found</title>
+        <dc:creator><![CDATA[@Thomas_Fiedler Thomas Fiedler]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/thomas_fiedler">@Thomas_Fiedler</a> wrote:</p>
+          <blockquote>
+              <p>dont overwride the module file…<br>
+the module file should be modified… sorry bad wording.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191/18</link>
+        <pubDate>Wed, 05 May 2021 20:31:51 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1191-18</guid>
+        <source url="https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191.rss">Plugin &#39;SML&#39; failed to load because module &#39;SML&#39; could not be found</source>
+      </item>
+      <item>
+        <title>Plugin &#39;SML&#39; failed to load because module &#39;SML&#39; could not be found</title>
+        <dc:creator><![CDATA[@Thomas_Fiedler Thomas Fiedler]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/thomas_fiedler">@Thomas_Fiedler</a> wrote:</p>
+          <blockquote>
+              <p>Correct the file seem to be a configuratiion via JSON. So you have to add the sml module in the config.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191/17</link>
+        <pubDate>Wed, 05 May 2021 20:31:12 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1191-17</guid>
+        <source url="https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191.rss">Plugin &#39;SML&#39; failed to load because module &#39;SML&#39; could not be found</source>
+      </item>
+      <item>
+        <title>Plugin &#39;SML&#39; failed to load because module &#39;SML&#39; could not be found</title>
+        <dc:creator><![CDATA[@Jan_beere Jan Beere]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/jan_beere">@Jan_beere</a> wrote:</p>
+          <blockquote>
+              <p>the SMM isnt up to date <img src="https://forums.ficsit.app/images/emoji/twitter/man_shrugging.png?v=9" title=":man_shrugging:" class="emoji" alt=":man_shrugging:"></p>
+<p>Error: Game version incompatible. Installed: 151248. SML requires &gt;=151773<br>
+thats the problem</p>
+<p>to find in AppData/Local/SatisfactoryModManager/logs</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191/16</link>
+        <pubDate>Wed, 05 May 2021 19:27:51 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1191-16</guid>
+        <source url="https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191.rss">Plugin &#39;SML&#39; failed to load because module &#39;SML&#39; could not be found</source>
+      </item>
+      <item>
+        <title>Plugin &#39;SML&#39; failed to load because module &#39;SML&#39; could not be found</title>
+        <dc:creator><![CDATA[@Joshua_Miles Joshua Miles]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/joshua_miles">@Joshua_Miles</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-post="10" data-topic="1191">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.ficsit.app/letter_avatar_proxy/v4/letter/t/5fc32e/40.png" class="avatar"> Thomas_Fiedler:</div>
+<blockquote>
+<p>Then i copied the SML binaries (*.dll, *.pdb) from<br>
+…\Satisfactory\FactoryGame\Mods\SML\Binaries\Win64<br>
+To<br>
+…\Satisfactory\FactoryGame\Binaries\Win64</p>
+<p>After that i modified the file<br>
+UE4-Win64-Shipping.modules<br>
+and add the SML Modul<br>
+“SML”: “UE4-SML-Win64-Shipping.dll”</p>
+</blockquote>
+</aside>
+<p>tried that and then it failed to locate the “factorygame” module. I’m just going to uninstall SMM at this point until this is fixed because I can’t even launch the game through steam anymore.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191/15</link>
+        <pubDate>Wed, 05 May 2021 19:16:19 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1191-15</guid>
+        <source url="https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191.rss">Plugin &#39;SML&#39; failed to load because module &#39;SML&#39; could not be found</source>
+      </item>
+      <item>
+        <title>Plugin &#39;SML&#39; failed to load because module &#39;SML&#39; could not be found</title>
+        <dc:creator><![CDATA[@Vladislav_Kozub Vladislav Kozub]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/vladislav_kozub">@Vladislav_Kozub</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-post="10" data-topic="1191">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.ficsit.app/letter_avatar_proxy/v4/letter/t/5fc32e/40.png" class="avatar"> Thomas_Fiedler:</div>
+<blockquote>
+<p>After that i modified the file<br>
+UE4-Win64-Shipping.modules</p>
+</blockquote>
+</aside>
+<p>I followed the instructions up to this point, but what did you mean exactly by “modified”?</p>
+<p>Also,</p>
+<aside class="quote no-group" data-post="10" data-topic="1191">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.ficsit.app/letter_avatar_proxy/v4/letter/t/5fc32e/40.png" class="avatar"> Thomas_Fiedler:</div>
+<blockquote>
+<p>and add the SML Modul<br>
+“SML”: “UE4-SML-Win64-Shipping.dll”</p>
+</blockquote>
+</aside>
+<p>Presumably by “add” you mean copy from …\Satisfactory\FactoryGame\Mods\SML\Binaries\Win64?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191/14</link>
+        <pubDate>Wed, 05 May 2021 17:39:23 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1191-14</guid>
+        <source url="https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191.rss">Plugin &#39;SML&#39; failed to load because module &#39;SML&#39; could not be found</source>
+      </item>
+      <item>
+        <title>Plugin &#39;SML&#39; failed to load because module &#39;SML&#39; could not be found</title>
+        <dc:creator><![CDATA[@Aykut_Tasci Aykut Taşcı]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/aykut_tasci">@Aykut_Tasci</a> wrote:</p>
+          <blockquote>
+              <p>I understand why I could not find it, I do not use SMM, it must be because I do manual installation.</p>
+<p>Thanks mate.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191/13</link>
+        <pubDate>Wed, 05 May 2021 17:18:06 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1191-13</guid>
+        <source url="https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191.rss">Plugin &#39;SML&#39; failed to load because module &#39;SML&#39; could not be found</source>
+      </item>
+      <item>
+        <title>Plugin &#39;SML&#39; failed to load because module &#39;SML&#39; could not be found</title>
+        <dc:creator><![CDATA[@Thomas_Fiedler Thomas Fiedler]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/thomas_fiedler">@Thomas_Fiedler</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-post="10" data-topic="1191">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.ficsit.app/letter_avatar_proxy/v4/letter/t/5fc32e/40.png" class="avatar"> Thomas_Fiedler:</div>
+<blockquote>
+<p>Mods\SML\Binaries\Win64</p>
+</blockquote>
+</aside>
+<p>The files i metioned, will be copied to this location, after you install and activate SMM, with the SML v3.0.0.</p>
+<p>Also you can find these files in the application path of the SMM.<br>
+…SatisfactoryModManager\downloadCache\smlVersions\3.0.0\SML\Binaries\Win64</p>
+<p>For Steam you can find the application path in the settings/downloads/steam library paths.<br>
+For Epic you handled the application path during the installation process.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191/12</link>
+        <pubDate>Wed, 05 May 2021 16:38:42 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1191-12</guid>
+        <source url="https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191.rss">Plugin &#39;SML&#39; failed to load because module &#39;SML&#39; could not be found</source>
+      </item>
+      <item>
+        <title>Plugin &#39;SML&#39; failed to load because module &#39;SML&#39; could not be found</title>
+        <dc:creator><![CDATA[@Aykut_Tasci Aykut Taşcı]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/aykut_tasci">@Aykut_Tasci</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-post="10" data-topic="1191">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.ficsit.app/letter_avatar_proxy/v4/letter/t/5fc32e/40.png" class="avatar"> Thomas_Fiedler:</div>
+<blockquote>
+<p>After that i modified the file<br>
+UE4-Win64-Shipping.modules<br>
+and add the SML Modul<br>
+“SML”: “UE4-SML-Win64-Shipping.dll”</p>
+</blockquote>
+</aside>
+<p><a class="mention" href="/u/thomas_fiedler">@Thomas_Fiedler</a> Hi. I could not find the files you mentioned above.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191/11</link>
+        <pubDate>Wed, 05 May 2021 15:47:23 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1191-11</guid>
+        <source url="https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191.rss">Plugin &#39;SML&#39; failed to load because module &#39;SML&#39; could not be found</source>
+      </item>
+      <item>
+        <title>Plugin &#39;SML&#39; failed to load because module &#39;SML&#39; could not be found</title>
+        <dc:creator><![CDATA[@Thomas_Fiedler Thomas Fiedler]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/thomas_fiedler">@Thomas_Fiedler</a> wrote:</p>
+          <blockquote>
+              <p>Hi,<br>
+i found way to solve the problem for me.<br>
+After installing SMM and the mods i want, i get the same error message.<br>
+CL151248 SML v3.0.0</p>
+<p>Then i copied the SML binaries (*.dll, *.pdb) from<br>
+…\Satisfactory\FactoryGame\Mods\SML\Binaries\Win64<br>
+To<br>
+…\Satisfactory\FactoryGame\Binaries\Win64</p>
+<p>After that i modified the file<br>
+UE4-Win64-Shipping.modules<br>
+and add the SML Modul<br>
+“SML”: “UE4-SML-Win64-Shipping.dll”</p>
+<p>Cheers</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191/10</link>
+        <pubDate>Wed, 05 May 2021 11:56:13 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1191-10</guid>
+        <source url="https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191.rss">Plugin &#39;SML&#39; failed to load because module &#39;SML&#39; could not be found</source>
+      </item>
+      <item>
+        <title>Plugin &#39;SML&#39; failed to load because module &#39;SML&#39; could not be found</title>
+        <dc:creator><![CDATA[@Alex_Cairns Alex Cairns]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/alex_cairns">@Alex_Cairns</a> wrote:</p>
+          <blockquote>
+              <p>Hi, Just got the game and was looking at the smart mod, I clicked install with SMM but when I try to load the game it comes up with this error. Does anyone know why?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191/9</link>
+        <pubDate>Tue, 04 May 2021 19:52:10 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1191-9</guid>
+        <source url="https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191.rss">Plugin &#39;SML&#39; failed to load because module &#39;SML&#39; could not be found</source>
+      </item>
+      <item>
+        <title>Plugin &#39;SML&#39; failed to load because module &#39;SML&#39; could not be found</title>
+        <dc:creator><![CDATA[@Aykut_Tasci Aykut Taşcı]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/aykut_tasci">@Aykut_Tasci</a> wrote:</p>
+          <blockquote>
+              <p>SML worked on the latest version, but this time I could not install mods. <img src="https://forums.ficsit.app/images/emoji/twitter/pensive.png?v=9" title=":pensive:" class="emoji" alt=":pensive:"><img src="https://forums.ficsit.app/images/emoji/twitter/pensive.png?v=9" title=":pensive:" class="emoji" alt=":pensive:"></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191/8</link>
+        <pubDate>Mon, 03 May 2021 15:54:37 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1191-8</guid>
+        <source url="https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191.rss">Plugin &#39;SML&#39; failed to load because module &#39;SML&#39; could not be found</source>
+      </item>
+      <item>
+        <title>Plugin &#39;SML&#39; failed to load because module &#39;SML&#39; could not be found</title>
+        <dc:creator><![CDATA[@Marcel_Hintz Marcel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/marcel_hintz">@Marcel_Hintz</a> wrote:</p>
+          <blockquote>
+              <p>Hallo zusammen ich habe das selbe Problem über den Mod Manager bei mir sieht die fehlermeldung so aus</p>
+<p>Plugin SML failed to load because module SML could not be found. Please ensure the plugin is properly installed, otherwise consider disabling the plugin for this project</p>
+<p>hat jeman das Problem schon Gelöst?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191/7</link>
+        <pubDate>Mon, 03 May 2021 15:42:24 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1191-7</guid>
+        <source url="https://forums.ficsit.app/t/plugin-sml-failed-to-load-because-module-sml-could-not-be-found/1191.rss">Plugin &#39;SML&#39; failed to load because module &#39;SML&#39; could not be found</source>
+      </item>
+  </channel>
+</rss>

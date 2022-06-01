@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Structural Solutions - Issue</title>
+    <link>https://forums.ficsit.app/t/structural-solutions-issue/1076</link>
+    <description>Mike Skinner / D4rkL0rd -
+Great mod, looks very nice.  There is an issue with your objects overlapping. When using the 8x8x1 block if you are targeting an existing block the game/nod will allow you to place another block over the existing one. This creates and issue when spam placing blocks where you end up with 2+ block in every space depending on where the targeting is when you are clicking as you run. Looks like the collision is not set up right to keep the objects from occupying the same space the way official foundations work.
+
+
+Thanks!</description>
+    
+    <lastBuildDate>Sat, 09 Jan 2021 21:03:26 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forums.ficsit.app/t/structural-solutions-issue/1076.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Structural Solutions - Issue</title>
+        <dc:creator><![CDATA[@Mike_Skinner Mike Skinner]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/mike_skinner">@Mike_Skinner</a> wrote:</p>
+          <blockquote>
+              <p>Thank you for the report, I will look into the problem.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/structural-solutions-issue/1076/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/structural-solutions-issue/1076/2</link>
+        <pubDate>Sat, 09 Jan 2021 21:03:26 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1076-2</guid>
+        <source url="https://forums.ficsit.app/t/structural-solutions-issue/1076.rss">Structural Solutions - Issue</source>
+      </item>
+      <item>
+        <title>Structural Solutions - Issue</title>
+        <dc:creator><![CDATA[@Frank_Coon Frank Coon]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/frank_coon">@Frank_Coon</a> wrote:</p>
+          <blockquote>
+              <p>Mike Skinner / D4rkL0rd -<br>
+Great mod, looks very nice.  There is an issue with your objects overlapping. When using the 8x8x1 block if you are targeting an existing block the game/nod will allow you to place another block over the existing one. This creates and issue when spam placing blocks where you end up with 2+ block in every space depending on where the targeting is when you are clicking as you run. Looks like the collision is not set up right to keep the objects from occupying the same space the way official foundations work.</p>
+<p>Thanks!</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/structural-solutions-issue/1076/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/structural-solutions-issue/1076/1</link>
+        <pubDate>Sat, 09 Jan 2021 04:19:20 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1076-1</guid>
+        <source url="https://forums.ficsit.app/t/structural-solutions-issue/1076.rss">Structural Solutions - Issue</source>
+      </item>
+  </channel>
+</rss>

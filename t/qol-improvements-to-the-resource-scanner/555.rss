@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>QOL Improvements to the Resource Scanner</title>
+    <link>https://forums.ficsit.app/t/qol-improvements-to-the-resource-scanner/555</link>
+    <description>Would be nice to have a little mod to modify the RSS Scanner behaviour such that if a deposit has a miner on top, it get&#39;s ignored thus not showing up. That way we don&#39;t walk in circles in order to find new deposits. No idea how complicated that is in terms of modding or if it&#39;s even possible, but maybe someone with some modding experience wants to have a look. :slight_smile:</description>
+    
+    <lastBuildDate>Mon, 11 May 2020 07:06:49 +0000</lastBuildDate>
+    <category>Suggestions &amp; Ideas</category>
+    <atom:link href="https://forums.ficsit.app/t/qol-improvements-to-the-resource-scanner/555.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>QOL Improvements to the Resource Scanner</title>
+        <dc:creator><![CDATA[@TheShadoWZYE The Shado Wzye]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/theshadowzye">@TheShadoWZYE</a> wrote:</p>
+          <blockquote>
+              <p>Aye, there’s a couple of workarounds for it. Still i don’t really understand why the scanner function the way it does in game right now. Maybe an oversight? Who knows. But i know there are maps/save editors out there that DO have the functionality to hide the already exploited nodes, meaning the game already has a way to track that. And that’s what i’ll keep doing for the time being, use external maps. Until the scanner get’s more useful. Coz’ as of now, unless i travel a few kilometers away from my base, there’s nothing new that the scanner can point out for me anymore :)).</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/qol-improvements-to-the-resource-scanner/555/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/qol-improvements-to-the-resource-scanner/555/3</link>
+        <pubDate>Mon, 11 May 2020 07:06:49 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-555-3</guid>
+        <source url="https://forums.ficsit.app/t/qol-improvements-to-the-resource-scanner/555.rss">QOL Improvements to the Resource Scanner</source>
+      </item>
+      <item>
+        <title>QOL Improvements to the Resource Scanner</title>
+        <dc:creator><![CDATA[@Joel_Stead Joel Stead]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/joel_stead">@Joel_Stead</a> wrote:</p>
+          <blockquote>
+              <p>This idea sounds quite interesting…</p>
+<p>I generally use the scanner with the in-game map function as well you can get a fair idea of the locations of resources even if you haven’t been in that area yet.</p>
+<p>Also would be a nice idea be able use parts of satisfactory-calculator website in game which has an extremely detailed map of where resources are.</p>
+<p>Personally I also use named beacons at my miners so if a ping matches the miner it sort of hides it anyway. (i.e. Iron ORE § x 2 as its description with silver colored icon).</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/qol-improvements-to-the-resource-scanner/555/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/qol-improvements-to-the-resource-scanner/555/2</link>
+        <pubDate>Sun, 10 May 2020 11:20:52 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-555-2</guid>
+        <source url="https://forums.ficsit.app/t/qol-improvements-to-the-resource-scanner/555.rss">QOL Improvements to the Resource Scanner</source>
+      </item>
+      <item>
+        <title>QOL Improvements to the Resource Scanner</title>
+        <dc:creator><![CDATA[@TheShadoWZYE The Shado Wzye]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/theshadowzye">@TheShadoWZYE</a> wrote:</p>
+          <blockquote>
+              <p>Would be nice to have a little mod to modify the RSS Scanner behaviour such that if a deposit has a miner on top, it get’s ignored thus not showing up. That way we don’t walk in circles in order to find new deposits. No idea how complicated that is in terms of modding or if it’s even possible, but maybe someone with some modding experience wants to have a look. <img src="https://forums.ficsit.app/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/qol-improvements-to-the-resource-scanner/555/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/qol-improvements-to-the-resource-scanner/555/1</link>
+        <pubDate>Sun, 10 May 2020 03:55:34 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-555-1</guid>
+        <source url="https://forums.ficsit.app/t/qol-improvements-to-the-resource-scanner/555.rss">QOL Improvements to the Resource Scanner</source>
+      </item>
+  </channel>
+</rss>

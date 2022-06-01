@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Refined Power - Dyson sphere missing?</title>
+    <link>https://forums.ficsit.app/t/refined-power-dyson-sphere-missing/513</link>
+    <description>I have installed the &quot;Refined Power&quot; mod, and it works perfectly. Only the Dyson sphere is missing. I have unlocked everything up to the arc reactor in Tier7, but I cannot build the Dyson sphere hangars. They do not appear in the build menu, nor are there any milestones in the hub-terminal. What am I missing?</description>
+    
+    <lastBuildDate>Thu, 29 Oct 2020 02:16:55 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/refined-power-dyson-sphere-missing/513.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Refined Power - Dyson sphere missing?</title>
+        <dc:creator><![CDATA[@donald_curry Donald Curry]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/donald_curry">@donald_curry</a> wrote:</p>
+          <blockquote>
+              <p>you figure this out? i have it missing  with other stuff on the milestones before it, if the solar and batteries</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/refined-power-dyson-sphere-missing/513/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/refined-power-dyson-sphere-missing/513/2</link>
+        <pubDate>Thu, 29 Oct 2020 02:16:55 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-513-2</guid>
+        <source url="https://forums.ficsit.app/t/refined-power-dyson-sphere-missing/513.rss">Refined Power - Dyson sphere missing?</source>
+      </item>
+      <item>
+        <title>Refined Power - Dyson sphere missing?</title>
+        <dc:creator><![CDATA[@Flow_Q Flow Q]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/flow_q">@Flow_Q</a> wrote:</p>
+          <blockquote>
+              <p>I have installed the “Refined Power” mod, and it works perfectly. Only the Dyson sphere is missing. I have unlocked everything up to the arc reactor in Tier7, but I cannot build the Dyson sphere hangars. They do not appear in the build menu, nor are there any milestones in the hub-terminal. What am I missing?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/refined-power-dyson-sphere-missing/513/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/refined-power-dyson-sphere-missing/513/1</link>
+        <pubDate>Sat, 02 May 2020 12:02:47 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-513-1</guid>
+        <source url="https://forums.ficsit.app/t/refined-power-dyson-sphere-missing/513.rss">Refined Power - Dyson sphere missing?</source>
+      </item>
+  </channel>
+</rss>

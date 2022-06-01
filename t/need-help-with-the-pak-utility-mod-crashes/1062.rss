@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Need help with the Pak Utility Mod crashes</title>
+    <link>https://forums.ficsit.app/t/need-help-with-the-pak-utility-mod-crashes/1062</link>
+    <description>So my friend hosts the game and we both play together. We both downloaded the Pak Utility Mod a few days ago only to ease up the building process.
+
+After playing with it for 10 hours or something, it started crashing the game. My friend can host the game using that mod and play just fine, but as soon as I connect to his server with the same mod the game crashes with an error on my client saying &quot;Outgoing reliable buffer overflow&quot;.
+
+The mod is not life and death and I can still play without it but the building process is just too tedious specially if you are building vertically, which I always do. I need to build scaffolding like structures around to be able to move around the building and it is just too much time consuming. Also makes me forget at times what my building plan was.
+
+Anyone here who has an idea as to how can I fix it? Or even better, can anyone suggest a different mod for flying which is multiplayer compatible?
+
+We don&#39;t use any other mods.
+
+Thanks.</description>
+    
+    <lastBuildDate>Thu, 28 Jan 2021 18:12:31 +0000</lastBuildDate>
+    <category>Pak Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/need-help-with-the-pak-utility-mod-crashes/1062.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Need help with the Pak Utility Mod crashes</title>
+        <dc:creator><![CDATA[@Robb Rob B]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/robb">@Robb</a> wrote:</p>
+          <blockquote>
+              <p>This is an issue that can affect any mod that adds schematics with dependencies. It should be fixed in the next SML version. In the mean time, you can use Goz3rr’s save editor’s ‘Deduplicate Schematics’ cheat to get rid of the copies. <a href="https://github.com/Goz3rr/SatisfactorySaveEditor/releases">https://github.com/Goz3rr/SatisfactorySaveEditor/releases</a></p>
+<p>I’m surprised this happened with just Pak Utility mod.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/need-help-with-the-pak-utility-mod-crashes/1062/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/need-help-with-the-pak-utility-mod-crashes/1062/2</link>
+        <pubDate>Thu, 28 Jan 2021 18:12:31 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1062-2</guid>
+        <source url="https://forums.ficsit.app/t/need-help-with-the-pak-utility-mod-crashes/1062.rss">Need help with the Pak Utility Mod crashes</source>
+      </item>
+      <item>
+        <title>Need help with the Pak Utility Mod crashes</title>
+        <dc:creator><![CDATA[@Mayank_Raj Mayank Raj]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/mayank_raj">@Mayank_Raj</a> wrote:</p>
+          <blockquote>
+              <p>So my friend hosts the game and we both play together. We both downloaded the Pak Utility Mod a few days ago only to ease up the building process.</p>
+<p>After playing with it for 10 hours or something, it started crashing the game. My friend can host the game using that mod and play just fine, but as soon as I connect to his server with the same mod the game crashes with an error on my client saying “Outgoing reliable buffer overflow”.</p>
+<p>The mod is not life and death and I can still play without it but the building process is just too tedious specially if you are building vertically, which I always do. I need to build scaffolding like structures around to be able to move around the building and it is just too much time consuming. Also makes me forget at times what my building plan was.</p>
+<p>Anyone here who has an idea as to how can I fix it? Or even better, can anyone suggest a different mod for flying which is multiplayer compatible?</p>
+<p>We don’t use any other mods.</p>
+<p>Thanks.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/need-help-with-the-pak-utility-mod-crashes/1062/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/need-help-with-the-pak-utility-mod-crashes/1062/1</link>
+        <pubDate>Mon, 04 Jan 2021 18:17:37 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1062-1</guid>
+        <source url="https://forums.ficsit.app/t/need-help-with-the-pak-utility-mod-crashes/1062.rss">Need help with the Pak Utility Mod crashes</source>
+      </item>
+  </channel>
+</rss>

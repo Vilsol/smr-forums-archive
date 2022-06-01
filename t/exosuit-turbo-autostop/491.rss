@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Exosuit turbo autostop</title>
+    <link>https://forums.ficsit.app/t/exosuit-turbo-autostop/491</link>
+    <description>with the last update its not possible to stop the turbo whe you jump or you go in a hypertube and it consume all the fuel is it possible to make the fuel consumtion stop when you stop moving, jump or go in tube?</description>
+    
+    <lastBuildDate>Tue, 28 Apr 2020 20:15:53 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/exosuit-turbo-autostop/491.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Exosuit turbo autostop</title>
+        <dc:creator><![CDATA[@zoscran Zoscran]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/zoscran">@zoscran</a> wrote:</p>
+          <blockquote>
+              <p>with the last update its not possible to stop the turbo whe you jump or you go in a hypertube and it consume all the fuel is it possible to make the fuel consumtion stop when you stop moving, jump or go in tube?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/exosuit-turbo-autostop/491/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/exosuit-turbo-autostop/491/1</link>
+        <pubDate>Tue, 28 Apr 2020 20:15:53 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-491-1</guid>
+        <source url="https://forums.ficsit.app/t/exosuit-turbo-autostop/491.rss">Exosuit turbo autostop</source>
+      </item>
+  </channel>
+</rss>

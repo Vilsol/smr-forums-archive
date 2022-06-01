@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>SatisfactoryModLoader</title>
+    <link>https://forums.ficsit.app/t/satisfactorymodloader/219</link>
+    <description>Hello everyone,
+
+At the download page of SatisfactoryMod Loader Release 2.0.0 stands: Use the new automatic loader to install the SML.
+
+I installed the SatisfactoryModLauncher and there is no option to install the SML. at the top stand always: SML: not installed.
+
+So, how can i install the new SML version manually? Or when will the option be available in the ModLauncher?
+
+Greetings
+Jens</description>
+    
+    <lastBuildDate>Fri, 27 Mar 2020 19:57:04 +0000</lastBuildDate>
+    <category>SML</category>
+    <atom:link href="https://forums.ficsit.app/t/satisfactorymodloader/219.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>SatisfactoryModLoader</title>
+        <dc:creator><![CDATA[@heber_moreira Heber Moreira]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/heber_moreira">@heber_moreira</a> wrote:</p>
+          <blockquote>
+              <p>game wont start and sml wont load mods still the same wont do annything <div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/f7fa951693724e42a995d974d328c0bb0fd34a1b.png" data-download-href="https://forums.ficsit.app/uploads/default/f7fa951693724e42a995d974d328c0bb0fd34a1b" title="Sem%20T%C3%ADtulo"><img src="https://forums.ficsit.app/uploads/default/optimized/1X/f7fa951693724e42a995d974d328c0bb0fd34a1b_2_690x388.png" alt="Sem%20T%C3%ADtulo" data-base62-sha1="znINWcQ2b5eJu3tVkbcnzPYbPt1" width="690" height="388" srcset="https://forums.ficsit.app/uploads/default/optimized/1X/f7fa951693724e42a995d974d328c0bb0fd34a1b_2_690x388.png, https://forums.ficsit.app/uploads/default/optimized/1X/f7fa951693724e42a995d974d328c0bb0fd34a1b_2_1035x582.png 1.5x, https://forums.ficsit.app/uploads/default/optimized/1X/f7fa951693724e42a995d974d328c0bb0fd34a1b_2_1380x776.png 2x" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/f7fa951693724e42a995d974d328c0bb0fd34a1b_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">Sem%20T%C3%ADtulo</span><span class="informations">1920×1080 75.6 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/satisfactorymodloader/219/28">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/satisfactorymodloader/219/28</link>
+        <pubDate>Sun, 22 Mar 2020 22:24:15 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-219-28</guid>
+        <source url="https://forums.ficsit.app/t/satisfactorymodloader/219.rss">SatisfactoryModLoader</source>
+      </item>
+      <item>
+        <title>SatisfactoryModLoader</title>
+        <dc:creator><![CDATA[@mircearoata Mircearoata]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/mircearoata">@mircearoata</a> wrote:</p>
+          <blockquote>
+              <p>This issue is now fixed in SMLauncher &gt;=1.0.2</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/satisfactorymodloader/219/27">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/satisfactorymodloader/219/27</link>
+        <pubDate>Thu, 19 Mar 2020 20:10:12 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-219-27</guid>
+        <source url="https://forums.ficsit.app/t/satisfactorymodloader/219.rss">SatisfactoryModLoader</source>
+      </item>
+      <item>
+        <title>SatisfactoryModLoader</title>
+        <dc:creator><![CDATA[@Stefan_Bandowsky Stefan Bandowsky]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/stefan_bandowsky">@Stefan_Bandowsky</a> wrote:</p>
+          <blockquote>
+              <p>I had the same problem and try the tip of mircearoata, two entry above you. Suddenly it works.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/satisfactorymodloader/219/26">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/satisfactorymodloader/219/26</link>
+        <pubDate>Thu, 19 Mar 2020 00:25:20 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-219-26</guid>
+        <source url="https://forums.ficsit.app/t/satisfactorymodloader/219.rss">SatisfactoryModLoader</source>
+      </item>
+      <item>
+        <title>SatisfactoryModLoader</title>
+        <dc:creator><![CDATA[@heber_moreira Heber Moreira]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/heber_moreira">@heber_moreira</a> wrote:</p>
+          <blockquote>
+              <p><div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/f7fa951693724e42a995d974d328c0bb0fd34a1b.png" data-download-href="https://forums.ficsit.app/uploads/default/f7fa951693724e42a995d974d328c0bb0fd34a1b" title="Sem%20T%C3%ADtulo"><img src="https://forums.ficsit.app/uploads/default/optimized/1X/f7fa951693724e42a995d974d328c0bb0fd34a1b_2_690x388.png" alt="Sem%20T%C3%ADtulo" data-base62-sha1="znINWcQ2b5eJu3tVkbcnzPYbPt1" width="690" height="388" srcset="https://forums.ficsit.app/uploads/default/optimized/1X/f7fa951693724e42a995d974d328c0bb0fd34a1b_2_690x388.png, https://forums.ficsit.app/uploads/default/optimized/1X/f7fa951693724e42a995d974d328c0bb0fd34a1b_2_1035x582.png 1.5x, https://forums.ficsit.app/uploads/default/optimized/1X/f7fa951693724e42a995d974d328c0bb0fd34a1b_2_1380x776.png 2x" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/f7fa951693724e42a995d974d328c0bb0fd34a1b_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">Sem%20T%C3%ADtulo</span><span class="informations">1920×1080 75.6 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>my sml wont do annything installed and nothing else opens up just stays like that</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/satisfactorymodloader/219/25">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/satisfactorymodloader/219/25</link>
+        <pubDate>Wed, 18 Mar 2020 23:58:25 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-219-25</guid>
+        <source url="https://forums.ficsit.app/t/satisfactorymodloader/219.rss">SatisfactoryModLoader</source>
+      </item>
+      <item>
+        <title>SatisfactoryModLoader</title>
+        <dc:creator><![CDATA[@Stefan_Bandowsky Stefan Bandowsky]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/stefan_bandowsky">@Stefan_Bandowsky</a> wrote:</p>
+          <blockquote>
+              <p>Ok, i try the tip of mircearoata and suddenly i can chose an option</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/satisfactorymodloader/219/24">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/satisfactorymodloader/219/24</link>
+        <pubDate>Tue, 17 Mar 2020 00:23:05 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-219-24</guid>
+        <source url="https://forums.ficsit.app/t/satisfactorymodloader/219.rss">SatisfactoryModLoader</source>
+      </item>
+      <item>
+        <title>SatisfactoryModLoader</title>
+        <dc:creator><![CDATA[@mircearoata Mircearoata]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/mircearoata">@mircearoata</a> wrote:</p>
+          <blockquote>
+              <p>Also for the other people having the exact same error log as you (exact same, there is a similar one with different solution. both of them are fixed in the next version of SMLauncher)</p>
+<p>Go to this path: <code>C:\ProgramData\Epic\EpicGamesLauncher\Data\Manifests</code> and look in each <code>.item</code> file. If it is empty, delete it.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/satisfactorymodloader/219/23">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/satisfactorymodloader/219/23</link>
+        <pubDate>Mon, 16 Mar 2020 15:19:29 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-219-23</guid>
+        <source url="https://forums.ficsit.app/t/satisfactorymodloader/219.rss">SatisfactoryModLoader</source>
+      </item>
+      <item>
+        <title>SatisfactoryModLoader</title>
+        <dc:creator><![CDATA[@Armand_Strauss Armand Strauss]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/armand_strauss">@Armand_Strauss</a> wrote:</p>
+          <blockquote>
+              <p>Not sure if this will help. But there are some errors when going into the console to check error logs, I am not a programmer so I dont know what it may mean:</p>
+<p>Uncaught (in promise) SyntaxError: Unexpected token  in JSON at position 0<br>
+at JSON.parse ()<br>
+at C:\Users\Armand Stra…ctoryInstall.js:233<br>
+at Array.forEach ()<br>
+at getInstalls (C:\Users\Armand Stra…ctoryInstall.js:229)<br>
+at a.refreshSatisfactoryInstalls (renderer.js:34)<br>
+at a.created (renderer.js:34)<br>
+at K (renderer.js:1)<br>
+at Wt (renderer.js:1)<br>
+at a.t._init (renderer.js:1)<br>
+at new a (renderer.js:1)<br>
+renderer.js:1 TypeError: Cannot read property ‘mods’ of null<br>
+at a.isModVersionInstalled (renderer.js:34)<br>
+at fn (renderer.js:34)<br>
+at r (renderer.js:1)<br>
+at a.ut [as _t] (renderer.js:1)<br>
+at renderer.js:34<br>
+at a.mt [as _l] (renderer.js:1)<br>
+at a. (renderer.js:34)<br>
+at a.t._render (renderer.js:1)<br>
+at a.r (renderer.js:1)<br>
+at Do.get (renderer.js:1)<br>
+renderer.js:1 TypeError: Cannot read property ‘mods’ of null<br>
+at a.isModVersionInstalled (renderer.js:34)<br>
+at fn (renderer.js:34)<br>
+at r (renderer.js:1)<br>
+at a.ut [as _t] (renderer.js:1)<br>
+at renderer.js:34<br>
+at a.mt [as _l] (renderer.js:1)<br>
+at a. (renderer.js:34)<br>
+at a.t._render (renderer.js:1)<br>
+at a.r (renderer.js:1)<br>
+at Do.get (renderer.js:1)<br>
+J	@	renderer.js:1</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/satisfactorymodloader/219/22">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/satisfactorymodloader/219/22</link>
+        <pubDate>Mon, 16 Mar 2020 12:43:33 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-219-22</guid>
+        <source url="https://forums.ficsit.app/t/satisfactorymodloader/219.rss">SatisfactoryModLoader</source>
+      </item>
+      <item>
+        <title>SatisfactoryModLoader</title>
+        <dc:creator><![CDATA[@Armand_Strauss Armand Strauss]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/armand_strauss">@Armand_Strauss</a> wrote:</p>
+          <blockquote>
+              <p>I have a legitimate copy of the game. Just nothing comes up when clicking the arrow to select the game in the launcher.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/satisfactorymodloader/219/21">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/satisfactorymodloader/219/21</link>
+        <pubDate>Mon, 16 Mar 2020 12:24:55 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-219-21</guid>
+        <source url="https://forums.ficsit.app/t/satisfactorymodloader/219.rss">SatisfactoryModLoader</source>
+      </item>
+      <item>
+        <title>SatisfactoryModLoader</title>
+        <dc:creator><![CDATA[@Armand_Strauss Armand Strauss]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/armand_strauss">@Armand_Strauss</a> wrote:</p>
+          <blockquote>
+              <p>Bump. I am having the exact same issue as Stefan.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/satisfactorymodloader/219/20">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/satisfactorymodloader/219/20</link>
+        <pubDate>Mon, 16 Mar 2020 12:22:18 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-219-20</guid>
+        <source url="https://forums.ficsit.app/t/satisfactorymodloader/219.rss">SatisfactoryModLoader</source>
+      </item>
+      <item>
+        <title>SatisfactoryModLoader</title>
+        <dc:creator><![CDATA[@Stefan_Bandowsky Stefan Bandowsky]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/stefan_bandowsky">@Stefan_Bandowsky</a> wrote:</p>
+          <blockquote>
+              <p>                        <a href="https://imgur.com/QiBuCxh" target="_blank" class="onebox" rel="nofollow noopener">
+              <img src="https://forums.ficsit.app/uploads/default/original/1X/f182b2188160574074a85f938b8312f8e767e949.jpeg" title="Imgur" alt="Imgur" height="315" width="600">
+            </a>
+
+</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/satisfactorymodloader/219/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/satisfactorymodloader/219/19</link>
+        <pubDate>Sun, 15 Mar 2020 21:49:07 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-219-19</guid>
+        <source url="https://forums.ficsit.app/t/satisfactorymodloader/219.rss">SatisfactoryModLoader</source>
+      </item>
+      <item>
+        <title>SatisfactoryModLoader</title>
+        <dc:creator><![CDATA[@Vilsol]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/vilsol">@Vilsol</a> wrote:</p>
+          <blockquote>
+              <p>Your link has expired, please upload it to imgur or the like.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/satisfactorymodloader/219/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/satisfactorymodloader/219/18</link>
+        <pubDate>Sun, 15 Mar 2020 21:37:29 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-219-18</guid>
+        <source url="https://forums.ficsit.app/t/satisfactorymodloader/219.rss">SatisfactoryModLoader</source>
+      </item>
+      <item>
+        <title>SatisfactoryModLoader</title>
+        <dc:creator><![CDATA[@Stefan_Bandowsky Stefan Bandowsky]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/stefan_bandowsky">@Stefan_Bandowsky</a> wrote:</p>
+          <blockquote>
+              <p>Hope that is ok,first try</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/satisfactorymodloader/219/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/satisfactorymodloader/219/17</link>
+        <pubDate>Sun, 15 Mar 2020 19:39:11 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-219-17</guid>
+        <source url="https://forums.ficsit.app/t/satisfactorymodloader/219.rss">SatisfactoryModLoader</source>
+      </item>
+      <item>
+        <title>SatisfactoryModLoader</title>
+        <dc:creator><![CDATA[@Stefan_Bandowsky Stefan Bandowsky]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/stefan_bandowsky">@Stefan_Bandowsky</a> wrote:</p>
+          <blockquote>
+              <aside class="onebox whitelistedgeneric">
+  <header class="source">
+      
+      <a href="https://send.firefox.com/download/1fc7324f1213b9af/#x-fkSNUuujXDHnWsb-OJBQ" target="_blank" rel="nofollow noopener">send.firefox.com</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/362;"><img src="https://forums.ficsit.app/uploads/default/original/1X/9267ab7289217eb10a2a57b750cb6bda94a11ee0.jpeg" class="thumbnail"></div>
+
+<h3><a href="https://send.firefox.com/download/1fc7324f1213b9af/#x-fkSNUuujXDHnWsb-OJBQ" target="_blank" rel="nofollow noopener">Firefox Send</a></h3>
+
+<p>Encrypt and send files with a link that automatically expires to ensure your important documents don’t stay online forever.</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/satisfactorymodloader/219/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/satisfactorymodloader/219/16</link>
+        <pubDate>Sun, 15 Mar 2020 19:38:40 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-219-16</guid>
+        <source url="https://forums.ficsit.app/t/satisfactorymodloader/219.rss">SatisfactoryModLoader</source>
+      </item>
+      <item>
+        <title>SatisfactoryModLoader</title>
+        <dc:creator><![CDATA[@Stefan_Bandowsky Stefan Bandowsky]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/stefan_bandowsky">@Stefan_Bandowsky</a> wrote:</p>
+          <blockquote>
+              <p>Says is to large and i have no cloud sharing</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/satisfactorymodloader/219/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/satisfactorymodloader/219/15</link>
+        <pubDate>Sun, 15 Mar 2020 19:34:15 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-219-15</guid>
+        <source url="https://forums.ficsit.app/t/satisfactorymodloader/219.rss">SatisfactoryModLoader</source>
+      </item>
+      <item>
+        <title>SatisfactoryModLoader</title>
+        <dc:creator><![CDATA[@Vilsol]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/vilsol">@Vilsol</a> wrote:</p>
+          <blockquote>
+              <p>Could you please post a screenshot of your epic games launcher library view?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/satisfactorymodloader/219/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/satisfactorymodloader/219/14</link>
+        <pubDate>Sun, 15 Mar 2020 19:17:16 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-219-14</guid>
+        <source url="https://forums.ficsit.app/t/satisfactorymodloader/219.rss">SatisfactoryModLoader</source>
+      </item>
+      <item>
+        <title>SatisfactoryModLoader</title>
+        <dc:creator><![CDATA[@Stefan_Bandowsky Stefan Bandowsky]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/stefan_bandowsky">@Stefan_Bandowsky</a> wrote:</p>
+          <blockquote>
+              <p>And the mod launcher say the Whole time : <strong>SML: Select a Satisfactory Install</strong><br>
+I can not select anything</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/satisfactorymodloader/219/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/satisfactorymodloader/219/13</link>
+        <pubDate>Sun, 15 Mar 2020 18:18:28 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-219-13</guid>
+        <source url="https://forums.ficsit.app/t/satisfactorymodloader/219.rss">SatisfactoryModLoader</source>
+      </item>
+      <item>
+        <title>SatisfactoryModLoader</title>
+        <dc:creator><![CDATA[@Stefan_Bandowsky Stefan Bandowsky]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/stefan_bandowsky">@Stefan_Bandowsky</a> wrote:</p>
+          <blockquote>
+              <p>There is only empty by me, a can not choose anything. See my Screenshots</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/satisfactorymodloader/219/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/satisfactorymodloader/219/12</link>
+        <pubDate>Sat, 14 Mar 2020 17:13:16 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-219-12</guid>
+        <source url="https://forums.ficsit.app/t/satisfactorymodloader/219.rss">SatisfactoryModLoader</source>
+      </item>
+      <item>
+        <title>SatisfactoryModLoader</title>
+        <dc:creator><![CDATA[@hullcityafc Hullcityafc]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/hullcityafc">@hullcityafc</a> wrote:</p>
+          <blockquote>
+              <p>click on the down arrow in the blue outlined box and choose which version  of the game your want the mod to be in (EA or Exp)</p>
+<p>[<a href="https://ibb.co/zZgJ4L8" rel="nofollow noopener"><img src="https://forums.ficsit.app/uploads/default/original/1X/1a0572c68aa9550d236c82e2ff5bc8a78b466a3a.png" alt="launcher" data-base62-sha1="3Ic5pofYmYWnawPaQLugGR44YCm" width="640" height="360"></a>](<a href="https://ibb.co/zZgJ4L8" rel="nofollow noopener"><img src="https://forums.ficsit.app/uploads/default/original/1X/1a0572c68aa9550d236c82e2ff5bc8a78b466a3a.png" alt="launcher" data-base62-sha1="3Ic5pofYmYWnawPaQLugGR44YCm" width="640" height="360"></a>)</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/satisfactorymodloader/219/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/satisfactorymodloader/219/11</link>
+        <pubDate>Sat, 14 Mar 2020 16:47:47 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-219-11</guid>
+        <source url="https://forums.ficsit.app/t/satisfactorymodloader/219.rss">SatisfactoryModLoader</source>
+      </item>
+      <item>
+        <title>SatisfactoryModLoader</title>
+        <dc:creator><![CDATA[@Robert_Wehder Robert Wehder]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/robert_wehder">@Robert_Wehder</a> wrote:</p>
+          <blockquote>
+              <p>i tryed to install a mod but i get : Error: EBUSY: resource busy or locked, open ‘E:\Spiele\SatisfactoryEarlyAccess\loaders\UE4-SML-Win64-Shipping.dll’. All changes were discarded.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/satisfactorymodloader/219/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/satisfactorymodloader/219/10</link>
+        <pubDate>Sat, 14 Mar 2020 16:14:20 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-219-10</guid>
+        <source url="https://forums.ficsit.app/t/satisfactorymodloader/219.rss">SatisfactoryModLoader</source>
+      </item>
+      <item>
+        <title>SatisfactoryModLoader</title>
+        <dc:creator><![CDATA[@Stefan_Bandowsky Stefan Bandowsky]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/stefan_bandowsky">@Stefan_Bandowsky</a> wrote:</p>
+          <blockquote>
+              <p>I can not download any mods</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/satisfactorymodloader/219/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/satisfactorymodloader/219/9</link>
+        <pubDate>Sat, 14 Mar 2020 16:07:59 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-219-9</guid>
+        <source url="https://forums.ficsit.app/t/satisfactorymodloader/219.rss">SatisfactoryModLoader</source>
+      </item>
+      <item>
+        <title>SatisfactoryModLoader</title>
+        <dc:creator><![CDATA[@Stefan_Bandowsky Stefan Bandowsky]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/stefan_bandowsky">@Stefan_Bandowsky</a> wrote:</p>
+          <blockquote>
+              <p><div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/3cb9763b0a70eb22a1b074ce0e1d588b2edeb1f3.png" data-download-href="https://forums.ficsit.app/uploads/default/3cb9763b0a70eb22a1b074ce0e1d588b2edeb1f3" title="Screenshot%20(5)"><img src="https://forums.ficsit.app/uploads/default/optimized/1X/3cb9763b0a70eb22a1b074ce0e1d588b2edeb1f3_2_690x388.png" alt="Screenshot%20(5)" data-base62-sha1="8FbZTMEGaQ7jbTR0r1EaLzuIuHN" width="690" height="388" srcset="https://forums.ficsit.app/uploads/default/optimized/1X/3cb9763b0a70eb22a1b074ce0e1d588b2edeb1f3_2_690x388.png, https://forums.ficsit.app/uploads/default/optimized/1X/3cb9763b0a70eb22a1b074ce0e1d588b2edeb1f3_2_1035x582.png 1.5x, https://forums.ficsit.app/uploads/default/optimized/1X/3cb9763b0a70eb22a1b074ce0e1d588b2edeb1f3_2_1380x776.png 2x" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/3cb9763b0a70eb22a1b074ce0e1d588b2edeb1f3_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">Screenshot%20(5)</span><span class="informations">1920×1080 139 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/satisfactorymodloader/219/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/satisfactorymodloader/219/8</link>
+        <pubDate>Sat, 14 Mar 2020 01:58:21 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-219-8</guid>
+        <source url="https://forums.ficsit.app/t/satisfactorymodloader/219.rss">SatisfactoryModLoader</source>
+      </item>
+      <item>
+        <title>SatisfactoryModLoader</title>
+        <dc:creator><![CDATA[@Stefan_Bandowsky Stefan Bandowsky]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/stefan_bandowsky">@Stefan_Bandowsky</a> wrote:</p>
+          <blockquote>
+              <p><div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/25beb0f5a786aeb3349d05a634c56a343e99cf12.png" data-download-href="https://forums.ficsit.app/uploads/default/25beb0f5a786aeb3349d05a634c56a343e99cf12" title="Screenshot%20(4)"><img src="https://forums.ficsit.app/uploads/default/optimized/1X/25beb0f5a786aeb3349d05a634c56a343e99cf12_2_690x388.png" alt="Screenshot%20(4)" data-base62-sha1="5nUdFGzZWDlZpSZyAC2mYYHbQie" width="690" height="388" srcset="https://forums.ficsit.app/uploads/default/optimized/1X/25beb0f5a786aeb3349d05a634c56a343e99cf12_2_690x388.png, https://forums.ficsit.app/uploads/default/optimized/1X/25beb0f5a786aeb3349d05a634c56a343e99cf12_2_1035x582.png 1.5x, https://forums.ficsit.app/uploads/default/optimized/1X/25beb0f5a786aeb3349d05a634c56a343e99cf12_2_1380x776.png 2x" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/25beb0f5a786aeb3349d05a634c56a343e99cf12_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">Screenshot%20(4)</span><span class="informations">1920×1080 152 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>When i click ok, nothing happens</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/satisfactorymodloader/219/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/satisfactorymodloader/219/7</link>
+        <pubDate>Sat, 14 Mar 2020 01:53:47 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-219-7</guid>
+        <source url="https://forums.ficsit.app/t/satisfactorymodloader/219.rss">SatisfactoryModLoader</source>
+      </item>
+      <item>
+        <title>SatisfactoryModLoader</title>
+        <dc:creator><![CDATA[@hullcityafc Hullcityafc]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/hullcityafc">@hullcityafc</a> wrote:</p>
+          <blockquote>
+              <p>Follow the link in the the new sml version</p>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src="https://github.githubassets.com/favicon.ico" class="site-icon" width="32" height="32">
+      <a href="https://github.com/satisfactorymodding/SatisfactoryModLauncher/releases" target="_blank" rel="nofollow noopener">GitHub</a>
+  </header>
+  <article class="onebox-body">
+    <img src="https://forums.ficsit.app/uploads/default/original/1X/e2ea92e436fdbc559e76da36b4f8e75d486dd8d9.png" class="thumbnail onebox-avatar" width="400" height="400">
+
+<h3><a href="https://github.com/satisfactorymodding/SatisfactoryModLauncher/releases" target="_blank" rel="nofollow noopener">satisfactorymodding/SatisfactoryModLauncher</a></h3>
+
+<p>A launcher for easy installation of mods and modloader - satisfactorymodding/SatisfactoryModLauncher</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>Click on the exe file</p>
+<p><a href="https://github.com/satisfactorymodding/SatisfactoryModLauncher/releases/download/v1.0.1/Satisfactory-Mod-Launcher-Setup-1.0.1.exe" class="onebox" target="_blank" rel="nofollow noopener">https://github.com/satisfactorymodding/SatisfactoryModLauncher/releases/download/v1.0.1/Satisfactory-Mod-Launcher-Setup-1.0.1.exe</a></p>
+<p>run as admin</p>
+<p>Install mods from the launcher</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/satisfactorymodloader/219/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/satisfactorymodloader/219/6</link>
+        <pubDate>Fri, 13 Mar 2020 15:25:26 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-219-6</guid>
+        <source url="https://forums.ficsit.app/t/satisfactorymodloader/219.rss">SatisfactoryModLoader</source>
+      </item>
+      <item>
+        <title>SatisfactoryModLoader</title>
+        <dc:creator><![CDATA[@Stefan_Bandowsky Stefan Bandowsky]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/stefan_bandowsky">@Stefan_Bandowsky</a> wrote:</p>
+          <blockquote>
+              <p>How can i  select a Satisfactory installation for SML?<br>
+Because when i try to donload a mod, i can only choose the Version and when i click ok, nothing happens.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/satisfactorymodloader/219/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/satisfactorymodloader/219/5</link>
+        <pubDate>Fri, 13 Mar 2020 12:59:48 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-219-5</guid>
+        <source url="https://forums.ficsit.app/t/satisfactorymodloader/219.rss">SatisfactoryModLoader</source>
+      </item>
+      <item>
+        <title>SatisfactoryModLoader</title>
+        <dc:creator><![CDATA[@Tibor_Bellovics Tibor Bellovics]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/tibor_bellovics">@Tibor_Bellovics</a> wrote:</p>
+          <blockquote>
+              <p>and what is your solution because sometimes the UE4 error pops up for me too and have to manually close that process</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/satisfactorymodloader/219/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/satisfactorymodloader/219/4</link>
+        <pubDate>Fri, 13 Mar 2020 05:15:20 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-219-4</guid>
+        <source url="https://forums.ficsit.app/t/satisfactorymodloader/219.rss">SatisfactoryModLoader</source>
+      </item>
+  </channel>
+</rss>

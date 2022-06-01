@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Refined Power bug: nuclear waste duplication</title>
+    <link>https://forums.ficsit.app/t/refined-power-bug-nuclear-waste-duplication/1053</link>
+    <description>(maybe a bug?)
+running latest version on experimental
+
+The nuclear heaters accept nuclear waste as an input, and return to you 10x what was put in.
+Just for giggles I put in 10 nuclear waste barrels, and immediately the machine spat out 100 barrels of waste, with no effect. Nudge for purex? ;)
+
+just curious: is it normal that the heaters produce 10 barrels of waste (at full heat) per nuclear fuel rod consumed?</description>
+    
+    <lastBuildDate>Thu, 31 Dec 2020 19:10:01 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forums.ficsit.app/t/refined-power-bug-nuclear-waste-duplication/1053.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Refined Power bug: nuclear waste duplication</title>
+        <dc:creator><![CDATA[@I_m_a_chicken29 Im A Chicken29]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/i_m_a_chicken29">@I_m_a_chicken29</a> wrote:</p>
+          <blockquote>
+              <p>xD - A dev of refined power</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/refined-power-bug-nuclear-waste-duplication/1053/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/refined-power-bug-nuclear-waste-duplication/1053/2</link>
+        <pubDate>Thu, 31 Dec 2020 19:10:01 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1053-2</guid>
+        <source url="https://forums.ficsit.app/t/refined-power-bug-nuclear-waste-duplication/1053.rss">Refined Power bug: nuclear waste duplication</source>
+      </item>
+      <item>
+        <title>Refined Power bug: nuclear waste duplication</title>
+        <dc:creator><![CDATA[@maudib2222 Maudib2222]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/maudib2222">@maudib2222</a> wrote:</p>
+          <blockquote>
+              <p>(maybe a bug?)<br>
+running latest version on experimental</p>
+<p>The nuclear heaters accept nuclear waste as an input, and return to you 10x what was put in.<br>
+Just for giggles I put in 10 nuclear waste barrels, and immediately the machine spat out 100 barrels of waste, with no effect. Nudge for purex? <img src="https://forums.ficsit.app/images/emoji/twitter/wink.png?v=9" title=":wink:" class="emoji" alt=":wink:"></p>
+<p>just curious: is it normal that the heaters produce 10 barrels of waste (at full heat) per nuclear fuel rod consumed?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/refined-power-bug-nuclear-waste-duplication/1053/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/refined-power-bug-nuclear-waste-duplication/1053/1</link>
+        <pubDate>Wed, 30 Dec 2020 20:34:35 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1053-1</guid>
+        <source url="https://forums.ficsit.app/t/refined-power-bug-nuclear-waste-duplication/1053.rss">Refined Power bug: nuclear waste duplication</source>
+      </item>
+  </channel>
+</rss>

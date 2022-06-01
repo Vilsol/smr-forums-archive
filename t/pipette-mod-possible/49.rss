@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Pipette mod possible?</title>
+    <link>https://forums.ficsit.app/t/pipette-mod-possible/49</link>
+    <description>Hi! First of all, I&#39;m very excited about this forum :+1:
+
+I&#39;m kind of frustrated, that the game still doesn&#39;t feature a mechanic to select what you are looking at to build a copy.
+This makes it very inconvenient to try out different designs, because 10 slots are not nearly enough, even with only vanilla items. Throw in something like MoarFactory and it&#39;s just painful.
+The &quot;Area Actions&quot; mod shows, that it&#39;s possible to select entitys (not all, but a lot of them).
+Is it theoretically possible to enter build mode with that building selected?
+I would actually start reading into how to do it myself if it&#39;s possible, because this is the only thing that made me quit Satisfactory for now.
+
+Thank you for your time :slightly_smiling_face: 
+
+Ps: I&#39;m sure they will add it at some point, but I don&#39;t want to wait :smile:</description>
+    
+    <lastBuildDate>Wed, 13 Nov 2019 09:15:24 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/pipette-mod-possible/49.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Pipette mod possible?</title>
+        <dc:creator><![CDATA[@mircearoata Mircearoata]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/mircearoata">@mircearoata</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-post="5" data-topic="49">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.ficsit.app/user_avatar/forums.ficsit.app/panakotta00/40/8_2.png" class="avatar"> Panakotta00:</div>
+<blockquote>
+<p>What have you tried already?</p>
+</blockquote>
+</aside>
+<p>Only the spawnactor with template, but as I said in the previous message, it doesn’t work with child components, so I either make a lot of cases to fix them, or I manually spawn them and iterate ufields of actor and children, or use holograms</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/pipette-mod-possible/49/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/pipette-mod-possible/49/7</link>
+        <pubDate>Wed, 13 Nov 2019 09:15:24 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-49-7</guid>
+        <source url="https://forums.ficsit.app/t/pipette-mod-possible/49.rss">Pipette mod possible?</source>
+      </item>
+      <item>
+        <title>Pipette mod possible?</title>
+        <dc:creator><![CDATA[@mircearoata Mircearoata]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/mircearoata">@mircearoata</a> wrote:</p>
+          <blockquote>
+              <p>It is hard because the function actually constructing it is not an ufunction (you know what I’m talking about, you worked with holograms)<br>
+And even if I could just copy the belt with spawnactor with template, I would have to fix the connections because the factoryconnection would still point to the one I copied from. Which I might still have to do, but the way I’ll serialize and deserialize will be an array of objects and the object ptrs I’ll serialize as index in the array.<br>
+Also, railroads crash if they are spawned without a connection, so maybe I find a way to use the holograms directly which would be much less work because if someone adds a new type of hologram I won’t have to make another case for it</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/pipette-mod-possible/49/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/pipette-mod-possible/49/6</link>
+        <pubDate>Wed, 13 Nov 2019 08:21:19 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-49-6</guid>
+        <source url="https://forums.ficsit.app/t/pipette-mod-possible/49.rss">Pipette mod possible?</source>
+      </item>
+      <item>
+        <title>Pipette mod possible?</title>
+        <dc:creator><![CDATA[@Panakotta00 Panakotta00]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/panakotta00">@Panakotta00</a> wrote:</p>
+          <blockquote>
+              <p>Nice… why is the conveyor fix so hard?<br>
+What have you tried already?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/pipette-mod-possible/49/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/pipette-mod-possible/49/5</link>
+        <pubDate>Wed, 13 Nov 2019 07:07:05 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-49-5</guid>
+        <source url="https://forums.ficsit.app/t/pipette-mod-possible/49.rss">Pipette mod possible?</source>
+      </item>
+      <item>
+        <title>Pipette mod possible?</title>
+        <dc:creator><![CDATA[@mircearoata Mircearoata]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/mircearoata">@mircearoata</a> wrote:</p>
+          <blockquote>
+              <p>You don’t need c++. Because the UI needs to call BuildGun::EnterBuildMode(recipe), it is an UFunction, and it is also public. Then hard part was making the player enter build mode, but it worked in the end</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/pipette-mod-possible/49/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/pipette-mod-possible/49/4</link>
+        <pubDate>Wed, 13 Nov 2019 07:05:22 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-49-4</guid>
+        <source url="https://forums.ficsit.app/t/pipette-mod-possible/49.rss">Pipette mod possible?</source>
+      </item>
+      <item>
+        <title>Pipette mod possible?</title>
+        <dc:creator><![CDATA[@mircearoata Mircearoata]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/mircearoata">@mircearoata</a> wrote:</p>
+          <blockquote>
+              <p>I already added pipette in Area Actions 1.5.3  but I didn’t release it because I wanted it to include the conveyor fixes too, but I guess I should release it…</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/pipette-mod-possible/49/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/pipette-mod-possible/49/3</link>
+        <pubDate>Wed, 13 Nov 2019 07:02:37 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-49-3</guid>
+        <source url="https://forums.ficsit.app/t/pipette-mod-possible/49.rss">Pipette mod possible?</source>
+      </item>
+      <item>
+        <title>Pipette mod possible?</title>
+        <dc:creator><![CDATA[@Panakotta00 Panakotta00]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/panakotta00">@Panakotta00</a> wrote:</p>
+          <blockquote>
+              <p>There would be multiple approaches for this, but in general it should be possible.<br>
+But I guess you will need to do C++ modding to achieve this.<br>
+You could hook the BuildGun and inject the stuff you need. Or you you hook something else, like the player to to trace the path on your own.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/pipette-mod-possible/49/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/pipette-mod-possible/49/2</link>
+        <pubDate>Wed, 13 Nov 2019 06:44:11 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-49-2</guid>
+        <source url="https://forums.ficsit.app/t/pipette-mod-possible/49.rss">Pipette mod possible?</source>
+      </item>
+      <item>
+        <title>Pipette mod possible?</title>
+        <dc:creator><![CDATA[@camarril Camarril]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/camarril">@camarril</a> wrote:</p>
+          <blockquote>
+              <p>Hi! First of all, I’m very excited about this forum <img src="https://forums.ficsit.app/images/emoji/twitter/+1.png?v=9" title=":+1:" class="emoji" alt=":+1:"></p>
+<p>I’m kind of frustrated, that the game still doesn’t feature a mechanic to select what you are looking at to build a copy.<br>
+This makes it very inconvenient to try out different designs, because 10 slots are not nearly enough, even with only vanilla items. Throw in something like MoarFactory and it’s just painful.<br>
+The “Area Actions” mod shows, that it’s possible to select entitys (not all, but a lot of them).<br>
+Is it theoretically possible to enter build mode with that building selected?<br>
+I would actually start reading into how to do it myself if it’s possible, because this is the only thing that made me quit Satisfactory for now.</p>
+<p>Thank you for your time <img src="https://forums.ficsit.app/images/emoji/twitter/slightly_smiling_face.png?v=9" title=":slightly_smiling_face:" class="emoji" alt=":slightly_smiling_face:"></p>
+<p>Ps: I’m sure they will add it at some point, but I don’t want to wait <img src="https://forums.ficsit.app/images/emoji/twitter/smile.png?v=9" title=":smile:" class="emoji" alt=":smile:"></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/pipette-mod-possible/49/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/pipette-mod-possible/49/1</link>
+        <pubDate>Tue, 12 Nov 2019 18:32:11 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-49-1</guid>
+        <source url="https://forums.ficsit.app/t/pipette-mod-possible/49.rss">Pipette mod possible?</source>
+      </item>
+  </channel>
+</rss>

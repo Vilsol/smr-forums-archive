@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>AlpaKit not creating PAK&#39;s</title>
+    <link>https://forums.ficsit.app/t/alpakit-not-creating-paks/126</link>
+    <description>Hi all,
+
+Just starting to play around with modding (simple foundation type blocks to start with).
+
+To test my setup I&#39;ve downloaded the source for the fences mod and tried compiling it etc. with Alpakit, but it refuses to create the pak (the sig file is created and put in the right place, it&#39;s just the Pak that&#39;s missing).
+
+Would anyone have any idea why that could be happening?  I can&#39;t see anything that stands out in the UE output log.
+
+Thanks
+Spud</description>
+    
+    <lastBuildDate>Sun, 06 Dec 2020 01:01:19 +0000</lastBuildDate>
+    <category>Pak Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/alpakit-not-creating-paks/126.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>AlpaKit not creating PAK&#39;s</title>
+        <dc:creator><![CDATA[@Luzcile_KPM Luzcile Kpm]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/luzcile_kpm">@Luzcile_KPM</a> wrote:</p>
+          <blockquote>
+              <p>Hello i have the same Problem  Alpakit doesnt create Pak files  i have no space in the foldername<a href="https://pastebin.com/HBtPfezD" rel="nofollow noopener">Log</a></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/alpakit-not-creating-paks/126/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/alpakit-not-creating-paks/126/8</link>
+        <pubDate>Sun, 06 Dec 2020 01:01:19 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-126-8</guid>
+        <source url="https://forums.ficsit.app/t/alpakit-not-creating-paks/126.rss">AlpaKit not creating PAK&#39;s</source>
+      </item>
+      <item>
+        <title>AlpaKit not creating PAK&#39;s</title>
+        <dc:creator><![CDATA[@mircearoata Mircearoata]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/mircearoata">@mircearoata</a> wrote:</p>
+          <blockquote>
+              <p>He already got it working. Alpakit is made to work even without the SF path, and his didn’t even cook the files because UE’s cooking process failed to start</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/alpakit-not-creating-paks/126/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/alpakit-not-creating-paks/126/7</link>
+        <pubDate>Wed, 08 Jan 2020 07:59:16 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-126-7</guid>
+        <source url="https://forums.ficsit.app/t/alpakit-not-creating-paks/126.rss">AlpaKit not creating PAK&#39;s</source>
+      </item>
+      <item>
+        <title>AlpaKit not creating PAK&#39;s</title>
+        <dc:creator><![CDATA[@weeaiden102_weilltur Weeaiden102 Weilltur]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/weeaiden102_weilltur">@weeaiden102_weilltur</a> wrote:</p>
+          <blockquote>
+              <p>have you set the game path to c:\users(username)\program files\epic games\satisfactory early access?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/alpakit-not-creating-paks/126/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/alpakit-not-creating-paks/126/6</link>
+        <pubDate>Thu, 02 Jan 2020 17:16:55 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-126-6</guid>
+        <source url="https://forums.ficsit.app/t/alpakit-not-creating-paks/126.rss">AlpaKit not creating PAK&#39;s</source>
+      </item>
+      <item>
+        <title>AlpaKit not creating PAK&#39;s</title>
+        <dc:creator><![CDATA[@TheMightySpud The Mighty Spud]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/themightyspud">@TheMightySpud</a> wrote:</p>
+          <blockquote>
+              <p>Sure thing…</p>
+<p><a href="https://pastebin.com/CYU6g0Q6" rel="nofollow noopener">Pastbin log link</a></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/alpakit-not-creating-paks/126/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/alpakit-not-creating-paks/126/5</link>
+        <pubDate>Sun, 29 Dec 2019 11:09:04 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-126-5</guid>
+        <source url="https://forums.ficsit.app/t/alpakit-not-creating-paks/126.rss">AlpaKit not creating PAK&#39;s</source>
+      </item>
+      <item>
+        <title>AlpaKit not creating PAK&#39;s</title>
+        <dc:creator><![CDATA[@mircearoata Mircearoata]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/mircearoata">@mircearoata</a> wrote:</p>
+          <blockquote>
+              <p>Hmm. Can you send the log?</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/alpakit-not-creating-paks/126/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/alpakit-not-creating-paks/126/4</link>
+        <pubDate>Sun, 29 Dec 2019 06:18:51 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-126-4</guid>
+        <source url="https://forums.ficsit.app/t/alpakit-not-creating-paks/126.rss">AlpaKit not creating PAK&#39;s</source>
+      </item>
+      <item>
+        <title>AlpaKit not creating PAK&#39;s</title>
+        <dc:creator><![CDATA[@TheMightySpud The Mighty Spud]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/themightyspud">@TheMightySpud</a> wrote:</p>
+          <blockquote>
+              <p>No spaces, all underscored etc.  :-/  Very confusing.  lol.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/alpakit-not-creating-paks/126/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/alpakit-not-creating-paks/126/3</link>
+        <pubDate>Sun, 29 Dec 2019 06:09:32 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-126-3</guid>
+        <source url="https://forums.ficsit.app/t/alpakit-not-creating-paks/126.rss">AlpaKit not creating PAK&#39;s</source>
+      </item>
+      <item>
+        <title>AlpaKit not creating PAK&#39;s</title>
+        <dc:creator><![CDATA[@mircearoata Mircearoata]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/mircearoata">@mircearoata</a> wrote:</p>
+          <blockquote>
+              <p>Hi!</p>
+<p>Is there a space in the path to the starter project? If so, rename the folder with spaces in the name to something without spaces.</p>
+<p>This shouldn’t happen, I thought I fixed it a while ago, but somehow it still happens for some</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/alpakit-not-creating-paks/126/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/alpakit-not-creating-paks/126/2</link>
+        <pubDate>Sun, 29 Dec 2019 06:06:47 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-126-2</guid>
+        <source url="https://forums.ficsit.app/t/alpakit-not-creating-paks/126.rss">AlpaKit not creating PAK&#39;s</source>
+      </item>
+      <item>
+        <title>AlpaKit not creating PAK&#39;s</title>
+        <dc:creator><![CDATA[@TheMightySpud The Mighty Spud]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/themightyspud">@TheMightySpud</a> wrote:</p>
+          <blockquote>
+              <p>Hi all,</p>
+<p>Just starting to play around with modding (simple foundation type blocks to start with).</p>
+<p>To test my setup I’ve downloaded the source for the fences mod and tried compiling it etc. with Alpakit, but it refuses to create the pak (the sig file is created and put in the right place, it’s just the Pak that’s missing).</p>
+<p>Would anyone have any idea why that could be happening?  I can’t see anything that stands out in the UE output log.</p>
+<p>Thanks<br>
+Spud</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/alpakit-not-creating-paks/126/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/alpakit-not-creating-paks/126/1</link>
+        <pubDate>Sun, 29 Dec 2019 00:17:44 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-126-1</guid>
+        <source url="https://forums.ficsit.app/t/alpakit-not-creating-paks/126.rss">AlpaKit not creating PAK&#39;s</source>
+      </item>
+  </channel>
+</rss>

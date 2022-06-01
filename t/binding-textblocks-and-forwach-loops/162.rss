@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Binding Textblocks and forwach loops</title>
+    <link>https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162</link>
+    <description>I getting info from inventory and getting the Item, Count and Item Name, Plus the Type count and Index Types. The issue is that when the results are displayed in the text block. The results blink. As it would in the foreach loop. Any one have any idea on how to keep the results from blinking Here&#39;s my node setup ![image|690x215](upload://sjwYDDjY8vhbufezbi6pSApL1DS.png)</description>
+    
+    <lastBuildDate>Thu, 30 Jan 2020 12:28:42 +0000</lastBuildDate>
+    <category>Modding</category>
+    <atom:link href="https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Binding Textblocks and forwach loops</title>
+        <dc:creator><![CDATA[@iceman11a Iceman11a *]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/iceman11a">@iceman11a</a> wrote:</p>
+          <blockquote>
+              <p>I never got any help for this. and you saying the modding community is up and ready and very strong. I don’t think so. Other wise this would have been fixed a long time ago.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162/47">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162/47</link>
+        <pubDate>Thu, 30 Jan 2020 12:28:42 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-162-47</guid>
+        <source url="https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162.rss">Binding Textblocks and forwach loops</source>
+      </item>
+      <item>
+        <title>Binding Textblocks and forwach loops</title>
+        <dc:creator><![CDATA[@iceman11a Iceman11a *]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/iceman11a">@iceman11a</a> wrote:</p>
+          <blockquote>
+              <p>what I’m trying to do is the same thing you have in your sample mod and add it to my mod. Instead of casting to the per item list object. I’m casting to the the machine it self. I can do 1/2 of it. Just can’t seem to figure out how to get the names.<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/ed7d2daea8fae82e43e8e4f09a5d0883565b58b6.png" data-download-href="https://forums.ficsit.app/uploads/default/ed7d2daea8fae82e43e8e4f09a5d0883565b58b6" title="image"><img src="https://forums.ficsit.app/uploads/default/optimized/1X/ed7d2daea8fae82e43e8e4f09a5d0883565b58b6_2_690x300.png" alt="image" data-base62-sha1="xSVlX5nqxREpF0TrVg0oUAxKsxE" width="690" height="300" srcset="https://forums.ficsit.app/uploads/default/optimized/1X/ed7d2daea8fae82e43e8e4f09a5d0883565b58b6_2_690x300.png, https://forums.ficsit.app/uploads/default/optimized/1X/ed7d2daea8fae82e43e8e4f09a5d0883565b58b6_2_1035x450.png 1.5x, https://forums.ficsit.app/uploads/default/original/1X/ed7d2daea8fae82e43e8e4f09a5d0883565b58b6.png 2x" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/ed7d2daea8fae82e43e8e4f09a5d0883565b58b6_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1089×474 129 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162/46">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162/46</link>
+        <pubDate>Thu, 23 Jan 2020 21:28:41 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-162-46</guid>
+        <source url="https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162.rss">Binding Textblocks and forwach loops</source>
+      </item>
+      <item>
+        <title>Binding Textblocks and forwach loops</title>
+        <dc:creator><![CDATA[@iceman11a Iceman11a *]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/iceman11a">@iceman11a</a> wrote:</p>
+          <blockquote>
+              <p>This is what I been playing with and I know it’s more then likely wrong.<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/4f7f2cffa1efd64042e0ce4170ccaa625bb77597.png" data-download-href="https://forums.ficsit.app/uploads/default/4f7f2cffa1efd64042e0ce4170ccaa625bb77597" title="image"><img src="https://forums.ficsit.app/uploads/default/optimized/1X/4f7f2cffa1efd64042e0ce4170ccaa625bb77597_2_690x368.png" alt="image" data-base62-sha1="blgbXVfq7JB9BtuigizFWgfWhG7" width="690" height="368" srcset="https://forums.ficsit.app/uploads/default/optimized/1X/4f7f2cffa1efd64042e0ce4170ccaa625bb77597_2_690x368.png, https://forums.ficsit.app/uploads/default/optimized/1X/4f7f2cffa1efd64042e0ce4170ccaa625bb77597_2_1035x552.png 1.5x, https://forums.ficsit.app/uploads/default/original/1X/4f7f2cffa1efd64042e0ce4170ccaa625bb77597.png 2x" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/4f7f2cffa1efd64042e0ce4170ccaa625bb77597_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1117×596 150 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162/45">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162/45</link>
+        <pubDate>Tue, 21 Jan 2020 21:22:28 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-162-45</guid>
+        <source url="https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162.rss">Binding Textblocks and forwach loops</source>
+      </item>
+      <item>
+        <title>Binding Textblocks and forwach loops</title>
+        <dc:creator><![CDATA[@iceman11a Iceman11a *]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/iceman11a">@iceman11a</a> wrote:</p>
+          <blockquote>
+              <p>Sorry, <a class="mention" href="/u/mrhid6">@mrhid6</a>  I didn’t know it was you. I wasn’t sure if you were going to have any time for this. What you saying is that I create a Variable in the build_itemcounter and some way use that to display the info. and any ideas on the blinking issue. Ok, what kind of variable do I need and what function do I add it to.</p>
+<p>Here’s a the variables that I have set up. can I use one of them. or do I need a new variable.<br>
+<img src="https://forums.ficsit.app/uploads/default/original/1X/5705529c87be79c0aa0183986e1a6480c88e9dce.png" alt="image" data-base62-sha1="cpOWvPdoWBXvYv1PXoEA9jSqlNI" width="301" height="398"></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162/44">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162/44</link>
+        <pubDate>Tue, 21 Jan 2020 18:34:28 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-162-44</guid>
+        <source url="https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162.rss">Binding Textblocks and forwach loops</source>
+      </item>
+      <item>
+        <title>Binding Textblocks and forwach loops</title>
+        <dc:creator><![CDATA[@iceman11a Iceman11a *]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/iceman11a">@iceman11a</a> wrote:</p>
+          <blockquote>
+              <p>Other then the foreach loop blinking away. It doesn’t seem to be counting the items, It sees the item names ok. That’s seem to be working. Just the count it not working</p>
+<p>Update. This is what I have so far.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/f269e3c7a17d66d179d5b3d992ffb767603593e6.png" data-download-href="https://forums.ficsit.app/uploads/default/f269e3c7a17d66d179d5b3d992ffb767603593e6" title="image"><img src="https://forums.ficsit.app/uploads/default/optimized/1X/f269e3c7a17d66d179d5b3d992ffb767603593e6_2_690x399.png" alt="image" data-base62-sha1="yAupLEK8luC0h7dJXUFZHZgVQtU" width="690" height="399" srcset="https://forums.ficsit.app/uploads/default/optimized/1X/f269e3c7a17d66d179d5b3d992ffb767603593e6_2_690x399.png, https://forums.ficsit.app/uploads/default/optimized/1X/f269e3c7a17d66d179d5b3d992ffb767603593e6_2_1035x598.png 1.5x, https://forums.ficsit.app/uploads/default/original/1X/f269e3c7a17d66d179d5b3d992ffb767603593e6.png 2x" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/f269e3c7a17d66d179d5b3d992ffb767603593e6_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1192×691 176 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>How ever, it’s still not counting. Never mind that last line. It didn’t pan out to anything</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162/43">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162/43</link>
+        <pubDate>Tue, 21 Jan 2020 17:58:21 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-162-43</guid>
+        <source url="https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162.rss">Binding Textblocks and forwach loops</source>
+      </item>
+      <item>
+        <title>Binding Textblocks and forwach loops</title>
+        <dc:creator><![CDATA[@iceman11a Iceman11a *]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/iceman11a">@iceman11a</a> wrote:</p>
+          <blockquote>
+              <p>Ok, you mean like this <div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/86ecfe2004fff1cf4e50290ee3b2532c256f9794.png" data-download-href="https://forums.ficsit.app/uploads/default/86ecfe2004fff1cf4e50290ee3b2532c256f9794" title="image"><img src="https://forums.ficsit.app/uploads/default/optimized/1X/86ecfe2004fff1cf4e50290ee3b2532c256f9794_2_690x312.png" alt="image" data-base62-sha1="jfBJBhTANdGBgQ9kM9DACKEYoMQ" width="690" height="312" srcset="https://forums.ficsit.app/uploads/default/optimized/1X/86ecfe2004fff1cf4e50290ee3b2532c256f9794_2_690x312.png, https://forums.ficsit.app/uploads/default/original/1X/86ecfe2004fff1cf4e50290ee3b2532c256f9794.png 1.5x, https://forums.ficsit.app/uploads/default/original/1X/86ecfe2004fff1cf4e50290ee3b2532c256f9794.png 2x" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/86ecfe2004fff1cf4e50290ee3b2532c256f9794_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">698×316 56.4 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>let me see if I can see the results in game.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162/42">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162/42</link>
+        <pubDate>Tue, 21 Jan 2020 17:47:57 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-162-42</guid>
+        <source url="https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162.rss">Binding Textblocks and forwach loops</source>
+      </item>
+      <item>
+        <title>Binding Textblocks and forwach loops</title>
+        <dc:creator><![CDATA[@mrhid6 Mrhid6]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/mrhid6">@mrhid6</a> wrote:</p>
+          <blockquote>
+              <p>Iceman you just need to create a variable in the building blueprint and using the function we created to transfer all the item you need to increase the variable by one. Then in the widget just display that variable</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162/41">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162/41</link>
+        <pubDate>Tue, 21 Jan 2020 17:42:53 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-162-41</guid>
+        <source url="https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162.rss">Binding Textblocks and forwach loops</source>
+      </item>
+      <item>
+        <title>Binding Textblocks and forwach loops</title>
+        <dc:creator><![CDATA[@iceman11a Iceman11a *]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/iceman11a">@iceman11a</a> wrote:</p>
+          <blockquote>
+              <p>Oh, Great, I didn’t know that. I have no idea how to fix that. I’ll have to check with Mr Hid. I didn’t want to have to do the class all over again, Unless you have an easy way of doing it.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162/40">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162/40</link>
+        <pubDate>Tue, 21 Jan 2020 17:35:25 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-162-40</guid>
+        <source url="https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162.rss">Binding Textblocks and forwach loops</source>
+      </item>
+      <item>
+        <title>Binding Textblocks and forwach loops</title>
+        <dc:creator><![CDATA[@mircearoata Mircearoata]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/mircearoata">@mircearoata</a> wrote:</p>
+          <blockquote>
+              <p>Yes, but what that message image says is for the UtilityMachines item counter, which also says how many of each item passed through. Yours only says how many items in total passed</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162/39">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162/39</link>
+        <pubDate>Tue, 21 Jan 2020 17:32:48 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-162-39</guid>
+        <source url="https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162.rss">Binding Textblocks and forwach loops</source>
+      </item>
+      <item>
+        <title>Binding Textblocks and forwach loops</title>
+        <dc:creator><![CDATA[@iceman11a Iceman11a *]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/iceman11a">@iceman11a</a> wrote:</p>
+          <blockquote>
+              <p>That’s all this does. It gets one item at a time and return the item count and the count number. and after more items get sent threw. They all so get counted in and displayed.<br>
+Ok, I’ll check your answer in the other fourm</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162/38">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162/38</link>
+        <pubDate>Tue, 21 Jan 2020 17:31:14 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-162-38</guid>
+        <source url="https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162.rss">Binding Textblocks and forwach loops</source>
+      </item>
+      <item>
+        <title>Binding Textblocks and forwach loops</title>
+        <dc:creator><![CDATA[@mircearoata Mircearoata]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/mircearoata">@mircearoata</a> wrote:</p>
+          <blockquote>
+              <p>Btw, answered on your other issue, with the warehouse widget</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162/37">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162/37</link>
+        <pubDate>Tue, 21 Jan 2020 17:28:34 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-162-37</guid>
+        <source url="https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162.rss">Binding Textblocks and forwach loops</source>
+      </item>
+      <item>
+        <title>Binding Textblocks and forwach loops</title>
+        <dc:creator><![CDATA[@mircearoata Mircearoata]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/mircearoata">@mircearoata</a> wrote:</p>
+          <blockquote>
+              <p>This way only counts the total amount of items. If you want to make it count per class, use what I said in the previous message, or a map where you increase the value by 1 of the entry with key that class</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162/36">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162/36</link>
+        <pubDate>Tue, 21 Jan 2020 17:27:16 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-162-36</guid>
+        <source url="https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162.rss">Binding Textblocks and forwach loops</source>
+      </item>
+      <item>
+        <title>Binding Textblocks and forwach loops</title>
+        <dc:creator><![CDATA[@iceman11a Iceman11a *]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/iceman11a">@iceman11a</a> wrote:</p>
+          <blockquote>
+              <p>Right, this is where I all of that at</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/8cc319f2ca4e8390abc8be471d0c801bb8bdbf88.png" data-download-href="https://forums.ficsit.app/uploads/default/8cc319f2ca4e8390abc8be471d0c801bb8bdbf88" title="image"><img src="https://forums.ficsit.app/uploads/default/original/1X/8cc319f2ca4e8390abc8be471d0c801bb8bdbf88.png" alt="image" data-base62-sha1="k5eQC1lujl9hdPC4yztGEUFrF0I" width="690" height="338" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/8cc319f2ca4e8390abc8be471d0c801bb8bdbf88_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">703×345 52.5 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162/35">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162/35</link>
+        <pubDate>Tue, 21 Jan 2020 17:24:51 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-162-35</guid>
+        <source url="https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162.rss">Binding Textblocks and forwach loops</source>
+      </item>
+      <item>
+        <title>Binding Textblocks and forwach loops</title>
+        <dc:creator><![CDATA[@mircearoata Mircearoata]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/mircearoata">@mircearoata</a> wrote:</p>
+          <blockquote>
+              <p>It says that you have a list of item classes. If the item you get is at position i in that list, then in another list you increase by 1 the element also on position i. This simulates a map (which is also available in blueprints, and as valid as this solution), where you keep track of the item count per class</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162/34">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162/34</link>
+        <pubDate>Tue, 21 Jan 2020 17:23:32 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-162-34</guid>
+        <source url="https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162.rss">Binding Textblocks and forwach loops</source>
+      </item>
+      <item>
+        <title>Binding Textblocks and forwach loops</title>
+        <dc:creator><![CDATA[@iceman11a Iceman11a *]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/iceman11a">@iceman11a</a> wrote:</p>
+          <blockquote>
+              <p>This is what I was told to do. at that time I didn’t know what he was talking about. I don’t under stand what he is saying…</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/acf796f734bab0c7712dbde6abf63bc6a98e53b3.png" data-download-href="https://forums.ficsit.app/uploads/default/acf796f734bab0c7712dbde6abf63bc6a98e53b3" title="image"><img src="https://forums.ficsit.app/uploads/default/original/1X/acf796f734bab0c7712dbde6abf63bc6a98e53b3.png" alt="image" data-base62-sha1="oG8AaGa62fTbT42LnTGd3tKQhPR" width="690" height="51" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/acf796f734bab0c7712dbde6abf63bc6a98e53b3_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">892×67 13.3 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162/33">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162/33</link>
+        <pubDate>Tue, 21 Jan 2020 17:15:58 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-162-33</guid>
+        <source url="https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162.rss">Binding Textblocks and forwach loops</source>
+      </item>
+      <item>
+        <title>Binding Textblocks and forwach loops</title>
+        <dc:creator><![CDATA[@mircearoata Mircearoata]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/mircearoata">@mircearoata</a> wrote:</p>
+          <blockquote>
+              <p>I guess you could make a string with commas instead of a list. But it will still not fix the blinking issue</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162/32">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162/32</link>
+        <pubDate>Tue, 21 Jan 2020 17:10:53 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-162-32</guid>
+        <source url="https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162.rss">Binding Textblocks and forwach loops</source>
+      </item>
+      <item>
+        <title>Binding Textblocks and forwach loops</title>
+        <dc:creator><![CDATA[@iceman11a Iceman11a *]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/iceman11a">@iceman11a</a> wrote:</p>
+          <blockquote>
+              <p>You should remember this one from earlier.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/1a80ec51b3fca901c0dbcb33613c8ca0f1c11a6e.png" data-download-href="https://forums.ficsit.app/uploads/default/1a80ec51b3fca901c0dbcb33613c8ca0f1c11a6e" title="image"><img src="https://forums.ficsit.app/uploads/default/original/1X/1a80ec51b3fca901c0dbcb33613c8ca0f1c11a6e.png" alt="image" data-base62-sha1="3MsD6AqOyVwVWdny5IMaK1uUvH8" width="690" height="399" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/1a80ec51b3fca901c0dbcb33613c8ca0f1c11a6e_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">721×417 72.1 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>I all ready get the items and the item count. I just need to display the results with out the foreachloop getting in the the way</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162/31">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162/31</link>
+        <pubDate>Tue, 21 Jan 2020 17:08:46 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-162-31</guid>
+        <source url="https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162.rss">Binding Textblocks and forwach loops</source>
+      </item>
+      <item>
+        <title>Binding Textblocks and forwach loops</title>
+        <dc:creator><![CDATA[@mircearoata Mircearoata]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/mircearoata">@mircearoata</a> wrote:</p>
+          <blockquote>
+              <p>If it wasn’t this advanced I would have remembered it without needing to look.</p>
+<p>If instead of this, you would have done the BP in the picture from earlier today, you wouldn’t need to do this</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162/30">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162/30</link>
+        <pubDate>Tue, 21 Jan 2020 17:04:58 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-162-30</guid>
+        <source url="https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162.rss">Binding Textblocks and forwach loops</source>
+      </item>
+      <item>
+        <title>Binding Textblocks and forwach loops</title>
+        <dc:creator><![CDATA[@iceman11a Iceman11a *]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/iceman11a">@iceman11a</a> wrote:</p>
+          <blockquote>
+              <p>Sorry I don’t under stand, I didn’t think it would be this advanced to make a viewlist</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162/29">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162/29</link>
+        <pubDate>Tue, 21 Jan 2020 16:50:00 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-162-29</guid>
+        <source url="https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162.rss">Binding Textblocks and forwach loops</source>
+      </item>
+      <item>
+        <title>Binding Textblocks and forwach loops</title>
+        <dc:creator><![CDATA[@mircearoata Mircearoata]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/mircearoata">@mircearoata</a> wrote:</p>
+          <blockquote>
+              <p>It doesn’t make it. Right click and type On List Item Object Set and add that node. It will make the event</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162/28">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162/28</link>
+        <pubDate>Tue, 21 Jan 2020 16:35:23 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-162-28</guid>
+        <source url="https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162.rss">Binding Textblocks and forwach loops</source>
+      </item>
+      <item>
+        <title>Binding Textblocks and forwach loops</title>
+        <dc:creator><![CDATA[@iceman11a Iceman11a *]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/iceman11a">@iceman11a</a> wrote:</p>
+          <blockquote>
+              <p>I did this <img src="https://forums.ficsit.app/uploads/default/original/1X/546ce18de3fcdc347de045b67e6f70b632be6a3e.png" alt="image" data-base62-sha1="c2RnOCE3Lug3TNzDyXs2V3L6z4q" width="470" height="281"><br>
+and it didn’t make this<br>
+<img src="https://forums.ficsit.app/uploads/default/original/1X/210aee20b249e618dd031d7a36b57d6ad680a74f.png" alt="image" data-base62-sha1="4IjaOao5R4QztAZIB4rkveABeFh" width="528" height="246"></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162/27">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162/27</link>
+        <pubDate>Tue, 21 Jan 2020 16:28:53 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-162-27</guid>
+        <source url="https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162.rss">Binding Textblocks and forwach loops</source>
+      </item>
+      <item>
+        <title>Binding Textblocks and forwach loops</title>
+        <dc:creator><![CDATA[@mircearoata Mircearoata]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/mircearoata">@mircearoata</a> wrote:</p>
+          <blockquote>
+              <p>Instead of actor, select object in the popup, it’s the same for all blueprint classes</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162/26">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162/26</link>
+        <pubDate>Tue, 21 Jan 2020 16:18:29 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-162-26</guid>
+        <source url="https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162.rss">Binding Textblocks and forwach loops</source>
+      </item>
+      <item>
+        <title>Binding Textblocks and forwach loops</title>
+        <dc:creator><![CDATA[@iceman11a Iceman11a *]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/iceman11a">@iceman11a</a> wrote:</p>
+          <blockquote>
+              <p>What you asking me to do is create a new bp object. Is that right, if so I never created one before unless your talking about the buildable actor. So far I not sure if I under stand</p>
+<aside class="quote no-group" data-post="24" data-topic="162">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.ficsit.app/letter_avatar_proxy/v4/letter/m/258eb7/40.png" class="avatar"> mircearoata:</div>
+<blockquote>
+<p>Create a simple object blueprint, and add (instead of recipe) a text variable</p>
+</blockquote>
+</aside>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162/25">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162/25</link>
+        <pubDate>Tue, 21 Jan 2020 16:17:36 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-162-25</guid>
+        <source url="https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162.rss">Binding Textblocks and forwach loops</source>
+      </item>
+      <item>
+        <title>Binding Textblocks and forwach loops</title>
+        <dc:creator><![CDATA[@mircearoata Mircearoata]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/mircearoata">@mircearoata</a> wrote:</p>
+          <blockquote>
+              <p>This is what I used to make a list of available recipes. So you should change some things for your use case. I’ll try to note where you should change what.</p>
+<p>Create a simple object blueprint, and add (instead of recipe) a text variable. And make sure to check Expose on Spawn<br>
+<img src="https://forums.ficsit.app/uploads/default/original/1X/24a8922f9097ed80030826f326bf510562972f89.png" alt="image" data-base62-sha1="5eilKaoUEb5xMSp2oMwdRenauAV" width="116" height="43"><br>
+<img src="https://forums.ficsit.app/uploads/default/original/1X/642be5c88be36cd1d1e83f447057145130b4390b.png" alt="image" data-base62-sha1="ei9Nqre3C2RXGmkhxXawAV5gT6b" width="285" height="60"></p>
+<p>Create a widget, and in its settings add interface <code>User Object List Entry</code><br>
+<img src="https://forums.ficsit.app/uploads/default/original/1X/9ba8abc5198aae35bfe3072aab24137d38bacb3c.png" alt="image" data-base62-sha1="md1nNoX4abvLtw5yYJtZ2zwL04s" width="448" height="79"></p>
+<p>Adding the interface creates a function <code>Get List Item Object</code>. Create a variable of type object and return it in this function<br>
+<img src="https://forums.ficsit.app/uploads/default/original/1X/66b35cfda7c75fee44783c181463a3e900a6f7b1.png" alt="image" data-base62-sha1="eEwZ83wGoX78zXS8QY6ybSEShj3" width="136" height="30"><br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/067905c0f63616f350caae2820a13f1cd217fafe.png" data-download-href="https://forums.ficsit.app/uploads/default/067905c0f63616f350caae2820a13f1cd217fafe" title="image"><img src="https://forums.ficsit.app/uploads/default/optimized/1X/067905c0f63616f350caae2820a13f1cd217fafe_2_517x141.png" alt="image" data-base62-sha1="Vg9z3rTtqVJpVMkHJ851gdMXx4" width="517" height="141" srcset="https://forums.ficsit.app/uploads/default/optimized/1X/067905c0f63616f350caae2820a13f1cd217fafe_2_517x141.png, https://forums.ficsit.app/uploads/default/optimized/1X/067905c0f63616f350caae2820a13f1cd217fafe_2_775x211.png 1.5x, https://forums.ficsit.app/uploads/default/original/1X/067905c0f63616f350caae2820a13f1cd217fafe.png 2x" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/067905c0f63616f350caae2820a13f1cd217fafe_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">821×226 20.2 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>In the event graph, in event <code>On List Item Object Set</code> (also made available by adding the interface) set the variable you set before to the event param<br>
+<img src="https://forums.ficsit.app/uploads/default/original/1X/7857a058f6fa30670fba9532d5fc360e8292202c.png" alt="image" data-base62-sha1="haB2aLxdTqrdinnAvFhx4kxLIRe" width="511" height="197"></p>
+<p>Create the textbox for the item’s text (here I also have the icon of the recipe, but you don’t have one)<br>
+<img src="https://forums.ficsit.app/uploads/default/original/1X/dc732e8487b57269199ed6a30f745e0aa2895daf.png" alt="image" data-base62-sha1="vsbOMU3u2hWQaHgayELDccAvMDR" width="389" height="128"></p>
+<p>In the function to get the text of the textbox you create, cast the item variable to the object type you created in the first step, then get the text variable of it, and return it.<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/d7803ccf1da0e079d71131e29658bd7036acd5a7.png" data-download-href="https://forums.ficsit.app/uploads/default/d7803ccf1da0e079d71131e29658bd7036acd5a7" title="image"><img src="https://forums.ficsit.app/uploads/default/optimized/1X/d7803ccf1da0e079d71131e29658bd7036acd5a7_2_690x217.png" alt="image" data-base62-sha1="uKpp2czVff57nBXzN0dn3xBRbIb" width="690" height="217" srcset="https://forums.ficsit.app/uploads/default/optimized/1X/d7803ccf1da0e079d71131e29658bd7036acd5a7_2_690x217.png, https://forums.ficsit.app/uploads/default/optimized/1X/d7803ccf1da0e079d71131e29658bd7036acd5a7_2_1035x325.png 1.5x, https://forums.ficsit.app/uploads/default/original/1X/d7803ccf1da0e079d71131e29658bd7036acd5a7.png 2x" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/d7803ccf1da0e079d71131e29658bd7036acd5a7_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1217×384 48.6 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>In the main widget, add a listview widget and set its Entry Widget Class to the widget you created at step 2<br>
+<img src="https://forums.ficsit.app/uploads/default/original/1X/ae458c4017ea9432bc0a6addee7a77d1d343de58.png" alt="image" data-base62-sha1="oRG5isa9kdDUM1HBS70GKGCf9RS" width="383" height="60"></p>
+<p>To add items to the list, in your main widget, in construct event, do this (instead of a recipe pin, yours will have a text pin)<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://forums.ficsit.app/uploads/default/original/1X/97f2b31f98bceec399c5160dcf3669ec6b8c32bf.png" data-download-href="https://forums.ficsit.app/uploads/default/97f2b31f98bceec399c5160dcf3669ec6b8c32bf" title="image"><img src="https://forums.ficsit.app/uploads/default/optimized/1X/97f2b31f98bceec399c5160dcf3669ec6b8c32bf_2_690x357.png" alt="image" data-base62-sha1="lGc4Wyn8gf4GaadHz1sV0x6ep0b" width="690" height="357" srcset="https://forums.ficsit.app/uploads/default/optimized/1X/97f2b31f98bceec399c5160dcf3669ec6b8c32bf_2_690x357.png, https://forums.ficsit.app/uploads/default/original/1X/97f2b31f98bceec399c5160dcf3669ec6b8c32bf.png 1.5x, https://forums.ficsit.app/uploads/default/original/1X/97f2b31f98bceec399c5160dcf3669ec6b8c32bf.png 2x" data-small-upload="https://forums.ficsit.app/uploads/default/optimized/1X/97f2b31f98bceec399c5160dcf3669ec6b8c32bf_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">786×407 48.6 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162/24">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162/24</link>
+        <pubDate>Tue, 21 Jan 2020 16:04:50 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-162-24</guid>
+        <source url="https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162.rss">Binding Textblocks and forwach loops</source>
+      </item>
+      <item>
+        <title>Binding Textblocks and forwach loops</title>
+        <dc:creator><![CDATA[@mircearoata Mircearoata]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/mircearoata">@mircearoata</a> wrote:</p>
+          <blockquote>
+              <p>If you don’t want to edit blueprints you could just as well sit in front of an empty blueprint.</p>
+<p>Your current blueprint is just a storage bin, with a small inventory. That’s what your widget will show. If that’s fine with you, then go on. I’ll tell you how the list is done in the next hour, just got home</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162/23">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162/23</link>
+        <pubDate>Tue, 21 Jan 2020 15:34:06 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-162-23</guid>
+        <source url="https://forums.ficsit.app/t/binding-textblocks-and-forwach-loops/162.rss">Binding Textblocks and forwach loops</source>
+      </item>
+  </channel>
+</rss>

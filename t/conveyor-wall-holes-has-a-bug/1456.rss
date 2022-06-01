@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Conveyor wall holes has a bug</title>
+    <link>https://forums.ficsit.app/t/conveyor-wall-holes-has-a-bug/1456</link>
+    <description>When i have this enabled the Ficsit foundations, walls &amp; roof in the customizer are missing. When I disable it they are back in the customizer.</description>
+    
+    <lastBuildDate>Wed, 24 Nov 2021 10:39:20 +0000</lastBuildDate>
+    <category>Bug Reports</category>
+    <atom:link href="https://forums.ficsit.app/t/conveyor-wall-holes-has-a-bug/1456.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Conveyor wall holes has a bug</title>
+        <dc:creator><![CDATA[@HEIDI_KOECHEL Heidi Koechel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.ficsit.app/u/heidi_koechel">@HEIDI_KOECHEL</a> wrote:</p>
+          <blockquote>
+              <p>When i have this enabled the Ficsit foundations, walls &amp; roof in the customizer are missing. When I disable it they are back in the customizer.</p>
+          </blockquote>
+          <p><a href="https://forums.ficsit.app/t/conveyor-wall-holes-has-a-bug/1456/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.ficsit.app/t/conveyor-wall-holes-has-a-bug/1456/1</link>
+        <pubDate>Wed, 24 Nov 2021 10:39:20 +0000</pubDate>
+        <guid isPermaLink="false">forums.ficsit.app-post-1456-1</guid>
+        <source url="https://forums.ficsit.app/t/conveyor-wall-holes-has-a-bug/1456.rss">Conveyor wall holes has a bug</source>
+      </item>
+  </channel>
+</rss>
